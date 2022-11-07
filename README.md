@@ -1,1 +1,5 @@
 # popolwuj-ajtz-ib-ab--k-iche-
+
+¡Bienvenidxs! Este es el repositorio para la versión codificada de la narrativa k'iche', <i>Popol Wuj</i>, nuevamente redactada por el equipo Ajtz'ib'ab. Tras un cuidadoso estudio del manuscrito del padre dominico Francisco de Ximénez (ca. 1666-1729), el equipo Ajtz'ib'ab', así formado por Ajpub' Pablo García Ixmatá, Aj Xol ch'ok Héctor Rolando, Beatriz Par, Saqijix López e Ixch'umiil García Méndez, actualizó la ortografía y el lenguaje k'iche' para una mayor comprensión del texto antiguo.
+
+Welcome! This is the repository for the encoded edition of the Maya K'iche' story <i>Popol Wuj</i>, newly edited by the Ajtz'ib'ab' research team in Antigua, Guatemala. After a careful study of the extant manuscript copied by Dominican friar Francisco de Ximénez (ca. 1666-1729), the Ajtz'ib'ab' team, formed by Ajpub' Pablo García Ixmatá, Aj Xol ch'ok Héctor Rolando, Beatriz Par, Saqijix López and Ixch'umiil García Méndez, updated the orthography and K'iche' language of the ancient story to make it accessible to readers today. 
