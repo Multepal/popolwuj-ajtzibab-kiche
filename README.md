@@ -1,4 +1,4 @@
-# popolwuj-ajtz-ib-ab--k-iche-
+# Ajtz'ib'ab (k'iche') edition of the _Popol Wuj_
 
 ¡Bienvenidxs! Este es el repositorio para la versión codificada de la narrativa k'iche', <i>Popol Wuj</i>, nuevamente redactada por el equipo Ajtz'ib'ab. Tras un cuidadoso estudio del manuscrito del padre dominico Francisco de Ximénez (ca. 1666-1729), el equipo Ajtz'ib'ab', así formado por Ajpub' Pablo García Ixmatá, Aj Xol ch'ok Héctor Rolando, Beatriz Par, Saqijix López e Ixch'umiil García Méndez, actualizó la ortografía y el lenguaje k'iche' para una mayor comprensión del texto antiguo.
 
