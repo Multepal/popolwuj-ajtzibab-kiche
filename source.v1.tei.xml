@@ -3,27 +3,35 @@
 <teiHeader>
   <fileDesc>
     <titleStmt>
-      <title></title>
+      <title><rs ana="POPOL_WUJ">POPOL WUJ</rs>: Versión crítica y actualizada del <rs ana="POPOL_WUJ">Popol Wuj</rs>s>r</title>
+      <author>Ajtz'ib'ab'</author>
+      <author>Ajpub' García</author>
+      <author>Aj Xol ch'ok, HR</author>
+      <author>Beatriz Par</author>
+      <author>Saqijix López</author>
     </titleStmt>
     <publicationStmt>
     </publicationStmt>
     <sourceDesc>
       <p>Produced by pandoc.</p>
       <p>https://alldocs.app/convert-word-docx-to-tei-simple</p>
+      <p>An encoded transciption of the <rs ana="POPOL_WUJ">Popol Wuj</rs>, edited by Ajtz'ib'ab' in Antigua, Guatemala, based on the transcription provided by online edition of the <rs ana="POPOL WUJ">Popol Wuj</rs> hosted by The Ohio State University Libraries at 
+        https://library.osu.edu/projects/popolwujs and contained in the PDF document available at
+        https://library.osu.edu/projects/popolwuj/pdfs/NotesOnTransPW_Jn_Jl_2007.</p>
     </sourceDesc>
   </fileDesc>
 </teiHeader>
 <text>
 <body>
-<p><hi rendition="simple:bold">POPOL WUJ</hi></p>
+<p><hi rendition="simple:bold"><rs ana="POPOL_WUJ">POPOL WUJ</rs></hi></p>
 <p><hi rendition="simple:bold">OJER TAQ TZIJ</hi></p>
-<p><hi rendition="simple:bold">XB’AN PA TINAMIT K’ICHE’,</hi></p>
-<p><hi rendition="simple:bold">RAMAQ’ K’ICHE’ WINAQ</hi></p>
+<p><hi rendition="simple:bold">XB’AN PA <rs ana="TINAMIT_K'ICHE'">TINAMIT K’ICHE’</rs>,</hi></p>
+<p><hi rendition="simple:bold">RAMAQ’ <rs ana="TINAMIT_K'ICHE'">K’ICHE’ WINAQ</rs></hi></p>
 <p><figure>
   <graphic url="media/image001.png" width="6.10903in" height="2.21528in" />
 </figure></p>
-<p><hi rendition="simple:bold">Versión crítica y actualizada del Popol
-Wuj</hi></p>
+<p><hi rendition="simple:bold">Versión crítica y actualizada del <rs ana="POPOL_WUJ">Popol
+Wuj</rs></hi></p>
 <p><hi rendition="simple:bold">Por Ajtz’ib’ab’</hi></p>
 <p><hi rendition="simple:bold">Revisores:</hi></p>
 <p>Ajpub’ García</p>
@@ -35,42 +43,42 @@ Wuj</hi></p>
 TZIJ</hi></p>
 <p><hi rendition="simple:bold">WARAL K’ICHE’ UB’I’</hi></p>
 <p>Waral xchiqatz'ib'aj wi xchiqatikib'a' wi ojer tzij</p>
-<p>utikarib'al uxe'nab'al puch ronojel xb'an pa tinamit K'iche' ramaq'
-K'iche' winaq.</p>
+<p>utikarib'al uxe'nab'al puch ronojel xb'an pa <rs ana="TINAMIT_K'ICHE'">tinamit K'iche'</rs> ramaq'
+  <rs ana="TINAMIT_K'ICHE'">K'iche' winaq</rs>.</p>
 <p><figure>
   <graphic url="media/image002.jpeg" width="3.61194in" height="1.47569in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 1185</hi></p>
 <p>Are k'ut xchiqak'am wi</p>
 <p>uk'utunisaxik uq'alajob'isaxik utzijoxik puch</p>
-<p>ewaxib'al saqirib'al rumal Tz’aqol b’itol</p>
-<p><hi rendition="simple:bold">Alom K’ajolom kib’i’.</hi></p>
-<p>Junajpu Wuch’ Junajpu Utiw Saqinim Aq Saqinim<note>
+<p>ewaxib'al saqirib'al rumal <rs ana="TZ'AQOL">Tz’aqol</rs> <rs ana="B'ITOL">b’itol</rs></p>
+<p><hi rendition="simple:bold"><rs ana="ALOM">Alom</rs> <rs ana="K'ALOLOM">K’ajolom</rs> kib’i’.</hi></p>
+<p><rs ana="JUNAJPU_WUCH'">Junajpu Wuch’</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs> <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq Saqinim</rs><note>
   <p>En el folio 1 recto. En la línea No. 13. Solo aparece una vez
-  zaquinimac tzÿz. Mientras que en la versión K’iche’ se agregó el
-  Saqinim.</p>
+    <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>. Mientras que en la versión K’iche’ se agregó el
+    <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs>.</p>
 </note> Sis <figure>
   <head>Un dibujo de una persona Descripción generada automáticamente
   con confianza media</head>
   <graphic url="media/image003.jpeg" width="3.13945in" height="1.07774in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 1001</hi></p>
-<p>Tepew Q’uq’kumatz</p>
-<p>Uk’u’x Ch’o Uk’u’x Palo</p>
-<p>Ajraxa Laq Ajraxa Tzel.</p>
-<p>Chucha’xik rachb’ixik rachtzijoxik ri Iyom Mamon</p>
-<p><hi rendition="simple:bold">Xpiyakok Xmukane ub’i’.</hi></p>
-<p>Matzanel Chuqunel.</p>
-<p>Kamul Iyom Kamul Mamom. Chucha’xik pa K’iche’ tzij.</p>
+<p><rs ana="TEPEW_Q'UKUMATZ">Tepew Q’uq’kumatz</rs></p>
+<p><rs ana="UK'U'X_CHO">Uk’u’x Ch’o</rs> <rs ana="UK'U'X_PALO">Uk’u’x Palo</rs></p>
+<p><rs ana="AJRAXA_LAQ">Ajraxa Laq</rs> <rs ana="AJRAXA_TZEL">Ajraxa Tzel</rs>.</p>
+<p>Chucha’xik rachb’ixik rachtzijoxik ri <rs ana="IXMUKANE">Iyom</rs> <rs ana="XPIYAKOK">Mamon</rs></p>
+<p><hi rendition="simple:bold"><rs ana="XPIYAKOK">Xpiyakok</rs> <rs ana="IXMUKANE">Xmukane</rs> ub’i’.</hi></p>
+<p><rs ana="IXMUKANE">Matzanel</rs> <rs ana="XPIYAKOK">Chuqunel</rs>.</p>
+<p><rs ana="IXMUKANE">Kamul Iyom</rs> <rs ana="XPIYAKOK">Kamul Mamom</rs>. Chucha’xik pa K’iche’ tzij.</p>
 <p>Ta xkitzijoj ronojel ruk’ xkib’an chik</p>
 <p>chi saqil k’olem saqil tzij.<note>
   <p>Se quitó el párrafo Wa’e xchiqatz’ibaj chi upam chik uch’ab’al
-  Dios, pa christinoil chik. Esto se quitó por la posible hibridez de
+  <rs ana="DIOS">Dios</rs>, pa christinoil chik. Esto se quitó por la posible hibridez de
   información, que dice que desde aquí escribiremos ya adentro de la
-  prédica de Dios en el cristianismo.</p>
+  prédica de <rs ana="DIOS">Dios</rs> en el cristianismo.</p>
 </note></p>
-<p>xchiqelesaj rumal maja b'i chik ilb'al re Popo Wuj.</p>
-<p>ilb'al saq petenaq ch'aqa palo</p>
+<p>xchiqelesaj rumal maja b'i chik ilb'al re <rs ana="POPOL_WUJ">Popo Wuj</rs>.</p>
+<p>ilb'al saq petenaq ch'aqa <rs ana="PALO">palo</rs></p>
 <p>utzijoxik qamujib'al,</p>
 <p>ilb'al saq k'aslem'; chucha'xik.</p>
 <p>K'o nab'e wujil ojer tzib’am puch</p>
@@ -103,7 +111,7 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
   <row>
     <cell><p><hi rendition="simple:bold">Elementos
     iconográficos: </hi>Inscripción - otro texto, escribas, artistas,
-    talladores, gemelos - Hunahpú &amp; Xbalanqué, tinta o contenedor de
+    talladores, <rs ana="KA'IB'_K'AJOLAB'">gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, tinta o contenedor de
     pintura, Sabak Kuch</p></cell>
   </row>
 </table>
@@ -118,8 +126,8 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
   cambió se dio por una letra <hi rendition="simple:bold">-q</hi> a
   <hi rendition="simple:bold">-k.</hi> Mientras que en el folio 1 recto
   en la línea No. 39 aparece tzuc.</p>
-</note> kaj xikut chucha’xik rumal tz’aqol b’itol</p>
-<p>uchuch uqajaw k’aslem winaqirem ab’anel k’u’xlanel</p>
+</note> kaj xikut chucha’xik rumal <rs ana="TZ'AQOL">tz’aqol</rs> <rs ana="B'ITOL">b’itol</rs></p>
+<p><rs ana="ALOM">uchuch</rs> <rs ana="K'AJOLOM">uqajaw</rs> k’aslem winaqirem ab’anel k’u’xlanel</p>
 <p>alay rech k’u’xla’ay<note>
   <p>En el texto versión poética K’iche’, aparece la palabra
   <hi rendition="simple:italic">k’u’xlay</hi>, sin embargo, revisando el
@@ -136,7 +144,7 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
   <hi rendition="simple:italic">ato qol</hi> , y se conserva la
   original. En el folio 1 verso. En la línea No. 1. Aparece ato qol
   vi.</p>
-</note> k’ol wi kaj ulew cho palo.</p>
+</note> k’ol wi kaj ulew cho <rs ana="PALO">palo</rs>.</p>
 <p><hi rendition="simple:bold">ARE UTZIJOXIK WA'E</hi></p>
 <p>k'a katz'ininoq k'a kachamamoq</p>
 <p>katz'inonik k’a kasilanik</p>
@@ -155,18 +163,18 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
   <graphic url="media/image006.jpeg" width="4.36364in" height="1.56724in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 1254:</hi> Hembra,
-Murciélagos, Pájaros, Ciervos, Dios3, Bebé Jaguar, Insecto, Inscripción
-- otro texto, Sombrero - sombrero de cazador, Sapo, Gemelos - Hunahpú
-&amp; Xbalanqué, Yugos, equipo de juego de pelota, Secuencia Estándar
-Primaria, Trono, Armadillo</p>
-<p>jun chikop tz'ikin</p>
-<p>kar tap</p>
+  <rs ana="SOTZ">Murciélagos</rs>, <rs ana="TZ'IKIN">Pájaros</rs>, <rs ana="KEJ">Ciervos</rs>, Dios[sic]3, Bebé Jaguar, Insecto, Inscripción
+- otro texto, Sombrero - sombrero de cazador, <rs ana="TAP">Sapo</rs>, <rs ana="KA'IB'_K'AJOLAB'">Gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs>
+&amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, <rs ana="B'ATE">Yugos</rs>, equipo de <rs ana="CHAAJ">juego de pelota</rs>, Secuencia Estándar
+Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
+<p>jun chikop <rs ana="TZ'IKIN">tz'ikin</rs></p>
+<p><rs ana="KAR">kar</rs> <rs ana="TAP">tap</rs></p>
 <p>che' ab'aj</p>
 <p>jul siwan</p>
 <p>k’im k'ichelaj</p>
 <p>xa utukel kaj k'olik.</p>
 <p>Mawi q'alaj uwach ulew</p>
-<p>xa utukel remanik palo upa kaj ronojel.</p>
+<p>xa utukel remanik <rs ana="PALO">palo</rs> upa kaj ronojel.</p>
 <p><figure>
   <graphic url="media/image007.jpeg" width="2.12635in" height="1.01739in" />
 </figure></p>
