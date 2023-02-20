@@ -53,11 +53,12 @@ TZIJ</hi></p>
 <p>uk'utunisaxik uq'alajob'isaxik utzijoxik puch</p>
 <p>ewaxib'al saqirib'al rumal <rs ana="TZ'AQOL">Tz’aqol</rs> <rs ana="B'ITOL">b’itol</rs></p>
 <p><hi rendition="simple:bold"><rs ana="ALOM">Alom</rs> <rs ana="K'ALOLOM">K’ajolom</rs> kib’i’.</hi></p>
-<p><rs ana="JUNAJPU_WUCH'">Junajpu Wuch’</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs> <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq Saqinim</rs><note>
-  <p>En el folio 1 recto. En la línea No. 13. Solo aparece una vez
-    <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>. Mientras que en la versión K’iche’ se agregó el
-    <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs>.</p>
-</note> Sis <figure>
+<p><rs ana="JUNAJPU_WUCH'">Junajpu Wuch’</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs> <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq Saqinim</rs><ref target="quc.n001"><hi rend="sup">1</hi></ref>
+  <note place="foot" xml:id="quc.n001"><seg type="note-symbol">1</seg>
+    En el folio 1 recto. En la línea No. 13. Solo aparece una vez <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>. Mientras que en la versión K’iche’ se agregó el
+    <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs>.
+  </note> Sis
+<figure>
   <head>Un dibujo de una persona Descripción generada automáticamente
   con confianza media</head>
   <graphic url="media/image003.jpeg" width="3.13945in" height="1.07774in" />
@@ -71,12 +72,13 @@ TZIJ</hi></p>
 <p><rs ana="IXMUKANE">Matzanel</rs> <rs ana="XPIYAKOK">Chuqunel</rs>.</p>
 <p><rs ana="IXMUKANE">Kamul Iyom</rs> <rs ana="XPIYAKOK">Kamul Mamom</rs>. Chucha’xik pa K’iche’ tzij.</p>
 <p>Ta xkitzijoj ronojel ruk’ xkib’an chik</p>
-<p>chi saqil k’olem saqil tzij.<note>
-  <p>Se quitó el párrafo Wa’e xchiqatz’ibaj chi upam chik uch’ab’al
+<p>chi saqil k’olem saqil tzij.<ref target="quc.n002"><hi rend="sup">2</hi></ref>
+  <note place="foot" xml:id="quc.n002"><seg type="note-symbol">2</seg>
+  Se quitó el párrafo Wa’e xchiqatz’ibaj chi upam chik uch’ab’al
   <rs ana="DIOS">Dios</rs>, pa christinoil chik. Esto se quitó por la posible hibridez de
   información, que dice que desde aquí escribiremos ya adentro de la
-  prédica de <rs ana="DIOS">Dios</rs> en el cristianismo.</p>
-</note></p>
+  prédica de <rs ana="DIOS">Dios</rs> en el cristianismo.
+  </note></p>
 <p>xchiqelesaj rumal maja b'i chik ilb'al re <rs ana="POPOL_WUJ">Popo Wuj</rs>.</p>
 <p>ilb'al saq petenaq ch'aqa <rs ana="PALO">palo</rs></p>
 <p>utzijoxik qamujib'al,</p>
@@ -84,13 +86,13 @@ TZIJ</hi></p>
 <p>K'o nab'e wujil ojer tzib’am puch</p>
 <p>xa ewal uwach ilol re b’isol re.</p>
 <p>nim upe’oxik utzijoxik puch</p>
-<p>ta chik'istz'uk<note>
-  <p>De acuerdo con el documento versión poética K’iche’, aparece
-  <hi rendition="simple:italic">chi k’is Tz’uq</hi>. Analizando la
-  estructura de la palabra, es un verbo compuesto, por lo que se deja el
-  verbo junto, y la corrección de la última letra -q a la -k, y es la
-  forma correcta la que aparece en el manuscrito original.</p>
-</note> ronojel kaj ulew</p>
+<p>ta chik'istz'uk<ref target="quc.n003"><hi rend="sup">3</hi></ref>
+  <note place="foot" xml:id="quc.n003"><seg type="note-symbol">3</seg>
+  De acuerdo con el documento versión poética K’iche’, aparece <hi rendition="simple:italic">chi k’is Tz’uq</hi>. Analizando la
+  estructura de la palabra, es un verbo compuesto, por lo que se deja el verbo junto, y la corrección de la última letra -q a la -k, y es la
+  forma correcta la que aparece en el manuscrito original.
+</note> 
+ronojel kaj ulew</p>
 <p><figure>
   <head>Un dibujo de una persona Descripción generada automáticamente
   con confianza media</head>
@@ -99,60 +101,52 @@ TZIJ</hi></p>
 <p><hi rendition="simple:bold">Número Kerr: 2095:</hi> Codex - libro,
 Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
 <p><figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
+  <head>Un dibujo de una persona. Descripción generada automáticamente
   con confianza media</head>
   <graphic url="media/image005.jpeg" width="2.67164in" height="0.87014in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 2994</hi></p>
 <table>
   <row role="label">
-    <cell><p>Escribas con sus contenedores de pintura.  </p></cell>
+    <cell><p>Escribas con sus contenedores de pintura.</p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos
-    iconográficos: </hi>Inscripción - otro texto, escribas, artistas,
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Inscripción - otro texto, escribas, artistas,
     talladores, <rs ana="KA'IB'_K'AJOLAB'">gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, tinta o contenedor de
     pintura, Sabak Kuch</p></cell>
   </row>
 </table>
 <p>ukaj tz'uquxik ukaj xukutajik retaxik ukaj che’xik</p>
 <p>umej k’a’maxik uyuq k’a’maxik upa kaj upa ulew.</p>
-<p>Kaj tz’uk<note>
-  <p>En la versión poética K’iche’, Sam. 1999. Aparece la palabra
-  <hi rendition="simple:italic">tz’uq</hi>, que de acuerdo con el
-  contexto del texto no tiene sentido, y de acuerdo a la discusión con
-  el equipo Ajtz’ib’ab’ debe ser
-  <hi rendition="simple:italic">tz’uk</hi>, que se refiere a esquina. El
-  cambió se dio por una letra <hi rendition="simple:bold">-q</hi> a
-  <hi rendition="simple:bold">-k.</hi> Mientras que en el folio 1 recto
-  en la línea No. 39 aparece tzuc.</p>
+<p>Kaj tz’uk<ref target="quc.n004"><hi rend="sup">4</hi></ref>
+  <note place="foot" xml:id="quc.n004"><seg type="note-symbol">4</seg>
+  En la versión poética K’iche’, Sam. 1999. Aparece la palabra <hi rendition="simple:italic">tz’uq</hi>, que de acuerdo con el
+  contexto del texto no tiene sentido, y de acuerdo a la discusión con el equipo Ajtz’ib’ab’ debe ser
+  <hi rendition="simple:italic">tz’uk</hi>, que se refiere a esquina. El cambió se dio por una letra <hi rendition="simple:bold">-q</hi> a
+  <hi rendition="simple:bold">-k.</hi> Mientras que en el folio 1 recto en la línea No. 39 aparece tzuc.
 </note> kaj xikut chucha’xik rumal <rs ana="TZ'AQOL">tz’aqol</rs> <rs ana="B'ITOL">b’itol</rs></p>
 <p><rs ana="ALOM">uchuch</rs> <rs ana="K'AJOLOM">uqajaw</rs> k’aslem winaqirem ab’anel k’u’xlanel</p>
-<p>alay rech k’u’xla’ay<note>
-  <p>En el texto versión poética K’iche’, aparece la palabra
-  <hi rendition="simple:italic">k’u’xlay</hi>, sin embargo, revisando el
-  texto desde el manuscrito, aparece
-  <hi rendition="simple:italic">kuxlaay</hi>, y está forma de escribir
-  de los manuscritos se refiere al uso de una glotal. Y ahora la forma
-  de escribir sería <hi rendition="simple:italic">k’u’xla’ay</hi>.</p>
+<p>alay rech k’u’xla’ay<ref target="quc.n005"><hi rend="sup">5</hi></ref>
+  <note place="foot" xml:id="quc.n005"><seg type="note-symbol">5</seg>
+  <p>En el texto versión poética K’iche’, aparece la palabra <hi rendition="simple:italic">k’u’xlay</hi>, sin embargo, revisando el
+  texto desde el manuscrito, aparece <hi rendition="simple:italic">kuxlaay</hi>, y está forma de escribir
+  de los manuscritos se refiere al uso de una glotal. Y ahora la forma de escribir sería <hi rendition="simple:italic">k’u’xla’ay</hi>.</p>
 </note> rech</p>
 <p>saqil amaq’il saqil al saqil k’ajol</p>
-<p>(Folio 1 verso Línea No.1) Ajb’is Ajna’oj chi rech ronojel a to<note>
-  <p>En la versión poética k’iche’, aparece
-  <hi rendition="simple:italic">a t<hi rendition="simple:bold">a</hi>
-  k’ol,</hi> revisando el texto desde el manuscrito, está
-  <hi rendition="simple:italic">ato qol</hi> , y se conserva la
-  original. En el folio 1 verso. En la línea No. 1. Aparece ato qol
-  vi.</p>
+<!-- editor's note: below is how Ajpub's team marked correspondence to Ximenez OM folio 1v -->
+<p>(Folio 1 verso Línea No.1) Ajb’is Ajna’oj chi rech ronojel a to<ref target="quc.n006"><hi rend="sup">6</hi></ref>
+  <note place="foot" xml:id="quc.n006"><seg type="note-symbol">6</seg>
+  En la versión poética k’iche’, aparece <hi rendition="simple:italic">a t<hi rendition="simple:bold">a</hi>
+  k’ol,</hi> revisando el texto desde el manuscrito, está <hi rendition="simple:italic">ato qol</hi> , y se conserva la
+  original. En el folio 1 verso. En la línea No. 1. Aparece ato qol vi.
 </note> k’ol wi kaj ulew cho <rs ana="PALO">palo</rs>.</p>
 <p><hi rendition="simple:bold">ARE UTZIJOXIK WA'E</hi></p>
 <p>k'a katz'ininoq k'a kachamamoq</p>
 <p>katz'inonik k’a kasilanik</p>
-<p>k'a kalolinik k’a<note>
-  <p>La sugerencia es que en el texto le hace falta la partícula
-  <hi rendition="simple:italic">k’a</hi>, y el equipo Ajtz’ib’ab’
-  sugiere que para su mejor comprensión del mensaje. En el folio 1
-  verso. En la línea No. 5. Solo parece catolona.</p>
+<p>k'a kalolinik k’a<ref target="quc.n007"><hi rend="sup">7</hi></ref>
+  <note place="foot" xml:id="quc.n007"><seg type="note-symbol">7</seg>La sugerencia es que en el texto le hace falta la partícula
+  <hi rendition="simple:italic">k’a</hi>, y el equipo Ajtz’ib’ab’ sugiere que para su mejor comprensión del mensaje. En el folio 1
+  verso. En la línea No. 5. Solo parece catolona.
 </note> katolon na puch upa kaj.</p>
 <p>Wa'e k'ute nab'e tzij nab'e uchan</p>
 <p>maja' b'i oq jun winaq</p>
@@ -163,7 +157,7 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
   <graphic url="media/image006.jpeg" width="4.36364in" height="1.56724in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 1254:</hi> Hembra,
-  <rs ana="SOTZ">Murciélagos</rs>, <rs ana="TZ'IKIN">Pájaros</rs>, <rs ana="KEJ">Ciervos</rs>, Dios[sic]3, Bebé Jaguar, Insecto, Inscripción
+  <rs ana="SOTZ">Murciélagos</rs>, <rs ana="TZ'IKIN">Pájaros</rs>, <rs ana="KEJ">Ciervos</rs>, Dios[sic]3, Bebé Jaguar, <rs ana="US">Insecto</rs>, Inscripción
 - otro texto, Sombrero - sombrero de cazador, <rs ana="TAP">Sapo</rs>, <rs ana="KA'IB'_K'AJOLAB'">Gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs>
 &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, <rs ana="B'ATE">Yugos</rs>, equipo de <rs ana="CHAAJ">juego de pelota</rs>, Secuencia Estándar
 Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
@@ -181,33 +175,27 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
 <p><hi rendition="simple:bold">Número Kerr: 2759</hi></p>
 <table>
   <row role="label">
-    <cell><p><hi rendition="simple:bold">Comentarios: </hi>Comparar con
-    K 8091 para jarrón del mismo pintor  </p></cell>
+    <cell><p><hi rendition="simple:bold">Comentarios: </hi>Comparar con K 8091 para jarrón del mismo pintor  </p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos
-    iconográficos: </hi>Armadillo, Ciervo, Insecto, Inscripción - otro
-    texto</p>
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Armadillo, <rs ana="KEJ">Ciervo</rs>, <rs ana="US">Insecto</rs>, Inscripción - otro texto</p>
     <p><figure>
       <graphic url="media/image008.jpeg" width="2.33333in" height="0.91736in" />
     </figure></p>
     <p><hi rendition="simple:bold">Número Kerr: 2768</hi></p>
-    <p><hi rendition="simple:bold">Elementos iconográficos: </hi>Aves,
-    Paquete, tributo, caché, Dios C, k'ul</p></cell>
+    <p><hi rendition="simple:bold">Elementos iconográficos: </hi><rs ana="TZ'IKIN">Aves</rs>, Paquete, tributo, caché, Dios C, k'ul</p></cell>
   </row>
 </table>
-<p>Maja' b'i naki la' kamolob'ik <note>
-  <p>De acuerdo con el texto del manuscrito esta con el sonido k, y
-  mantener el sonido de la grafía, la palabra debe ser,
-  <hi rendition="simple:italic">kakotzob’ik</hi> y no
-  <hi rendition="simple:italic">k’akotzob’ik.</hi> Igual con la palabra
-  <hi rendition="simple:italic">kakotz y no k’akotz</hi></p>
-</note>kakotzob'ik</p>
-<p>jun ta kasilob'ik kamal<note>
-  <p>En el texto de la versión poética aparece
-  <hi rendition="simple:italic">kumal</hi>, y en el texto del manuscrito
-  aparece <hi rendition="simple:italic">kamal</hi>, en consenso con el
-  equipo Ajtz’ib’ab’ se retomó la palabra original.</p>
+<p>Maja' b'i naki la' kamolob'ik<ref target="quc.n008"><hi rend="sup">8</hi></ref>
+  <note place="foot" xml:id="quc.n008"><seg type="note-symbol">8</seg>
+    De acuerdo con el texto del manuscrito esta con el sonido k, y mantener el sonido de la grafía, la palabra debe ser,
+  <hi rendition="simple:italic">kakotzob’ik</hi> y no <hi rendition="simple:italic">k’akotzob’ik.</hi> Igual con la palabra 
+  <hi rendition="simple:italic">kakotz y no k’akotz</hi>
+  </note>kakotzob'ik</p>
+<p>jun ta kasilob'ik kamal<ref target="quc.n009"><hi rend="sup">9</hi></ref>
+  <note place="foot" xml:id="quc.n009"><seg type="note-symbol">9</seg>
+  En el texto de la versión poética aparece <hi rendition="simple:italic">kumal</hi>, y en el texto del manuscrito
+  aparece <hi rendition="simple:italic">kamal</hi>, en consenso con el equipo Ajtz’ib’ab’ se retomó la palabra original.
 </note> kab’an taj kakotz kab'an taj pa kaj.</p>
 <p>FOTO. Lago en la noche</p>
 <p><figure>
@@ -223,44 +211,37 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
 <p><hi rendition="simple:bold">Número Kerr: 2284</hi></p>
 <table>
   <row role="label">
-    <cell><p>Mol Ko Chi (God Aprime) sostiene olla con abejas
-    emergiendo.</p></cell>
+    <cell><p>Mol Ko Chi (God Aprime) sostiene olla con <rs ana="SITA'L">abejas</rs> emergiendo.</p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos
-    iconográficos: </hi>Insecto, Inscripción - otro texto, Jaguar, Lirio
-    de agua Jaguar, Dios A', Dios Aprime, Ah Kan, Glifo de Venus, glifo
-    estrella T510, Serpiente</p></cell>
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi><rs ana="US">Insecto</rs>, Inscripción - otro texto, <rs ana="B'ALAM">Jaguar</rs>, Lirio
+    de agua <rs ana="B'ALAM">Jaguar</rs>, Dios A', Dios Aprime, Ah Kan, Glifo de <rs ana="IK'OQ'IJ">Venus</rs>, glifo estrella T510, <rs ana="KUMATZ">Serpiente</rs></p></cell>
   </row>
 </table>
 <p>xa ma k'o wi naki la' k'olik yakalik</p>
-<p>xa remanik ja' xa li'anik palo</p>
-<p>xa utukel remanik xa<note>
-  <p>En el folio 1 verso, en la línea No. 20. Aparece xma, mientras que
-  en la versión k’iche’, se agredo la vocal para xa.</p>
+<p>xa remanik ja' xa li'anik <rs ana="PALO">palo</rs></p>
+<p>xa utukel remanik xa<ref target="quc.n010"><hi rend="sup">10</hi></ref>
+  <note place="foot" xml:id="quc.n010"><seg type="note-symbol">10</seg>
+    En el folio 1 verso, en la línea No. 20. Aparece xma, mientras que en la versión k’iche’, se agredo la vocal para xa.
 </note> ma k'o wi naki la' lo k'olik</p>
 <p>xa kachamanik katz'ininik chi q'equ'm chi aq'ab'.</p>
 <p><figure>
-  <head>Un pájaro parado en un cuerpo de agua Descripción generada
+  <head>Un <rs ana="TZ'IKIN">pájaro</rs> parado en un cuerpo de <rs ana="PALO">agua</rs>. Descripción generada
   automáticamente con confianza media</head>
   <graphic url="media/image011.jpeg" width="2.32292in" height="2.50972in" />
 </figure></p>
 <p><figure>
-  <head>Un dibujo de una caja Descripción generada automáticamente con
+  <head>Un dibujo de una caja. Descripción generada automáticamente con
   confianza baja</head>
   <graphic url="media/image012.jpeg" width="2.93043in" height="1.23418in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 2773</hi></p>
 <table>
   <row role="label">
-    <cell><p><hi rendition="simple:bold">Comentarios: </hi>Una secuencia
-    estándar principal (PSS). Un monstruo de pájaro
-    abstracto.  </p></cell>
+    <cell><p><hi rendition="simple:bold">Comentarios: </hi>Una secuencia estándar principal (PSS). Un monstruo de <rs ana="TZ'IKIN">pájaro</rs> abstracto.</p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos
-    iconográficos: </hi>Banda sky con glifos estrella, secuencia
-    estándar primaria</p></cell>
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Banda sky con glifos estrella, secuencia estándar primaria</p></cell>
   </row>
 </table>
 <p>Xa utukel ri tz’aqol b’itol<note>
