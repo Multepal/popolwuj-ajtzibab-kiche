@@ -222,7 +222,7 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
 <p>xa remanik ja' xa li'anik <rs ana="PALO">palo</rs></p>
 <p>xa utukel remanik xa<ref target="quc.n010"><hi rend="sup">10</hi></ref>
   <note place="foot" xml:id="quc.n010"><seg type="note-symbol">10</seg>
-    En el folio 1 verso, en la línea No. 20. Aparece xma, mientras que en la versión k’iche’, se agredo la vocal para xa.
+    En el folio 1 verso, en la línea No. 20. Aparece <hi rendition="simple:italic">xma</hi>, mientras que en la versión k’iche’, se agredo la vocal para <hi rendition="simple:italic">xa</hi>.
 </note> ma k'o wi naki la' lo k'olik</p>
 <p>xa kachamanik katz'ininik chi q'equ'm chi aq'ab'.</p>
 <p><figure>
@@ -244,27 +244,28 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
     <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Banda sky con glifos estrella, secuencia estándar primaria</p></cell>
   </row>
 </table>
-<p>Xa utukel ri tz’aqol b’itol<note>
-  <p>De acuerdo con el análisis realizado que las palabras
-  <hi rendition="simple:italic">tz’aqol b’itol</hi>, son agentivos y no
-  son nombres propios y acompañan a los nombres de
-  <hi rendition="simple:italic">Tepew Q’ukumatz</hi> o a veces los
-  sustituye, por lo que se define que se debe de escribir con
-  minúsculas.</p>
-</note> Tepew Q'ukumatz</p>
-<p>e alom e k'ajolom<note>
-  <p>alom k’ajolom tienen la función de agentivo y se debe de escribir
-  con minúsculas.</p>
-</note> k'o pa ja' saqtetoj e k'o wi.</p>
-<p>E muqutal pa q'uq' pa raxon are ub'inam wi ri Q'ukumatz.</p>
+<p>Xa utukel ri <rs ana="TZ'AQOL">tz’aqol</rs> <rs ana="B'ITOL">b’itol</rs><ref target="quc.n011"><hi rend="sup">11</hi></ref>
+<note place="foot" xml:id="quc.n011"><seg type="note-symbol">11</seg>
+  De acuerdo con el análisis realizado que las palabras <hi rendition="simple:italic"><rs ana="TZ'AQOL">tz’aqol</rs> <rs ana="B'ITOL">b’itol</rs></hi>, son agentivos y no
+  son nombres propios y acompañan a los nombres de <rs ana="TEPEW_Q'UKUMATZ"><hi rendition="simple:italic">Tepew Q’ukumatz</hi></rs> o a veces los
+  sustituye, por lo que se define que se debe de escribir con minúsculas.
+</note>
+<rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs></p>
+<p>e <rs ana="ALOM">alom</rs> e <rs ana="K'AJOLOM">k'ajolom</rs><ref target="quc.n011"><hi rend="sup">12</hi></ref>
+<note place="foot" xml:id="quc.n012"><seg type="note-symbol">12</seg>
+  <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">k’ajolom</rs> tienen la función de agentivo y se debe de escribir
+  con minúsculas.
+</note>
+k'o pa ja' saqtetoj e k'o wi.</p>
+<p>E muqutal pa q'uq' pa raxon are ub'inam wi ri <rs ana="Q'UKUMATZ">Q'ukumatz</rs>.</p>
 <p>E nimaq etamanel e nimaq ajna'oj chi kik'oje'ik.</p>
-<p>Keje’ k'ut xax k'o wi ri kaj k'o wi nay puch uk'u’x<note>
-  <p>La palabra <hi rendition="simple:italic">K’u’x</hi> en gran parte
-  del texto del Popol Wuj, no lleva la glotal. Se sugiere escribir la
-  glotal como parte de la palabra
-  <hi rendition="simple:italic">k’u’x</hi>.</p>
-</note> kaj</p>
+<p>Keje’ k'ut xax k'o wi ri kaj k'o wi nay puch <rs ana="UK'U'X_KAJ">uk'u’x<ref target="quc.n013"><hi rend="sup">13</hi></ref>
+<note place="foot" xml:id="quc.n013"><seg type="note-symbol">13</seg>
+  La palabra <hi rendition="simple:italic">K’u’x</hi> en gran parte del texto del <rs ana="POPOL_WUJ">Popol Wuj</rs>, no lleva la glotal. Se sugiere escribir la
+  glotal como parte de la palabra <hi rendition="simple:italic">k’u’x</hi>.</note>
+kaj</rs></p>
 <p>are' ub'i' ri kab'awil. Chuchaxik.</p>
+<!-- editor's note: corresponds to paragraph 5, folio 1v -->
 <p><figure>
   <head>Un dibujo de una persona Descripción generada automáticamente
   con confianza media</head>
@@ -272,44 +273,41 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
 </figure></p>
 <table>
   <row role="label">
-    <cell><p><hi rendition="simple:bold">Kerr Number:  2797</hi></p>
+    <cell><p><hi rendition="simple:bold">Kerr Number: 2797</hi></p>
     <p><hi rendition="simple:bold">Comentario: </hi>Dios K haciendo
-    presentación a Itzamná  </p></cell>
+    presentación a Itzamná</p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos
-    iconográficos: </hi>Noh Kaan, Och Chan, God K, Kawil,
-    Trono</p></cell>
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Noh Kaan, Och Chan, God K, Kawil, Trono</p></cell>
   </row>
 </table>
-<p>Ta xpe k'ut utzij waral xul kuk' ri Tepew Q'ukumatz waral chi
-q'equmal chi aq'ab'al</p>
-<p>xch'aw ruk' ri Tepew Q'ukumatz.</p>
+<p>Ta xpe k'ut utzij waral xul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs> waral chi</p>
+<p>q'equmal chi aq'ab'al</p>
+<p>xch'aw ruk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs>.</p>
 <p>Xecha' k'ut, ta xena'ojinik ta xeb'isonik</p>
-<p>xkiriq<note>
-  <p>Se sugiere el uso de xkirik en vez de xeriqo. El cambio a
-  <hi rendition="simple:italic">xkirik</hi> se complemente como Pareto
-  con <hi rendition="simple:italic">xkikuch</hi>. Aunque en el folio 1.
-  En la línea No. 38, parece xérico, pero, como se mencionó es necesario
-  el pareto para su comprensión del texto.</p>
-</note> kib' xkikuch kitzij kina'oj.</p>
+<p>xkiriq<ref target="quc.n014"><hi rend="sup">14</hi></ref>
+<note place="foot" xml:id="quc.n014"><seg type="note-symbol">14</seg>
+  Se sugiere el uso de <hi rendition="simple:italic">xkirik</hi> en vez de <hi rendition="simple:italic">xeriqo</hi>. El cambio a
+  <hi rendition="simple:italic">xkirik</hi> se complemente como Pareto con <hi rendition="simple:italic">xkikuch</hi>. Aunque en el folio 1,
+  en la línea No. 38, parece <hi rendition="simple:italic">xérico</hi>, pero, como se mencionó es necesario el pareto para su comprensión del texto.
+</note> 
+kib' xkikuch kitzij kina'oj.</p>
 <p>ta xq'alaj ta xkik’u’xlaj kib’</p>
 <p>xe' wi saq ta xq'alaj puch winaq</p>
 <p>ta xkina'ojij utz'uqik uwinaqirik che' k'a'm</p>
 <p>utz'uquxik puch k'aslem winaqirem</p>
-<p>chi q'equmal chi aq'ab'al rumal ri uk'u’x kaj Jun Raqan ub'i’<note>
-  <p>En el folio 1. Verso. En la línea No. 46 aparece huracán vbi, e
-  igual manera aparece en la versión k’iche’. Por sugerencia del equipo
-  debe llevar glotal al final la palabra ub’i’. esto para que se
-  comprenda el texto, porque se refiere a nombre de Junraqan.</p>
+<p>chi q'equmal chi aq'ab'al rumal ri <rs ana="UK'U'X_KAJ">uk'u’x kaj</rs> <rs ana="JUN_RAQAN">Jun Raqan</rs> ub'i’<ref target="quc.n015"><hi rend="sup">15</hi></ref>
+<note place="foot" xml:id="quc.n015"><seg type="note-symbol">15</seg>
+ En el folio 1. Verso, en la línea No. 46 aparece <hi rendition="simple:italic">huracán vbi</hi>, e igual manera aparece en la versión k’iche’. Por sugerencia del equipo
+  debe llevar glotal al final la palabra <hi rendition="simple:italic">ub’i’</hi>. Esto para que se comprenda el texto, porque se refiere a nombre de <rs ana="JUN_RAQAN">Junraqan</rs>.
 </note></p>
-<p>(Folio 2 recto línea No. 1) Kaqulja Jun Raqan nab'e</p>
-<p>ukab' k'ut Ch'ipi Kaqulja</p>
-<p>rox chik Raxa Kaqulja</p>
-<p>chi e k'u oxib' ri' uk'u’x kaj.</p>
-<p>Ta xe'ul kuk' ri Tepew Q'ukumatz ta xna'ojixik saq k'aslem.</p>
+<p><!--editor's note: corresponds to Folio 2 recto línea No. 1 --> <rs ana="KAQUILJA_JUN_RAQAN">Kaqulja Jun Raqan</rs> nab'e</p>
+<p>ukab' k'ut <rs ana="CH'IPI_KAQULJA">Ch'ipi Kaqulja</rs></p>
+<p>rox chik <rs ana="RAXA_KAQULJA">Raxa Kaqulja</rs></p>
+<p>chi e k'u oxib' ri' <rs ana="UK'U'X_KAJ">uk'u’x kaj</rs>.</p>
+<p>Ta xe'ul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs> ta xna'ojixik saq k'aslem.</p>
 <p>Jupa cha ta chawaxoq ta saqiroq puch</p>
-<p>Apachinaq tzuqul k'ool</p>
+<p>Apachinaq tzuqul <rs ana="K'OOL">k'ool</rs></p>
 <p>Ta chuxoq kixno(’)jin <note>
   <p>Se sugiere agregar la glotal en la raíz de palabra no’j, como en
   kixnojin, y en las demás palabras que llevan otras marcas de tiempo,
