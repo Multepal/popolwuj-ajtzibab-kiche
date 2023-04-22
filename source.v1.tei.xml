@@ -39,9 +39,10 @@ Wuj</rs></hi></p>
 <p>Beatriz Par</p>
 <p>Saqijix López</p>
 <p>Nab’e</p>
-<p>Folio 1 Recto <hi rendition="simple:bold">ARE’ UXE’ OJER
+<p><!-- editor's note: corresponds to XOM 1r, paragraph 1--> <hi rendition="simple:bold">ARE’ UXE’ OJER
 TZIJ</hi></p>
 <p><hi rendition="simple:bold">WARAL K’ICHE’ UB’I’</hi></p>
+<!-- editor's note: corresponds to XOM 1r, paragraph 2 -->
 <p>Waral xchiqatz'ib'aj wi xchiqatikib'a' wi ojer tzij</p>
 <p>utikarib'al uxe'nab'al puch ronojel xb'an pa <rs ana="TINAMIT_K'ICHE'">tinamit K'iche'</rs> ramaq'
   <rs ana="TINAMIT_K'ICHE'">K'iche' winaq</rs>.</p>
@@ -59,8 +60,7 @@ TZIJ</hi></p>
     <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs>.
   </note> Sis
 <figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
-  con confianza media</head>
+  <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
   <graphic url="media/image003.jpeg" width="3.13945in" height="1.07774in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 1001</hi></p>
@@ -74,10 +74,8 @@ TZIJ</hi></p>
 <p>Ta xkitzijoj ronojel ruk’ xkib’an chik</p>
 <p>chi saqil k’olem saqil tzij.<ref target="quc.n002"><hi rend="sup">2</hi></ref>
   <note place="foot" xml:id="quc.n002"><seg type="note-symbol">2</seg>
-  Se quitó el párrafo Wa’e xchiqatz’ibaj chi upam chik uch’ab’al
-  <rs ana="DIOS">Dios</rs>, pa christinoil chik. Esto se quitó por la posible hibridez de
-  información, que dice que desde aquí escribiremos ya adentro de la
-  prédica de <rs ana="DIOS">Dios</rs> en el cristianismo.
+  Se quitó el párrafo Wa’e xchiqatz’ibaj chi upam chik uch’ab’al <rs ana="DIOS">Dios</rs>, pa christinoil chik. Esto se quitó por la posible hibridez de
+  información, que dice que desde aquí escribiremos ya adentro de la prédica de <rs ana="DIOS">Dios</rs> en el cristianismo.
   </note></p>
 <p>xchiqelesaj rumal maja b'i chik ilb'al re <rs ana="POPOL_WUJ">Popo Wuj</rs>.</p>
 <p>ilb'al saq petenaq ch'aqa <rs ana="PALO">palo</rs></p>
@@ -89,20 +87,17 @@ TZIJ</hi></p>
 <p>ta chik'istz'uk<ref target="quc.n003"><hi rend="sup">3</hi></ref>
   <note place="foot" xml:id="quc.n003"><seg type="note-symbol">3</seg>
   De acuerdo con el documento versión poética K’iche’, aparece <hi rendition="simple:italic">chi k’is Tz’uq</hi>. Analizando la
-  estructura de la palabra, es un verbo compuesto, por lo que se deja el verbo junto, y la corrección de la última letra -q a la -k, y es la
+  estructura de la palabra, es un verbo compuesto, por lo que se deja el verbo junto, y la corrección de la última letra <hi rendition="simple:italic">-q</hi> a la <hi rendition="simple:italic">-k</hi>, y es la
   forma correcta la que aparece en el manuscrito original.
 </note> 
 ronojel kaj ulew</p>
 <p><figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
-  con confianza media</head>
+  <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
   <graphic url="media/image004.jpeg" width="3.16883in" height="1.2596in" />
 </figure></p>
-<p><hi rendition="simple:bold">Número Kerr: 2095:</hi> Codex - libro,
-Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
+<p><hi rendition="simple:bold">Número Kerr: 2095:</hi> Codex - libro, Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
 <p><figure>
-  <head>Un dibujo de una persona. Descripción generada automáticamente
-  con confianza media</head>
+  <head>Un dibujo de una persona. Descripción generada automáticamente con confianza media</head>
   <graphic url="media/image005.jpeg" width="2.67164in" height="0.87014in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 2994</hi></p>
@@ -111,8 +106,7 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
     <cell><p>Escribas con sus contenedores de pintura.</p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Inscripción - otro texto, escribas, artistas,
-    talladores, <rs ana="KA'IB'_K'AJOLAB'">gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, tinta o contenedor de
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Inscripción - otro texto, escribas, artistas, talladores, <rs ana="KA'IB'_K'AJOLAB'">gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, tinta o contenedor de
     pintura, Sabak Kuch</p></cell>
   </row>
 </table>
@@ -133,31 +127,31 @@ Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
   de los manuscritos se refiere al uso de una glotal. Y ahora la forma de escribir sería <hi rendition="simple:italic">k’u’xla’ay</hi>.</p>
 </note> rech</p>
 <p>saqil amaq’il saqil al saqil k’ajol</p>
-<!-- editor's note: below is how Ajpub's team marked correspondence to Ximenez OM folio 1v -->
 <p>(Folio 1 verso Línea No.1) Ajb’is Ajna’oj chi rech ronojel a to<ref target="quc.n006"><hi rend="sup">6</hi></ref>
   <note place="foot" xml:id="quc.n006"><seg type="note-symbol">6</seg>
   En la versión poética k’iche’, aparece <hi rendition="simple:italic">a t<hi rendition="simple:bold">a</hi>
   k’ol,</hi> revisando el texto desde el manuscrito, está <hi rendition="simple:italic">ato qol</hi> , y se conserva la
   original. En el folio 1 verso. En la línea No. 1. Aparece ato qol vi.
-</note> k’ol wi kaj ulew cho <rs ana="PALO">palo</rs>.</p>
+</note> 
+k’ol wi kaj ulew cho <rs ana="PALO">palo</rs>.</p>
+<!-- editor's note: corresponds to XOM 1v, paragraph 3 -->
 <p><hi rendition="simple:bold">ARE UTZIJOXIK WA'E</hi></p>
 <p>k'a katz'ininoq k'a kachamamoq</p>
 <p>katz'inonik k’a kasilanik</p>
 <p>k'a kalolinik k’a<ref target="quc.n007"><hi rend="sup">7</hi></ref>
   <note place="foot" xml:id="quc.n007"><seg type="note-symbol">7</seg>La sugerencia es que en el texto le hace falta la partícula
   <hi rendition="simple:italic">k’a</hi>, y el equipo Ajtz’ib’ab’ sugiere que para su mejor comprensión del mensaje. En el folio 1
-  verso. En la línea No. 5. Solo parece catolona.
+  verso. En la línea No. 5. Solo parece <hi rendition="simple:italic">catolona</hi>.
 </note> katolon na puch upa kaj.</p>
+<!--editor's note: corresponds to XOM 1v, paragraph 4 --> 
 <p>Wa'e k'ute nab'e tzij nab'e uchan</p>
 <p>maja' b'i oq jun winaq</p>
-<p>Murales de san Bartolo (buscar foto)</p>
+<!-- editor's note: From Ajtz'ib'ab': Murales de san Bartolo (buscar foto) -->
 <p><figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
-  con confianza baja</head>
+  <head>Un dibujo de una persona Descripción generada automáticamente con confianza baja</head>
   <graphic url="media/image006.jpeg" width="4.36364in" height="1.56724in" />
 </figure></p>
-<p><hi rendition="simple:bold">Número Kerr: 1254:</hi> Hembra,
-  <rs ana="SOTZ">Murciélagos</rs>, <rs ana="TZ'IKIN">Pájaros</rs>, <rs ana="KEJ">Ciervos</rs>, Dios[sic]3, Bebé Jaguar, <rs ana="US">Insecto</rs>, Inscripción
+<p><hi rendition="simple:bold">Número Kerr: 1254:</hi> Hembra, <rs ana="SOTZ">Murciélagos</rs>, <rs ana="TZ'IKIN">Pájaros</rs>, <rs ana="KEJ">Ciervos</rs>, Dios[sic]3, Bebé Jaguar, <rs ana="US">Insecto</rs>, Inscripción
 - otro texto, Sombrero - sombrero de cazador, <rs ana="TAP">Sapo</rs>, <rs ana="KA'IB'_K'AJOLAB'">Gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs>
 &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, <rs ana="B'ATE">Yugos</rs>, equipo de <rs ana="CHAAJ">juego de pelota</rs>, Secuencia Estándar
 Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
@@ -199,13 +193,11 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
 </note> kab’an taj kakotz kab'an taj pa kaj.</p>
 <p>FOTO. Lago en la noche</p>
 <p><figure>
-  <head>Imagen en blanco y negro de un lago Descripción generada
-  automáticamente</head>
+  <head>Imagen en blanco y negro de un lago Descripción generada automáticamente</head>
   <graphic url="media/image009.jpeg" width="2.625in" height="1.96268in" />
 </figure></p>
 <p><figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
-  con confianza media</head>
+  <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
   <graphic url="media/image010.jpeg" width="2.76522in" height="1.55619in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 2284</hi></p>
@@ -226,13 +218,11 @@ Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
 </note> ma k'o wi naki la' lo k'olik</p>
 <p>xa kachamanik katz'ininik chi q'equ'm chi aq'ab'.</p>
 <p><figure>
-  <head>Un <rs ana="TZ'IKIN">pájaro</rs> parado en un cuerpo de <rs ana="PALO">agua</rs>. Descripción generada
-  automáticamente con confianza media</head>
+  <head>Un <rs ana="TZ'IKIN">pájaro</rs> parado en un cuerpo de <rs ana="PALO">agua</rs>. Descripción generada automáticamente con confianza media</head>
   <graphic url="media/image011.jpeg" width="2.32292in" height="2.50972in" />
 </figure></p>
 <p><figure>
-  <head>Un dibujo de una caja. Descripción generada automáticamente con
-  confianza baja</head>
+  <head>Un dibujo de una caja. Descripción generada automáticamente con confianza baja</head>
   <graphic url="media/image012.jpeg" width="2.93043in" height="1.23418in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 2773</hi></p>
@@ -265,17 +255,15 @@ k'o pa ja' saqtetoj e k'o wi.</p>
   glotal como parte de la palabra <hi rendition="simple:italic">k’u’x</hi>.</note>
 kaj</rs></p>
 <p>are' ub'i' ri kab'awil. Chuchaxik.</p>
-<!-- editor's note: corresponds to paragraph 5, folio 1v -->
+<!-- editor's note: corresponds to XOM 1v, paragraph 5 -->
 <p><figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
-  con confianza media</head>
+  <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
   <graphic url="media/image013.jpeg" width="2.57391in" height="1.00767in" />
 </figure></p>
 <table>
   <row role="label">
     <cell><p><hi rendition="simple:bold">Kerr Number: 2797</hi></p>
-    <p><hi rendition="simple:bold">Comentario: </hi>Dios K haciendo
-    presentación a Itzamná</p></cell>
+    <p><hi rendition="simple:bold">Comentario: </hi>Dios K haciendo presentación a Itzamná</p></cell>
   </row>
   <row>
     <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Noh Kaan, Och Chan, God K, Kawil, Trono</p></cell>
@@ -301,28 +289,28 @@ kib' xkikuch kitzij kina'oj.</p>
  En el folio 1. Verso, en la línea No. 46 aparece <hi rendition="simple:italic">huracán vbi</hi>, e igual manera aparece en la versión k’iche’. Por sugerencia del equipo
   debe llevar glotal al final la palabra <hi rendition="simple:italic">ub’i’</hi>. Esto para que se comprenda el texto, porque se refiere a nombre de <rs ana="JUN_RAQAN">Junraqan</rs>.
 </note></p>
-<p><!--editor's note: corresponds to Folio 2 recto línea No. 1 --> <rs ana="KAQUILJA_JUN_RAQAN">Kaqulja Jun Raqan</rs> nab'e</p>
+<p><rs ana="KAQUILJA_JUN_RAQAN">Kaqulja Jun Raqan</rs> nab'e</p>
 <p>ukab' k'ut <rs ana="CH'IPI_KAQULJA">Ch'ipi Kaqulja</rs></p>
 <p>rox chik <rs ana="RAXA_KAQULJA">Raxa Kaqulja</rs></p>
 <p>chi e k'u oxib' ri' <rs ana="UK'U'X_KAJ">uk'u’x kaj</rs>.</p>
 <p>Ta xe'ul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs> ta xna'ojixik saq k'aslem.</p>
 <p>Jupa cha ta chawaxoq ta saqiroq puch</p>
 <p>Apachinaq tzuqul <rs ana="K'OOL">k'ool</rs></p>
-<p>Ta chuxoq kixno(’)jin <note>
-  <p>Se sugiere agregar la glotal en la raíz de palabra no’j, como en
-  kixnojin, y en las demás palabras que llevan otras marcas de tiempo,
-  ya que en la mayoría del texto del Popol Wuj no se utiliza, por lo que
-  debe de escribirse kixno’jin.</p>
+<p>Ta chuxoq kixno(’)jin<ref target="quc.n016"><hi rend="sup">16</hi></ref>
+<note place="foot" xml:id="quc.n016"><seg type="note-symbol">16</seg>
+  Se sugiere agregar la glotal en la raíz de palabra <hi rendition="simple:italic">no’j</hi>, como en <hi rendition="simple:italic">kixnojin</hi>, y en las demás palabras que llevan otras marcas de tiempo,
+  ya que en la mayoría del texto del <hi rendition="simple:italic"><rs ana="POPOL_WUJ">Popol Wuj</rs></hi> no se utiliza, por lo que debe de escribirse <hi rendition="simple:italic">kixno’jin</hi>.
 </note>taj</p>
-<p>Are ri ja' chel taj chijama'<note>
-  <p>Se junto la palabra chi jama’, esto para dar el sentido y la
-  estructura gramatical de la palabra.</p>
+<p>Are ri ja' chel taj chijama'<ref target="quc.n017"><hi rend="sup">17</hi></ref>
+<note place="foot" xml:id="quc.n017"><seg type="note-symbol">17</seg>
+  Se junto la palabra <hi rendition="simple:italic">chi jama’</hi>, esto para dar el sentido y la estructura gramatical de la palabra.
 </note> taj</p>
-<p>Chiwinaqir wa ulew ulaqel<note>
-  <p>En los manuscritos de Jimenez y Baseta, la palabra ulaqel, dice
-  juntar…. No. Pginas.</p>
-</note> ta k'u rib' ch’a ta k’ut<note>
-  <p>Se cambia la palabra ch’ata a ch’a ta k’ut.</p>
+<p>Chiwinaqir wa ulew ulaqel<ref target="quc.n018"><hi rend="sup">18</hi></ref>
+<note place="foot" xml:id="quc.n018"><seg type="note-symbol">18</seg>
+  En los manuscritos de Jiménez y Baseta, la palabra <hi rendition="simple:italic">ulaqel</hi>, dice <hi rendition="simple:italic">juntar</hi>. <!-- editor's note: faltan páginas para la referencia -->
+</note> ta k'u rib' ch’a ta k’ut<ref target="quc.n019"><hi rend="sup">19</hi></ref>
+<note place="foot" xml:id="quc.n019"><seg type="note-symbol">19</seg>
+  Se cambia la palabra <hi rendition="simple:italic">ch’ata</hi> a <hi rendition="simple:italic">ch’a ta k’ut</hi>.
 </note> .</p>
 <p>Ta chawaxoq ta saqiroq kaj ulew</p>
 <p>Mata k'ut uq'ijilab'al uq'ala'ib'al ri qatz'aq ri qab'it.</p>
@@ -330,56 +318,53 @@ kib' xkikuch kitzij kina'oj.</p>
 <p><hi rendition="simple:bold">TA XWINAQIR K'U RI ULEW KUMAL</hi></p>
 <p>Xa kitzij xk'oje wi uwinaqirik</p>
 <p>Chiwinaqir ulew, ulew xecha’.</p>
-<p>Lib'ajchi'<note>
-  <p>Se propone escribir junto la palabra lib’aj chi’, a lib’achi’. Es
-  un adverbio de tiempo que indica temprano.</p>
+<p>Lib'ajchi'<ref target="quc.n020"><hi rend="sup">20</hi></ref>
+<note place="foot" xml:id="quc.n020"><seg type="note-symbol">20</seg>
+  Se propone escribir junto la palabra <hi rendition="simple:italic">lib’aj chi’</hi>, a <hi rendition="simple:italic">lib’achi’</hi>. Es un adverbio de tiempo que indica temprano.
 </note> xwinaqirik</p>
-<p>keje’<note>
-  <p>La palabra k’eje’ se ha utilizado en todo el texto del Popol Wuj,
-  por lo que debe escribirse en todo el texto Keje’.</p>
-</note> ri xa ta sutz' xa mayul uwinaqirik chik upupuje’ik (chik)<note>
-  <p>Según Baseta, dice Pupuje’ik se dice de las nieblas, cuando se
-  levanta en algún monte. Y se sugiere que la palabra chi k’u pupuje’ik
-  se cambia de acuerdo con la gramática del idioma a chik upupuje'ik y
-  el agregado (chik) para que sea complemento del texto, y sea un
-  Pareto.</p>
+<p>keje’<ref target="quc.n021"><hi rend="sup">21</hi></ref>
+<note place="foot" xml:id="quc.n021"><seg type="note-symbol">21</seg>
+  La palabra <hi rendition="simple:italic">k’eje’</hi> se ha utilizado en todo el texto del <hi rendition="simple:italic"><rs ana="POPOL_WUJ">Popol Wuj</rs></hi>, por lo que debe escribirse en todo el texto <hi rendition="simple:italic">keje’</hi>.
+</note> ri xa ta sutz' xa mayul uwinaqirik chik upupuje’ik (chik)<ref target="quc.n022"><hi rend="sup">22</hi></ref>
+<note place="foot" xml:id="quc.n022"><seg type="note-symbol">22</seg>
+  Según Baseta, dice <hi rendition="simple:italic">Pupuje’ik</hi> se dice <hi rendition="simple:italic">de las nieblas</hi>, cuando se levanta en algún monte. Y se sugiere que la palabra <hi rendition="simple:italic">chi k’u pupuje’ik</hi>
+  se cambia de acuerdo con la gramática del idioma a <hi rendition="simple:italic">chik upupuje'ik</hi> y el agregado <hi rendition="simple:italic">(chik)</hi> para que sea complemento del texto, y sea un Pareto.
 </note>.</p>
 <p>Ta xtape pa ja' ri juyub' jusuk' nima'q juyub' xuxik</p>
 <p>Xa kinawal xa kipus xb'anataj wi una'ojixik juyub' taq'aj</p>
 <p>jusuk' rach winaqirik uq'isisil upachajil uwach</p>
-<p>Keje’ k'ut xkikot wi ri Q'ukumatz</p>
-<p>Utz mixatulik at uk’u’x kaj at Junraqan at puch Ch'ipi Kaqulja Raxa
-Kaqulja</p>
-<p>Xchutzinik qatz’aq<note>
-  <p>Se sugiere corregir la palabra qatzak a qatz’aq, para tener el
-  sentido y el mensaje completo del texto.</p>
+<p>Keje’ k'ut xkikot wi ri <rs ana="Q'UKUMATZ">Q'ukumatz</rs></p>
+<p>Utz mixatulik at <rs ana="UK'U'X_KAJ">uk’u’x kaj</rs> at <rs ana="JUN_RAQAN">Junraqan</rs> at puch <rs ana="CH'IPI_KAQULJA">Ch'ipi Kaqulja Raxa Kaqulja</rs></p>
+<p>Xchutzinik qatz’aq<ref target="quc.n023"><hi rend="sup">23</hi></ref>
+<note place="foot" xml:id="quc.n023"><seg type="note-symbol">23</seg>
+  Se sugiere corregir la palabra <hi rendition="simple:italic">qatzak</hi> a <hi rendition="simple:italic">qatz’aq</hi>, para tener el sentido y el mensaje completo del texto. <!--editor's note: ask Ajpub' to explain why here --> 
 </note> qab'it. Xecha' k'ut.</p>
 <p>Nab'e k'ut xwinaqir ulew juyub' taq'aj</p>
 <p>xch'ob'och'ox ub'e ja'</p>
 <p>xb'inije'ik k'ole je raqan- xo'l taq juyub'</p>
-<p>xa ch'ob'ol chik xek'oje wi ja’<note>
-  <p>Se sugiere cambiar la ja a ja’, para que dé el sentido de la
-  palabra agua.</p>
+<p>xa ch'ob'ol chik xek'oje wi ja’<ref target="quc.n024"><hi rend="sup">24</hi></ref>
+<note place="foot" xml:id="quc.n024"><seg type="note-symbol">24</seg>
+  Se sugiere cambiar la <hi rendition="simple:italic">ja</hi> a <hi rendition="simple:italic">ja’</hi>, para que dé el sentido de la palabra <hi rendition="simple:italic">agua</hi>.
 </note> ta xk'utunije'ik nima'q juyub'.</p>
-<p>Keje’ k'ut uwinaqirik ulew ri’<note>
-  <p>Se sugiere que el demostrativo ri se escriba con glotal ri’, en
-  todo e</p>
+<p>Keje’ k'ut uwinaqirik ulew ri’<ref target="quc.n025"><hi rend="sup">25</hi></ref>
+<note place="foot" xml:id="quc.n025"><seg type="note-symbol">25</seg>
+  Se sugiere que el demostrativo <hi rendition="simple:italic">ri</hi> se escriba con glotal <hi rendition="simple:italic">ri’</hi>, en todo el texto. <!--editor's note: draft ends with "en todo el e" ... so I filled in with my guess. Confirm with Ajpub'. --> 
 </note></p>
-<p>ta xwinaqirik kumal ri Uk’u’x Kaj Uk’u’x Ulew ke'ucha'xik</p>
-<p>(<note>
-  <p>El artículo ri’ se sugiere que se escriba sin glotal ri, porque no
-  es un artículo demostrativo.</p>
+<p>ta xwinaqirik kumal ri <rs ana="UK'U'X_KAJ">Uk’u’x Kaj</rs> <rs ana="UK'U'X_ULEW">Uk’u’x Ulew</rs> ke'ucha'xik</p>
+<p>(<ref target="quc.n026"><hi rend="sup">26</hi></ref>
+<note place="foot" xml:id="quc.n026"><seg type="note-symbol">26</seg>
+  El artículo <hi rendition="simple:italic">ri’</hi> se sugiere que se escriba sin glotal <hi rendition="simple:italic">ri</hi>, porque no es un artículo demostrativo.
 </note>Ri) k'ut e nab'e xkino’jij</p>
-<p>xk'olo wi ri kaj xk'olo nay puch ulew chi upam<note>
-  <p>En el folio 2 recto, línea No. 45 aparece chupan, mientras que en
-  Sam, parece chi upam.</p>
+<p>xk'olo wi ri kaj xk'olo nay puch ulew chi upam<ref target="quc.n027"><hi rend="sup">27</hi></ref>
+<note place="foot" xml:id="quc.n027"><seg type="note-symbol">27</seg>
+  En el folio 2 recto, línea No. 45 aparece <hi rendition="simple:italic">chupan</hi>, mientras que en Sam Colop (1999: 26), parece <hi rendition="simple:italic">chi upam</hi>.
 </note> ja'</p>
-<p>Keje’ k'ut una’oiixik<note>
-  <p>En el folio 2 recto, línea No. 46, aparece vnaohixik, mientras que
-  Sam, no’jixik. Ajtz’ib’ab’, retoma lo que está en el manuscrito.</p>
+<p>Keje’ k'ut una’oiixik<ref target="quc.n028"><hi rend="sup">28</hi></ref>
+<note place="foot" xml:id="quc.n028"><seg type="note-symbol">28</seg>
+  En el folio 2 recto, línea No. 46, aparece <hi rendition="simple:italic">vnaohixik</hi>, mientras que Sam Colop (1999: 26), <hi rendition="simple:italic">no’jixik</hi>. Ajtz’ib’ab’, retoma lo que está en el manuscrito.
 </note> (ri’)</p>
-<p>(Folio 2 verso No. 1)ta xkino'jij ta xkib'isoj rutzinik ub'anatajik
-kumal.</p>
+<p>ta xkino'jij ta xkib'isoj rutzinik ub'anatajik kumal.</p>
+<!--editor's note: corresponds to XOM 2v, paragraph 6 --> 
 <p>Ta xkino’jij chik uchikopil juyub'</p>
 <p>chajal re k’ichelaj<note>
   <p>Se corrige la palabra ki’chelaj a k’iche’laj.</p>
