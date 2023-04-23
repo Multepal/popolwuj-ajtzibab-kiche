@@ -366,70 +366,68 @@ kib' xkikuch kitzij kina'oj.</p>
 <p>ta xkino'jij ta xkib'isoj rutzinik ub'anatajik kumal.</p>
 <!--editor's note: corresponds to XOM 2v, paragraph 6 --> 
 <p>Ta xkino’jij chik uchikopil juyub'</p>
-<p>chajal re k’ichelaj<note>
-  <p>Se corrige la palabra ki’chelaj a k’iche’laj.</p>
+<p>chajal re k’ichelaj<ref target="quc.n029"><hi rend="sup">29</hi></ref>
+<note place="foot" xml:id="quc.n029"><seg type="note-symbol">29</seg>
+  Se corrige la palabra <hi rendition="simple:italic">ki’chelaj</hi> a <hi rendition="simple:italic">k’iche’laj</hi>.
 </note> ronojel uwinaqil juyub'</p>
-<p>ri kyej tz'ikin, koj b'alam, kumatz sochoj, k’anti’<note>
-  <p>Se sugiere que kanti, se escriba k’anti’, y esta también Q’anti’ en
-  otras variantes del idioma k’iche’, por variación fonológica.</p>
+<p>ri <rs ana="KEJ">kyej</rs> <rs ana="TZ'IKIN">tz'ikin</rs>, <rs ana="KOJ">koj</rs> <rs ana="B'ALAM">b'alam</rs>, <!-- editor's note: ask Ajpub' if these are 1 ANA tag or 2 --> <rs ana="KUMATZ">kumatz</rs> <rs ana="SOCHOJ">sochoj</rs>, <rs ana="K'ANTI'">k’anti’</rs><ref target="quc.n030"><hi rend="sup">30</hi></ref>
+<note place="foot" xml:id="quc.n030"><seg type="note-symbol">30</seg>
+  Se sugiere que <hi rendition="simple:italic"><rs ana="K'ANTI'">kanti</rs></hi>, se escriba <hi rendition="simple:italic"><rs ana="K'ANTI'">k’anti’</rs></hi>, y esta también <hi rendition="simple:italic"><rs ana="K'ANTI'">Q’anti’</rs></hi> en otras variantes del idioma k’iche’, por variación fonológica.
 </note> chajal k'a'm.</p>
-<p>Kacha' ri Alom K'ajolom.</p>
+<p>Kacha' ri <rs ana="ALOM">Alom</rs> <rs ana="K'AJOLOM">K'ajolom</rs>.</p>
 <p><figure>
-  <head>Un dibujo de una persona Descripción generada automáticamente
-  con confianza baja</head>
+  <head>Un dibujo de una persona Descripción generada automáticamente con confianza baja</head>
   <graphic url="media/image014.jpeg" width="3.70435in" height="1.8624in" />
 </figure></p>
 <p><hi rendition="simple:bold">Número Kerr: 2785</hi></p>
 <table>
   <row role="label">
-    <cell><p><hi rendition="simple:bold">Comentarios: </hi>Los Gemelos
-    Héroe levantan los cuernos de un ciervo sacrificial.  </p></cell>
+    <cell><p><hi rendition="simple:bold">Comentarios: </hi><rs ana="KA'IB'_K'AJOLAB'">Los Gemelos Héroes</rs> levantan los cuernos de un <rs ana="KEJ">ciervo</rs> sacrificial.</p></cell>
   </row>
   <row>
-    <cell><p><hi rendition="simple:bold">Elementos
-    iconográficos: </hi>Atl-atl, Pájaros, Sangre, Concha, Ciervos, Dios
-    C, k'ul, Sacrificio, Árbol, Gemelos - Hunahpú &amp; Xbalanqué, Chak,
-    Chac, Dios de la Lluvia, Serpiente</p></cell>
+    <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Atl-atl, <rs ana="TZ'IKIN">Pájaros</rs>, Sangre, Concha, <rs ana="KEJ">Ciervos</rs>, Dios C, k'ul, Sacrificio, Árbol, <rs ana="KA'IB'_K'AJOLAB'">Gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, Chak,
+    Chac, Dios de la Lluvia, <rs ana="KUMATZ"><rs ana="SAQIKAS"><rs ana="SOCHOJ">Serpiente</rs></rs></rs></p></cell><!-- editor's note: I added all 3 tags for culebra/serpiente porque no sabemos cuál debe ser -->
   </row>
 </table>
-<p>Xa pa chilolinik<note>
-  <p>Se sugiere escribir chi lolilinik junto chilolinik, porque es un
-  verbo.</p>
+<p>Xa pa chilolinik<ref target="quc.n031"><hi rend="sup">31</hi></ref>
+<note place="foot" xml:id="quc.n031"><seg type="note-symbol">31</seg>
+  Se sugiere escribir <hi rendition="simple:italic">chi lolilinik</hi> junto <hi rendition="simple:italic">chilolinik</hi>, porque es un verbo.
 </note> ma xa on chitz'ininik uxe' che' k'a'm</p>
-<p>K'ate utz chik'oje’<note>
-  <p>Se sugiere que la palabra chi k’oje se escriba junto chik’oje’.</p>
+<p>K'ate utz chik'oje’<ref target="quc.n032"><hi rend="sup">32</hi></ref>
+<note place="foot" xml:id="quc.n032"><seg type="note-symbol">32</seg>
+  Se sugiere que la palabra <hi rendition="simple:italic">chi k’oje</hi> se escriba junto <hi rendition="simple:italic">chik’oje’</hi>. <!-- editor's note: ask Ajpub' why this is -->
 </note> chajal re. Xecha' k'ut.</p>
-<p>Ta xkino(’)jij<note>
-  <p>En la palabra xkinojij se sugiere que se escriba correctamente
-  porque la raíz de la palabra lleva glotal xkiko’jij.</p>
-</note> xkitzijoj puch jusuk'u xwinaqir kej tz'ikin.</p>
-<p>Ta xkisipaj k'ut rochoch kej tz'ikin</p>
+<p>Ta xkino(’)jij<ref target="quc.n033"><hi rend="sup">33</hi></ref>
+<note place="foot" xml:id="quc.n033"><seg type="note-symbol">33</seg>
+  En la palabra <hi rendition="simple:italic">xkinojij</hi> se sugiere que se escriba correctamente porque la raíz de la palabra lleva glotal <hi rendition="simple:italic">xkiko’jij</hi>.
+</note> xkitzijoj puch jusuk'u xwinaqir <rs ana="KEJ">kej</rs> <rs ana="TZ'IKIN">tz'ikin</rs>.</p>
+<p>Ta xkisipaj k'ut rochoch <rs ana="KEJ">kej</rs> <rs ana="TZ'IKIN">tz'ikin</rs></p>
 <p>At kej pa b'e ja' pa siwan katwar wi waral katk'oje' wi</p>
-<p>pa k'im pa saq’ul<note>
-  <p>Las palabras saqul y kipoqo, que aparece en la oración, se sugiere
-  corregir a saq’ul.</p>
-</note> pa k'echelaj kipoq’o<note>
-  <p>y kipoq’o, también se entiende en la forma de kipoq’.</p>
+<p>pa k'im pa saq’ul<ref target="quc.n034"><hi rend="sup">34</hi></ref>
+<note place="foot" xml:id="quc.n034"><seg type="note-symbol">34</seg>
+  Las palabras <hi rendition="simple:italic">saqul</hi> y <hi rendition="simple:italic">kipoqo</hi>, que aparece en la oración, se sugiere corregir a <hi rendition="simple:italic">saq’ul</hi>.<!-- editor's note: ask Ajpub' why this is -->
+</note> pa k'echelaj kipoq’o<ref target="quc.n035"><hi rend="sup">35</hi></ref>
+<note place="foot" xml:id="quc.n035"><seg type="note-symbol">35</seg>
+  La palabra <hi rendition="simple:italic">kipoq’o</hi>, también se entiende en la forma de <hi rendition="simple:italic">kipoq’</hi>.
 </note> wi iwib’</p>
 <p>Kajkaj ib'inib'al ichakab'al chuxik xe'ucha'xik.</p>
-<p>Ta xkich'ik k'ut kochoch ch'uti tz'ikin nima tz'ikin</p>
-<p>Ix ix tz'ikin chuwi che' chuwi k'a'm kixochochin wi kixjayin<note>
-  <p>Se sugiere el cambio de la palabra kixja’in, ya que tiende a dar el
-  significado de la palabra de bañarse en el agua. Y se cambia a
-  kixjayin, para tenga correlación con el uso del pareto con
-  kixochochin.</p>
+<p>Ta xkich'ik k'ut kochoch ch'uti <rs ana="TZ'IKIN">tz'ikin</rs> nima <rs ana="TZ'IKIN">tz'ikin</rs></p>
+<p>Ix ix <rs ana="TZ'IKIN">tz'ikin</rs> chuwi che' chuwi k'a'm kixochochin wi kixjayin<ref target="quc.n036"><hi rend="sup">36</hi></ref>
+<note place="foot" xml:id="quc.n036"><seg type="note-symbol">36</seg>
+  Se sugiere el cambio de la palabra <hi rendition="simple:italic">kixja’in</hi>, ya que tiende a dar el significado de la palabra de <hi rendition="simple:italic">bañarse en el agua</hi>. Y se cambia a
+  <hi rendition="simple:italic">kixjayin</hi>, para tenga correlación con el uso del pareto con <hi rendition="simple:italic">kixochochin</hi>.
 </note> wi</p>
-<p>chi ri' kixpoq’ wi kixkiritaj<note>
-  <p>Se sugiere el cambio de las palabras kixpoq wi kixk’iritaj wi a
-  kixpoq’ wi kixkitiraj wi. Ya que el primer par de palabras no tiene
-  sentido en cuanto al significado de la oración de</p>
+<p>chi ri' kixpoq’ wi kixkiritaj<ref target="quc.n037"><hi rend="sup">37</hi></ref>
+<note place="foot" xml:id="quc.n037"><seg type="note-symbol">37</seg>
+  Se sugiere el cambio de las palabras <hi rendition="simple:italic">kixpoq wi kixk’iritaj wi</hi> a <hi rendition="simple:italic">kixpoq’ wi kixkitiraj wi</hi>. Ya que el primer par de palabras no tiene sentido en cuanto al significado de la oración.<!--editor's note: ask Ajpub' for clarification: fn ended with "de la oración de", lo cual no es una frase completa --> 
 </note> wi.</p>
-<p>chuq'ab' che' chuq'ab' k'a'm xe'ucha'xik kej tz'ikin.</p>
+<p>chuq'ab' che' chuq'ab' k'a'm xe'ucha'xik <rs ana="KEJ">kej</rs> <rs ana="TZ'IKIN">tz'ikin</rs>.</p>
+<p></p><!-- editor's note: Ajtz'ib'ab' has a paragraph that is not in XOM -->
 <p>Ta xkib'ano kib'anoj ronojel xuk'amo uwarab'al uyakalib'al.</p>
-<p>Keje’ k'ut kochoch wi chikop ri ulew xuya'o Alom K'ajolon</p>
-<p>xutzininaqa chik ronojel ri kej tz'ikin</p>
-<p>Ta xe'uchax chi k'ut ri kej tz'ikin rumal tz’aqol b’itol Alom
-K'ajolom</p>
+<p>Keje’ k'ut kochoch wi chikop ri ulew xuya'o <rs ana="ALOM">Alom</rs> <rs ana="K'AJOLOM">K'ajolon</rs></p><!-- editor's note: ask Ajpub' if this should be K'alolom -->
+<p>xutzininaqa chik ronojel ri <rs ana="KEJ">kej</rs> <rs ana="TZ'IKIN">tz'ikin</rs></p>
+<!-- editor's note: corresponds to XOM 2v, paragraph 7 -->
+<p>Ta xe'uchax chi k'ut ri kej tz'ikin rumal tz’aqol b’itol Alom K'ajolom</p>
 <p>Kixch'awoq Kixsik'inoq mixyonolikinik mixsik'inik</p>
 <p>Kixch'awajetaj chi jujunal chu jutaq ch'ob'il chi jutaq molajil</p>
 <p>Xe'ucha'xik ri kej tz'ikin koj b'alam, kumatz.</p>
