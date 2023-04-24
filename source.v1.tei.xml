@@ -491,116 +491,100 @@ Dios <rs ana="IXIM">maíz</rs>, <rs ana="JUN_JUNAJPU">Hun Hunahpu</rs>, Hun Nal 
 <p>Keje k'ut xech'akataj wi kityo'jil.</p>
 <p>Xkipatanij xetiyik xekamisaxik ri chikop k'o waral chuwach ulew.</p>
 <!--editor's note: Ajtz'ib'ab' has a paragraph not in XOM. Not sure how to show. Raf! --> 
-<p><hi rendition="simple:bold">KEJE’ K’UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ WINAQ B'IT KUMAL</hi></p>
-<p><hi rendition="simple:bold">TZ’AQOL B’ITOL ALOM K’AJOLOM</hi></p>
-<p>Xa k'u<note>
-  <p>En el folio 3, recto líneas. No. 41 y 42 xa catiha chik, mi xyopih
-  ravaxik v zaquiric. En Sam aparece, xa k’u tija chik, mixropij rawexik
-  usaqirik. Ajtz’ib’ab’, sugieren xa qatija’ chik mixropij rawaxik
-  usaqirik. En el folio 3 verso, línea No.3. esta la palabra catija, y
-  en Sam aparece qatija’.</p>
-</note> tija chik mixyopij rawexik usaqirik DUDA</p>
-<p>Qab'ana' tzuqul qe q’o’ol<note>
-  <p>Se sugiere cambiar <hi rendition="simple:italic">k’ool</hi> a
-  <hi rendition="simple:italic">q’o’ol,</hi> que la primera palabra no
-  tiene sentido, mientras que la
-  <hi rendition="simple:italic">q’o’ol,</hi> si tiene sentido el mensaje
-  del texto. En el manuscrito del Popol Wuj, aparece
-  <hi rendition="simple:italic">Cool que</hi>, ya que muchas veces
-  cuando las palabras llevan doble vocal tiene la función de una
-  glotal.</p>
+<p><hi rendition="simple:bold">KEJE' K'UT UTIJTOB'EXIK CHIK WINAQ TZ'AQ WINAQ B'IT KUMAL</hi></p>
+<p><hi rendition="simple:bold"><rs ana="TZ'AQOL">TZ'AQOL</rs> <rs ana="B'ITOL">B'ITOL</rs> <rs ana="ALOM">ALOM</rs> <rs ana="K'AJOLOM">K'AJOLOM</rs></hi></p>
+<p>Xa k'u<ref target="quc.n042"><hi rend="sup">42</hi></ref>
+<note place="foot" xml:id="quc.n042"><seg type="note-symbol">42</seg>
+  En el folio 3, recto líneas. No. 41 y 42 <hi rendition="simple:italic">xa catiha chik, mi xyopih
+  ravaxik v zaquiric</hi>. En Sam Colop (1999: 30) aparece, <hi rendition="simple:italic">xa k'u tija chik, mixropij rawexik
+  usaqirik</hi>. Ajtz'ib'ab', sugieren <hi rendition="simple:italic">xa qatija' chik mixropij rawaxik
+  usaqirik</hi>. En el folio 3 verso, línea No.3. está la palabra <hi rendition="simple:italic">catija</hi>, y
+  en Sam Colop (1999: 30) aparece <hi rendition="simple:italic">qatija’</hi>.
+</note> tija chik mixyopij rawexik usaqirik</p><!-- editor's note: Atz'ib'ab' tiene una duda. También hay que consultar el porqué de la nota arriba. -->
+<p>Qab'ana' tzuqul qe q’o’ol<ref target="quc.n043"><hi rend="sup">43</hi></ref>
+<note place="foot" xml:id="quc.n043"><seg type="note-symbol">43</seg>
+  Se sugiere cambiar <hi rendition="simple:italic">k’ool</hi> a <hi rendition="simple:italic">q’o’ol,</hi> que la primera palabra no tiene sentido, mientras que la
+  <hi rendition="simple:italic">q’o’ol,</hi> si tiene sentido el mensaje del texto. En el manuscrito del <hi rendition="simple:italic"><rs ana="POPOL_WUJ">Popol Wuj</rs></hi>, aparece
+  <hi rendition="simple:italic">Cool que</hi>, ya que muchas veces cuando las palabras llevan doble vocal tiene la función de una glotal.<!--editor's note: consulta con Ajpub' el porque de la nota --> 
 </note> qe.</p>
 <p>Ju pa cha ta kojsik'ixoq ta kojnab'ax puch chuwach ulew</p>
 <p>Mixqatijo chi rech ri nab'e qatz'aq qab'it.</p>
-<p>(Folio 3 verso, línea No.1) Mawi mixutzinik qaq'ijiloxik qaq'alajixik
-puch kumal.</p>
-<p>Keje’ k'ut qatija wi ub'anik ajnim ajxob' tzuqul q’o’ol<note>
-  <p>La misma sugerencia de la anterior nota, no. 34, y en los textos
-  posteriores.</p>
+<!--editor's note: corresponds to XOM 3v --> 
+<p>Mawi mixutzinik qaq'ijiloxik qaq'alajixik puch kumal.</p>
+<p>Keje’ k'ut qatija wi ub'anik ajnim ajxob' tzuqul q’o’ol<ref target="quc.n044"><hi rend="sup">44</hi></ref>
+<note place="foot" xml:id="quc.n044"><seg type="note-symbol">44</seg><!-- editor's note: content below refers to fn 43, not 34 -->
+  La misma sugerencia de la anterior nota, no. 34, y en los textos posteriores.
 </note> Xecha'.</p>
 <p>Ta utz'aqik k'ut ub'anik puch ulew xoq'o'l utyo'jil xkib'ano.</p>
-<p>Ma k’u<note>
-  <p>Sugerencia es cambiar <hi rendition="simple:italic">ku</hi> a
-  <hi rendition="simple:italic">k’u.</hi></p>
+<p>Ma k’u<ref target="quc.n045"><hi rend="sup">45</hi></ref>
+<note place="foot" xml:id="quc.n045"><seg type="note-symbol">45</seg>
+  Sugerencia es cambiar <hi rendition="simple:italic">ku</hi> a <hi rendition="simple:italic">k’u.</hi><!-- editor's note: confirma con Ajpub' el porque de la nota -->
 </note> utz xkilo</p>
-<p>xa chi yojomanik xa tzub'ulik xa neb'elik xa lub'anik xa wulanik xa
-pu chi'umarik.</p>
+<p>xa chi yojomanik xa tzub'ulik xa neb'elik xa lub'anik xa wulanik xa pu chi'umarik.</p>
 <p>Mawi chi k'olol ujolom xa jun b'enaq wi uwach xa ku'l uwach mawi
-chimuqun<note>
-  <p>Sugerencia es escribir junto la palabra y cambia la k a q en la
-  palabra <hi rendition="simple:italic">chi
-  mu<hi rendition="simple:bold">k</hi>un</hi> a
-  <hi rendition="simple:italic">chimu<hi rendition="simple:bold">q</hi>un.</hi></p>
+chimuqun<ref target="quc.n046"><hi rend="sup">46</hi></ref>
+<note place="foot" xml:id="quc.n046"><seg type="note-symbol">46</seg>
+  Sugerencia es escribir junto la palabra y cambia la <hi rendition="simple:italic">k</hi> a <hi rendition="simple:italic">q</hi> en la palabra <hi rendition="simple:italic">chi mu<hi rendition="simple:bold">k</hi>un</hi> a
+  <hi rendition="simple:italic">chimu<hi rendition="simple:bold">q</hi>un.</hi><!-- editor's note: confirma con Ajpub' el porque de la nota -->
 </note> chi rij.</p>
-<p>Chich'aw<note>
-  <p>Sugerencia es escribir junto la palabra
-  <hi rendition="simple:italic">Chi ch’aw</hi> a
-  <hi rendition="simple:italic">chich’aw</hi>.</p>
+<!-- editor's note: Ajtz'ib'ab' has a paragraph here, not in XOM. Need help from Raf to show. -->
+<p>Chich'aw<ref target="quc.n047"><hi rend="sup">47</hi></ref>
+<note place="foot" xml:id="quc.n047"><seg type="note-symbol">47</seg>
+  Sugerencia es escribir junto la palabra <hi rendition="simple:italic">Chi ch'aw</hi> a <hi rendition="simple:italic">chich’aw</hi>.<!--editor's note: ask Ajpub' why --> 
 </note> nab'e maja b'i una'oj.</p>
 <p>xa jusuk' chi'umar pa ja'.</p>
-<p>Mawi k'o xecha' chi k'u ri Ajtz'aq Ajb'it.</p>
-<p>Qawach lab’eq<note>
-  <p>Sugerencia escribir se parado la palabra
-  <hi rendition="simple:italic">Qawachlab'eq</hi> a
-  <hi rendition="simple:italic">Qawach lab’eq.</hi></p>
+<p>Mawi k'o xecha' chi k'u ri <rs ana="TZ'AQOL">Ajtz'aq</rs> <rs ana="B'ITOL">Ajb'it</rs>.</p>
+<p>Qawach lab’eq<ref target="quc.n048"><hi rend="sup">48</hi></ref>
+<note place="foot" xml:id="quc.n048"><seg type="note-symbol">48</seg>
+  Sugerencia escribir se parado la palabra <hi rendition="simple:italic">Qawachlab'eq</hi> a <hi rendition="simple:italic">Qawach lab’eq.</hi><!-- editor's note: ask Ajpub' why -->
 </note> ta chuxoq xa lab'e mawi chib'inik ma pu chipoq'otajik.</p>
 <p>Ta chuxoq xa una'oj chiri' xecha'.</p>
 <p>Ta xkiyoj k'ut xkiyoq' chik ri kitz'aq kib'it.</p>
 <p>Xecha' chi k'ut jupa cha ki chiqab'ano</p>
-<p>Chutzin ta wi chinawachir ta wi q'ijiloy qech sik’iy<note>
-  <p>Sugerencia escribir cambiar la palabra
-  <hi rendition="simple:italic">siq'iy</hi> a
-  <hi rendition="simple:italic">sik’iy</hi>. Ya que la primera no tiene
-  sentido que la segunda que dice: llamar. Ya que en el manuscrito
-  aparece <hi rendition="simple:italic">ziquiy.</hi></p>
+<p>Chutzin ta wi chinawachir ta wi q'ijiloy qech sik'iy<ref target="quc.n049"><hi rend="sup">49</hi></ref>
+<note place="foot" xml:id="quc.n049"><seg type="note-symbol">49</seg>
+  Sugerencia escribir cambiar la palabra <hi rendition="simple:italic">siq'iy</hi> a <hi rendition="simple:italic">sik'iy</hi>. Ya que la primera no tiene
+  sentido que la segunda que dice: <hi rendition="simple:italic">llamar</hi>. Ya que en el manuscrito aparece <hi rendition="simple:italic">ziquiy.</hi>
 </note> qech</p>
 <p>Xecha' ta xkina'ojij chik</p>
-<p>Xa qab'ij chi ke Xpiyakok Xmukane Junajpu Wuch' Junajpu Utiw</p>
-<p>kitija chik uq'ijixik ub'itaxik xe'uchan ki<note>
-  <p>En este texto, es interesante resaltar que en la actualidad algunas
-  variantes ya no la utilizan, pero, utilizan la preposición
-  <hi rendition="simple:italic">chi</hi>.</p>
-</note> kib' Ajtz'aq Ajb'it.</p>
-<p>Ta xkib'ij k'ut chi re<note>
-  <p>Otro punto interesante que ese encontró también es el uso del
-  <hi rendition="simple:italic">chi re</hi> enfatizando se a dos
-  personas. Mientras que en algunas variantes del idioma K’iche’ actual,
-  se utiliza el <hi rendition="simple:italic">chi ke</hi>.</p>
-</note> Xpiyakok Xmukane.</p>
+<p>Xa qab'ij chi ke <rs ana="XPIYAKOK">Xpiyakok</rs> <rs ana="IXMUKANE">Xmukane</rs> <rs ana="JUNAJPU_WUCH'">Junajpu Wuch'</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs></p>
+<p>kitija chik uq'ijixik ub'itaxik xe'uchan ki<ref target="quc.n050"><hi rend="sup">50</hi></ref>
+<note place="foot" xml:id="quc.n050"><seg type="note-symbol">50</seg>
+  En este texto, es interesante resaltar que en la actualidad algunas variantes ya no la utilizan, pero, utilizan la preposición <hi rendition="simple:italic">chi</hi>.
+</note> kib' <rs ana="TZ'AQOL">Ajtz'aq</rs> <rs ana="B'ITOL">Ajb'it</rs>.</p>
+<p>Ta xkib'ij k'ut chi re<ref target="quc.n051"><hi rend="sup">51</hi></ref>
+<note place="foot" xml:id="quc.n051"><seg type="note-symbol">51</seg>
+  Otro punto interesante que ese encontró también es el uso del <hi rendition="simple:italic">chi re</hi> enfatizando se a dos personas. Mientras que en algunas variantes del idioma K’iche’ actual, se utiliza el <hi rendition="simple:italic">chi ke</hi>.
+</note> <rs ana="XPIYAKOK">Xpiyakok</rs> <rs ana="IXMUKANE">Xmukane</rs>.</p>
+<!--editor's note: Ajtz'ib'ab' adds a paragraph here. Not sure how to show. Raf! -->  
 <p>K'ATE K'UT UB'IXIK RI' CHI KECH RI E NIK'WACHINEL</p>
-<p>Rati't Q'ij Rati't Saq ke'ucha'xik kumal ri tz’aqol b’itol.</p>
-<p>Are kib'i' ri Xpiyakok Xmukane.</p>
-<p>Xecha' k'u ri Juraqan ruk' Tepew Q'ukumatz.</p>
+<p><rs ana="IXMUKANE">Rati't Q'ij</rs> <rs ana="IXMUKANE">Rati't Saq</rs> ke'ucha'xik kumal ri <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs>.</p>
+<p>Are kib'i' ri <rs ana="XPIYAKOK">Xpiyakok</rs> <rs ana="IXMUKANE">Xmukane</rs>.</p>
+<!--editor's note: corresponds to XOM 3v, paragraph 8 --> 
+<p>Xecha' k'u ri <rs ana="JUN_RAQAN">Juraqan</rs> ruk' <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs>.</p>
 <p><figure>
   <graphic url="media/image016.jpeg" width="3.09375in" height="1.72222in" />
 </figure></p>
-<p><hi rendition="simple:bold">Número Kerr: 1196</hi> Dios viejo
-haciendo pronósticos </p>
+<p><hi rendition="simple:bold">Número Kerr: 1196</hi> Dios viejo haciendo pronósticos </p>
 <p>ta xkib'ij chi rech ajq'ij ajb'it e nik'wachinel.</p>
-<p>Xa<note>
-  <p>En la versión K’iche’ la xa se agregó para complementar la
-  información en el texto, mientras en el folio 3 verso, en la línea
-  No.40 aparece solo xuculu.</p>
-</note> xuk'ulu<note>
-  <p>La sugerencia es retomar la palabra como está en el manuscrito, Sam
-  Colop, lo había dejado de utilizar. Entonces cambia
-  <hi rendition="simple:italic">xa k’ulu</hi> a
-  <hi rendition="simple:italic">xa xuk’ulu.</hi></p>
+<p>Xa<ref target="quc.n052"><hi rend="sup">52</hi></ref>
+<note place="foot" xml:id="quc.n052"><seg type="note-symbol">52</seg>
+  En la versión K’iche’ la <hi rendition="simple:italic">xa</hi> se agregó para complementar la información en el texto, mientras en el folio 3 verso, en la línea
+  No.40 aparece solo <hi rendition="simple:italic">xuculu</hi>.<!-- editor's note: confirma con Ajpub' que se refiere a la nota #40. -->
+</note> xuk'ulu<ref target="quc.n053"><hi rend="sup">53</hi></ref>
+<note place="foot" xml:id="quc.n053"><seg type="note-symbol">53</seg>
+  La sugerencia es retomar la palabra como está en el manuscrito, Sam Colop (1999), lo había dejado de utilizar. Entonces cambia <hi rendition="simple:italic">xa k’ulu</hi> a <hi rendition="simple:italic">xa xuk’ulu.</hi>
 </note> xa pu churiqo che ta chik chiqawinaqb'itoj
-chiqawinaqtz'aqoj<note>
-  <p>Para este pareto de palabras se sugiere escribir juntos
-  <hi rendition="simple:italic">chiqawinaq-b'itoj
-  chiqawinaq-tz'aqoj</hi> a
-  <hi rendition="simple:italic">chiqawinaqb'itoj
-  chiqawinaqtz'aqoj.</hi></p>
+chiqawinaqtz'aqoj<ref target="quc.n054"><hi rend="sup">54</hi></ref>
+<note place="foot" xml:id="quc.n054"><seg type="note-symbol">54</seg>
+  Para este pareto de palabras se sugiere escribir juntos <hi rendition="simple:italic">chiqawinaq-b'itoj chiqawinaq-tz'aqoj</hi> a <hi rendition="simple:italic">chiqawinaqb'itoj chiqawinaqtz'aqoj.</hi><!-- editor's note: ask Ajpub' to define the words in Spanish -->
 </note> ta chik tzuqul q’o’ol</p>
 <p>kojsik'ixtaj kojnab'axtaj puch.</p>
-<p>Katok ta k'ut pa tzij Iyom Mamom</p>
-<p>qati't qamam Xpiyakok Xmukane</p>
-<p>cha’<note>
-  <p>Sugerencia escribir la glotal a la partícula
-  <hi rendition="simple:italic">cha</hi> a
-  <hi rendition="simple:italic">cha’</hi>.</p>
+<p>Katok ta k'ut pa tzij <rs ana="IXMUKANE">Iyom</rs> <rs ana="XPIYAKOK">Mamom</rs></p>
+<p>qati't qamam <rs ana="XPIYAKOK">Xpiyakok</rs> <rs ana="IXMUKANE">Xmukane</rs></p>
+<p>cha'<ref target="quc.n055"><hi rend="sup">55</hi></ref>
+<note place="foot" xml:id="quc.n055"><seg type="note-symbol">55</seg>
+  Sugerencia escribir la glotal a la partícula <hi rendition="simple:italic">cha</hi> a <hi rendition="simple:italic">cha’</hi>.<!--editor's note: preguntale a Ajpub' el porque de la nota --> 
 </note> taj ta chawaxoq ta saqiroq</p>
 <p>(Folio 4 recto, línea 1) qasik'ixik qatoq'exik qanab'axik rumal winaq
 tz'aq winaq b'it</p>
