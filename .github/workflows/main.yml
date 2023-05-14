@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   validate_xml:
-  runs-on: macos-latest
-  steps:
-    - name: Validate
-      run: 'xmllint --noout ./*.xml'
+    runs-on: macos-latest
+    steps:
+      - name: Validate
+        run: 'xmllint --noout ./*.xml'
