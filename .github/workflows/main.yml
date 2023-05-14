@@ -20,4 +20,4 @@ jobs:
       - uses: korelstar/xmllint-problem-matcher@v1
 
       - name: Validate XML
-        run: xmllint ./source.v1.tei.xml --noout
+        run: xmllint ./*.xml --noout
