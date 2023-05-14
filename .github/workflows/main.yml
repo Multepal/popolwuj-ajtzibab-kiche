@@ -13,4 +13,6 @@ jobs:
     runs-on: macos-latest
     steps:
       - name: Validate
-        run: 'xmllint --noout ./*.xml'
+        with:
+          packages: libxml2-utils
+        run: xmllint --noout ./*.xml
