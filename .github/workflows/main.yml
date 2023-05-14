@@ -1,10 +1,14 @@
 name: 'XML file validation'
+  # Runs xmllint on all .xml files in the repo
+  # To test for basic validation
 
 on:
+  # runs after MR or manual trigger
   workflow_dispatch:
   pull_request:
 
 permissions:
+  # read permissions applied to all jobs
   contents: read
   pull-requests: read
 
@@ -12,12 +16,16 @@ jobs:
   validate_xml:
     runs-on: ubuntu-latest
     steps:
+      # checkout repo to run xmllint on xml files 
       - name: Checkout
         uses: actions/checkout@v3
 
+      # install xmllint command and github action
+      # that outputs errors 
       - name: Install xmllint
         run: sudo apt-get install --no-install-recommends -y libxml2-utils
       - uses: korelstar/xmllint-problem-matcher@v1
 
+      # running xmllint on all .xml files
       - name: Validate XML
         run: xmllint ./*.xml --noout
