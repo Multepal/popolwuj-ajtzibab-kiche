@@ -1,0 +1,11 @@
+workflow:
+  # runs pipeline during merge request
+  - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+
+stages:
+  - validate_xml
+
+validate_xml:
+  stage: validate_xml
+  script:
+    - "xmllint --noout ./*.xml"
