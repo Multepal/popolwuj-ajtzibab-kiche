@@ -1,11 +1,15 @@
-workflow:
-  # runs pipeline during merge request
-  - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+name: 'XML file validation'
 
-stages:
-  - validate_xml
+on:
+  workflow_dispatch:
+  pull_request:
 
-validate_xml:
-  stage: validate_xml
-  script:
-    - "xmllint --noout ./*.xml"
+permissions:
+  contents: read
+  pull_requests: read
+
+jobs:
+  validate_xml:
+    steps:
+      - name: Validate
+        run: 'xmllint --noout ./*.xml'
