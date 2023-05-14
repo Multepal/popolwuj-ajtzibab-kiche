@@ -15,9 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Install xmllint
-        run: sudo apt-get install --no-install-recommends -y libxml2-utils
-      - uses: korelstar/xmllint-problem-matcher@v1
-
-      - name: Validate
-        run: xmllint --noout ./*/*.xml
+      - name: Linting
+        uses: ChristophWurst/xmllint-action@v1
+        with:
+          xml-file: ./*/*.xml
