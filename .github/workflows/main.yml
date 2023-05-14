@@ -6,7 +6,7 @@ on:
 
 permissions:
   contents: read
-  pull_requests: read
+  pull-requests: read
 
 jobs:
   validate_xml:
