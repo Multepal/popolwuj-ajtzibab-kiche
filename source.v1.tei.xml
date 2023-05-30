@@ -704,51 +704,43 @@
       <p>E nab'e tzatz chi winaq xe'uxik waral chuwach ulew.</p>
       <!--editor's note: corresponds to XOM 4v, paragraph 9. Same paragraph breaks in both. --> 
       <p><hi rendition="simple:bold">K'ATE K'UT KIK'ISIK CHIK</hi></p>
-      <p>kima'ixik kiq'utuxik<note>
-        <p>Se sugiere cambiar kik'utuxik a kiq'utuxik, esto para la
-        información correcta que se menciona en el texto.</p>
+      <p>kima'ixik kiq'utuxik<ref target="quc.n071"><hi rend="sup">71</hi></ref>
+      <note place="foot" xml:id="quc.n071"><seg type="note-symbol">71</seg>
+        Se sugiere cambiar <hi rendition="simple:italic">kik'utuxik</hi> a <hi rendition="simple:italic">kiq'utuxik</hi>, esto para la información correcta que se menciona en el texto.
       </note> puch</p>
       <p>xekamisax chik poy ajam che'.</p>
-      <p>Ta xna'ojix kib'utik rumal Uk'u'x Kaj nima b'utik xb'anik</p>
+      <p>Ta xna'ojix kib'utik rumal <rs ana="UK'U'X_KAJ">Uk'u'x Kaj</rs> nima b'utik xb'anik</p>
       <p>xpe pa kiwi ri e poy e ajam che'.</p>
-      <p>Tz'ite' utyo'jil ri achij ta xajaxik rumal tz'aqol b'itol</p>
-      <p>Ixoq sib'ak k'ut utyo'jil ixoq xraj okik rumal tz'aqol b'itol.</p>
-      <p>Mawi xena'wik ma pu xech'awik chuwach kajtz'aq kajb'it b'anol ke
-      winaqirisay kech.</p>
+      <p><rs ana="TZ'ITE'">Tz'ite'</rs> utyo'jil ri achij ta xajaxik rumal <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs></p>
+      <p>Ixoq sib'ak k'ut utyo'jil ixoq xraj okik rumal <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs>.</p>
+      <p>Mawi xena'wik ma pu xech'awik chuwach kajtz'aq kajb'it b'anol ke winaqirisay kech.</p>
       <p>Keje' k'ut kikamisaxik xeb'utik</p>
-      <p>xpe nima q'ol chila' chi kaj xpe xek'otk'owach<note>
-        <p>Se sugiere que la palabra
-        <hi rendition="simple:italic">k'otk'wach</hi> se retome su forma
-        completa
-        <hi rendition="simple:italic"><hi rendition="simple:bold">xe</hi>k'otk'owach</hi>,
-        ya en el manuscrito aparece el completo
-        <hi rendition="simple:italic"><hi rendition="simple:bold">xe</hi>
-        cotcovach</hi></p>
-      </note> ub'i<note>
-        <p>Se sugiere escribir la palabra ub'i' sin la glotal final ub'i.</p>
+      <p>xpe <rs ana="Q'OL">nima q'ol</rs> chila' chi kaj xpe <rs ana="K'OTK'OWACH">xek'otk'owach</rs><ref target="quc.n072"><hi rend="sup">72</hi></ref>
+      <note place="foot" xml:id="quc.n072"><seg type="note-symbol">72</seg>
+        Se sugiere que la palabra <rs ana="K'OTK'OWACH"><hi rendition="simple:italic">k'otk'wach</hi></rs> se retome su forma completa <rs ana="K'OTK'OWACH"><hi rendition="simple:italic"><hi rendition="simple:bold">xe</hi>k'otk'owach</hi></rs>,
+        ya en el manuscrito aparece el completo <rs ana="K'OTK'OWACH"><hi rendition="simple:italic"><hi rendition="simple:bold">xe</hi>cotcovach</hi></rs>.
+      </note> ub'i<ref target="quc.n073"><hi rend="sup">73</hi></ref>
+      <note place="foot" xml:id="quc.n073"><seg type="note-symbol">73</seg>
+        Se sugiere escribir la palabra <hi rendition="simple:italic">ub'i'</hi> sin la glotal final <hi rendition="simple:italic">ub'i</hi>.
       </note> xk'otin uloq ub'aq' kiwach</p>
-      <p>xepe kamalotz<note>
-        <p>Se sugiere escribir sin la glotal la última sílaba de la palabra
-        <hi rendition="simple:italic">kamalo<hi rendition="simple:bold">tz'</hi>
-        a kamalo<hi rendition="simple:bold">tz</hi></hi>.</p>
+      <p>xepe <rs ana="KAMALOTZ'">kamalotz</rs><ref target="quc.n074"><hi rend="sup">74</hi></ref>
+      <note place="foot" xml:id="quc.n074"><seg type="note-symbol">74</seg>
+        Se sugiere escribir sin la glotal la última sílaba de la palabra <rs ana="KAMALOTZ'"><hi rendition="simple:italic">kamalo<hi rendition="simple:bold">tz'</hi></hi></rs>
+        a <rs ana="KAMALOTZ'"><hi rendition="simple:italic">kamalo<hi rendition="simple:bold">tz</hi></hi></rs>.
       </note> xqupin ula kijolom.</p>
-      <p>xpe kotzb'alam xti'ow<note>
-        <p>Es para dar a conocer que en la actualidad el verbo
-        <hi rendition="simple:italic">xti'<hi rendition="simple:bold">o</hi></hi>
-        que aparece el texto del Popol Wun, se utiliza en la actualidad en las
-        variantes del idioma k'iche' como
-        xti'<hi rendition="simple:bold">ow</hi>.</p>
+      <p>xpe <rs ana="KOTZB'ALAM">kotzb'alam</rs> xti'ow<ref target="quc.n075"><hi rend="sup">75</hi></ref>
+      <note place="foot" xml:id="quc.n075"><seg type="note-symbol">75</seg>
+        Es para dar a conocer que en la actualidad el verbo <hi rendition="simple:italic">xti'<hi rendition="simple:bold">o</hi></hi>
+        que aparece el texto del <rs ana="POPOL_WUJ">Popol Wuj</rs>, se utiliza en la actualidad en las variantes del idioma k'iche' como
+        xti'<hi rendition="simple:bold">ow</hi>.
       </note> kityo'jil.</p>
-      <p>xpe tukumb'alam xtukuwik xkichowik kib'aqil kib'ochil</p>
+      <p>xpe <rs ana="TUKUMB'ALAM">tukumb'alam</rs> xtukuwik xkichowik kib'aqil kib'ochil</p>
       <p><figure>
         <graphic url="media/image018.jpeg" width="3.0422in" height="1.50606in" />
       </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 3230 :</hi> La sección
-      transversal de la concha de caracol indica el reino acuoso, Sangre,
-      Concha, Jaguar, Jaguar de lirio de agua.</p>
+      <p><hi rendition="simple:bold">Número Kerr: 3230 :</hi> La sección transversal de la concha de caracol indica el reino acuoso, Sangre, Concha, <rs ana="B'ALAM">Jaguar</rs>, Jaguar de lirio de agua.</p>
       <p>Xqajixik xmuchulixik kib'aqil</p>
-      <p>k'ajisab'al kiwach rumal mawi kinawik chuwach kichuch chuwach puch
-      kikajaw ri Uk'u'x Kaj Junraqan ub'i'.</p>
+      <p>k'ajisab'al kiwach rumal mawi kinawik chuwach ki<rs ana="ALOM">chuch</rs> chuwach puch ki<rs ana="K'AJOLOM">kajaw</rs> ri <rs ana="UK'U'X_KAJ">Uk'u'x Kaj</rs> <rs ana="JUN_RAQAN">Junraqan</rs> ub'i'.</p>
       <p>Kumal xq'equ'marik uwach ulew</p>
       <p>xtikarik q'eqal jab' q'ijil jab' aqab'al jab'</p>
       <p>xok ula' ch'uti chikop nima chikop.</p>
@@ -756,150 +748,127 @@
       <p><figure>
         <graphic url="media/image019.jpeg" width="3.40625in" height="1.60417in" />
       </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 2669</hi></p>
+      <p><hi rendition="simple:bold">Número Kerr: 2669</hi></p>
       <table>
         <row role="label">
-          <cell><p><hi rendition="simple:bold">Comentarios: </hi>6 pares de
-          sobrenaturales conversan.  </p></cell>
+          <cell><p><hi rendition="simple:bold">Comentarios:</hi> 6 pares de sobrenaturales conversan.</p></cell>
         </row>
         <row>
-          <cell><p><hi rendition="simple:bold">Elementos
-          iconográficos: </hi>Sangre, Escena o aparato de Enema, Dios L,
-          Inscripción - otro texto, Jaguar, Lirio de agua Jaguar, Sacrificio,
-          Sacrificio propio, Cabeza de trofeo, Gemelos - Hunahpú &amp;
-          Xbalanqué, Secuencia estándar primaria, Tabaco de fumar</p></cell>
+          <cell><p><hi rendition="simple:bold">Elementos iconográficos:</hi>Sangre, Escena o aparato de Enema, Dios L, Inscripción - otro texto, <rs ana="B'ALAM">Jaguar</rs>, Lirio de agua Jaguar, Sacrificio,
+          Sacrificio propio, Cabeza de trofeo, <rs ana="KA'IB'_K'AJOLAB'">Gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, Secuencia estándar primaria, Tabaco de fumar</p></cell>
         </row>
       </table>
-      <p>(Folio 5 recto. No. 1)Xch'awik ronojel kiq'eb'al, kixot, kilaq,
-      kib'o'j, kitz'i', kika' jaruj pa' la ronojel xk'utu<note>
-        <p>Se sugiere corregir la palabra
-        <hi rendition="simple:italic">x<hi rendition="simple:bold">k</hi>utu</hi>
-        a
-        <hi rendition="simple:italic">x<hi rendition="simple:bold">k'</hi>utu</hi>,
-        y la otra forma
-        <hi rendition="simple:italic">xk'utu<hi rendition="simple:bold">w</hi></hi>
-        se utiliza en la actualidad en varias variantes del idioma
-        k'iche'.</p>
+      <!-- editor's note: XOM folio 5, not a new paragraph break -->
+      <p>Xch'awik ronojel kiq'eb'al, kixot, kilaq,
+      kib'o'j, kitz'i', ki<rs ana="KA'">ka'</rs> jaruj pa' la ronojel xk'utu<ref target="quc.n076"><hi rend="sup">76</hi></ref>
+      <note place="foot" xml:id="quc.n076"><seg type="note-symbol">76</seg>
+        Se sugiere corregir la palabra <hi rendition="simple:italic">x<hi rendition="simple:bold">k</hi>utu</hi> a <hi rendition="simple:italic">x<hi rendition="simple:bold">k'</hi>utu</hi>,
+        y la otra forma <hi rendition="simple:italic">xk'utu<hi rendition="simple:bold">w</hi></hi> se utiliza en la actualidad en varias variantes del idioma k'iche'.
       </note> kiwach.</p>
-      <p>k'ax xib'an chi qe xojiti'o<note>
-        <p>Se sugiere escribir el uso de la glotal en la palabra
-        <hi rendition="simple:italic">xojiti<hi rendition="simple:bold">yo</hi></hi>
-        a
-        <hi rendition="simple:italic">xojiti<hi rendition="simple:bold">'o</hi></hi>,
-        ya que en el manuscrito está
-        <hi rendition="simple:italic">xohitio</hi>, y esta forma de palabra
-        aún se conserva en las variantes del idioma K'iche' como
-        <hi rendition="simple:italic">xojiti'o.</hi></p>
+      <p>k'ax xib'an chi qe xojiti'o<ref target="quc.n077"><hi rend="sup">77</hi></ref>
+      <note place="foot" xml:id="quc.n077"><seg type="note-symbol">77</seg>
+        Se sugiere escribir el uso de la glotal en la palabra <hi rendition="simple:italic">xojiti<hi rendition="simple:bold">yo</hi></hi> a
+        <hi rendition="simple:italic">xojiti<hi rendition="simple:bold">'o</hi></hi>, ya que en el manuscrito está <hi rendition="simple:italic">xohitio</hi>, y esta forma de palabra
+        aún se conserva en las variantes del idioma K'iche' como <hi rendition="simple:italic">xojiti'o.</hi>
       </note></p>
       <p>ix chi k'ut xkixqati' chik</p>
       <p>xcha' ri kitz'i' kak' chi kech.</p>
-      <p>Are k'u ri ka' xojk'ok'onik iwumal juta q'ij juta q'ij;</p>
-      <p>xq'eq<note>
-        <p>Se sugiere cambiar la palabra
-        <hi rendition="simple:italic">xq'e<hi rendition="simple:bold">k</hi></hi>
-        a
-        <hi rendition="simple:italic">xq'e<hi rendition="simple:bold">q'</hi></hi></p>
+      <p>Are k'u ri <rs ana="KA'">ka'</rs> xojk'ok'onik iwumal juta q'ij juta q'ij;</p>
+      <p>xq'eq<ref target="quc.n078"><hi rend="sup">78</hi></ref>
+      <note place="foot" xml:id="quc.n078"><seg type="note-symbol">78</seg>
+        Se sugiere cambiar la palabra <hi rendition="simple:italic">xq'e<hi rendition="simple:bold">k</hi></hi> a <hi rendition="simple:italic">xq'e<hi rendition="simple:bold">q'</hi></hi>
+        <!-- editor's note: consulta el porqué con Ajpub' -->
       </note> saqirik amaq'el joli joli juk'i juk'i qawach iwumal.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph here, not in XOM -->
       <p>Are ta nab'e qapatan chi wach ix ta na winaq</p>
-      <p>wakamik k'ut xchitij qachuq'ab' <note>
-        <p>Se sugiere agregar la glotal en la palabra
-        <hi rendition="simple:italic">qachu<hi rendition="simple:bold">q</hi>ab'</hi>
-        a
-        <hi rendition="simple:italic">qachu<hi rendition="simple:bold">q'</hi>ab'</hi>.</p>
+      <p>wakamik k'ut xchitij qachuq'ab'<ref target="quc.n079"><hi rend="sup">79</hi></ref>
+      <note place="foot" xml:id="quc.n079"><seg type="note-symbol">79</seg>
+        Se sugiere agregar la glotal en la palabra <hi rendition="simple:italic">qachu<hi rendition="simple:bold">q</hi>ab'</hi> a
+        <hi rendition="simple:italic">qachu<hi rendition="simple:bold">q'</hi>ab'</hi>.
+        <!-- editor's note: consulta el porqué con Ajpub' -->
       </note></p>
       <p>xchiqake'j xchiqajok' puch ityo'jil xcha' ri kika' chi ke.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph here, not in XOM -->
       <p>Are k'u ri kitz'i' xcha' chik ta xch'awik</p>
       <p>Naki pa rumal mawi chiya' qawa</p>
-      <p>xa kojmuqunik<note>
-        <p>Se sugiere cambia la palabra
-        <hi rendition="simple:italic">kojmu<hi rendition="simple:bold">k</hi>unik</hi>
-        a
-        <hi rendition="simple:italic">kojmu<hi rendition="simple:bold">q</hi>unik</hi>.</p>
-      </note> xa pu kojikuxij uloq kojitzaq pu uloq yakal ub'i qache'el iwumal
-      ta kixwa'ik</p>
+      <p>xa kojmuqunik<ref target="quc.n080"><hi rend="sup">80</hi></ref>
+      <note place="foot" xml:id="quc.n080"><seg type="note-symbol">80</seg>
+        Se sugiere cambia la palabra <hi rendition="simple:italic">kojmu<hi rendition="simple:bold">k</hi>unik</hi> a <hi rendition="simple:italic">kojmu<hi rendition="simple:bold">q</hi>unik</hi>.
+        <!-- editor's note: consulta el porqué con Ajpub' -->
+      </note> xa pu kojikuxij uloq kojitzaq pu uloq yakal ub'i qache'el iwumal ta kixwa'ik</p>
+      <!-- editor's note: consulta con Ajpub': aquí no hay . después de kixwa'ik -->
+      <!-- editor's note: Ajtz'ib'ab' paragraph here, not in XOM -->
       <p>Xere kojiwucha'aj wi mawi kojch'awik.</p>
-      <p>Mata k'u mixojkamik chiwe<note>
-        <p>Se sugiere cambiar el sustantivo relacional
-        <hi rendition="simple:italic">iwumal</hi> a
-        <hi rendition="simple:italic">chiwe</hi> ya que en el manuscrito
-        aparece <hi rendition="simple:italic">chiue</hi>.</p>
+      <p>Mata k'u mixojkamik chiwe<ref target="quc.n081"><hi rend="sup">81</hi></ref>
+      <note place="foot" xml:id="quc.n081"><seg type="note-symbol">81</seg>
+        Se sugiere cambiar el sustantivo relacional <hi rendition="simple:italic">iwumal</hi> a <hi rendition="simple:italic">chiwe</hi> ya que en el manuscrito
+        aparece <hi rendition="simple:italic">chiue</hi>.
       </note></p>
       <p>Jupa cha mawi mixixnawik xixnaw ta k'ut</p>
-      <p>chiwij<note>
-        <p>Se sugiere escribir juntos la palabra
-        <hi rendition="simple:italic">chi wij</hi> a
-        <hi rendition="simple:italic">chiwij,</hi> ya que en la actualidad se
-        escribe junto.</p>
+      <p>chiwij<ref target="quc.n082"><hi rend="sup">82</hi></ref>
+      <note place="foot" xml:id="quc.n082"><seg type="note-symbol">82</seg>
+        Se sugiere escribir juntos la palabra <hi rendition="simple:italic">chi wij</hi> a <hi rendition="simple:italic">chiwij,</hi> ya que en la actualidad se
+        escribe junto.
       </note> ta k'ut xojsach wi.</p>
       <p>Wakamik k'ut xchitij qab'aq k'o pa qachi'</p>
       <p>xkixqati'o xecha' ri tz'i' chi ke ta xkut kiwach.</p>
       <p><figure>
-        <head>Un dibujo de una persona Descripción generada automáticamente
-        con confianza baja</head>
+        <head>Un dibujo de una persona Descripción generada automáticamente con confianza baja</head>
         <graphic url="media/image020.jpeg" width="3.45833in" height="1.68125in" />
       </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 505:</hi> Perro mira en olla
-      grande, mono baila con y mira en un espejo. Ambos llevan cañas de
-      garabato en tocados. <hi rendition="simple:bold">Elementos
-      iconográficos: </hi>Ah K'hun, orador, inscripción, cualquier texto que
-      no sea PSS, Espejo, Perro, canino, Paquete, tributo, caché, Mono.</p>
+      <p><hi rendition="simple:bold">Número Kerr: 505:</hi> Perro mira en olla grande, <rs ana="K'OY">mono</rs> baila con y mira en un espejo. Ambos llevan cañas de
+      garabato en tocados. <hi rendition="simple:bold">Elementos iconográficos: </hi>Ah K'hun, orador, inscripción, cualquier texto que no sea PSS, Espejo, Perro, canino, Paquete, tributo, caché, <rs ana="K'OY">Mono</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph here, not in XOM -->
       <p>Are chi k'u ri kixot kib'o'j xch'aw chik chi ke</p>
       <p>K'ax wa xib'an chi qe</p>
       <p>xaq qachi' xaq qawach</p>
-      <p>amaq'el oj tzakal<note>
-        <p>Se sugiere cambiar la palabra
-        <hi rendition="simple:italic">ojtza<hi rendition="simple:bold">q</hi>al</hi>
-        a <hi rendition="simple:italic">oj
-        tza<hi rendition="simple:bold">k</hi>al</hi> en forma separada. La
-        primera palabra dice estamos colgados, pero realmente no se refiere a
-        colgado. De acuerdo con el texto y el contexto se refiere a que los
-        personajes están expuestos en cocinar.</p>
+      <p>amaq'el oj tzakal<ref target="quc.n083"><hi rend="sup">83</hi></ref>
+      <note place="foot" xml:id="quc.n083"><seg type="note-symbol">83</seg>
+        Se sugiere cambiar la palabra <hi rendition="simple:italic">ojtza<hi rendition="simple:bold">q</hi>al</hi> a <hi rendition="simple:italic">oj tza<hi rendition="simple:bold">k</hi>al</hi> en forma separada. La
+        primera palabra dice "estamos colgados", pero realmente no se refiere a "colgado". De acuerdo con el texto y el contexto se refiere a que los personajes "están expuestos en cocinar".
       </note> chuwi q'aq' kojik'ato.</p>
       <p>Mawi k'ax xqana'o</p>
       <p>xchitij k'ut xkixqaporoj xcha' ri kib'o'j.</p>
-      <p>Ronojel xkutuw<note>
-        <p>Se sugiere que la palabra <hi rendition="simple:italic">xk'utu</hi>
-        cambie a
-        <hi rendition="simple:italic">xk'utu<hi rendition="simple:bold">w</hi></hi>
-        ya que con la forma completa se comprende mejor el texto.</p>
+      <p>Ronojel xkutuw<ref target="quc.n084"><hi rend="sup">84</hi></ref>
+      <note place="foot" xml:id="quc.n084"><seg type="note-symbol">84</seg>
+        Se sugiere que la palabra <hi rendition="simple:italic">xk'utu</hi> cambie a <hi rendition="simple:italic">xk'utu<hi rendition="simple:bold">w</hi></hi> ya que con la forma completa se comprende mejor el texto.
+        <!-- editor's note: consulta con Ajpub': una traducción al español ayudará con el porqué de la nota -->
       </note> kiwach.</p>
-      <p>Are ri ab'aj ri kixk'ub' chitaninik chipe pa q'aq' taqal chi kijolom
-      k'ax xb'an chi ke</p>
-      <p>Anilab'ik kemalmalijab' chik kerajaq'anik<note>
-        <p>Se sugiere escribir junto keraj aq'anik a kerajaq'anik, ya que no
-        son dos palabras sino una sola palabra.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph here, not in XOM -->
+      <p>Are ri ab'aj ri kixk'ub' chitaninik chipe pa q'aq' taqal chi kijolom k'ax xb'an chi ke</p>
+      <!-- editor's note: consulta con Ajpub': aquí no hay . después de chi ke -->
+      <p>Anilab'ik kemalmalijab' chik kerajaq'anik<ref target="quc.n085"><hi rend="sup">85</hi></ref>
+      <note place="foot" xml:id="quc.n085"><seg type="note-symbol">85</seg>
+        Se sugiere escribir junto <hi rendition="simple:italic">keraj aq'anik</hi> a <hi rendition="simple:italic">kerajaq'anik</hi>, ya que no son dos palabras sino una sola palabra.
       </note> chuwi ja xa chi wulij ja ketzaq uloq</p>
-      <p>kerajaq'an<note>
-        <p>Se sugiere escribir junto keraj aq'an a kerajaq'an, ya no son dos
-        palabras sino una sola palabra.</p>
-      </note> chuwi che' kech'aqix <note>
-        <p>Se sugiere cambia kechakix a kechaqix, ya que el manuscrito aparece
-        quechaquix uloc</p>
+      <p>kerajaq'an<ref target="quc.n086"><hi rend="sup">86</hi></ref>
+      <note place="foot" xml:id="quc.n086"><seg type="note-symbol">86</seg>
+        Se sugiere escribir junto <hi rendition="simple:italic">keraj aq'an</hi> a <hi rendition="simple:italic">kerajaq'an</hi>, ya no son dos palabras sino una sola palabra.
+      </note> chuwi che' kech'aqix<ref target="quc.n087"><hi rend="sup">87</hi></ref>
+      <note place="foot" xml:id="quc.n087"><seg type="note-symbol">87</seg>
+        Se sugiere cambiar <hi rendition="simple:italic">kechakix</hi> a <hi rendition="simple:italic">kechaqix</hi>, ya que el manuscrito aparece <hi rendition="simple:italic">quechaquix uloc</hi>.
       </note>uloq rumal che'</p>
-      <p>(Folio 5 verso. Línea 1 termina el capítulo en la línea No.14.) Keraj
-      ok pa jul xa chiyuch jul chi kiwach.</p>
-      <p>Keje' k'ut ukayojik winaq tz'aq winaq b'it e tzixel e tzalatzoxel chi
-      winaq.</p>
+      <!-- editor's note: consulta con Ajpub': aquí no hay . después de che' -->
+      <p>Keraj ok pa jul xa chiyuch jul chi kiwach.</p>
+      <p>Keje' k'ut ukayojik winaq tz'aq winaq b'it e tzixel e tzalatzoxel chi winaq.</p>
       <p>Xma'ixik xk'utuxik kichi' kiwach konojel.</p>
-      <p>Xcha' k'ut are retal ri k'oy k' o pa k'echelaj wakamik.</p>
-      <p>Are xk'oje wi retal rumal xa che' kityo'jil xkojik rumal Ajtz'aq
-      Ajb'it.</p>
-      <p>Are k'u ri k'oy keje ri winaq chiwachinik retal e winaq tz'aq winaq
-      b'it</p>
+      <p>Xcha' k'ut are retal ri <rs ana="K'OY">k'oy</rs> k' o pa k'echelaj wakamik.</p>
+      <p>Are xk'oje wi retal rumal xa che' kityo'jil xkojik rumal <rs ana="TZ'AQOL">Ajtz'aq</rs> <rs ana="B'ITOL">Ajb'it</rs>.</p>
+      <p>Are k'u ri <rs ana="K'OY">k'oy</rs> keje ri winaq chiwachinik retal e winaq tz'aq winaq b'it</p>
       <p>xa poy xa pu ajam che'.</p>
+      <!-- editor's note: corresponds to XOM 5v, paragraph 10 -->
+      <!-- editor's note: Ajtz'ib'ab' paragraph -->
       <p><figure>
-        <head>Imagen en blanco y negro Descripción generada automáticamente
-        con confianza baja</head>
+        <head>Imagen en blanco y negro. Descripción generada automáticamente con confianza baja</head>
         <graphic url="media/image021.jpeg" width="2.38261in" height="1.52279in" />
       </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 2592</hi></p>
-      <p><hi rendition="simple:bold">Elementos iconográficos: </hi>Mono</p>
-      <p><hi rendition="simple:bold"><lb /></hi></p>
+      <p><hi rendition="simple:bold">Número Kerr: 2592</hi></p>
+      <p><hi rendition="simple:bold">Elementos iconográficos:</hi> <rs ana="K'OY">Mono</rs></p>
+      <!-- editor's note: start of section 2, Ukab', Colop 1999 p. 39, XOM 5v --> 
       <p><hi rendition="simple:bold">Ukab'</hi></p>
       <p><figure>
         <graphic url="media/image001.png" width="6.10972in" height="2.21528in" />
       </figure></p>
-      <p><hi rendition="simple:bold"><lb /></hi></p>
       <p>Are k'ut xa jub'iq' saqnatanoj uwach ulew maja b'i q'ij<note>
         <p>Esta parte inicia en el Folio 5 verso, línea 16. Aquí hay punto y
         seguido y se deja como tal.</p>
