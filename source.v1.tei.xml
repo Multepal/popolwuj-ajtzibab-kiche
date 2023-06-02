@@ -471,7 +471,7 @@
       <note place="foot" xml:id="quc.n040"><seg type="note-symbol">40</seg>
         En el folio 3 recto, línea No. 19. Aparece <hi rendition="simple:italic">xivech</hi>, mientras que en la versión K'iche' aparece con <hi rendition="simple:italic">ri wech</hi>. Con la nota No. 15. Donde
         dice: <hi rendition="simple:italic">El texto tiene xivech, en Sam aparece ri wech</hi>. Se sugiere retomar <hi rendition="simple:italic">xiwech</hi>. Porque el contexto habla sobre <hi rendition="simple:italic">es de ustedes siempre</hi>,
-        y en la forma estándar quedaría <hi rendition="simple:italic">xa iwech</hi>.<!-- editor's note: fn15 doesn't mention Colop. He is in fns 4, 26, and 27. Se refiere a Colop p. 29, aunque no hay pagina en la nota. Asj Ajpub' -->
+        y en la forma estándar quedaría <hi rendition="simple:italic">xa iwech</hi>.<!-- editor's note: fn15 doesn't mention Colop. He is in fns 4, 26, and 27. Se refiere a Colop p. 29, aunque no hay página en la nota. Asj Ajpub' -->
       </note>wi mixe'uxik siwan k'echelaj</p>
       <p>rumal mawi xutzin qaq'ijiloxik mawi ixsik'iy qe.</p>
       <p>K'a k'o, k'o wi lo q'ijilonel nimanel chi qab'an chik</p>
@@ -1479,162 +1479,172 @@
         Para mí, si utilizamos títulos por partes o capítulos, este seria el título de esta parte de la narración.
         <!--editor's note: show this to Aldo and talk about tsúuk--> 
       </note>.</p>
-      <p>In b'anol juyub'. Kacha' ri Sipakna. Are k'u ri Sipakna katinik
-      chuchi' ja' ta xe'ik'owik omuch' k'ajolab' e juruy che' raqan
-      kikab'al.</p>
-      <p>Omuch' chub'inik ta xkiq'at k'ut jun<note>
-        <p>Fin de Folio 8 recto e inicio de Folio 8 verso.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>In b'anol juyub'. Kacha' ri <rs ana="SIPAKNA">Sipakna</rs>. Are k'u ri <rs ana="SIPAKNA">Sipakna</rs> katinik
+      chuchi' ja' ta xe'ik'owik <rs ana="MOTZ">omuch' k'ajolab'</rs> e juruy che' raqan kikab'al.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Omuch' chub'inik ta xkiq'at k'ut jun<ref target="quc.n203"><hi rend="sup">203</hi></ref>
+      <note place="foot" xml:id="quc.n203"><seg type="note-symbol">203</seg>
+        in de Folio 8 recto e inicio de Folio 8 verso.
       </note> nimache' uwapalil kikab'al.</p>
-      <p>K'ate k'ut xb'e ri Sipakna, xopon k'u chila' kuk' ri omuch'
-      k'ajolab'.</p>
-      <p>Nakipa'<note>
-        <p>¿Esta partícula interrogativa se escriben juntas o separas nakipa'
-        o naki pa'? Sam (1999:45) se escribe naki pa y en Mondloch y Carmack
-        (2018) se escribe naqipa'.</p>
-      </note> kib'ano ix k'ajolab'.</p>
-      <p>Xa che' mawi kaqayako chi teleb'a'<note>
-        <p>Acá, hay duda. la oración parece que es así, como respuesta a
-        pregunta: xa che' mawi kaqayako chi teleb' (a). Como propuesta de Par,
-        la –a final de teleb'(a), al parecer es una forma de conservación
-        silábica de las inscripciones jeroglífica que los escribas K'iche'
-        conservaron y se refleja en la escritura kaxlan. Ahora, la propuesta
-        de Mondloch y Carman (2018) es: “<hi rendition="simple:bold">Xa che'
-        mawi kaqayako”. “Chiteleb'a'.</hi> Y en Sam (2019: 45) es -Xa che'
-        mawi kaqayako-. –Chiteleb'a'!</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>K'ate k'ut xb'e ri <rs ana="SIPAKNA">Sipakna</rs>, xopon k'u chila' kuk' ri <rs ana="MOTZ">omuch' k'ajolab'</rs>.</p>
+      <p>Nakipa'<ref target="quc.n204"><hi rend="sup">204</hi></ref>
+      <note place="foot" xml:id="quc.n204"><seg type="note-symbol">204</seg>
+        ¿Esta partícula interrogativa se escriben juntas o separadas: <hi rendition="simple:italic">nakipa'</hi> o <hi rendition="simple:italic">naki pa'</hi>? Sam Colop (1999:45) se escribe <hi rendition="simple:italic">naki pa</hi> y en Mondloch y Carmack (2018) se escribe <hi rendition="simple:italic">naqipa'</hi>.
+        <!--editor's note: confirma la nota con Bety y pide el número de página --> 
+      </note> kib'ano <rs ana="MOTZ">ix k'ajolab'</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Xa che' mawi kaqayako chi teleb'a'<ref target="quc.n205"><hi rend="sup">205</hi></ref>
+      <note place="foot" xml:id="quc.n205"><seg type="note-symbol">205</seg>
+        Acá, hay duda. la oración parece que es así, como respuesta a pregunta: <hi rendition="simple:italic">xa che' mawi kaqayako chi teleb' (a)</hi>. Como propuesta de Par,
+        la <hi rendition="simple:italic">-a</hi> final de <hi rendition="simple:italic">teleb'(a)</hi>, al parecer es una forma de conservación silábica de las inscripciones jeroglífica que los escribas K'iche'
+        conservaron y se refleja en la escritura kaxlan. Ahora, la propuesta de Mondloch y Carmack (2018) es: “<hi rendition="simple:italic">Xa che' mawi kaqayako”. “Chiteleb'a'.</hi> Y en Sam Colop (2019: 45) es <hi rendition="simple:italic">-Xa che'
+        mawi kaqayako-. -Chiteleb'a'!</hi>
+        <!--editor's note: confirma la nota con Bety y pide la página de Mondlock y Carmack --> 
       </note>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Xchintelej apa kopon wi. Nakipa' uchak chi ik'u'x.</p>
-      <p>Xa uwapalil<note>
-        <p>Uwapalil según Varea (s/f:218), es solera, la tabla gruesa que está
-        sobre la puerta o ventana.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Xa uwapalil<ref target="quc.n206"><hi rend="sup">206</hi></ref>
+      <note place="foot" xml:id="quc.n206"><seg type="note-symbol">206</seg>
+        <hi rendition="simple:italic">Uwapalil</hi> según Varea (s/f:218), es <hi rendition="simple:italic">solera</hi>, la tabla gruesa que está sobre la puerta o ventana.
       </note> qakab'al.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Utz b'a la'. Cha' k'ut.</p>
-      <p>Ta xujuruj k'ut, xutuleb'a' k'u aq'anoq chuchi' kikab'al omuch'
-      k'ajolab'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta xujuruj k'ut, xutuleb'a' k'u aq'anoq chuchi' kikab'al <rs ana="MOTZ">omuch' k'ajolab'</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Xa ta wi katk'oje' quk' at k'ajol. K'o pa' achuch aqajaw.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Maja' b'i. Xcha' k'ut.</p>
-      <p>Kaqach'akimaj ta na b'ala', chwe'q chuwab'axik chik jun qache' raqan
-      qakab'al.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Kaqach'akimaj ta na b'ala', chwe'q chuwab'axik chik jun qache' raqan qakab'al.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Utz. Xcha' chik'ut.</p>
-      <p>K'ate'<note>
-        <p>Definir cómo dejar esta palabra. Como k'ate o k'ate'?</p>
-      </note> xk'am kina'oj ri omuch' k'ajolab'. Are ri ala jupacha' chiqab'an
-      chi re. Chiqakamisaj taj rumal mawi utz ri kub'ano? Xa utukel mixuyak ri
-      che', qak'oto jun nimajul chi ri' ta k'ut chiqatzaq wi qajoq pa jul.</p>
-      <p>Jak'ama' k'aja ulew pa jul. Kojcha' ta chi re. Chi are' ta k'ut
-      pachal (¿y/p?)-qajoq<note>
-        <p>Hay una letra acá, parece <hi rendition="simple:bold">y</hi>.
-        Mondolch y Carmack (2018: 60) anota una p---- más guion medio y Sam
-        (1999: 46) no lo menciona.</p>
-      </note> pa jul, taqatarij qajoq ri nimache'. Chi ri' ta k'ut chi kam wi
-      pa jul. Xecha' k'ut omuch' k'ajolab'.</p>
-      <p>Ta xkik'ot k'ut jun nimajul, najt xqajik. Ta xkitaq k'ut ri
-      Sipakna.</p>
-      <p>Oj kanij<note>
-        <p>¿Kanij o qanij?</p>
+      <p>K'ate'<ref target="quc.n207"><hi rend="sup">207</hi></ref>
+      <note place="foot" xml:id="quc.n207"><seg type="note-symbol">207</seg>
+        Definir cómo dejar esta palabra. Como <hi rendition="simple:italic">k'ate</hi> o <hi rendition="simple:italic">k'ate'</hi>?
+        <!--editor's note: confirma la nota con Bety --> 
+      </note> xk'am kina'oj ri <rs ana="MOTZ">omuch' k'ajolab'</rs>. Are ri ala jupacha' chiqab'an chi re. Chiqakamisaj taj rumal mawi utz ri kub'ano? Xa utukel mixuyak ri che', qak'oto jun nimajul chi ri' ta k'ut chiqatzaq wi qajoq pa jul.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Jak'ama' k'aja ulew pa jul. Kojcha' ta chi re. Chi are' ta k'ut pachal (¿y/p?)-qajoq<ref target="quc.n208"><hi rend="sup">208</hi></ref>
+      <note place="foot" xml:id="quc.n208"><seg type="note-symbol">208</seg>
+        Hay una letra acá, parece <hi rendition="simple:italic">y</hi>. Mondolch y Carmack (2018: 60) anota una <hi rendition="simple:italic">p----</hi> más guion medio y Sam Colop (1999: 46) no lo menciona.
+      <!-- editor's note: me parece una p y creo que es un error del escriba -->
+      </note> pa jul, taqatarij qajoq ri nimache'. Chi ri' ta k'ut chi kam wi pa jul. Xecha' k'ut <rs ana="MOTZ">omuch' k'ajolab'</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta xkik'ot k'ut jun nimajul, najt xqajik. Ta xkitaq k'ut ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Oj kanij<ref target="quc.n209"><hi rend="sup">209</hi></ref>
+      <note place="foot" xml:id="quc.n209"><seg type="note-symbol">209</seg>
+        ¿<hi rendition="simple:italic">Kanij</hi> o <hi rendition="simple:italic">qanij</hi>?
+        <!--editor's note: confirma la nota con Bety -->
       </note> chawech chib'eta'ak'oto chik ulew, mawi kaqariqo. Xucha'xik.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Utz b'ala'. Xcha' k'ut. K'ate' k'ut xqaj pa jul.</p>
-      <p>Kasik'in uloq, tak'ototajoq ri ulew naj (najt) ta chi uqajik awumal.
-      Xucha'xik.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Kasik'in uloq, tak'ototajoq ri ulew naj (najt) ta chi uqajik awumal. Xucha'xik.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>We. Xcha' k'ut.</p>
-      <p>Ta xutikib'a' uk'otik jul. Xa k'u ujul xuk'oto, ukolb'al rib'.
-      Xretamaj ri ukamisaxik ta xuk'ot k'ut jun wi chi jul, chutzalanem uka
-      (uka'/ukab')<note>
-        <p>En el manuscrito solamente aparece la forma uca (manuscrito
-        k'iche', folio 8 recto, línea 42), puede ser uka' o se recostruye como
-        ukab', que refiere a 2º. Tal como lo menciona Mondloch y Carmack
-        (2018: 60) como Sam (1999: 47).</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta xutikib'a' uk'otik jul. Xa k'u ujul xuk'oto, ukolb'al rib'. Xretamaj ri ukamisaxik ta xuk'ot k'ut jun wi chi jul, chutzalanem uka
+      (uka'/ukab')<ref target="quc.n210"><hi rend="sup">210</hi></ref>
+      <note place="foot" xml:id="quc.n210"><seg type="note-symbol">210</seg>
+        En el manuscrito solamente aparece la forma <hi rendition="simple:italic">uca</hi> (manuscrito k'iche', folio 8 recto, línea 42), 
+        <!-- editor's note: corresponds to XOM paragraph 13, folio 8v, line 42 -->
+        puede ser <hi rendition="simple:italic">uka'</hi> o se recostruye como <hi rendition="simple:italic">ukab'</hi>, que refiere a 2º. Tal como lo menciona Mondloch y Carmack (2018: 60) como Sam Colop (1999: 47).
       </note> jul xulk'oto xkolotaj wi.</p>
-      <p>Kajanikan<note>
-        <p>En Sam (1999: 47) y Mondloch y Carmack (2018: 60) la transcriben
-        como kajanik'an y k'a janik'an, respectivamente. ¿La forma de
-        Ajtz'ib'ab' cuál sería?</p>
-      </note> pa la'. Xuchax k'u qajoq kumal omuch' k'ajolab'.</p>
-      <p>Kinanuk'oto we xkixnujiq'ij aqanoq ta chutzinoq uk'ototajik<note>
-        <p>Con el poseedor u-termina el Folio 8 verso e inicia el Folio 9
-        recto con la palabra –k'ototajik.</p>
-      </note>. Xcha' uloq Sipakna chi ri' pa jul.</p>
-      <p>Ma k'u are' kuk'ot uxe' jul ri umoqikil, xa ujul kuk'oto, kolb'al
-      rib'. K'ate' k'ut ta xsik'in uloq ri Sipakna, kolon chuka<note>
-        <p>En el manuscrito K'iche' es chuca (algo tachada la tercera letra).
-        Sam (1999: 47) anota –chu k'a y Mondolch y Carmack, anotan chu ka.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Kajanikan<ref target="quc.n211"><hi rend="sup">211</hi></ref>
+      <note place="foot" xml:id="quc.n211"><seg type="note-symbol">211</seg>
+        En Sam Colop (1999: 47) y Mondloch y Carmack (2018: 60) la transcriben como <hi rendition="simple:italic">kajanik'an</hi> y <hi rendition="simple:italic">k'a janik'an</hi>, respectivamente. ¿La forma de Ajtz'ib'ab' cuál sería?
+        <!-- editor's note: confirma la nota con Bety -->
+      </note> pa la'. Xuchax k'u qajoq kumal <rs ana="MOTZ">omuch' k'ajolab'</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Kinanuk'oto we xkixnujiq'ij aqanoq ta chutzinoq uk'ototajik<ref target="quc.n212"><hi rend="sup">212</hi></ref>
+      <note place="foot" xml:id="quc.n212"><seg type="note-symbol">212</seg>
+        Con el poseedor <hi rendition="simple:italic">u-</hi> termina el Folio 8 verso e inicia el Folio 9 recto con la palabra <hi rendition="simple:italic">-k'ototajik</hi>.
+      </note>. Xcha' uloq <rs ana="SIPAKNA">Sipakna</rs> chi ri' pa jul.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ma k'u are' kuk'ot uxe' jul ri umoqikil, xa ujul kuk'oto, kolb'al rib'. K'ate' k'ut ta xsik'in uloq ri <rs ana="SIPAKNA">Sipakna</rs>, kolon chuka<ref target="quc.n213"><hi rend="sup">213</hi></ref>
+      <note place="foot" xml:id="quc.n213"><seg type="note-symbol">213</seg>
+        En el manuscrito K'iche' es <hi rendition="simple:italic">chuca</hi> (algo tachada la tercera letra). Sam Colop (1999: 47) anota <hi rendition="simple:italic">-chu k'a</hi> y Mondolch y Carmack (2018), anotan <hi rendition="simple:italic">chu ka</hi>.
+        <!-- editor's note: falta la página de Mondloch y Carmack -->
       </note> chi ri' pa jul. Ta xsik'in uloq.</p>
-      <p>Kixpetoq! Chulik'ama' ulew rachaq jul, mixk'ototajik. Qitzij, naj
-      mixqaj wumal. Ma pa' kita' nusik'ib'al lo. Are' k'u ri' isik'ib'al xa
-      ub'i kaxojanik, keje' ri jun eleb'al, ka'ib' eleb'al ix k'o wi kanuta'o.
-      Xcha' ula' ri Sipakna.</p>
-      <p>Pa ujul chi ri' k'ut matzal chi wi uloq, kasik'iyaj chi ula' pa jul.
-      Are k'ut kajurux uloq ri kinimache' rumal k'ajolab'. K'ate puch xkitarij
-      qajoq ri che' pa jul.</p>
-      <p>Ma k'o, ma ch'awik. Chiqata' na ta churaquj uchi' ta kamoq. Xecha'
-      chi kib'il kib'. Xa kejaslajik, xa puchi' matzalaj kiwach chi kijujunal,
-      ta xkitarij qajoq ri che'.</p>
-      <p>Are k'u ri xcha' k'ut ta xuraquj uchi'. Xa jupaj chik xsik'inik ta
-      xqaj apanoq ri che'.</p>
-      <p>Oka<note>
-        <p>En el manuscrito k'iche' (folio 9 recto, línea 29) aparece la
-        palabra oca. Lo dejo escrito como Oka. Sam (1999: 47) lo transcribe
-        como Ok'a! y Mondloch con Carmack (2018: 62) lo deja como Oka.</p>
-      </note> mixutzinik, ki<note>
-        <p>En Sam (1999: 47) se transcribe como k'i y en Mondloch y Carmack se
-        transcribe como qi. Lo transcribí así nada más del Folio 9 recto,
-        línea 30.</p>
-      </note> utz mixqab'ano chi re, mixkamik. Ata la b'e chitaqen chub'ano
-      chuchakuj. Ta chuxoq. Unab'e la xukoj ula' rib' quk' chi qaxo'l puch la'
-      oj omuch' k'ajolab'. Xecha' k'ut. Kekikot chik.</p>
-      <p>K'o ri ub'anik qaki oxij, kelekowik<note>
-        <p>No estoy seguro de su transcripción.</p>
-      </note> oxij puch. Chiquk'aj<note>
-        <p>En el contexto de ki (bebida de maguey)</p>
-      </note> lakab'eb'al<note>
-        <p>Mondloch y Carmack (2018: 62) transcriben como laq'ab'eb'al y Sam
-        (1999: 48) lo transcribe como laqab'eb'al. Tengo duda sobre qué
-        específicamente significa.</p>
-      </note> qakab'al la' oj omuch' chi k'ajolab'. Xecha'.</p>
-      <p>Chwe'q k'ut chiqilo kab'ij puch chiqilo mapa' chipe sanik pu ulew ta
-      chuwinoq ta q'eyoq. K'ate' k'ut chul chi qak'u', ta quk'aj ri qaki.
-      Xecha' k'ut.</p>
-      <p>Kuta' k'u uloq ri Sipakna chi ri' pa jul ta xkib'ij k'ajolab' ri'.
-      K'a chukab'ij<note>
-        <p>Fin del Folio 9 recto e inicio del 9 verso.</p>
-      </note> puch ta xtub'ukij sanik, keb'inowik keb'uchunik ta xek'ulun xe'
-      che'. Jumaj kikayelo'on is kikayelo'on puch rixk'aj Sipakna. Ta xkil k'u
-      ri k'ajolab'.</p>
-      <p>Mi pa' xutzin ri k'axtok'. Chiwila' na sanik. Mi xek'ulun uloq mi
-      xetub'ukij. Juma is kikayen, k'o rixk'aq richila'n na. Mi xqab'ano k'a.
-      Xecha' chi kib'il kib'.</p>
-      <p>Are k'u ri Sipakna xa wi k'aslik. Xuq'at uloq rismal uwi', xa pu
-      kuk'ux uloq rixk'aq chi re kuya' ula' chi kech ri sanik. Keje k'u ri'
-      xkamik xkina'o omuch' k'ajolab'. K'ate k'ut xtikar kiki, chi roxij ta
-      xeq'ab'ar puch konojel k'ajolab'. E k'u q'ab'arinaq chik konojel omuch'
-      k'ajolab', maja'<note>
-        <p>Definir si se escribe junto majab'i o separado maja' b'i.</p>
-      </note> b'i kakina' chik. K'ate' puch xulix ri kab'al pa kiwi' rumal ri
-      Sipakna.</p>
-      <p>Xek'is ch'ayatajik konojel maja' b'i chik jun ka'ib' xkolotaj chi
-      kech, xekamisaxik rumal Sipakna, uk'ajol ri Wuqub' Kaqix. Keje k'ut
-      kikamik omuch' k'ajolab' ri'.</p>
-      <p>Xcha' chi k'ut, a re ri xe'ok chi ch'umilal, ri motz ub'i'
-      kumal<note>
-        <p>Mondloch y Carmack (2018: 64) transcribe esta palabra como qumal,
-        sin embargo, la narrativa es en tercera persona (singular o plural) y
-        no en 1ª. Persona plural.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Kixpetoq! Chulik'ama' ulew rachaq jul, mixk'ototajik. Qitzij, naj mixqaj wumal. Ma pa' kita' nusik'ib'al lo. Are' k'u ri' isik'ib'al xa ub'i kaxojanik, keje' ri jun eleb'al, ka'ib' eleb'al ix k'o wi kanuta'o. Xcha' ula' ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Pa ujul chi ri' k'ut matzal chi wi uloq, kasik'iyaj chi ula' pa jul. Are k'ut kajurux uloq ri kinimache' rumal <rs ana="MOTZ">k'ajolab'</rs>. K'ate puch xkitarij qajoq ri che' pa jul.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ma k'o, ma ch'awik. Chiqata' na ta churaquj uchi' ta kamoq. Xecha' chi kib'il kib'. Xa kejaslajik, xa puchi' matzalaj kiwach chi kijujunal, ta xkitarij qajoq ri che'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Are k'u ri xcha' k'ut ta xuraquj uchi'. Xa jupaj chik xsik'inik ta xqaj apanoq ri che'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Oka<ref target="quc.n214"><hi rend="sup">214</hi></ref>
+      <note place="foot" xml:id="quc.n214"><seg type="note-symbol">214</seg>
+        En el manuscrito k'iche' (folio 9 recto, línea 29) 
+        <!-- editor's note: corresponds to XOM paragraph 13, folio 9r, line 29-->
+        aparece la palabra <hi rendition="simple:italic">oca</hi>. Lo dejo escrito como <hi rendition="simple:italic">Oka</hi>. Sam Colop (1999: 47) lo transcribe como <hi rendition="simple:italic">Ok'a</hi>! y Mondloch con Carmack (2018: 62) lo deja como <hi rendition="simple:italic">Oka</hi>.
+      </note> mixutzinik, ki<ref target="quc.n215"><hi rend="sup">215</hi></ref>
+      <note place="foot" xml:id="quc.n215"><seg type="note-symbol">215</seg>
+        En Sam (1999: 47) se transcribe como <hi rendition="simple:italic">k'i</hi> y en Mondloch y Carmack (2018) se transcribe como <hi rendition="simple:italic">qi</hi>. Lo transcribí así nada más del Folio 9 recto, línea 30.
+        <!-- editor's note: corresponds to XOM paragraph 13, folio 9r, line 30 -->
+        <!-- editor's note: falta la página para Mondloch y Carmack -->
+      </note> utz mixqab'ano chi re, mixkamik. Ata la b'e chitaqen chub'ano chuchakuj. Ta chuxoq. Unab'e la xukoj ula' rib' quk' chi qaxo'l puch la' oj <rs ana="MOTZ">omuch' k'ajolab'</rs>. Xecha' k'ut. Kekikot chik.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>K'o ri ub'anik qaki oxij, kelekowik<ref target="quc.n216"><hi rend="sup">216</hi></ref>
+      <note place="foot" xml:id="quc.n216"><seg type="note-symbol">216</seg>
+        No estoy seguro de su transcripción.
+        <!-- editor's note: confirma la nota con Bety -->
+      </note> oxij puch. Chiquk'aj<ref target="quc.n217"><hi rend="sup">217</hi></ref>
+      <note place="foot" xml:id="quc.n217"><seg type="note-symbol">217</seg>
+        En el contexto de <hi rendition="simple:italic">ki</hi> (bebida de maguey).
+      </note> lakab'eb'al<ref target="quc.n218"><hi rend="sup">218</hi></ref>
+      <note place="foot" xml:id="quc.n218"><seg type="note-symbol">218</seg>
+        Mondloch y Carmack (2018: 62) transcriben como <hi rendition="simple:italic">laq'ab'eb'al</hi> y Sam Colop (1999: 48) lo transcribe como <hi rendition="simple:italic">laqab'eb'al</hi>. Tengo duda sobre qué específicamente significa.
+      </note> qakab'al la' oj <rs ana="MOTZ">omuch' chi k'ajolab'</rs>. Xecha'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Chwe'q k'ut chiqilo kab'ij puch chiqilo mapa' chipe <rs ana="SANIK">sanik</rs> pu ulew ta chuwinoq ta q'eyoq. K'ate' k'ut chul chi qak'u', ta quk'aj ri qaki. Xecha' k'ut.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Kuta' k'u uloq ri <rs ana="SIPAKNA">Sipakna</rs> chi ri' pa jul ta xkib'ij <rs ana="MOTZ">k'ajolab'</rs> ri'. K'a chukab'ij<ref target="quc.n219"><hi rend="sup">219</hi></ref>
+      <note place="foot" xml:id="quc.n219"><seg type="note-symbol">219</seg>
+        Fin del Folio 9 recto e inicio del 9 verso.
+      </note> puch ta xtub'ukij sanik, keb'inowik keb'uchunik ta xek'ulun xe' che'. Jumaj kikayelo'on is kikayelo'on puch rixk'aj <rs ana="SIPAKNA">Sipakna</rs>. Ta xkil k'u ri <rs ana="MOTZ">k'ajolab'</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Mi pa' xutzin ri k'axtok'. Chiwila' na <rs ana="SANIK">sanik</rs>. Mi xek'ulun uloq mi xetub'ukij. Juma is kikayen, k'o rixk'aq richila'n na. Mi xqab'ano k'a. Xecha' chi kib'il kib'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Are k'u ri <rs ana="SIPAKNA">Sipakna</rs> xa wi k'aslik. Xuq'at uloq rismal uwi', xa pu kuk'ux uloq rixk'aq chi re kuya' ula' chi kech ri <rs ana="SANIK">sanik</rs>. Keje k'u ri' xkamik xkina'o <rs ana="MOTZ">omuch' k'ajolab'</rs>. K'ate k'ut xtikar kiki, chi roxij ta
+      xeq'ab'ar puch konojel <rs ana="MOTZ">k'ajolab'</rs>. E k'u q'ab'arinaq chik konojel <rs ana="MOTZ">omuch' k'ajolab'</rs>, maja'<ref target="quc.n220"><hi rend="sup">220</hi></ref>
+      <note place="foot" xml:id="quc.n220"><seg type="note-symbol">220</seg>
+        Definir si se escribe junto <hi rendition="simple:italic">majab'i</hi> o separado <hi rendition="simple:italic">maja' b'i</hi>.
+        <!-- editor's note: confirma la nota con Bety -->
+      </note> b'i kakina' chik. K'ate' puch xulix ri kab'al pa kiwi' rumal ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Xek'is ch'ayatajik konojel maja' b'i chik jun ka'ib' xkolotaj chi kech, xekamisaxik rumal <rs ana="SIPAKNA">Sipakna</rs>, uk'ajol ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>. Keje k'ut kikamik <rs ana="MOTZ">omuch' k'ajolab'</rs> ri'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Xcha' chi k'ut, a re ri xe'ok chi ch'umilal, ri <rs ana="MOTZ">motz</rs> ub'i' kumal<ref target="quc.n221"><hi rend="sup">221</hi></ref>
+      <note place="foot" xml:id="quc.n221"><seg type="note-symbol">221</seg>
+        Mondloch y Carmack (2018: 64) transcribe esta palabra como <hi rendition="simple:italic">qumal</hi>, sin embargo, la narrativa es en tercera persona (singular o plural) y no en 1ª. Persona plural.
       </note>.</p>
-      <p>We k'ut xa sakb'al<note>
-        <p>Aquí tento duda sobre la palabra, ya que</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>We k'ut xa sakb'al<ref target="quc.n222"><hi rend="sup">222</hi></ref>
+      <note place="foot" xml:id="quc.n222"><seg type="note-symbol">222</seg>
+        Aquí tento duda sobre la palabra, ya que
+        <!--editor's note: confirma la nota con Bety --> 
       </note> tzij lo'.</p>
-      <p>Are chi k'ut chi qab'ij uch'akatajik chik Sipakna rumal ri e ka'ib'
-      k'ajolab', Jun Ajpu, Xb'alanq'e.</p>
-      <p>Are chik uch'akatajik ukamik Sipakna<note>
-        <p>Este es el título que tiene Sam (1999: 49) que inicia en el Folio 9
-        verso, Línea 37.</p>
-      </note>. Ta xch'ak chik kumal ri e ka'ib' k'ajolab' Junajpu,
-      Xb'alanq'e.</p>
-      <p>Are chik uyoq' kik'u'x k'ajolab', ri omuch' chi k'ajolab' xekamik
-      rumal Sipakna. Xa kar xa tap chutzukuj chi taq a', xere chirecha'aj juta
-      q'ij. Pa q'ij chiwa'katik ta chutzukuj recha', chaq'ab' k'ut chireqaj
-      juyub'<note>
-        <p>Al inicio de esta palabra culmina el folio 9 verso e inicia el
-        folio 10 recto.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Are chi k'ut chi qab'ij uch'akatajik chik <rs ana="SIPAKNA">Sipakna</rs> rumal ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs>, <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
+      <!--editor's note: XOM paragraph 14, same in Ajtz'ib'ab' --> 
+      <p>Are chik uch'akatajik ukamik <rs ana="SIPAKNA">Sipakna</rs><ref target="quc.n223"><hi rend="sup">223</hi></ref>
+      <note place="foot" xml:id="quc.n223"><seg type="note-symbol">223</seg>
+        Este es el título que tiene Sam Colop (1999: 49) que inicia en el Folio 9 verso, Línea 37.
+        <!-- editor's note: corresponds to XOM paragraph 14 -->
+      </note>. Ta xch'ak chik kumal ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> <rs ana="JUNAJPU">Junajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
+      <p>Are chik uyoq' kik'u'x <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>, ri <rs ana="MOTZ">omuch' chi k'ajolab'</rs> xekamik rumal <rs ana="SIPAKNA">Sipakna</rs>. Xa kar xa tap chutzukuj chi taq a', xere chirecha'aj juta
+      q'ij. Pa q'ij chiwa'katik ta chutzukuj recha', chaq'ab' k'ut chireqaj juyub'<ref target="quc.n224"><hi rend="sup">224</hi></ref>
+      <note place="foot" xml:id="quc.n224"><seg type="note-symbol">224</seg>
+        Al inicio de esta palabra culmina el folio 9 verso e inicia el folio 10 recto.
       </note>.</p>
       <p>K'ate k'ut ujalwachixik jun nima tap kumal Jun Ajpu, Xb'alanq'e.</p>
       <p>Are k'ut xkikoj ri uwach ek', ri mak<note>
