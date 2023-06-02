@@ -1875,63 +1875,72 @@
       </note> <rs ana="WUB">kiwub'</rs>. Xa chikuxlab'ij ri <rs ana="TZ'IKIN">tz'ikin</rs> ta <rs ana="WUB">chikiwub'aj</rs>. Chumayjaj k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs>. Ta <rs ana="B'AQ">xkib'aq</rs> k'u kiq'aq' ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>, xkib'ol k'ut <rs ana="TZ'IKIN">kitz'ikin</rs> chuwach<ref target="quc.n265"><hi rend="sup">265</hi></ref>
       <note place="foot" xml:id="quc.n265"><seg type="note-symbol">265</seg>
         <p>Su forma completa es chi uwach.</p>
-      </note> q'aq'. Jun k'ut tz'ikin xkiq'ul sajkab' chi rij, saqi ulew xkikojo.</p>
+      </note> q'aq'. Jun k'ut <rs ana="TZ'IKIN">tz'ikin</rs> xkiq'ul sajkab' chi rij, saqi ulew xkikojo.</p>
        <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Are k'ut chiqaya' chi re ta jiq'onoq. Ta chutziqa'<note>
-        <p>En el manuscrito aparece como chutziqa', sin embargo, por el
-        contexto debería ser chu(s)iqa'.</p>
-      </note> puch ruxlab' qatz'ikin ta ch'aq'ajoq. Are k'u ri ulew xchok chi
-      rij tz'ikin qumal. Pulew<note>
-        <p>Su forma completa es pa ulew.</p>
-      </note> chiqatzaq wi, keje k'ut pulew<note>
-        <p>Su forma completa es pa ulew.</p>
-      </note> chimuq wi. We, nima etamanel jun tz'aq jun b'it.</p>
-      <p>Ta chawaxoq ta saqiroq. Xecha' ri k'ajolab'. Rumal xax chirayin wi
-      uk'uxlal ri chitiyik chichakuxik<note>
-        <p>Me causa algo de duda esta palabra. En el manuscrito k'iche' (Folio
-        11, línea 27) aparece como chacuxic y debería transcribirse así:
-        chakuxik. Sin embargo, Sam (1999: 54) la transcribe como chaq'uxik
-        (con nota No. 113) con el significado de comer carne. Mientras que
-        Mondloch y Carmack (2018: 72) la transcriben como chich'akuxik
-        [chikach'uxik] con significado de “comer y masticar carne”.</p>
-      </note>. Keje xchurayij uk'u'x ri Kab'raqan. - Xecha' chi kib'il kib'
-      Jun Ajpu, Xb'alanq'e.</p>
-      <p>Ta xkib'ol ri tz'ikin. Xchaq'aj k'ut q'an ub'olik. Chiyipowik
-      chikab'chiyanik kij ri tz'ikin. Chi koynik<note>
-        <p>En la versión de Sam (1999:54), está escrita de otra manera y cita
-        (cita número 116) en donde indica que
-        <hi rendition="simple:bold">coij</hi>, es raíz de oler.</p>
+      <p>Are k'ut chiqaya' chi re ta jiq'onoq. Ta chutziqa'<ref target="quc.n266"><hi rend="sup">266</hi></ref>
+      <note place="foot" xml:id="quc.n266"><seg type="note-symbol">266</seg>
+        En el manuscrito aparece como <hi rendition="simple:italic">chutziqa'</hi>, sin embargo, por el contexto debería ser <hi rendition="simple:italic">chu(s)iqa'</hi>.
+      </note> puch ruxlab' qatz'ikin ta ch'aq'ajoq. Are k'u ri ulew xchok chi rij <rs ana="TZ'IKIN">tz'ikin</rs> qumal. Pulew<ref target="quc.n267"><hi rend="sup">267</hi></ref>
+      <note place="foot" xml:id="quc.n267"><seg type="note-symbol">267</seg>
+        Su forma completa es <hi rendition="simple:italic">pa ulew</hi>.
+      </note> chiqatzaq wi, keje k'ut pulew<ref target="quc.n268"><hi rend="sup">268</hi></ref>
+      <note place="foot" xml:id="quc.n268"><seg type="note-symbol">268</seg>
+        Su forma completa es <hi rendition="simple:italic">pa ulew</hi>.
+      </note> chimuq wi. We, nima etamanel <rs ana="TZ'AQOL">jun tz'aq</rs> <rs ana="B'ITOL">jun b'it</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta chawaxoq ta saqiroq. Xecha' ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>. Rumal xax chirayin wi uk'uxlal ri chitiyik chichakuxik<ref target="quc.n269"><hi rend="sup">269</hi></ref>
+      <note place="foot" xml:id="quc.n269"><seg type="note-symbol">269</seg>
+        Me causa algo de duda esta palabra. En el manuscrito k'iche' (Folio 11, línea 27) aparece como <hi rendition="simple:italic">chacuxic</hi> y debería transcribirse así: <hi rendition="simple:italic">chakuxik</hi>. Sin embargo, Sam Colop (1999: 54fn113) la transcribe como <hi rendition="simple:italic">chaq'uxik</hi> con el significado de <hi rendition="simple:italic">comer carne</hi>. Mientras que
+        Mondloch y Carmack (2018: 72) la transcriben como <hi rendition="simple:italic">chich'akuxik</hi> [<hi rendition="simple:italic">chikach'uxik</hi>] con significado de “<hi rendition="simple:italic">comer y masticar carne</hi>”.
+        <!-- editor's note: confirma la nota con Bety--> 
+      </note>. Keje xchurayij uk'u'x ri <rs ana="KAB'RAQAN">Kab'raqan</rs>. - Xecha' chi kib'il kib' <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
+      <p>Ta xkib'ol ri <rs ana="TZ'IKIN">tz'ikin</rs>. Xchaq'aj k'ut q'an ub'olik. Chiyipowik chikab'chiyanik kij ri <rs ana="TZ'IKIN">tz'ikin</rs>. Chi koynik<ref target="quc.n270"><hi rend="sup">270</hi></ref>
+      <note place="foot" xml:id="quc.n270"><seg type="note-symbol">270</seg>
+        En la versión de Sam Colop (1999:54fn116), está escrita de otra manera y cita en donde indica que <hi rendition="simple:italic">coij</hi>, es <hi rendition="simple:italic">raíz de oler</hi>.
       </note> simisoj ruxlab'.</p>
-      <p>Are k'u ri Kab'raqan kurayij chik rechaxik, xa kawajin uwa'al
-      puchi'<note>
-        <p>Su forma completa es pa uchi'.</p>
-      </note> xa kab'iq'ilajik<note>
-        <p>En Sam dice kab'ikilajik</p>
-      </note>, kakurulaj puch uchub' uk'axaj rumal usimsojil tz'ikin.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Are k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs> kurayij chik rechaxik, xa kawajin uwa'al puchi'<ref target="quc.n271"><hi rend="sup">271</hi></ref>
+      <note place="foot" xml:id="quc.n271"><seg type="note-symbol">271</seg>
+        Su forma completa es <hi rendition="simple:italic">pa uchi'</hi>.
+      </note> xa kab'iq'ilajik<ref target="quc.n272"><hi rend="sup">272</hi></ref>
+      <note place="foot" xml:id="quc.n272"><seg type="note-symbol">272</seg>
+        En Sam Colop (1999: 54) dice <hi rendition="simple:italic">kab'ikilajik</hi>.
+      </note>, kakurulaj puch uchub' uk'axaj rumal usimsojil <rs ana="TZ'IKIN">tz'ikin</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Ta xutz'onoj k'ut.</p>
-      <p>Naki pa ri iwecha'. Qitzij qus ruxlab' kanuna'o. Chiya' ta sqaqi'n
-      wech! Xcha' k'ut.</p>
-      <p>Ta xya' k'ut jun tz'ikin chi re Kab'raqan, uch'akatajik k'u ri'.
-      K'ate k'ut xuk'is ri tz'ikin.</p>
-      <p>Ta xb'e chi k'ut, xe'opon k'u chila' releb'al q'ij k'o wi ri nima
-      juyub'.</p>
-      <p>Are k'u ri Kab'raqan xa tub'ul chik raqan uq'ab'. Ma b'i chikowin
-      chik rumal ri ulew xq'ul chi rij tz'ikin, xuti'o.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Naki pa ri iwecha'. Qitzij qus ruxlab' kanuna'o. Chiya' ta sqaqi'n wech! Xcha' k'ut.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta xya' k'ut jun <rs ana="TZ'IKIN">tz'ikin</rs> chi re <rs ana="KAB'RAQAN">Kab'raqan</rs>, uch'akatajik k'u ri'. K'ate k'ut xuk'is ri <rs ana="TZ'IKIN">tz'ikin</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta xb'e chi k'ut, xe'opon k'u chila' releb'al q'ij k'o wi ri nima juyub'.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Are k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs> xa tub'ul chik raqan uq'ab'. Ma b'i chikowin chik rumal ri ulew xq'ul chi rij <rs ana="TZ'IKIN">tz'ikin</rs>, xuti'o.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Ma k'u ja b'i chik,</p>
-      <p>Naki la xub'jan<note>
-        <p>Aunque, tanto Sam (1999:55), como Mondloch y Carmack (2018:74)
-        transcriben como xub'an. Sin embargo, en el manuscrito K'iche' (Folio
-        12 recto, línea 2 y 3, está escrito como xubhan.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <!-- editor's note: confirma la puntuación con Bety/Ajtz'ib'ab' -->
+      <p>Naki la xub'jan<ref target="quc.n273"><hi rend="sup">273</hi></ref>
+      <note place="foot" xml:id="quc.n273"><seg type="note-symbol">273</seg>
+        Aunque, tanto Sam Colop (1999:55), como Mondloch y Carmack (2018:74) transcriben como <hi rendition="simple:italic">xub'an</hi>. Sin embargo, en el manuscrito K'iche' (Folio
+        12 recto, línea 2 y 3), 
+        <!-- editor's note: corresponds to XOM paragraph 15, folio 12r, lines 2-3 -->
+        está escrito como <hi rendition="simple:italic">xubhan</hi>.
       </note> chik chi re juyub'. Mawi xutzinik, xuwulij taj.</p>
-      <p>Ta xim k'ut kumal k'ajolab' chi rij xim wi uq'ab'. Xrilij uq'ab'
-      kumal k'ajolab'. Xim k'ut uqul raqan ukab'ichal. K'ate k'ut xkitarij
-      qajoq pulew<note>
-        <p>Su forma completa pa ulew.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Ta xim k'ut kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> chi rij xim wi uq'ab'. Xrilij uq'ab' kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>. Xim k'ut uqul raqan ukab'ichal. K'ate k'ut xkitarij qajoq pulew<ref target="quc.n274"><hi rend="sup">274</hi></ref>
+      <note place="foot" xml:id="quc.n274"><seg type="note-symbol">274</seg>
+        Su forma completa <hi rendition="simple:italic">pa ulew</hi>.
       </note>, xkimuqu.</p>
-      <p>Keje k'ut uch'akatajik Kab'raqan ri xa wi xere Jun Ajpu, Xb'alanq'e.
-      Mawi ajilan kib'anoj waral chuwach<note>
-        <p>Su forma completa chi uwach.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      <p>Keje k'ut uch'akatajik <rs ana="KAB'RAQAN">Kab'raqan</rs> ri xa wi xere <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>. Mawi ajilan kib'anoj waral chuwach<ref target="quc.n275"><hi rend="sup">275</hi></ref>
+      <note place="foot" xml:id="quc.n275"><seg type="note-symbol">275</seg>
+        <p>Su forma completa <hi rendition="simple:italic">chi uwach</hi>.</p>
       </note> ulew.</p>
+      <!-- editor's note: seem to be missing a few lines from XOM? They would be: are nabe mi xcabih ri qui
+<lb n="16"/>chacatahic <rs ana="WUQUB'_KAQIX">vvcub caquix</rs>, ruc
+<lb n="17"/><rs ana="SIPAKNA">zipacna</rs>, ruq <rs ana="KAB'RAQAN">cabracan</rs>, varal
+<lb n="18"/>chuvach vleuh.-->
     </body>
   </text>
 </TEI>
