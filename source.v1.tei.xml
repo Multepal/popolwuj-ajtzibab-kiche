@@ -41,13 +41,7 @@
       <p><!-- editor's note: corresponds to XOM 1r, paragraph 1--> <hi rendition="simple:bold">Are' uxe' ojer tzij waral K'iche' ub'i'</hi></p>
       <!-- editor's note: corresponds to XOM 1r, paragraph 2 -->
       <p>Waral xchiqatz'ib'aj wi xchiqatikib'a' wi ojer tzij</p>
-      <p>utikarib'al uxe'nab'al puch ronojel xb'an pa <rs ana="TINAMIT_K'ICHE'">tinamit K'iche'</rs> ramaq'
-        <rs ana="TINAMIT_K'ICHE'">K'iche' winaq</rs>.</p>
-      <!-- editor's note: no image included in 2nd draft. Ask Ajpub' -->
-      <p><figure>
-        <graphic url="media/image002.jpeg" width="3.61194in" height="1.47569in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 1185</hi></p>
+      <p>utikarib'al uxe'nab'al puch ronojel xb'an pa <rs ana="TINAMIT_K'ICHE'">tinamit K'iche'</rs> ramaq' <rs ana="TINAMIT_K'ICHE'">K'iche' winaq</rs>.</p>
       <p>Are k'ut xchiqak'am wi uk'utunisaxik uq'alajob'isaxik utzijoxik puch ewaxib'al saqirib'al rumal <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs><ref target="quc.n001"><hi rend="sup">1</hi></ref>
       <note place="foot" xml:id="quc.n001"><seg type="note-symbol">1</seg>
         De acuerdo con el análisis realizado que las palabras "<rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs>", son agentivos y no son nombres propios y acompañan a los nombres de <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs> o a veces los sustituye, por lo que se define que se debe de escribir con minúsculas.
@@ -63,13 +57,7 @@
       <note place="foot" xml:id="quc.n004"><seg type="note-symbol">4</seg>
         En el folio 1r, en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega "<rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>", siguiendo el patrón de "<rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>". Ximenez registra "sis" como "tzis". Aquí se deja como "sis".
       </note></p>
-      <p><rs ana="JUNAJPU_WUCH'">Junajpu Wuch'</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs> <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq Saqinim</rs> Sis
-     <!-- editor's note: another case where the image was replaced. Ask Ajpub' -->
-        <figure>
-        <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
-        <graphic url="media/image003.jpeg" width="3.13945in" height="1.07774in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 1001</hi></p>
+      <p><rs ana="JUNAJPU_WUCH'">Junajpu Wuch'</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs> <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq Saqinim</rs> Sis</p>
       <p><rs ana="TEPEW_Q'UKUMATZ">Tepew Q'uq'kumatz</rs><ref target="quc.n005"><hi rend="sup">5</hi></ref>
         <note place="foot" xml:id="quc.n005"><seg type="note-symbol">5</seg>
         La forma completa es "<rs ana="TEPEW_Q'UKUMATZ">Q'uq' Kumatz</rs>".
@@ -103,26 +91,6 @@
       <p>xa ewal uwach ilol re b'isol re</p>
       <p>nim upe'oxik utzijoxik puch</p>
       <p>ta chik'istz'uk ronojel kaj ulew</p>
-      <!-- editor's note: another case where the image is not here. Ask Ajpub'. If eliminating, delete through line 117 -->
-      <p><figure>
-        <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
-        <graphic url="media/image004.jpeg" width="3.16883in" height="1.2596in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr:2095:</hi> Codex - libro, Dios N, Tinta o contenedor de pintura, Sabak Kuch</p>
-      <p><figure>
-        <head>Un dibujo de una persona. Descripción generada automáticamente con confianza media</head>
-        <graphic url="media/image005.jpeg" width="2.67164in" height="0.87014in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 2994</hi></p>
-      <table>
-        <row role="label">
-          <cell><p>Escribas con sus contenedores de pintura.</p></cell>
-        </row>
-        <row>
-          <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Inscripción - otro texto, escribas, artistas, talladores, <rs ana="KA'IB'_K'AJOLAB'">gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs> &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, tinta o contenedor de
-          pintura, Sabak Kuch</p></cell>
-        </row>
-      </table>
       <p>ukaj tz'uquxik ukaj xukutajik retaxik ukaj che'xik</p>
       <p>umej k'a'maxik uyuq k'a'maxik upa kaj upa ulew</p>
       <p>kajtz'uk kajxukut chucha'xik rumal <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs></p>
@@ -145,65 +113,17 @@
         <note place="foot" xml:id="quc.n012"><seg type="note-symbol">12</seg>
           En esta línea hay una combinación de partículas que son "maja, b'i y -oq". Se escriben juntas porque en este caso las tres partículas están indicando tiempo y aspecto en pasado. Esta expresión se acerca mucho al idioma Q'eqchi' que actualmente se dice "maji'aq" como un adverbio de tiempo en pasado.
         </note>jun winaq</p>
-      <!-- editor's note: confirm with Ajpub' that they no longer want the photo of Murales de san Bartolo (buscar foto) -->
-      <!-- editor's note: ask Ajpub' if they still plan to use this image-->
-      <p><figure>
-        <head>Un dibujo de una persona Descripción generada automáticamente con confianza baja</head>
-        <graphic url="media/image006.jpeg" width="4.36364in" height="1.56724in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 1254:</hi> Hembra, <rs ana="SOTZ">Murciélagos</rs>, <rs ana="TZ'IKIN">Pájaros</rs>, <rs ana="KEJ">Ciervos</rs>, Dios[sic]3, Bebé Jaguar, <rs ana="US">Insecto</rs>, Inscripción
-      - otro texto, Sombrero - sombrero de cazador, <rs ana="TAP">Sapo</rs>, <rs ana="KA'IB'_K'AJOLAB'">Gemelos</rs> - <rs ana="JUNAJPU">Hunahpú</rs>
-      &amp; <rs ana="XB'ALAMQ'E">Xbalanqué</rs>, <rs ana="B'ATE">Yugos</rs>, equipo de <rs ana="CHAAJ">juego de pelota</rs>, Secuencia Estándar
-      Primaria, <rs ana="Q'ALIB'AJ">Trono</rs>, Armadillo</p>
       <p>jun chikop <rs ana="TZ'IKIN">tz'ikin</rs></p>
       <p><rs ana="KAR">kar</rs> <rs ana="TAP">tap</rs></p>
       <p>che' ab'aj</p>
       <p>jul siwan</p>
       <p>k'im k'ichelaj xa utukel kaj k'olik.</p>
       <p>Ma wi q'alaj uwach ulew xa utukel remanik <rs ana="PALO">palo</rs> upa kaj ronojel</p>
-      <!-- editor's note: Ask Ajpub' if they still pla to use the image -->
-      <p><figure>
-        <graphic url="media/image007.jpeg" width="2.12635in" height="1.01739in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 2759</hi></p>
-      <table>
-        <row role="label">
-          <cell><p><hi rendition="simple:bold">Comentarios: </hi>Comparar con K 8091 para jarrón del mismo pintor  </p></cell>
-        </row>
-        <row>
-          <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Armadillo, <rs ana="KEJ">Ciervo</rs>, <rs ana="US">Insecto</rs>, Inscripción - otro texto</p>
-          <p><figure>
-            <graphic url="media/image008.jpeg" width="2.33333in" height="0.91736in" />
-          </figure></p>
-          <p><hi rendition="simple:bold">Número Kerr: 2768</hi></p>
-          <p><hi rendition="simple:bold">Elementos iconográficos: </hi><rs ana="TZ'IKIN">Aves</rs>, Paquete, tributo, caché, Dios C, k'ul</p></cell>
-        </row>
-      </table>
       <p>maja' b'i naqi la' kamolob'ik kakotzob'ik</p>
       <p>jun ta kasilob'ik kamalkab'an<ref target="quc.n013"><hi rend="sup">13</hi></ref>
         <note place="foot" xml:id="quc.n013"><seg type="note-symbol">13</seg>
           Posible error de escritura, se cree que refiere a "kamol" de "kamolob'ik" por estar en par de "kotzkob'ik, kakotzkob'ik". "Kamalkab'antaj" puede referir a la posibilidad de no hacer nada.
       </note> taj kakotzkab'an taj pa kaj</p>
-      <!-- editor's note: ask Ajpub' if they still want this image. If not, erase through line 207 -->
-      <p>FOTO. Lago en la noche</p>
-      <p><figure>
-        <head>Imagen en blanco y negro de un lago Descripción generada automáticamente</head>
-        <graphic url="media/image009.jpeg" width="2.625in" height="1.96268in" />
-      </figure></p>
-      <p><figure>
-        <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
-        <graphic url="media/image010.jpeg" width="2.76522in" height="1.55619in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 2284</hi></p>
-      <table>
-        <row role="label">
-          <cell><p>Mol Ko Chi (God Aprime) sostiene olla con <rs ana="SITA'L">abejas</rs> emergiendo.</p></cell>
-        </row>
-        <row>
-          <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi><rs ana="US">Insecto</rs>, Inscripción - otro texto, <rs ana="B'ALAM">Jaguar</rs>, Lirio
-          de agua <rs ana="B'ALAM">Jaguar</rs>, Dios A', Dios Aprime, Ah Kan, Glifo de <rs ana="IK'OQ'IJ">Venus</rs>, glifo estrella T510, <rs ana="KUMATZ">Serpiente</rs></p></cell>
-        </row>
-      </table>
       <p>xa ma k'o wi naqi la' k'olik yakalik</p>
       <p>xa remanik ja' xa li'anik <rs ana="PALO">palo</rs></p>
       <p>xa utukel remanik xa<ref target="quc.n014"><hi rend="sup">14</hi></ref>
@@ -211,24 +131,6 @@
           Se cree que "xma" es contracción de "xa ma".
       </note> ma k'o wi naqi la' lo k'olik</p>
       <p>xa kachamanik katz'ininik chi q'equ'm chi aq'ab'.</p>
-      <!-- editor's note: confirm with Ajpub' if they still want this image. If not, delete through line 232-->
-      <p><figure>
-        <head>Un <rs ana="TZ'IKIN">pájaro</rs> parado en un cuerpo de <rs ana="PALO">agua</rs>. Descripción generada automáticamente con confianza media</head>
-        <graphic url="media/image011.jpeg" width="2.32292in" height="2.50972in" />
-      </figure></p>
-      <p><figure>
-        <head>Un dibujo de una caja. Descripción generada automáticamente con confianza baja</head>
-        <graphic url="media/image012.jpeg" width="2.93043in" height="1.23418in" />
-      </figure></p>
-      <p><hi rendition="simple:bold">Número Kerr: 2773</hi></p>
-      <table>
-        <row role="label">
-          <cell><p><hi rendition="simple:bold">Comentarios: </hi>Una secuencia estándar principal (PSS). Un monstruo de <rs ana="TZ'IKIN">pájaro</rs> abstracto.</p></cell>
-        </row>
-        <row>
-          <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Banda sky con glifos estrella, secuencia estándar primaria</p></cell>
-        </row>
-      </table>
       <!--editor's note: Ajtz'ib'ab has a paragraph not in XOM. Not sure how to signal this. Raf! Corresponds to XOM folio 1v, paragraph 4, line 23--> 
       <p>Xa utukel ri <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs> <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs></p>
       <p>e <rs ana="ALOM">alom</rs> e <rs ana="K'AJOLOM">k'ajolom</rs> k'o pa ja' saqtetoj e k'o wi</p>
@@ -239,20 +141,6 @@
         </note> ajna'oj chi kik'oje'ik</p>
       <p>keje' k'ut xax k'o wi ri kaj k'o wi nay puch <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs></p>
       <p>are' ub'i' ri kab'awil chuchaxik Ta xpe k'ut utzij</p>
-      <!-- editor's note: confirm with Ajpub' that they no longer want the image-->
-      <p><figure>
-        <head>Un dibujo de una persona Descripción generada automáticamente con confianza media</head>
-        <graphic url="media/image013.jpeg" width="2.57391in" height="1.00767in" />
-      </figure></p>
-      <table>
-        <row role="label">
-          <cell><p><hi rendition="simple:bold">Kerr Number: 2797</hi></p>
-          <p><hi rendition="simple:bold">Comentario: </hi>Dios K haciendo presentación a Itzamná</p></cell>
-        </row>
-        <row>
-          <cell><p><hi rendition="simple:bold">Elementos iconográficos: </hi>Noh Kaan, Och Chan, God K, Kawil, Trono</p></cell>
-        </row>
-      </table>
       <!-- editor's note: corresponds to XOM 1v, paragraph 5 -->
       <p>waral xul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs></p>
       <p>waral chi q'equ'mal chi aq'ab'al</p>
