@@ -111,7 +111,7 @@
       </note></p>
       <p>majab'i'oq<ref target="quc.n012"><hi rend="sup">12</hi></ref>
         <note place="foot" xml:id="quc.n012"><seg type="note-symbol">12</seg>
-          En esta línea hay una combinación de partículas que son "maja, b'i y -oq". Se escriben juntas porque en este caso las tres partículas están indicando tiempo y aspecto en pasado. Esta expresión se acerca mucho al idioma Q'eqchi' que actualmente se dice "maji'aq" como un adverbio de tiempo en pasado.
+          En esta línea hay una combinación de partículas que son "maja", "b'i" y "-oq". Se escriben juntas porque en este caso las tres partículas están indicando tiempo y aspecto en pasado. Esta expresión se acerca mucho al idioma Q'eqchi' que actualmente se dice "maji'aq" como un adverbio de tiempo en pasado.
         </note>jun winaq</p>
       <p>jun chikop <rs ana="TZ'IKIN">tz'ikin</rs></p>
       <p><rs ana="KAR">kar</rs> <rs ana="TAP">tap</rs></p>
@@ -164,83 +164,76 @@
       <note place="foot" xml:id="quc.n019"><seg type="note-symbol">19</seg>
         Se sugiere que debe ser "<rs ana="JUN_RAQAN">Jun Raqan</rs>" por ser nombre propio.
       </note>ub'i'</p>
-      <p><rs ana="KAQUILJA_JUN_RAQAN">Kaqulja Jun Raqan</rs> nab'e</p>
-      <p>ukab' k'ut <rs ana="CH'IPI_KAQULJA">Ch'ipi Kaqulja</rs></p>
-      <p>rox chik <rs ana="RAXA_KAQULJA">Raxa Kaqulja</rs></p>
-      <p>chi e k'u oxib' ri' <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs>.</p>
-      <p>Ta xe'ul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs> ta xna'ojixik saq k'aslem.</p>
-      <p>Jupa cha ta chawaxoq ta saqiroq puch</p>
-      <p>Apachinaq tzuqul <rs ana="K'OOL">k'ool</rs></p>
-      <p>Ta chuxoq kixno(')jin<ref target="quc.n016"><hi rend="sup">16</hi></ref>
-      <note place="foot" xml:id="quc.n016"><seg type="note-symbol">16</seg>
-        Se sugiere agregar la glotal en la raíz de palabra <hi rendition="simple:italic">no'j</hi>, como en <hi rendition="simple:italic">kixnojin</hi>, y en las demás palabras que llevan otras marcas de tiempo,
-        ya que en la mayoría del texto del <hi rendition="simple:italic"><rs ana="POPOL_WUJ">Popol Wuj</rs></hi> no se utiliza, por lo que debe de escribirse <hi rendition="simple:italic">kixno'jin</hi>.
-      </note>taj</p>
-      <p>Are ri ja' chel taj chijama'<ref target="quc.n017"><hi rend="sup">17</hi></ref>
-      <note place="foot" xml:id="quc.n017"><seg type="note-symbol">17</seg>
-        Se junto la palabra <hi rendition="simple:italic">chi jama'</hi>, esto para dar el sentido y la estructura gramatical de la palabra.
-      </note> taj</p>
-      <p>Chiwinaqir wa ulew ulaqel<ref target="quc.n018"><hi rend="sup">18</hi></ref>
-      <note place="foot" xml:id="quc.n018"><seg type="note-symbol">18</seg>
-        En los manuscritos de Jiménez y Baseta, la palabra <hi rendition="simple:italic">ulaqel</hi>, dice <hi rendition="simple:italic">juntar</hi>. <!-- editor's note: faltan páginas para la referencia -->
-      </note> ta k'u rib' ch'a ta k'ut<ref target="quc.n019"><hi rend="sup">19</hi></ref>
-      <note place="foot" xml:id="quc.n019"><seg type="note-symbol">19</seg>
-        Se cambia la palabra <hi rendition="simple:italic">ch'ata</hi> a <hi rendition="simple:italic">ch'a ta k'ut</hi>.
-      </note> .</p>
-      <p>Ta chawaxoq ta saqiroq kaj ulew</p>
-      <p>Mata k'ut uq'ijilab'al uq'ala'ib'al ri qatz'aq ri qab'it.</p>
-      <p>Ta winaqiroq winaq tz'aq winaq b'it! xecha' k'ut.</p>
-      <!-- editor's note: Ajtz'ib'ab' has a paragraph here. Not sure how to show. Raf! -->
-      <p><hi rendition="simple:bold">TA XWINAQIR K'U RI ULEW KUMAL</hi></p>
-      <p>Xa kitzij xk'oje wi uwinaqirik</p>
-      <p>Chiwinaqir ulew, ulew xecha'.</p>
-      <p>Lib'ajchi'<ref target="quc.n020"><hi rend="sup">20</hi></ref>
+      <!-- editor's note: Ajtz'ib'ab' has a paragraph here. Not in XOM. Raf! -->
+      <p><rs ana="KAQUILJA_JUN_RAQAN">Kaqulja JuRaqan</rs> nab'e</p>
+      <p>ukab' k'ut <rs ana="CH'IPI_KAQULJA">Ch'ipaKaqulja</rs></p>
+      <p>rox chik <rs ana="RAXA_KAQULJA">RaxaKaqulja</rs></p>
+      <p>chi e k'u oxib' ri' <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> ta xe'ul kuk' ri <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs> ta xna'ojixik saq k'aslem.</p>
+      <p>Jupacha ta chawaxoq ta saqiro<ref target="quc.n020"><hi rend="sup">20</hi></ref> puch
       <note place="foot" xml:id="quc.n020"><seg type="note-symbol">20</seg>
-        Se propone escribir junto la palabra <hi rendition="simple:italic">lib'aj chi'</hi>, a <hi rendition="simple:italic">lib'achi'</hi>. Es un adverbio de tiempo que indica temprano.
-      </note> xwinaqirik</p>
-      <p>keje'<ref target="quc.n021"><hi rend="sup">21</hi></ref>
+        La forma completa es "saqiroq".
+      </note></p>
+      <p>apachinaq tzuqul q'ol<ref target="quc.n021"><hi rend="sup">21</hi></ref>
       <note place="foot" xml:id="quc.n021"><seg type="note-symbol">21</seg>
-        La palabra <hi rendition="simple:italic">k'eje'</hi> se ha utilizado en todo el texto del <hi rendition="simple:italic"><rs ana="POPOL_WUJ">Popol Wuj</rs></hi>, por lo que debe escribirse en todo el texto <hi rendition="simple:italic">keje'</hi>.
-      </note> ri xa ta sutz' xa mayul uwinaqirik chik upupuje'ik (chik)<ref target="quc.n022"><hi rend="sup">22</hi></ref>
-      <note place="foot" xml:id="quc.n022"><seg type="note-symbol">22</seg>
-        Según Baseta, dice <hi rendition="simple:italic">Pupuje'ik</hi> se dice <hi rendition="simple:italic">de las nieblas</hi>, cuando se levanta en algún monte. Y se sugiere que la palabra <hi rendition="simple:italic">chi k'u pupuje'ik</hi>
-        se cambia de acuerdo con la gramática del idioma a <hi rendition="simple:italic">chik upupuje'ik</hi> y el agregado <hi rendition="simple:italic">(chik)</hi> para que sea complemento del texto, y sea un Pareto.
-      </note>.</p>
-      <p>Ta xtape pa ja' ri juyub' jusuk' nima'q juyub' xuxik</p>
-      <p>Xa kinawal xa kipus xb'anataj wi una'ojixik juyub' taq'aj</p>
-      <p>jusuk' rach winaqirik uq'isisil upachajil uwach</p>
-      <!-- editor's note: Ajtz'ib'ab' has a paragraph here. Not sure how to show. Raf! -->
-      <p>Keje' k'ut xkikot wi ri <rs ana="Q'UKUMATZ">Q'ukumatz</rs></p>
-      <p>Utz mixatulik at <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> at <rs ana="JUN_RAQAN">Junraqan</rs> at puch <rs ana="CH'IPI_KAQULJA">Ch'ipi Kaqulja Raxa Kaqulja</rs></p>
-      <p>Xchutzinik qatz'aq<ref target="quc.n023"><hi rend="sup">23</hi></ref>
+        En la versión de Mondlock y Carmack (2018:152) lo registra como "q'o'ol". En tz'utujil se comprende como "él que da y llena de comida."
+      </note> ta chuxoq kixno'jin</p>
+      <p>Are ri ja' chel taj chijamataj<ref target="quc.n022"><hi rend="sup">22</hi></ref>
+      <note place="foot" xml:id="quc.n017"><seg type="note-symbol">22</seg>
+        Forma verbal pasiva, se escribe unido.
+      </note></p>
+      <p>chiwinaqir wa ulew ulaq'el<ref target="quc.n023"><hi rend="sup">23</hi></ref>
       <note place="foot" xml:id="quc.n023"><seg type="note-symbol">23</seg>
-        Se sugiere corregir la palabra <hi rendition="simple:italic">qatzak</hi> a <hi rendition="simple:italic">qatz'aq</hi>, para tener el sentido y el mensaje completo del texto. <!--editor's note: ask Ajpub' to explain why here --> 
-      </note> qab'it. Xecha' k'ut.</p>
+        Según Basseta (2005: 337) "laq'-" refiere a "juntar, pegar", en este caso indica "juntarse la tierra".
+      </note> ta k'u rib'</p>
+      <p>ch'ata k'ut ta chawaxoq ta saqiroq kaj ulew</p>
+      <p>ma ta k'ut uq'ijilab'al uq'ala'ib'al ri qatz'aq qab'it</p>
+      <p>ta winaqiroq winaq tz'aq winaq b'it</p>
+      <p>xecha k'ut ta xwinaqirik k'u ri ulew kumal xa kitzij xk'oje' wi uwinaqirik</p>
+      <p>chiwinaqir ulew, ulew xecha'.</p>
+    <!-- editor's note: Ajtz'ib'ab' has a paragraph here. Not in XOM. Raf! -->
+      <p>Lib'ajchi'<ref target="quc.n024"><hi rend="sup">24</hi></ref>
+      <note place="foot" xml:id="quc.n024"><seg type="note-symbol">24</seg>
+        Se propone escribir junto la palabra "lib'aj chi'", a "lib'achi'". Es un adverbio de tiempo que indica "temprano".
+      </note> xwinaqirik</p>
+      <p>keje ri xa ta tzutz<ref target="quc.n025"><hi rend="sup">25</hi></ref>
+        <note place="foot" xml:id="quc.n025"><seg type="note-symbol">25</seg>
+          "Tzutz" y "mayuy" son formas antiguas para decir "neblina" (Ximénez 1993: 373, 581). En Basseta (2005: 515) refiere a "tzutz", "la nube". Actualmente se dice "sutz' mayul".
+        </note> xa mayuy uwinaqirik chik upupuje'ik<ref target="quc.n026"><hi rend="sup">26</hi></ref>
+      <note place="foot" xml:id="quc.n026"><seg type="note-symbol">26</seg>
+        En el manuscrito aparecen escritas estas palabras "chi ku pu puje'ik" de forma separada, analizando el contexto se cree que la forma que da más sentido es "chik upupuje'ik", haciendo par con "uwinaqirik". Se sugiere agregar "chik" después de "upupuje'ik" para completar el sentido.
+      </note>.</p>
+      <p>ta xtape<ref target="quc.n027"><hi rend="sup">27</hi></ref>
+        <note place="foot" xml:id="quc.n027"><seg type="note-symbol">27</seg>
+          Dudoso significado, probablemente se relaciona más con surgir de los cerros.
+        </note> pa ja' ri juyub' jusuk' nimaq juyub' xuxik</p>
+      <p>xa kinawal xa kipus xb'anataj wi una'ojixik juyub' taq'aj</p>
+      <p>jusuk' rachwinaqirik uk'isisil upachajil uwach</p>
+      <p>keje' k'ut xkikot wi ri <rs ana="Q'UKUMATZ">Q'ukumatz</rs></p>
+      <p>utz mixatulik<ref target="quc.n028"><hi rend="sup">28</hi></ref>
+        <note place="foot" xml:id="quc.n028"><seg type="note-symbol">28</seg>
+          Ximénez (1993: 41) suelen anteponer a las partículas de pretérito esta particula "mi". Que significa poco a, de que se componen, el adverbio "mier" en "denantes" y "vacamic agora" y entonces significa que la acción del verbo "ha poco, que pasó o se hizo". "Mixnuban" es "ha poco que lo hice", y lo mesmo es se entiende de todos los verbos pasivos, neutros y absolutos. Actualmente se utiliza "m-", o "mv-" con la función de negación.
+        </note>
+          at <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> at <rs ana="JUN_RAQAN">Juraqan</rs> at puch <rs ana="CH'IPI_KAQULJA">Ch'ipiKaqulja RaxaKaqulja</rs></p>
+      <p>xchutzinik qatz'aq qab'it xecha' k'ut.</p>
       <p>Nab'e k'ut xwinaqir ulew juyub' taq'aj</p>
       <p>xch'ob'och'ox ub'e ja'</p>
-      <p>xb'inije'ik k'ole je raqan- xo'l taq juyub'</p>
-      <p>xa ch'ob'ol chik xek'oje wi ja'<ref target="quc.n024"><hi rend="sup">24</hi></ref>
-      <note place="foot" xml:id="quc.n024"><seg type="note-symbol">24</seg>
-        Se sugiere cambiar la <hi rendition="simple:italic">ja</hi> a <hi rendition="simple:italic">ja'</hi>, para que dé el sentido de la palabra <hi rendition="simple:italic">agua</hi>.
-      </note> ta xk'utunije'ik nima'q juyub'.</p>
-      <p>Keje' k'ut uwinaqirik ulew ri'<ref target="quc.n025"><hi rend="sup">25</hi></ref>
-      <note place="foot" xml:id="quc.n025"><seg type="note-symbol">25</seg>
-        Se sugiere que el demostrativo <hi rendition="simple:italic">ri</hi> se escriba con glotal <hi rendition="simple:italic">ri'</hi>, en todo el texto. <!--editor's note: draft ends with "en todo el e" ... so I filled in with my guess. Confirm with Ajpub'. --> 
+      <p>xb'inije'ik k'oleje' <ref target="quc.n029"><hi rend="sup">29</hi></ref>
+        <note place="foot" xml:id="quc.n029"><seg type="note-symbol">29</seg>
+          Actualmente está en desuso en el K'iche', pero en Q'eqchi' significa "ubicarse en orden las cosas", en este caso los arroyos los ríos, por el uso del sufijo "-je'".
+        </note>raqan xo'l taq juyub'</p>
+      <p>xa ch'ob'ol chik xek'oje' wi ja' ta xk'utunije'ik nimaq juyub'</p>
+      <p>keje' k'ut uwinaqirik ulew ri'<ref target="quc.n030"><hi rend="sup">30</hi></ref>
+      <note place="foot" xml:id="quc.n030"><seg type="note-symbol">30</seg>
+        No en todos los casos se va a escribir "ri'", porque según contexto de uso puede referir a demostrativo o de referencia.
       </note></p>
       <p>ta xwinaqirik kumal ri <rs ana="UK'U'X_KAJ">Uk'u'x Kaj</rs> <rs ana="UK'U'X_ULEW">Uk'u'x Ulew</rs> ke'ucha'xik</p>
-      <p>(<ref target="quc.n026"><hi rend="sup">26</hi></ref>
-      <note place="foot" xml:id="quc.n026"><seg type="note-symbol">26</seg>
-        El artículo <hi rendition="simple:italic">ri'</hi> se sugiere que se escriba sin glotal <hi rendition="simple:italic">ri</hi>, porque no es un artículo demostrativo.
-      </note>Ri) k'ut e nab'e xkino'jij</p>
-      <p>xk'olo wi ri kaj xk'olo nay puch ulew chi upam<ref target="quc.n027"><hi rend="sup">27</hi></ref>
-      <note place="foot" xml:id="quc.n027"><seg type="note-symbol">27</seg>
-        En el folio 2 recto, línea No. 45 aparece <hi rendition="simple:italic">chupan</hi>, mientras que en Sam Colop (1999: 26), parece <hi rendition="simple:italic">chi upam</hi>.
-      </note> ja'</p>
-      <p>Keje' k'ut una'oiixik<ref target="quc.n028"><hi rend="sup">28</hi></ref>
-      <note place="foot" xml:id="quc.n028"><seg type="note-symbol">28</seg>
-        En el folio 2 recto, línea No. 46, aparece <hi rendition="simple:italic">vnaohixik</hi>, mientras que Sam Colop (1999: 26), <hi rendition="simple:italic">no'jixik</hi>. Ajtz'ib'ab', retoma lo que está en el manuscrito.
-      </note> (ri')</p>
-      <p>ta xkino'jij ta xkib'isoj rutzinik ub'anatajik kumal.</p>
+      <p>ri k'ute nab'e xkino'jij xk'olo<ref target="quc.n031"><hi rend="sup">31</hi></ref>
+        <note place="foot" xml:id="quc.n031"><seg type="note-symbol">31</seg>
+          La raíz "k'ol" puede hacer referencia al "resguardo de la tierra y el cielo como un todo", en este caso no refiere a la forma redonda de la tierra, sino más bien al resguardo del universo. En Tz'utujil actualmente se usan las formas "kol" y "k'o" para referirse a "guardar conservar algo para uso posterior". 
+        </note>wi ri kaj</p> 
+      <p>xk'olo nay puch ulew chupan ja'</p>
+      <p>keje' k'ut una'oiixik ri' ta xkino'jij ta xkib'isoj rutzinik ub'ana tajik kumal</p>
+      <!-- editor's note: confirm with Ajpub' that there is a paragraph break but no period after kumal -->
       <!--editor's note: corresponds to XOM 2v, paragraph 6 --> 
       <p>Ta xkino'jij chik uchikopil juyub'</p>
       <p>chajal re k'ichelaj<ref target="quc.n029"><hi rend="sup">29</hi></ref>
