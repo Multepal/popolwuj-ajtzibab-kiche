@@ -630,347 +630,186 @@
       <p>xk'olik ta chisaqirik</p>
       <p>xa jun aq'ab' chiwinaqirik rumal ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
       <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM; this is where there's a folio break so maybe that's why there's a space? Confirm with Ajpub' -->
-      <!-- editor's note: I am here -->
-      <p>Are ri', chi k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs> chisilab' juyub' rumal, chineb'owik ch'uti juyub'<ref target="quc.n126"><hi rend="sup">126</hi></ref>
-      <note place="foot" xml:id="quc.n126"><seg type="note-symbol">126</seg>
-        En el manuscrito (Folio 6 verso, línea 4) aparece como acá, sin embargo, por paralelismo, no se anota.
-        <!--editor's note: corresponds to XOM paragraph 11, folio 6v, line 4 -->
-      </note> nima juyub' rumal.<ref target="quc.n127"><hi rend="sup">127</hi></ref>
-      <note place="foot" xml:id="quc.n127"><seg type="note-symbol">127</seg>
-        En el manuscrito (Folio 6 verso, línea 5) aparece coma.
-        <!--editor's note: corresponds to XOM paragraph 11, folio 6v, line 5 -->
-      </note> Xawi keje<ref target="quc.n128"><hi rend="sup">128</hi></ref>
-      <note place="foot" xml:id="quc.n128"><seg type="note-symbol">128</seg>
-        Varía entre <hi rendition="simple:italic">k'eje</hi> y <hi rendition="simple:bold">keje</hi>.
-        <!--editor's note: hay que finalizar la nota -->
-      </note> nimarisab'al kib' xkib'ano uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <!--editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Ix<ref target="quc.n129"><hi rend="sup">129</hi></ref>
-      <note place="foot" xml:id="quc.n129"><seg type="note-symbol">129</seg>
-        Aunque, el en manuscrito original K'iche' (Folio 6 verso, línea 8) dice <hi rendition="simple:italic">ixva,</hi> 
-        <!--editor's note: corresponds to XOM paragraph 11, folio 6v, line 8-->
-        por el contexto debería de ser <hi rendition="simple:italic">in va'</hi>. Esto, se puede comprobar en las siguientes líneas con relación a las siguientes frases del texto.
-      </note> wa', in q'ij. Xcha' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <!--editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>In wa', in b'anol ulew. Xcha' ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
-      <!--editor's note: Ajtz'ib'ab' paragraph not in XOM --> 
-      <p>In chi k'ut kiyow<ref target="quc.n130"><hi rend="sup">130</hi></ref>
-      <note place="foot" xml:id="quc.n130"><seg type="note-symbol">130</seg>
-        En el manuscrito K'iche' (Folio 6 verso, línea 11)
-        <!--editor's note: corresponds to XOM paragraph 11, folio 6v, line 11 --> 
-        dice <hi rendition="simple:italic">quiyou</hi> (<hi rendition="simple:italic">kiyow</hi>) sin embargo, Sam Colop (1999: 41), en su nota 68 aclara por qué agrega
-        tiempo/aspecto y persona a la palabra, como <hi rendition="simple:italic">chin-kiyow</hi>. Pienso que, es una frase construída con un verbo con objeto incluído <hi rendition="simple:italic">kiyow kaj</hi> “meser/sacudir el cielo”. Esta oración, tiene una construcción, como
-        un predicado no verbal, el marcador de de persona gramatical está en <hi rendition="simple:italic">in-</hi>, el tiempo/aspecto es habitual y el verbo y objeto también lo lleva y ya no es necesario, hacer una marcación, como un verbo como
-        tal. En Mondloch y Carmack (2018: 52), no sólo agregan tiempo/aspecto, persona y número gramatical a la raíz verbal, sino, modifican la raíz verbal, como <hi rendition="simple:italic">kinyojow</hi>, que no es necesario.
-      </note> kaj chinwulij ronojel ulew.<ref target="quc.n131"><hi rend="sup">131</hi></ref>
-      <note place="foot" xml:id="quc.n131"><seg type="note-symbol">131</seg>
-        Considero que son 2 frases que deben ir en par.
-      </note> Xcha' ri <rs ana="KAB'RAQAN">Kab'raqan</rs><ref target="quc.n132"><hi rend="sup">132</hi></ref>
-      <note place="foot" xml:id="quc.n132"><seg type="note-symbol">132</seg>
+      <p>Are ri chi k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs> chisilab' juyub'</p>
+      <p>rumal chineb'owik ch'utijuyub' nimajuyub'</p>
+      <p>rumal xa wi keje nimarisab'al kib' xkib'ano uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>ix<ref target="quc.n074"><hi rend="sup">74</hi></ref>
+      <note place="foot" xml:id="quc.n074"><seg type="note-symbol">74</seg>
+        Por concordancia con la 1ª. persona gramatical de la cláusula que sigue, este debe ser <hi rendition="simple:italic">in</hi>.
+      </note> wa', in q'ij xcha' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>in wa', in b'anol ulew xcha' ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>in chi k'ut kiyow<ref target="quc.n075"><hi rend="sup">75</hi></ref>
+      <note place="foot" xml:id="quc.n075"><seg type="note-symbol">75</seg>
+        <hi rendition="simple:italic">Kiyow</hi> viene de <hi rendition="simple:italic">kiyowik</hi> mecer. En su forma imperativa y frencuentativa es <hi rendition="simple:italic">chakiyika'</hi> mécelo. 
+      </note> kaj chinwulij ronojel ulew xcha' ri <rs ana="KAB'RAQAN">Kab'raqan</rs><ref target="quc.n076"><hi rend="sup">76</hi></ref>
+      <note place="foot" xml:id="quc.n076"><seg type="note-symbol">76</seg>
         En el manuscrito K'iche' (Folio 6 verso, línea 12), aparece <rs ana="KAB'RAQAN"><hi rendition="simple:italic">cabraca</hi></rs> y sobre la <hi rendition="simple:italic">a</hi>, lleva una vírgula de abreviatura de <hi rendition="simple:italic">n</hi>, entonces debe
-        escribirse <rs ana="KAB'RAQAN">Kab'raqan</rs>.
-      </note>.</p>
-      <p>Xawi uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, xawi chi ri' xkik'am wi kinimal chi rij kiqajaw<ref target="quc.n133"><hi rend="sup">133</hi></ref>
-      <note place="foot" xml:id="quc.n133"><seg type="note-symbol">133</seg>
-        ¿Kiqajaw? En el manuscrito K'iche', dice <hi rendition="simple:italic">quicahau</hi> (Folio 6 verso, línea 15).
-        <!-- editor's note: corresponds to XOM paragraph 11, folio 6v, line 15 -->
-        En la versión de Sam Colop (1999: 41) aparece como <hi rendition="simple:italic">kikajaw</hi>, debería
-        ser <hi rendition="simple:italic">kiqajaw</hi>
-        <!--editor's note: hay que finalizar la nota -->
-      </note>. Are k'ut Itzel xkil ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>. Maja chib'antajoq qanab'e<ref target="quc.n134"><hi rend="sup">134</hi></ref>
-      <note place="foot" xml:id="quc.n134"><seg type="note-symbol">134</seg>
-        Se une nab'e con el poseedor <hi rendition="simple:italic">qa-</hi>, según las normas gramaticales establecidas para el idioma K'iche'. Sam Colop (1999: 41) los transcribe separados. Asimismo, se quita la coma que divide las formas poseídas
-        de <hi rendition="simple:italic">qanab'e chuch qanab'e qajaw</hi>, ya que son pares de palabas que, de acuerdo a las normas establecidas por Ajtz'ib'ab', es el estilo de los textos mayas, hablar en par, en triples y en cuádruples.
-      </note> chuch qanab'e qajaw. K'eje k'ut xno'jix<ref target="quc.n135"><hi rend="sup">135</hi></ref>
-      <note place="foot" xml:id="quc.n135"><seg type="note-symbol">135</seg>
-        En el manuscrito K'iche' (Folio 6 verso, línea 19) dice <hi rendition="simple:italic">xnohix</hi>. En Sam Colop (1999: 41) aparece como <hi rendition="simple:italic">xna'ojix</hi>. Consideramos que debe ser <hi rendition="simple:italic">xno'jix</hi>.
-      </note> wi kikamik kisachik kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM, same as XOM paragraph 12 -->
-      <p>Wa'e k'ute <rs ana="WUB">uwub</rs>'axik <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> kumal <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs><ref target="quc.n136"><hi rend="sup">136</hi></ref>
-      <note place="foot" xml:id="quc.n136"><seg type="note-symbol">136</seg>
-        Esta parte del Folio 6 verso, línea 21 inicia con letra inicial mayúscula.
-        <!--editor's note: corresponds to XOM paragraph 12, folio 6v, line 21 -->
-      </note>. Xchiqab'ij kich'akatajik chi kijujunal ri nimarisay<ref target="quc.n137"><hi rend="sup">137</hi></ref>
-      <note place="foot" xml:id="quc.n137"><seg type="note-symbol">137</seg>
-        En Sam Colop (1999: 42) aparece la palabra como forma verbal, sin embargo, debe ser como aparece en el manuscrito (Folio 6 verso, líneas 25)
-        <!--editor's note: corresponds to XOM paragraph 12, folio 6v, lines 24-25  -->
-        <hi rendition="simple:italic">nimarisay</hi> (forma sustantival: <hi rendition="simple:italic">el que se engrandece así mismo</hi>).
-      </note> rib'. Are ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, jun nima che', ri tapa'l, are k'u recha' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>. Are chulo<ref target="quc.n138"><hi rend="sup">138</hi></ref>
-      <note place="foot" xml:id="quc.n138"><seg type="note-symbol">138</seg>
-        En el manuscrito (Folio 6 verso, línea 28)
-        <!-- editor's note: corresponds to XOM paragraph 12, 6v, line 28 -->
-        aparece como <hi rendition="simple:italic">chulo</hi> y habla de “comer” y su forma completa es <hi rendition="simple:italic">chi ulo</hi>. Al parecer, es una forma del verbo Q'eqchi' <hi rendition="simple:italic">low</hi>,
-        de comer cosas suaves (como banano, masa, etc.).
-      </note> ri uwach tapa'l, chaq'an<ref target="quc.n139"><hi rend="sup">139</hi></ref>
-      <note place="foot" xml:id="quc.n139"><seg type="note-symbol">139</seg>
-        Es <hi rendition="simple:italic">chaq'an</hi>, del verbo <hi rendition="simple:italic">subir</hi>. Así como aparece también en Mondloch y Carmack (2018: 48). Aunque en Sam Colop (1999: 42) aparece como <hi rendition="simple:italic">chaqan</hi>.
-      </note> chuwi che' juta q'ij. Xiloma k'ut rechab'al kumal ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Kik'ak'alen chi k'ut chuxe' che' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>. E matzamoj ulo ri <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> pa xaq che', ta xopon k'ut <rs ana="WUQUB'_KAQIX">Wuqub'<ref target="quc.n140"><hi rend="sup">140</hi></ref>
-      <note place="foot" xml:id="quc.n140"><seg type="note-symbol">140</seg>
-        En el manuscrito K'iche' (Folio 6 verso, línea 36), 
-        <!-- editor's note: corresponds to XOM paragraph 12, 6v, line 36 -->
-        aparece escrito
-        <hi rendition="simple:italic"><rs ana="WUQUB'_KAQIX">ucub</rs></hi>, que podría corresponder a la forma <hi rendition="simple:italic"><rs ana="WUQUB'_KAQIX">uqub'</rs></hi>, sin embargo, sabemos
-        que es <hi rendition="simple:italic"><rs ana="WUQUB'_KAQIX">wuqub'</rs></hi>, ya que continúa con su complemento <hi rendition="simple:italic"><rs ana="WUQUB'_KAQIX">kaqix</rs></hi>. Asimismo, en
-        esta línea aparecen tachadas 2 palabras <hi rendition="simple:italic"><rs ana="KA'IB'_K'AJOLAB'">caib qaholab</rs></hi>, que pudo haber sido un error en la copia de <rs ana="XIMENEZ">Ximenez</rs> o de <rs ana="NIM_CH'OKOJ">los autores</rs> del <rs ana="POPOL_WUJ">manuscrito</rs>.
-      </note> Kaqix</rs>, tak'al<ref target="quc.n141"><hi rend="sup">141</hi></ref>
-      <note place="foot" xml:id="quc.n141"><seg type="note-symbol">141</seg>
-        Según Par (2022), debe ser <hi rendition="simple:italic">tak'al</hi> y no <hi rendition="simple:italic">taqal</hi> (como aparece en Sam Colop [1999: 42] y en Mondloch y Carmack [2018: 52]).
-      </note> chuwi'<ref target="quc.n142"><hi rend="sup">142</hi></ref>
-      <note place="foot" xml:id="quc.n142"><seg type="note-symbol">142</seg>
-        En el manuscrito K'iche' (Folio 6 verso, línea 37) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 6v, line 37--> 
-        está escrito como <hi rendition="simple:italic">chui</hi>, quizá la cual se transcribe como <hi rendition="simple:italic">chuwi'</hi>, que su forma completa sería <hi rendition="simple:italic">chi uwi'</hi>.
-      </note> recha', ri tapa'l.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>K'ate k'ut ta xub'axik kumal ri <rs ana="JUNAJPU">Jun Ajpu</rs><ref target="quc.n143"><hi rend="sup">143</hi></ref>
-      <note place="foot" xml:id="quc.n143"><seg type="note-symbol">143</seg>
-        En el manuscrito, tal como lo comenta Sam Colop (1999: 42fn71), en el manuscrito K'iche' (Folio 6 verso, línea 39) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 6v, line 39 -->
-        dice <hi rendition="simple:italic"><rs ana="JUN_JUNAJPU">hunhunahpu</rs></hi> y no <hi rendition="simple:italic"><rs ana="JUNAJPU">hunahpu</rs></hi>. Y concuerda con lo que indica Sam, debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note>, taqal<ref target="quc.n144"><hi rend="sup">144</hi></ref>
-      <note place="foot" xml:id="quc.n144"><seg type="note-symbol">144</seg>
-        Par, sugiere <hi rendition="simple:italic">tak'al</hi>, sin embargo, tengo duda todavía, puede referirse a que “va directo a la quijada de ...”.
-      </note> ub'aq' <rs ana="WUB">wub'</rs> chukakate'<ref target="quc.n145"><hi rend="sup">145</hi></ref>
-      <note place="foot" xml:id="quc.n145"><seg type="note-symbol">145</seg>
-        <hi rendition="simple:italic">Chukakate'</hi>. En el manuscrito (Folio 6 verso, línea 40) 
-        <!-- editor's note: refers to XOM paragraph 12, folio 6v, line 40--> 
-        aparece como <hi rendition="simple:italic">chucaEate</hi>, algúna inconsistencia al escribir dicha palabra con el alfabeto del español. Su forma completa sería <hi rendition="simple:italic">chi ukakate'</hi>.
-      </note>. Churaquj uchi' ta xpe chuwi che', taqal<ref target="quc.n146"><hi rend="sup">146</hi></ref>
-      <note place="foot" xml:id="quc.n146"><seg type="note-symbol">146</seg>
-        Según Par (conversación personal) debe ser <hi rendition="simple:italic">tak'al</hi>. Sin embargo, tengo duda, ya que puede referirse a la acción de “venirse para el suelo”.
-      </note> chuwach ulew.</p>
-      <p><rs ana="CHIMALMAT">Chimalmat</rs><ref target="quc.n147"><hi rend="sup">147</hi></ref>
-      <note place="foot" xml:id="quc.n147"><seg type="note-symbol">147</seg>
-        Confirmar si este es acción, con relación al nombre de <rs ana="CHIMALMAT">la esposa de <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></rs>, ya que son iguales las palabras.
-        <!-- editor's note: confirma la nota con Bety -->
-      </note> k'ut ri <rs ana="JUNAJPU">Jun Ajpu</rs><ref target="quc.n148"><hi rend="sup">148</hi></ref>
-      <note place="foot" xml:id="quc.n148"><seg type="note-symbol">148</seg>
-        En el manuscrito, vuelve a aparecer como <hi rendition="simple:italic"><rs ana="JUN_JUNAJPU">hunhunahpu</rs></hi> y no <hi rendition="simple:italic"><rs ana="JUNAJPU">hunajpu</rs></hi>.
-      </note>, anim xb'ek. Qitzij<ref target="quc.n149"><hi rend="sup">149</hi></ref>
-      <note place="foot" xml:id="quc.n149"><seg type="note-symbol">149</seg>
-        Tengo duda acá, con relación a las normas utilizas ahora para la escritura del idioma K'iche', ¿es <hi rendition="simple:italic">qi tzij</hi> o <hi rendition="simple:italic">qitzij</hi>?
-        <!-- editor's note: confirma la nota con Bety -->
-      </note> wi, xb'e'uchapa'<ref target="quc.n150"><hi rend="sup">150</hi></ref>
-      <note place="foot" xml:id="quc.n150"><seg type="note-symbol">150</seg>
-        Es un verbo compuesto <hi rendition="simple:italic">xb'e'uchapa'</hi>, que incluye un direcciónal <hi rendition="simple:italic">-b'e-</hi>, por lo tanto, debe ir de forma unida a la raíz verbal.
-      </note>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>K'ate k'ut ta xqupix ula uq'ab' ri <rs ana="JUNAJPU">Jun Ajpu</rs><ref target="quc.n151"><hi rend="sup">151</hi></ref>
-      <note place="foot" xml:id="quc.n151"><seg type="note-symbol">151</seg>
-        Otra vez, aparece como <hi rendition="simple:italic"><rs ana="JUN_JUNAJPU">Hun hunahpu</rs></hi> en el manuscrito k'ich'e (Folio 6 verso, línea 46/47)
-        <!-- editor's note: corresponds to XOM paragraph 16, folio 6v, lines 46-47 -->
-         y no como <hi rendition="simple:italic"><rs ana="JUNAJPU">Hunahpu</rs></hi>.
-      </note> rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs><ref target="quc.n152"><hi rend="sup">152</hi></ref>
-      <note place="foot" xml:id="quc.n152"><seg type="note-symbol">152</seg>
-        Aquí termina, en <hi rendition="simple:italic">kaq-</hi>, el folio 6 verso.
-      </note>. Jusuk' xtzaq uloq, xmejo uloq tza'm<ref target="quc.n153"><hi rend="sup">153</hi></ref>
-      <note place="foot" xml:id="quc.n153"><seg type="note-symbol">153</seg>
-        Debe ser <hi rendition="simple:italic">tza'm</hi>, ya que refiere a parte del cuerpo (<hi rendition="simple:italic">tza'm uteleb'</hi> = <hi rendition="simple:italic">sobre el hombro</hi>), ya que en Sam Colop (1999: 42) aparece como <hi rendition="simple:italic">tzam</hi>.
-      </note> uteleb', ta xutzoqopij chi k'ut <rs ana="JUNAJPU">Jun Ajpu</rs><ref target="quc.n154"><hi rend="sup">154</hi></ref>
-      <note place="foot" xml:id="quc.n154"><seg type="note-symbol">154</seg>
-        Aparece otra vez como <hi rendition="simple:italic"><rs ana="JUN_JUNAJPU">hunhunahpu</rs></hi> (Manuscrito K'iche', Folio 7 recto, línea 3) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line 3 -->
-        y debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note> ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Xawi utz xkib'ano. Ma nab'e kich'akatajik taj rumal <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>. Uk'a'am<ref target="quc.n155"><hi rend="sup">155</hi></ref>
-      <note place="foot" xml:id="quc.n155"><seg type="note-symbol">155</seg>
-        En el manuscrito k'iche' (Folio 7 recto, línea 7) 
-        <!--editor's note: corresponds to XOM paragraph 12, folio 7r, line 7 --> aparece como
-        <hi rendition="simple:italic">ucaam</hi>, eso significa que, puede ser <hi rendition="simple:italic">uk'a'm</hi> o <hi rendition="simple:italic">uk'a'am</hi>, como el caso anterior (nota 33). Habría que definir
-        en el equipo, si lo dejmos como la duplicación de vocales <hi rendition="simple:italic">(-VV)</hi> sea un caso de glotalización armónica, tipo ojer tz'ib'.
-        <!-- editor's note: confirma la nota con Bety -->
-      </note> chi k'ut uq'ab' ri <rs ana="JUNAJPU">Jun Ajpu</rs><ref target="quc.n156"><hi rend="sup">156</hi></ref>
-      <note place="foot" xml:id="quc.n156"><seg type="note-symbol">156</seg>
-        En al manuscrito, otra vez, <hi rendition="simple:italic"><rs ana="JUN_JUNAJPU">hunhunahpu</rs></hi> (Folio 7 recto, línea 8).
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line 8--> 
-      </note> rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, ta xb'e chi rochoch. Xa chi k'u ulot'em ukakate'<ref target="quc.n157"><hi rend="sup">157</hi></ref>
-      <note place="foot" xml:id="quc.n157"><seg type="note-symbol">157</seg>
-        En el manuscrito (Folio 7, línea 10) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line 10 -->
-        aparece como <hi rendition="simple:italic">uꜫaꜫate</hi> (<hi rendition="simple:italic">ꜫ</hi>, igual a <hi rendition="simple:italic">q'</hi>), su transcripción debe ser <hi rendition="simple:italic">kakate'</hi> y no <hi rendition="simple:italic">q'aq'ate'</hi>.
-      </note> xoponik.</p>
-      <p>Naki pa mixk'amow chi la'.<ref target="quc.n158"><hi rend="sup">158</hi></ref>
-      <note place="foot" xml:id="quc.n158"><seg type="note-symbol">158</seg>
-        Debería ser chi la'¿? Asimismo, definir cómo se utilizarán los signos como signos de interrogación sólo al final o también al inicio.
-        <!-- editor's note: confirma la nota con Bety --> 
-      </note> Xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs>, rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Naki pa ri'. Ri e ka'ib' k'axtok'<ref target="quc.n159"><hi rend="sup">159</hi></ref>
-      <note place="foot" xml:id="quc.n159"><seg type="note-symbol">159</seg>
-        En <rs ana="XIMENEZ">Ximénez</rs> (1985: 169) aparece <hi rendition="simple:italic">k'axtok'-el</hi>, <hi rendition="simple:italic">engañador</hi>. En Coto, <hi rendition="simple:italic">k'axtok'</hi>,
-        <hi rendition="simple:italic">demonio</hi>, <hi rendition="simple:italic">diablo</hi>, <hi rendition="simple:italic">enemigo</hi>. Quizá se puede dejar como “mentiroso, engañador, enemigo”. Comento esto, ya que el concepto de
-        <hi rendition="simple:italic">diablo/demonio</hi> es una introducción colonial y no prehispánico. Lo otro, es que en el <hi rendition="simple:italic">Memorial de Sololá</hi> (Otzoy 199:125), párrafo 154,
-        aparece <hi rendition="simple:italic">K'axtok'</hi>, como alguien que se disfraza para espantar a los españoles de Iximche', durante la invasión de <rs ana="DONADIU">Pedro de Alvarado</rs>.
-      </note> <rs ana="WUB">mixikiwub</rs>'aj mixsilib'ataj<ref target="quc.n160"><hi rend="sup">160</hi></ref>
-      <note place="foot" xml:id="quc.n160"><seg type="note-symbol">160</seg>
-        Ver si los verbos deben ser separados con la sílaba <hi rendition="simple:italic">mi-</hi>.
-        <!-- editor's note: confirma la nota con Bety -->
-      </note> nukakate' rumal xa kachuywaj e we, kaq'oxow chik.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Mi nab'e mixnuk'am uloq, chuwi q'aq' k'ut chixeke wi. Chitzayab'a chuwi q'aq', ta kulkik'ama' chik. Qitzij chi e k'axtok'. Xcha' ri Wuqub' Kaqix.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Ta xuxekeb'a' uq'ab' ri <rs ana="JUNAJPU">Jun Ajpu</rs>.</p>
-      <p>Kina'ojinik chik ri <rs ana="JUNAJPU">Jun Ajpu</rs><ref target="quc.n161"><hi rend="sup">161</hi></ref>
-      <note place="foot" xml:id="quc.n161"><seg type="note-symbol">161</seg>
-        En el manuscrito K'iche' (Folio 7 recto, línea 24) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, lines 24-25 -->
-        dice <hi rendition="simple:italic"><rs ana="JUN_JUNAJPU">huhunahpu</rs></hi>, pero debería ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>. Ta xkib'ij k'ut chi rech jun <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>, qitzij saq chik rismal wi chi <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>. Jun k'u <rs ana="SAQI_NIM_AQ_SIS">ati't</rs>, qitzij kemel <rs ana="SAQI_NIM_AQ_SIS">ati't</rs> chik. Xa keluq'ukila chik chi riji<ref target="quc.n162"><hi rend="sup">162</hi></ref>
-      <note place="foot" xml:id="quc.n162"><seg type="note-symbol">162</seg>
-        En el manuscrito K'iche' (Folio 7 recto, línea 30) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line --> 
-        está escrito <hi rendition="simple:italic">chirijitac</hi>, su forma debería de transcribirse así: <hi rendition="simple:italic">chi ri'j taq</hi>.
-        Aunque se escribe <hi rendition="simple:italic">riji</hi>, debería leerse como <hi rendition="simple:italic">ri'j</hi>. Según Par, existen varias palabras escritas de esta forma, en donde debe omitirse la
-        pronunciación de la vocal final. Quizá siga el patrón de escritura del ojer tz'ib', tal como lo menciona Sam Colop (1999:13) en su introducción a la versión poética K'iche', por los encabezados de textos sugieren
-        que <rs ana="NIM_CH'OKOJ">los autores k'iche'</rs> parecieran estar transcribiendo los textos de un texto jeroglífico maya.
-      </note> taq winaq. <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs><ref target="quc.n163"><hi rend="sup">163</hi></ref>
-      <note place="foot" xml:id="quc.n163"><seg type="note-symbol">163</seg>
-        Con estos nombres tengo dudas con relación a la separación o unión de sustantivos por las vocales epentéticas, tales como: <hi rendition="simple:italic"><rs ana="SAQI_NIM_AQ_SIS">zaquinimac</rs></hi> y
-        <hi rendition="simple:italic"><rs ana="SAQI_NIM_AQ_SIS">zaquinimatziz</rs></hi> (Folio 7 recto, línea 31 y 32).
-        <!--editor's note: corresponds to XOM paragraph 12, folio 7r, lines 31-32 --> 
-        <!--editor's note: confirma la nota con Bety --> 
-      </note> ub'i' <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqi Nima Tzis</rs> k'ut ub'i' <rs ana="SAQI_NIM_AQ_SIS">ati't</rs>.</p>
-      <!--editor's note: Ajtz'ib'ab' paragraph not in XOM --> 
-      <p>Xecha' k'u ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> chi ke ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs>. Kixqachb'ilajtaj, chib'etak'ama' qaq'ab' ruk' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, xa kojtere' chi wij.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Ki ri'<ref target="quc.n164"><hi rend="sup">164</hi></ref>
-      <note place="foot" xml:id="quc.n164"><seg type="note-symbol">164</seg>
-        En el manuscrito (Folio 7 recto, línea 37) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line 37 -->
-        hay una palabra escrita como <hi rendition="simple:italic">quiri</hi>, sin embargo, causa un poco de duda sobre su forma de transcribir. Siguiendo las formas de escribir en aquella época, quizá sea una contración de <hi rendition="simple:italic">qitzij ri'</hi>. En Sam Colop (1999: 43) esta forma la transcribe como <hi rendition="simple:italic">K'i ri</hi>, sin embargo, es agramatical para el contexto en que está ubicado. En Mundloch y Carmack (2018: 54) la transcribe como <hi rendition="simple:italic">Qi ri</hi>.
-      </note> qamam ri qachb'ilan<ref target="quc.n165"><hi rend="sup">165</hi></ref>
-      <note place="foot" xml:id="quc.n165"><seg type="note-symbol">165</seg>
-        En el manuscrito K'icihe' (Folio 7 recto, línea 38) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line 38 -->
-        está escrito <hi rendition="simple:italic">achbilan</hi>, que se transcribe <hi rendition="simple:italic">qachb'ilan</hi> por el contexto de hablar en 1ª. Plural (nosotros). Sin embargo, Saqijix considera que puede ser
-        <hi rendition="simple:italic">kachb'ilan</hi>, como tercera persona plural, por el contexto y que puede hacer par con <hi rendition="simple:italic">kiqajaw</hi>.
-      </note>, kaminaq kichuch kiqajaw<ref target="quc.n166"><hi rend="sup">166</hi></ref>
-      <note place="foot" xml:id="quc.n166"><seg type="note-symbol">166</seg>
-        Aunque Sam Colop (1999: 43) lo transcribe como <hi rendition="simple:italic">Kikajaw</hi> debe ser <hi rendition="simple:italic">kiqajaw</hi>, ya que la forma <hi rendition="simple:italic">qajaw</hi>, al poseerse se conserva la dicha posesión de 1ª. Persona plural de posesión.
-      </note>. Keje' k'ut keterekotila'<ref target="quc.n167"><hi rend="sup">167</hi></ref>
-      <note place="foot" xml:id="quc.n167"><seg type="note-symbol">167</seg>
-        Este es un verbo compuesto y en la versión de Sam Colop (1999: 43) dividió en 2 palabras, dejándolo de la siguiente forma: <hi rendition="simple:italic">ketere kekotila</hi>.
-      </note> wi chi qij. Ta la keqasipaj wi<ref target="quc.n168"><hi rend="sup">168</hi></ref>
-      <note place="foot" xml:id="quc.n168"><seg type="note-symbol">168</seg>
-        En Sam Colop (1999: 43) anota punto y aparte, sin embargo, es parte de una oración que continúa, ya que agrega un sustantivo relacional, tal como aparece también en el manuscrito K'iche' (Folio 7 recto, línea 41).
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, line 41 -->
-      </note> rumal xa elesan uchikopil<ref target="quc.n169"><hi rend="sup">169</hi></ref>
-      <note place="foot" xml:id="quc.n169"><seg type="note-symbol">169</seg>
-        Error en la versión de Colop (1999: 43), <hi rendition="simple:italic">uchicopil</hi>.
-      </note> eyaj kaqab'ano. Kixcha'.</p>
-      <!--editor's note: Ajtz'ib'ab' paragraph not in XOM --> 
-      <p>Keje' k'u ri oj ak'alab', chirilo ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>,<ref target="quc.n170"><hi rend="sup">170</hi></ref>
-      <note place="foot" xml:id="quc.n170"><seg type="note-symbol">170</seg>
-        Acá, por ser una cláusula compuesta, no se anota punto y a parte, si no, debe llevar coma (,). Y en el manuscrito k'iche', (Folio 7 recto, línea 45) 
-        <!-- editor's note: corresonds to XOM paragraph 12, folio 7r, line 45 -->
-        utiliza coma también. Sam Colop (1999: 43) utiliza punto. 
-      </note> xawi oj kojya'wik<ref target="quc.n171"><hi rend="sup">171</hi></ref>
-      <note place="foot" xml:id="quc.n171"><seg type="note-symbol">171</seg>
-        Por sugerencia de Saqijix se debe anotar como <hi rendition="simple:italic">kojya'owik</hi>. Aunque, por su forma en el manuscrito (Folio 7 recto, líneas 45 y 46),
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7r, lines 45-46 --> su
-        forma se deja como <hi rendition="simple:italic">kojya'wik</hi> en la transcripción.
-      </note> ina'oj. Xecha' ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Utz b'a la. Xecha'<ref target="quc.n172"><hi rend="sup">172</hi></ref>
-      <note place="foot" xml:id="quc.n172"><seg type="note-symbol">172</seg>
-        Aquí culmina el Folio 7 verso.
-      </note> k'ut. K'ate k'ut ta xeb'ek.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Tzamal k'u b'i ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> chuwach<ref target="quc.n173"><hi rend="sup">173</hi></ref>
-      <note place="foot" xml:id="quc.n173"><seg type="note-symbol">173</seg>
-        <hi rendition="simple:italic">Chuwach</hi>, es una forma contraída de <hi rendition="simple:italic">chi uwach</hi>.
-      </note> uq'alib'al,<ref target="quc.n174"><hi rend="sup">174</hi></ref>
-      <note place="foot" xml:id="quc.n174"><seg type="note-symbol">174</seg>
-        Sam Colop (1999: 43) utiliza coma (,) como como aparece en el manuscrito también (Folio 7 verso, línea 3) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 3 -->
-        acá, sin embargo, no debe llevar, ya que es un adjunto adverbial.
-      </note> ta xe'ik'owik ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs>. Ke'etzeyaj k'u ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> chi kij<ref target="quc.n175"><hi rend="sup">175</hi></ref>
-      <note place="foot" xml:id="quc.n175"><seg type="note-symbol">175</seg>
-        En Sam Colop (1999: 43) aparece punto y coma, sin embargo, por llevar una párticula adverbial no debe llevar dicho signo, al igual que el manuscrito K'iche', no lo lleva (Folio 7 verso, línea 5).
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 5 -->
-      </note> ta xe'ik'ow chuxe'<ref target="quc.n176"><hi rend="sup">176</hi></ref>
-      <note place="foot" xml:id="quc.n176"><seg type="note-symbol">176</seg>
-        En el manuscrito K'iche' (Folio 7 verso, línea 6) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 6 -->
-        aparece como <hi rendition="simple:italic">chuxe</hi>, que se transcribe como <hi rendition="simple:italic">chuwe'</hi>. Sin embargo, su forma completa es <hi rendition="simple:italic">chi uxe'</hi>.
-      </note> rochoch <rs ana="WUQUB'_KAQIX">ajaw</rs>. Kuraquj k'u uchi' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> rumal re<ref target="quc.n177"><hi rend="sup">177</hi></ref>
-      <note place="foot" xml:id="quc.n177"><seg type="note-symbol">177</seg>
-        En Sam Colop (1999: 43) aparece como <hi rendition="simple:italic">we</hi>, sin embargo, en el manuscrito
-        K'iche' (Folio 7 verso, línea 8) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 8 -->
-        aparece como <hi rendition="simple:italic">re</hi> (<hi rendition="simple:italic">su diente</hi>).
-      </note>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Ta xril k'ut <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> ri <rs ana="SAQI_NIM_AQ_SIS">mama' ati't</rs> kachb'ilan kib'.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Apa kixpe wi <rs ana="SAQI_NIM_AQ_SIS">qamam</rs>. Xcha' k'u ri <rs ana="WUQUB'_KAQIX">ajaw</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Xa oj tzuqub'ey qib', <rs ana="WUQUB'_KAQIX">lal ajaw</rs>. Xecha' k'ut.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Naki pa itzuqub'al. Ma iwalk'wal ri iwachb'ilan.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Maja b'i, <rs ana="WUQUB'_KAQIX">lal ajaw</rs>, e <rs ana="SAQI_NIM_AQ_SIS">qamam</rs> ri'. Xere nare<ref target="quc.n178"><hi rend="sup">178</hi></ref>
-      <note place="foot" xml:id="quc.n178"><seg type="note-symbol">178</seg>
-        Por sugerencia de Saqijix, se transcriben juntas (tal como aparece en el manuscrito k'iche', Folio 7 verso línea 16.
-        <!--editor's note: corresponds to XOM paragraph 12, folio 7v, line 16 --> 
-      </note> kaqatoq'ob'aj kiwach ri ya'axel<ref target="quc.n179"><hi rend="sup">179</hi></ref>
-      <note place="foot" xml:id="quc.n179"><seg type="note-symbol">179</seg>
-        Otra forma de indicar glotalización (Manuscrito K'iche' Folio 7, línea 17) 
-        <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 17 -->
-        <hi rendition="simple:italic">yaaxel</hi>, que puede indicar <hi rendition="simple:italic">ya'axel</hi> (glotal+vocal).
-      </note> jupir<ref target="quc.n180"><hi rend="sup">180</hi></ref>
-      <note place="foot" xml:id="quc.n180"><seg type="note-symbol">180</seg>
-        <hi rendition="simple:italic">Jupir</hi> se escribe junto, sin embargo, cuando aparecen completas las 2 raíces se escriben por separado (<hi rendition="simple:italic">jun pir</hi>).
-      </note> ch'aqap kaqaya' chi kech <rs ana="WUQUB'_KAQIX">lal ajaw</rs>. Xecha' k'ut ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs>.</p>
-      <!--editor's note: Ajtz'ib'ab' paragraph not in XOM --> 
-      <p>Kutzin k'u ri <rs ana="WUQUB'_KAQIX">ajaw</rs> rumal uq'oxom re. Xa kunimaqwachij chik kach'awik.<ref target="quc.n181"><hi rend="sup">181</hi></ref>
-      <note place="foot" xml:id="quc.n181"><seg type="note-symbol">181</seg>
-        ¿Se deben dejar los dos puntos, antes de la marca de diálogo?
-        <!-- editor's note: confirma la nota con Bety -->
+        escribirse <rs ana="KAB'RAQAN">kab'raqan</rs>.
       </note></p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>In ta b'a kanij<ref target="quc.n182"><hi rend="sup">182</hi></ref>
-      <note place="foot" xml:id="quc.n182"><seg type="note-symbol">182</seg>
-        En Sam Colop (1999: 44fn78), anota <hi rendition="simple:italic">kanaj</hi>, sin embargo, se deja tal como está en el manuscrito K'iche' <hi rendition="simple:italic">kanij</hi> (Folio 7 verso, línea 22).
-      <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 22 --> 
-      </note> chi wech chitoq'ob'aj ta nuwach.<ref target="quc.n183"><hi rend="sup">183</hi></ref>
-      <note place="foot" xml:id="quc.n183"><seg type="note-symbol">183</seg>
-        Se elimina la coma entre las frases, ya que forman parte de los paretos, solo que acá, son frases.
+      <p>xa wi uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, xa wi chi ri' xkik'am wi kinimal chi rij kiqajaw</p>
+      <p>are k'ut itzel xkil ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
+      <p>maja' chib'antajoq qanab'e chuch qanab'e qajaw</p>
+      <p>k'eje k'ut xno'jix wi kikamik kisachik kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
+      <!-- editor's note: XOM has paragraph break here, 6v paragraph 12-->
+      <p>wa'e k'ute <rs ana="WUB">uwub</rs>'axik <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> kumal <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs>.</p>
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM-->
+      <p>Xchiqab'ij kich'akatajik chi kijujunal ri nimarisay rib'</p>
+      <p>are ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, jun nimache'</p>
+      <p>ri tapa'l are k'u recha' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>are chulo<ref target="quc.n077"><hi rend="sup">77</hi></ref>
+      <note place="foot" xml:id="quc.n077"><seg type="note-symbol">77</seg>
+        Al parecer, es una forma del verbo Q'eqchi' <hi rendition="simple:italic">low</hi>, de comer cosas suaves (como banano, masa, etc.).
+      </note> ri uwach tapa'l</p>
+      <p>chaq'an chuwi che' jutaq'ij</p>
+      <p>xiloma<ref target="quc.n078"><hi rend="sup">78</hi></ref>
+        <note place="foot" xml:id="quc.n078"><seg type="note-symbol">78</seg>
+          Posiblemente provenga del verbo <hi rendition="simple:italic">xiloj</hi> de "escoger, seleccionar". También está la forma <hi rendition="simple:italic">xiloj</hi> de escogido o seleccionado.
+        </note>
+        k'ut rechab'al kumal ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
+      <p>kik'ak'alen<ref target="quc.n079"><hi rend="sup">79</hi></ref>
+        <note place="foot" xml:id="quc.n079"><seg type="note-symbol">79</seg>
+          Actualmente es <hi rendition="simple:italic">kik'ak'ale'm</hi>.
+        </note>
+         chi k'ut chuxe' che' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>e matzamoj ulo ri <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> pa xaq che' ta xopon k'ut<ref target="quc.n080"><hi rend="sup">80</hi></ref>
+        <note place="foot" xml:id="quc.n080"><seg type="note-symbol">80</seg>
+          Despues de <hi rendition="simple:italic">k'ut</hi> aparece <hi rendition="simple:italic"><rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></hi> pero está tachado.
+        </note>
+        <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>tak'al chuwi' recha', ri tapa'l</p>
+      <p>k'a te k'ut ta xub'axik kumal ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n081"><hi rend="sup">81</hi></ref>
+      <note place="foot" xml:id="quc.n081"><seg type="note-symbol">81</seg>
+        Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
+        </note></p>
+      <p>taqal ub'aq' <rs ana="WUB">wub'</rs><ref target="quc.n082"><hi rend="sup">82</hi></ref>
+        <note place="foot" xml:id="quc.n082"><seg type="note-symbol">82</seg>
+          En el manuscrito esta palabra varía entre <hi rendition="simple:italic"><rs ana="WUB">ub'</rs></hi> y <hi rendition="simple:italic"><rs ana="WUB">wub'</rs></hi>En Basseta (p.472) se indica que varía entre <hi rendition="simple:italic"><rs ana="WUB">pub'</rs></hi> y <hi rendition="simple:italic"><rs ana="WUB">ub'</rs></hi>. Actualmente es más conocido como <hi rendition="simple:italic"><rs ana="WUB">pub'</rs></hi>.
+        </note>
+           chukakate'</p>
+      <p>churaquj uchi' ta xpe chuwi che'</p>
+      <p>taqal chuwach ulew</p>
+      <p><rs ana="CHIMALMAT">chimalmat</rs><ref target="quc.n083"><hi rend="sup">83</hi></ref>
+      <note place="foot" xml:id="quc.n083"><seg type="note-symbol">83</seg>
+        Es la acción de palpar.
+      </note> k'ut ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n084"><hi rend="sup">84</hi></ref>
+      <note place="foot" xml:id="quc.n084"><seg type="note-symbol">84</seg>
+        Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
+      </note>, anim xb'ek</p>
+      <p>qitzij wi xb'e'uchapa'</p>
+      <p>k'a te k'ut ta xqupix ula uq'ab' ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n085"><hi rend="sup">85</hi></ref>
+      <note place="foot" xml:id="quc.n085"><seg type="note-symbol">85</seg>
+        Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
+      </note> rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
+      <!-- editor's note: seems to be a paragraph break in the Word file but could just be shift from 6v to 7r. Ask Ajpub'-->
+      <p>Jusuk' xtzaq uloq</p>
+      <p>xmejo uloq tza'm uteleb'</p>
+      <p>ta xutzoqopij chi k'ut <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n086"><hi rend="sup">86</hi></ref>
+      <note place="foot" xml:id="quc.n086"><seg type="note-symbol">86</seg>
+        Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
+      </note> ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xa wi utz xkib'ano</p>
+      <p>ma nab'e kich'akatajik taj rumal <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>uk'a'am chi k'ut uq'ab' ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n087"><hi rend="sup">87</hi></ref>
+      <note place="foot" xml:id="quc.n087"><seg type="note-symbol">87</seg>
+        Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
+      </note> rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> ta xb'e chi rochoch</p>
+      <p>xa chi k'u ulot'em ukakate' xoponik.</p>
+      <p>naqi pa mixk'amow chi la'</p>
+      <p>xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs> rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>naqi pa ri' ri e ka'ib' k'axtok'<ref target="quc.n088"><hi rend="sup">88</hi></ref>
+      <note place="foot" xml:id="quc.n088"><seg type="note-symbol">88</seg>
+        En <rs ana="XIMENEZ">Ximénez</rs> (1985: 169) aparece <hi rendition="simple:italic">k'axtok'-el</hi>, "engañador". En Coto (1983: 140), <hi rendition="simple:italic">qaxtok</hi>,
+        "demonio", "diablo", "enemigo". Quizá se puede dejar como “mentiroso, engañador, enemigo”. El concepto de "diablo/demonio" es una introducción colonial y no prehispánico. Lo otro, es que en el <hi rendition="simple:italic">Memorial de Sololá</hi> (Otzoy 199:125)
+        aparece <hi rendition="simple:italic">k'axtok'</hi>, como alguien que se disfraza para espantar a los españoles de Iximche', durante la invasión de <rs ana="DONADIU">Pedro de Alvarado</rs>.
       </note></p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Naki pa kichib'ano.<ref target="quc.n184"><hi rend="sup">184</hi></ref>
-      <note place="foot" xml:id="quc.n184"><seg type="note-symbol">184</seg>
-        Se escriben juntas, posiblemente sea una variación de una doble marcación de aspeco (aporte de Saqijix) <hi rendition="simple:italic">chikib'ano</hi> como aparece también en el manuscrito K'iche' (Folio 7 verso, línea 24).
-      <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 24 -->
-      </note> Naki on<ref target="quc.n185"><hi rend="sup">185</hi></ref>
-      <note place="foot" xml:id="quc.n185"><seg type="note-symbol">185</seg>
-        Antes de esta palabra, hay una <hi rendition="simple:italic">chi</hi>, que el escriba tachó (Folio 7 verso, línea 24).
+      <p><rs ana="WUB">mixikiwub'aj</rs> mixsilib'ataj nukakate'</p>
+      <p>rumal xa kachuywaj e we, kaq'oxow chik</p>
+      <p>mi nab'e mixnuk'am uloq</p>
+      <p>chuwi q'aq' k'ut chixeke wi</p>
+      <p>chitzayab'a chuwi q'aq'</p>
+      <p>ta kulkik'ama' chik qitzij chi e k'axtok'</p>
+      <p>xcha' ri Wuqub' Kaqix</p>
+      <p>ta xuxekeb'a' uq'ab' ri <rs ana="JUNAJPU">Jun Ajpu</rs></p>
+      <p>Kina'ojinik chik ri <rs ana="JUNAJPU">Ju Jun Ajpu</rs><ref target="quc.n089"><hi rend="sup">89</hi></ref>
+      <note place="foot" xml:id="quc.n089"><seg type="note-symbol">89</seg>
+        Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
+      </note>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
+      <p>ta xkib'ij k'ut chi rech jun <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>, qitzij saq chik rismal wi chi <rs ana="SAQI_NIM_AQ_SIS">mama'</rs></p>
+      <p>jun k'u <rs ana="SAQI_NIM_AQ_SIS">ati't</rs> qitzij kemel <rs ana="SAQI_NIM_AQ_SIS">ati't</rs> chik</p>
+      <p>xa keluq'ukila chik chi rijitaq winaq</p>
+      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs> ub'i' <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinimatzis</rs> k'ut ub'i' <rs ana="SAQI_NIM_AQ_SIS">ati't</rs></p>
+      <p>xecha' k'u ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> chi ke ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs></p>
+      <p>kixqachb'ilaj taj, chib'etak'ama' qaq'ab' ruk' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xa kojtere' chi wij</p>
+      <p>qi ri' qamam ri qachb'ilan kaminaq kichuch kiqajaw</p>
+      <p>keje' k'ut keterekotila' wi chi qij</p>
+      <p>ta la keqasipaj wi</p>
+      <p>rumal xa elesan uchikopil eyaj kaqab'ano kixcha'</p>
+      <p>keje' k'u ri oj ak'alab', chirilo ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xa wi oj kojya'wik<ref target="quc.n090"><hi rend="sup">90</hi></ref>
+      <note place="foot" xml:id="quc.n090"><seg type="note-symbol">90</seg>
+        También puede ser <hi rendition="simple:italic">kojya'owik</hi>.
+      </note> ina'oj</p>
+      <p>xecha' ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></p>
+      <p>utz b'a la xecha' k'ut</p>
+      <p>K'a te k'ut ta xeb'ek</p>
+      <p>tzamal k'u b'i ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> chuwach uq'alib'al</p>
+      <p>ta xe'ik'owik ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs></p>
+      <p>ke'etzeyaj k'u ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> chi kij</p>
+      <p>ta xe'ik'ow chuxe' rochoch <rs ana="WUQUB'_KAQIX">ajaw</rs></p>
+      <p>kuraquj k'u uchi' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> rumal re</p>
+      <p>ta xril k'ut <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>ri <rs ana="SAQI_NIM_AQ_SIS">mama' ati't</rs> kachb'ilan kib'</p>
+      <p>apa kixpe wi <rs ana="SAQI_NIM_AQ_SIS">qamam</rs></p>
+      <p>xcha' k'u ri <rs ana="WUQUB'_KAQIX">ajaw</rs></p>
+      <p>xa oj tzuqub'ey qib' <rs ana="WUQUB'_KAQIX">lal ajaw</rs> xecha' k'ut.</p>
+      <p>Naqi pa itzuqub'al</p>
+      <p>ma iwalk'wal ri iwachb'ilan</p>
+      <p>maja b'i <rs ana="WUQUB'_KAQIX">lal ajaw</rs> e <rs ana="SAQI_NIM_AQ_SIS">qamam</rs> ri'</p>
+      <p>xere nare<ref target="quc.n091"><hi rend="sup">91</hi></ref>
+      <note place="foot" xml:id="quc.n091"><seg type="note-symbol">91</seg>
+        Esta partícula proviene de <hi rendition="simple:italic">ma are</hi> o <hi rendition="simple:italic">na are</hi>, dependiendo del contexto puede ser negativa, afirmativa o interrogativa. 
+      </note> kaqatoq'ob'aj kiwach ri ya'xel jupir<ref target="quc.n092"><hi rend="sup">92</hi></ref>
+      <note place="foot" xml:id="quc.n092"><seg type="note-symbol">92</seg>
+        <hi rendition="simple:italic">Jupir</hi> se escribe junto, sin embargo, cuando aparecen completas las 2 raíces se escriben por separado <hi rendition="simple:italic">jun pir</hi>.
+      </note>ch'aqa'p<ref target="quc.n093"><hi rend="sup">93</hi></ref>
+      <note place="foot" xml:id="quc.n093"><seg type="note-symbol">93</seg>
+        <hi rendition="simple:italic">Ch'aqa'p</hi> significa un pedazo, una porción. <hi rendition="simple:italic">Ch'aqap</hi> comúnmente se utiliza para indicar "el otro lado, el otro continente".
+      </note></p>
+      <p>kaqaya' chi kech <rs ana="WUQUB'_KAQIX">lal ajaw</rs></p>
+      <p>xecha' k'ut ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs></p>
+      <p>kutzin k'u ri <rs ana="WUQUB'_KAQIX">ajaw</rs> rumal uq'oxom re</p>
+      <p>xa kunimaqwachij chik kach'awik</p>
+      <p>in ta b'a' kanij<ref target="quc.n094"><hi rend="sup">94</hi></ref>
+      <note place="foot" xml:id="quc.n094"><seg type="note-symbol">94</seg>
+        En Basseta (2005: 361) indica que <hi rendition="simple:italic">canij</hi> es "encomendar", "guardar" y "amar".
+      </note> chi wech chitoq'ob'aj ta nuwach</p>
+      <p>naqi pa qi chib'ano</p>
+      <p>naqi on<ref target="quc.n095"><hi rend="sup">95</hi></ref>
+      <note place="foot" xml:id="quc.n095"><seg type="note-symbol">95</seg>
+        Después de esta palabra, hay una <hi rendition="simple:italic">chi</hi>, que el escriba tachó (<rs ana="XIMENEZ">Ximenez</rs>: Folio 7 verso, línea 24).
         <!-- editor's note: corresponds to XOM paragraph 12, folio 7v, line 24 -->
-      </note>kichikunaj<ref target="quc.n186"><hi rend="sup">186</hi></ref>
-      <note place="foot" xml:id="quc.n186"><seg type="note-symbol">186</seg>
-        Se escriben juntos, como el caso anterior.
-      </note>. Xcha' k'ut <rs ana="WUQUB'_KAQIX">ajaw</rs>.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Xa uchikopil eyaj chiqelesaj, xa k'u ub'aq' uwach chiqakunaj, xa b'aq chiqawiqo, <rs ana="WUQUB'_KAQIX">lal ajaw</rs>. Xecha' k'ut.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Utz b'a la'. Chikunaj ta b'a we, qitzij kaq'oxowik juta q'ij. Mawi chokiitajik. Maja b'i nuwaram rumal ruk' ub'aq' nuwach.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      <p>Xa <rs ana="WUB">xiki'ub'aj</rs><ref target="quc.n187"><hi rend="sup">187</hi></ref>
-      <note place="foot" xml:id="quc.n187"><seg type="note-symbol">187</seg>
-        En el manuscrito dice <hi rendition="simple:italic">xiquiubah</hi> (<hi rendition="simple:italic">xiki'ub'aj</hi>). Sam Colop (1999: 44) lo reconstruye como xinki'ub'aj.
-      </note> e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'axtok'</rs>, ta xtikarik. Mawi kinechajik rumal. Keje ta k'ut chitoq'ob'aj wi nuwach! Xa kachuyub'<ref target="quc.n188"><hi rend="sup">188</hi></ref>
-      <note place="foot" xml:id="quc.n188"><seg type="note-symbol">188</seg>
-        Aunque crea un poquito de duda sobre la forma de las vocales de esta palabra, con mejor resolución se ve que las vocales que la conforman son: <hi rendition="simple:italic">kachuyub'</hi> (Folio 7 verso, línea 37).
-        <!--editor's note: corresponds to XOM paragraph 12, folio 7v, line 37 --> 
-      </note> we,<ref target="quc.n189"><hi rend="sup">189</hi></ref>
-      <note place="foot" xml:id="quc.n189"><seg type="note-symbol">189</seg>
-        No comprendo muy bien esta expresión, pero, me parece que puede dividirse así.
-        <!-- editor's note: confirma la nota con Bety -->
-      </note> je chik ri we.</p>
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+      </note>qi chikunaj</p>
+      <p>xcha' k'ut <rs ana="WUQUB'_KAQIX">ajaw</rs></p>
+      <p>xa uchikopil eyaj chiqelesaj</p>
+      <p>xa k'u ub'aq' uwach chiqakunaj</p>
+      <p>xa b'aq chiqawiqo <rs ana="WUQUB'_KAQIX">lal ajaw</rs></p>
+      <p>xecha' k'ut</p>
+      <p>utz b'a la' chikunaj ta b'a we</p>
+      <p>qitzij kaq'oxowik juta q'ij</p>
+      <p>ma wi chokiitajik</p>
+      <p>maja b'i nuwaram rumal</p>
+      <p>ruk' ub'aq' nuwach xa <rs ana="WUB">xiki'ub'aj</rs><ref target="quc.n096"><hi rend="sup">96</hi></ref>
+      <note place="foot" xml:id="quc.n096"><seg type="note-symbol">96</seg>
+        En algunas variantes del idioma K'iche' actual hay mucha tendencia a utilizar una vocal epentética <hi rendition="simple:italic">i-</hi> entre el marcador de T/A completivo <hi rendition="simple:italic">x-</hi> y el marcador de tercera persona plural <hi rendition="simple:italic">ki</hi>. 
+      </note> e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'axtok'</rs></p>
+      <p>ta xtikarik ma wi kinechajik rumal</p>
+      <p>keje ta k'ut chitoq'ob'aj wi nuwach</p>
+      <p>xa kachuyub'<ref target="quc.n097"><hi rend="sup">97</hi></ref>
+      <note place="foot" xml:id="quc.n097"><seg type="note-symbol">97</seg>
+        Posible significado de esta palabra es: "tomar o recibir algo con las manos juntas y abiertas" conforme a Coto (1983: 471). 
+      </note> we je chik ri we.</p>
+      <!-- editor's note: I'm here -->
       <p>Utz b'a la', <rs ana="WUQUB'_KAQIX">lal ajaw</rs>. Chikop b'a kak'uxuwik. Xa chok uk'exel, chel ri e la.</p>
       <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       <p>Ma b'a utz lo chel ri we rumal xere <rs ana="WUQUB'_KAQIX">in ajaw wi</rs>. Nukawub'al<ref target="quc.n190"><hi rend="sup">190</hi></ref>
