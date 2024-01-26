@@ -60,7 +60,7 @@
         "<rs ana="ALOM">Alom</rs> <rs ana="K'ALOLOM">k'ajolom</rs>" tienen la función de agentivo y se escriben con minúsculas.
       </note> kib'i'.<ref target="quc.n004"><hi rend="sup">4</hi></ref>
       <note place="foot" xml:id="quc.n004"><seg type="note-symbol">4</seg>
-        En el folio 1r, en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega "<rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>", siguiendo el patrón de "<rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>". Ximenez registra "sis" como "tzis". Aquí se deja como "sis".
+        En el folio 1r, en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega <rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>, siguiendo el patrón de <rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>. <rs ana="XIMENEZ">Ximénez</rs> registra "sis" como "tzis". Aquí se deja como "sis".
       </note></p>
       <p><rs ana="JUNAJPU_WUCH'">Junajpu Wuch'</rs> <rs ana="JUNAJPU_UTIW">Junajpu Utiw</rs> <rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq Saqinim</rs> Sis</p>
       <p><rs ana="TEPEW_Q'UKUMATZ">Tepew Q'uq'kumatz</rs><ref target="quc.n005"><hi rend="sup">5</hi></ref>
@@ -366,7 +366,7 @@
       Ma wi mixutzinik qaq'ijiloxik qaq'ala'ixik puch kumal</p>
       <p>keje' k'ut qatija' wi ub'anik ajnim ajxob'<ref target="quc.n045"><hi rend="sup">45</hi></ref>
       <note place="foot" xml:id="quc.n045"><seg type="note-symbol">45</seg>
-        En <rs ana="XIMENEZ">Ximenez</rs> (2005: 619), "xob'" refiere a "miedo".
+        En <rs ana="XIMENEZ">Ximenez</rs> (1993: 619), "xob'" refiere a "miedo".
       </note>tzuqul q'o'l xecha'</p>
       <p>ta utz'aqik k'ut ub'anik puch ulew xoq'o'l uti'ojil xkib'ano</p>
       <p>ma k'u utz xkilo xa chiyojomanik xa tzub'ulik</p>
@@ -763,6 +763,7 @@
       <p>xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs> rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
       <p>naqi pa ri' ri e ka'ib' k'axtok'<ref target="quc.n088"><hi rend="sup">88</hi></ref>
       <note place="foot" xml:id="quc.n088"><seg type="note-symbol">88</seg>
+      <!-- editor's note: confirma con Ajpub' el año de la publicación de Ximénez. Las demás referencias son del 1993 -->
         En <rs ana="XIMENEZ">Ximénez</rs> (1985: 169) aparece <hi rendition="simple:italic">k'axtok'-el</hi>, "engañador". En Coto (1983: 140), <hi rendition="simple:italic">qaxtok</hi>,
         "demonio", "diablo", "enemigo". Quizá se puede dejar como “mentiroso, engañador, enemigo”. El concepto de "diablo/demonio" es una introducción colonial y no prehispánico. Lo otro, es que en el <hi rendition="simple:italic">Memorial de Sololá</hi> (Otzoy 199:125)
         aparece <hi rendition="simple:italic">k'axtok'</hi>, como alguien que se disfraza para espantar a los españoles de Iximche', durante la invasión de <rs ana="DONADIU">Pedro de Alvarado</rs>.
@@ -977,7 +978,7 @@
       <p>ma k'u are' kuk'ot uxe' jul ri umoqikil<ref target="quc.n108"><hi rend="sup">108</hi></ref></p>
       <note place="foot" xml:id="quc.n108"><seg type="note-symbol">108</seg>
         <!-- editor's note: confirma con Ajpub' el año de la publicación de Ximénez-->
-        Se refiere a sepultura (COTO [2005: 518] y <rs ana="XIMENEZ">Ximénez</rs> [XXXX: 389]).
+        Se refiere a sepultura (COTO [2005: 518] y <rs ana="XIMENEZ">Ximénez</rs> [1993: 389]).
       </note>
       <p>xa ujul kuk'oto, kolb'al rib'</p>
       <p>k'a te' k'ut ta xsik'in uloq ri <rs ana="SIPAKNA">Sipakna</rs></p>
@@ -1072,12 +1073,12 @@
       <p>K'a te k'ut ujalwachixik jun nima<rs ana="TAP">tap</rs> kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
       <p>are k'ut xkikoj ri uwach <rs ana="MAK_EK'">ek'</rs> ri <rs ana="MAK_EK'">mak<ref target="quc.n112"><hi rend="sup">112</hi></ref>
       <note place="foot" xml:id="quc.n112"><seg type="note-symbol">112</seg>
-        Es más probable que se refiera a <hi rendition="simple:italic">nima'q</hi>. En Coto (1983: 43) y <rs ana="XIMENEZ">Ximenez</rs> (XXXX: 369) se hace referencia al verbo <hi rendition="simple:italic">tinmak</hi> para indicar "arrancar" o "desherbar".
+        Es más probable que se refiera a <hi rendition="simple:italic">nima'q</hi>. En Coto (1983: 43) y <rs ana="XIMENEZ">Ximenez</rs> (1993: 369) se hace referencia al verbo <hi rendition="simple:italic">tinmak</hi> para indicar "arrancar" o "desherbar".
       </note> ek'</rs> k'o pa taq k'echelaj</p>
       <p>are uxul <rs ana="TAP">tap</rs> xuxik</p>
       <p>pajaq<ref target="quc.n113"><hi rend="sup">113</hi></ref> 
         <note place="foot" xml:id="quc.n113"><seg type="note-symbol">113</seg>
-          <hi rendition="simple:italic">Pajal</hi> o <hi rendition="simple:italic">pajaq</hi> según <rs ana="XIMENEZ">Ximénez</rs> (XXXX: 441) y significa "una yerba"; en kaqchikel es <hi rendition="simple:italic">koyak'ix</hi>, actualmente en Tz'utujil es <hi rendition="simple:italic">xkoyak'ix</hi>. En Coto (1983: LXXIX) <hi rendition="simple:italic">pajaq ruwach</hi> es "maíz colorado".
+          <hi rendition="simple:italic">Pajal</hi> o <hi rendition="simple:italic">pajaq</hi> según <rs ana="XIMENEZ">Ximénez</rs> (1993: 441) y significa "una yerba"; en kaqchikel es <hi rendition="simple:italic">koyak'ix</hi>, actualmente en Tz'utujil es <hi rendition="simple:italic">xkoyak'ix</hi>. En Coto (1983: LXXIX) <hi rendition="simple:italic">pajaq ruwach</hi> es "maíz colorado".
         </note> chi k'ut ukok q'ab' xkikojo</p>
       <p>sel ab'aj k'u ri uwarachaq <rs ana="TAP">tap</rs> ri jowojik</p>
       <p>k'a te k'ut ta xkikoj ukoq chuxe' pek chuxe' nimajuyub'</p>
@@ -1122,14 +1123,14 @@
       <p>ma b'a' xuk'ulu ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>kixb'enak'unuwab'a' k'o k'i xo wi<ref target="quc.n117"><hi rend="sup">117</hi></ref>
         <note place="foot" xml:id="quc.n117"><seg type="note-symbol">117</seg>
-          El significado es de "mucho" (<rs ana="XIMENEZ">Ximénez</rs> XXXX: 619)
+          El significado es de "mucho" (<rs ana="XIMENEZ">Ximénez</rs> 1993: 619)
         </note>
         ri <rs ana="TZ'IKIN">tz'ikin</rs></p>
       <p>chib'etaji<rs ana="WUB">wub'aj</rs> weta'm k'o wi</p>
       <p>xcha' chi k'ut <rs ana="SIPAKNA">Sipakna</rs></p>
       <p>xelajik<ref target="quc.n118"><hi rend="sup">118</hi></ref>
         <note place="foot" xml:id="quc.n118"><seg type="note-symbol">118</seg>
-          La raíz es <hi rendition="simple:italic">-elaj-</hi> de "suplicar" tal como se indica en Q'eqchi' y <rs ana="XIMENEZ">Ximénez</rs> (XXXX: 253).
+          La raíz es <hi rendition="simple:italic">-elaj-</hi> de "suplicar" tal como se indica en Q'eqchi' y <rs ana="XIMENEZ">Ximénez</rs> (1993: 253).
         </note>xoq' na chi kiwach <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>la ma qi k'u xchachup lo</p>
       <p>ta xa keje xkojtzalij awumal</p>
