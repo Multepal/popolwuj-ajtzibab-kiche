@@ -252,7 +252,6 @@
         </note>wi ri kaj</p> 
       <p>xk'olo nay puch ulew chupan ja'</p>
       <p>keje' k'ut una'oiixik ri' ta xkino'jij ta xkib'isoj rutzinik ub'ana tajik kumal</p>
-      <!-- editor's note: confirm with Ajpub' that there is a paragraph break but no period after kumal -->
     
       <p xml:id="p10">
       <!--editor's note: corresponds to XOM 2v, paragraph 6 --> 
@@ -332,7 +331,6 @@
         <note place="foot" xml:id="quc.n042"><seg type="note-symbol">42</seg>
           Debe ser plural "xecha" para que haya concordancia de número gramatical.
         </note> chik chi kib'il kib' ri <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">k'ajolom</rs></p>
-      <!-- editor's note: confirm with Ajpub' that the text below should all appear on one line-->
       <p>xe'uchax k'ut xa kixjalatajik rumal ma wi mixutzinik ma wi mixixch'awik mi k'u xqajal qatzij iwecha' ik'uxun iwarab'al iyakalib'al</p>
       <p>xiwech<ref target="quc.n043"><hi rend="sup">43</hi></ref>
       <note place="foot" xml:id="quc.n043"><seg type="note-symbol">43</seg>
@@ -507,7 +505,6 @@
       <p>xpe <rs ana="TUKUMB'ALAM">Tukum B'alam</rs> xtukuwik xkichowik kib'aqil kib'ochil</p>
       <p>xqajixik xmuchulixik kib'aqil k'ajisab'al kiwach</p> 
       <p>rumal ma wi kina'wik chuwach ki<rs ana="ALOM">chuch</rs> chuwach puch ki<rs ana="K'AJOLOM">kajaw</rs> ri <rs ana="UK'U'X_KAJ">Uk'u'x Kaj</rs> <rs ana="JUN_RAQAN">Junraqan</rs> ub'i'</p>
-      <!-- editor's note: confirm with Ajpub' whether the line above is separate from or part of the next one-->
       <p>kumal xq'equ'marik uwach ulew</p>
       <p>xtikarik q'eqal jab' q'ijil jab' aqab'al jab'</p>
       <p>xok ula' ch'utichikop nimachikop.</p>
@@ -584,8 +581,10 @@
         <note place="foot" xml:id="quc.n064"><seg type="note-symbol">64</seg>
           La forma completa y actual es "rumal". 
         </note>che'</p>
+      
+      <p xml:id="p23">
       <!-- editor's note: confirma con Ajpub': aqui hay un parrafo nuevo o no? -->
-      <p>Kerajok pa jul xa chiyuch<ref target="quc.n065"><hi rend="sup">65</hi></ref>
+      Kerajok pa jul xa chiyuch<ref target="quc.n065"><hi rend="sup">65</hi></ref>
         <note place="foot" xml:id="quc.n065"><seg type="note-symbol">65</seg>
           El morfema "-yuch" en Tz'utujil indica "reducción de espacio". En K'iche' actualmente significa "plegarse" o "arrugarse". 
       </note>jul chi kiwach</p>
@@ -603,7 +602,7 @@
       <p>Are k'ut xa jub'iq' saqnatanoj uwach ulew maja b'i q'ij</p>
       <p>jun k'ut kunimarisaj rib' <rs ana="WUQUB'_KAQIX">wuqub' kaqix</rs><ref target="quc.n067"><hi rend="sup">67</hi></ref>
       <note place="foot" xml:id="quc.n067"><seg type="note-symbol">67</seg>
-        En el manuscrito de Ximénez (folio 5v, línea 19) K'iche' dice <rs ana="WUQUB'_KAQIX">"vucub caquix"</rs> y se transcribe como <rs ana="WUQUB'_KAQIX">"wuqub' kaqix"</rs>. En el Diccionario de Varea (edición digital: página 25, lado derecho), "cakix", es "guacamaya". Actualmente, existe una especie de hongo, llamado "kaqix", por los colores que asemejan a la guacamaya. En Tz'utujil existe un pez llamada "kaqix" por los colores que se asemejan a la guacamaya. Erróneamente se ha querido confundir este nombre con "qak'ix", "nuestra vergüenza", pero no corresponde.
+        En el manuscrito de <rs ana="XIMENEZ">Ximénez</rs> (folio 5v, línea 19) K'iche' dice <rs ana="WUQUB'_KAQIX">"vucub caquix"</rs> y se transcribe como <rs ana="WUQUB'_KAQIX">"wuqub' kaqix"</rs>. En el Diccionario de Varea (edición digital: página 25, lado derecho), "cakix", es "guacamaya". Actualmente, existe una especie de hongo, llamado "kaqix", por los colores que asemejan a la guacamaya. En Tz'utujil existe un pez llamada "kaqix" por los colores que se asemejan a la guacamaya. Erróneamente se ha querido confundir este nombre con "qak'ix", "nuestra vergüenza", pero no corresponde.
         K'iche' dice, <rs ana="WUQUB'_KAQIX">vucub caquix</rs>, su transcripción podría ser: “<rs ana="WUQUB'_KAQIX">wuqub' kaqix</rs> o <rs ana="WUQUB'_KAQIX">Kakix</rs>”.
         <!--editor's note: refers to XOM paragraph 10, line 17 --> 
       </note> ub'i'</p>
@@ -612,7 +611,7 @@
       <p>keje ri nawal winaq uk'oje'ik</p>
       <p>in nim kik'oje'<ref target="quc.n068"><hi rend="sup">68</hi></ref>
       <note place="foot" xml:id="quc.n068"><seg type="note-symbol">68</seg>
-        En el manuscrito de Ximénez (folio 5v, línea 25) aparece como "kik'oje'", la forma completa debe ser "kink'oje'".
+        En el manuscrito de <rs ana="XIMENEZ">Ximénez</rs> (folio 5v, línea 25) aparece como "kik'oje'", la forma completa debe ser "kink'oje'".
       </note>chik chuwi winaq tz'aq winaq b'it</p>
       <p>in uq'ij in pu usaq in nay pu rik'il ta chuxoq</p>
       <p>nim nusaqil, in b'inib'al in pu chakab'al</p> 
@@ -624,10 +623,8 @@
       <p>kasaqpake' uwach ulew ta kinel uloq chuwach nuq'alib'al</p>
       <p>keje k'ut in q'ij wi in pu ik' rumal saqil al saqil k'ajol ta chuxoq</p> 
       <p>rumal chi naj kopon wi nuwach cha' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <!-- confirm with Ajpub' that paragraph break is removed -->
       <p>Ma k'u qitzij are ta q'ij ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> xere kunimarisaj rib' ri uxik' upuwaq xere k'ut toq'ol wi uwach ri chi kub'e wi</p>
       <p>mana ronojel ta uxe' kaj kopon wi uwach</p>
-      <!-- editor's note: Word file ends here. Open next document from Ajpub' for the rest of the file -->
       <p>maja k'ut ki<ref target="quc.n069"><hi rend="sup">69</hi></ref>
         <note place="foot" xml:id="quc.n069"><seg type="note-symbol">69</seg>
           Esta partícula refiere al adverbio ciertamente.
@@ -666,7 +663,7 @@
       <p>ma wi are chiwinaqir wi q'aq'al ri xa puwaq</p>
       <p>ta chuxoq xecha' ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>jujun chi <rs ana="WUB">ub'</rs> kitelen kikab'ichal.</p>
-      <!-- editor's note: is this a paragraph break? Confirm with Ajpub' -->
+      <!-- editor's note: is this a paragraph break? Confirm with Ajpub' corresponds to XOM par. 11 line 34-->
       <p>Are k'u ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> e ka'ib' uk'ajol</p>
       <p>are nab'e al ri <rs ana="SIPAKNA">Sipakna</rs> ukab' al chi k'ut ri <rs ana="KAB'RAQAN">Kab'raqan</rs></p>
       <p><rs ana="CHIMALMAT">Chimalmat</rs> k'ut ub'i' kichuch, rixoqil ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
@@ -763,7 +760,7 @@
       <p>xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs> rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
       <p>naqi pa ri' ri e ka'ib' k'axtok'<ref target="quc.n088"><hi rend="sup">88</hi></ref>
       <note place="foot" xml:id="quc.n088"><seg type="note-symbol">88</seg>
-      <!-- editor's note: confirma con Ajpub' el año de la publicación de Ximénez. Las demás referencias son del 1993 -->
+      <!-- editor's note: confirma con Ajpub' el año de la publicación de Ximénez. Las demás referencias son del 1993. I am here with the list of questions -->
         En <rs ana="XIMENEZ">Ximénez</rs> (1985: 169) aparece <hi rendition="simple:italic">k'axtok'-el</hi>, "engañador". En Coto (1983: 140), <hi rendition="simple:italic">qaxtok</hi>,
         "demonio", "diablo", "enemigo". Quizá se puede dejar como “mentiroso, engañador, enemigo”. El concepto de "diablo/demonio" es una introducción colonial y no prehispánico. Lo otro, es que en el <hi rendition="simple:italic">Memorial de Sololá</hi> (Otzoy 199:125)
         aparece <hi rendition="simple:italic">k'axtok'</hi>, como alguien que se disfraza para espantar a los españoles de Iximche', durante la invasión de <rs ana="DONADIU">Pedro de Alvarado</rs>.
