@@ -592,141 +592,194 @@
       <p>ixoq sib'aq k'ut uti'ojil ixoq.</p>
       <p>Xrajokik rumal <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs>.</p>
 
-      <p xml:id="p18">
-      Ma wi xena'wik ma pu xech'awik chuwach kajtz'aq kajb'it b'anol ke winaqirisay kech keje k'ut kikamisaxik xeb'utik</p>
-      <p>xpe <rs ana="Q'OL">nimaq'ol</rs> chi la' chi kaj</p>
-      <p><rs ana="K'OTK'OWACH">xek'otk'owach</rs> ub'i</p>
+      <p xml:id="p17">
+      Ma wi xena'wik</p>
+      <p>ma pu xech'awik chuwach kajtz'aq kajb'it</p>
+      <p>b'anol ke winaqirisay kech</p>
+      <p>keje k'ut kikamisaxik xeb'utik</p>
+      <p>xpe <rs ana="Q'OL">nimaq'ol</rs> chi la' chi kaj.</p>
+      <p><rs ana="K'OTK'OWACH">Xek'otk'owach</rs> ub'i</p>
       <p>xk'otin uloq ub'aq' kiwach</p>
       <p>xepe <rs ana="KAMALOTZ'">Kamalotz</rs></p>
       <p>xqupin ula kijolom</p>
-      <p>xpe <rs ana="KOTZB'ALAM">Kotz B'alam</rs> xti'o<ref target="quc.n075"><hi rend="sup">75</hi></ref>
-      <note place="foot" xml:id="quc.n075"><seg type="note-symbol">75</seg>
-        Actualmente la forma del verbo es "xti'ow".
-      </note> kiti'ojil.</p>
+      <p>xpe <rs ana="KOTZB'ALAM">Kotz B'alam</rs> xti'o<ref target="quc.n064"><hi rend="sup">64</hi></ref>
+        <note place="foot" xml:id="quc.n064"><seg type="note-symbol">64</seg>
+        Actualmente la forma del verbo es <hi rendition="simple:italic">xti'ow</hi>.
+        </note>
+      kiti'ojil.</p>
       <p>xpe <rs ana="TUKUMB'ALAM">Tukum B'alam</rs> xtukuwik xkichowik kib'aqil kib'ochil</p>
       <p>xqajixik xmuchulixik kib'aqil k'ajisab'al kiwach</p> 
-      <p>rumal ma wi kina'wik chuwach ki<rs ana="ALOM">chuch</rs> chuwach puch ki<rs ana="K'AJOLOM">kajaw</rs> ri <rs ana="UK'U'X_KAJ">Uk'u'x Kaj</rs> <rs ana="JUN_RAQAN">Junraqan</rs> ub'i'</p>
+      <p>rumal ma wi kina'wik chuwach ki<rs ana="ALOM">chuch</rs> chuwach puch ki<rs ana="K'AJOLOM">kajaw</rs></p>
+      <p>ri <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> <rs ana="JUN_RAQAN">Juraqan</rs> ub'i'</p>
       <p>kumal xq'equ'marik uwach ulew</p>
-      <p>xtikarik q'eqal jab' q'ijil jab' aqab'al jab'</p>
-      <p>xok ula' ch'utichikop nimachikop.</p>
-      <p>xk'ut kiwach rumal che' ab'aj</p>
-      <p>xch'awik ronojel kiq'eb'al, kixot, kilaq, kib'o'j, kitz'i', ki<rs ana="KA'">ka'</rs> jaruj pa' la ronojel xk'utu<ref target="quc.n058"><hi rend="sup">58</hi></ref>
-      <note place="foot" xml:id="quc.n058"><seg type="note-symbol">58</seg>
-        La forma actual de este verbo es "xk'utuw".
-      </note> kiwach.</p>
+      <p>xtikarik q'eqal jab' q'ijil jab' aq'ab'al jab'</p>
+      <p>xok ula ch'utichikop nimachikop</p>
+      <p>xk'ut kiwach rumal che' ab'aj.</p>
+      <p>Xch'awik ronojel kiq'eb'al kixot, kilaq, kib'o'j, kitz'i', ki<rs ana="KA'">ka'</rs>,</p>
+      <p>jaruj pa' la ronojel xk'utu<ref target="quc.n065"><hi rend="sup">65</hi></ref>
+        <note place="foot" xml:id="quc.n065"><seg type="note-symbol">65</seg>
+        La forma actual de este verbo es <hi rendition="simple:italic">xk'utuw</hi>.
+        </note>
+      kiwach.</p>
 
     <p xml:id="p18">
-      <!-- editor's note: paragraph break in Ajtz'ib'ab', not in XOM. Raf! -->
+      <!-- editor's note: paragraph break in Ajtz'ib'ab', not in XOM. Raf! Corresponds to XOM folio 5r, line 3-->
       K'ax xib'an chi qe xojiti'o</p>
       <p>ix chi k'ut xkixqati' chik</p>
-      <p>xcha' ri kitz'i' kak' chi kech.</p>
-      <p>Are k'u ri <rs ana="KA'">ka'</rs> xojk'ok'onik iwumal jutaq'ij<ref target="quc.n059"><hi rend="sup">59</hi></ref>
-        <note place="foot" xml:id="quc.n059"><seg type="note-symbol">59</seg>
-          La forma completa es "jun taq q'ij". En el caso de "taq q'ij", el sonido "q" y "q'" se encuentran en el mismo punto de articulación y se da asimilación de sonidos por lo que se registra como "taq'ij". En el caso de "jun" que refiere al numeral "uno", se contrae a "ju".
-        </note>jutaq'ij</p>
-      <p>xq'eq saqirik amaq'el joli joli juk'i juk'i qawach iwumal.</p>
-
-    <p xml:id="p19">
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
-      Are ta nab'e qapatan chi wach ix ta na winaq</p>
+      <p>xcha' ri kitz'i', kak' chi kech.</p>
+      <p>Are k'u ri <rs ana="KA'">ka'</rs> xojk'ok'onik iwumal jutaq'ij<ref target="quc.n066"><hi rend="sup">66</hi></ref>
+        <note place="foot" xml:id="quc.n066"><seg type="note-symbol">66</seg>
+        La forma completa es <hi rendition="simple:italic">jun taq q'ij</hi>. En el caso de <hi rendition="simple:italic">taq q'ij</hi>, el sonido <hi rendition="simple:italic">q</hi> y <hi rendition="simple:italic">q'</hi> se encuentran en el mismo punto de articulación y se da asimilación de sonidos por lo que se registra como <hi rendition="simple:italic">taq'ij</hi>. En el caso de <hi rendition="simple:italic">jun</hi> que refiere al numeral "uno", se contrae a <hi rendition="simple:italic">ju</hi>.
+        </note>
+      jutaq'ij</p>
+      <p>xq'eq saqirik amaq'el joli joli, juk'i juk'i qawach iwumal</p>
+      <p>are ta nab'e qapatan chi wach ix ta na winaq</p>
       <p>wakamik k'ut xchitij qachuq'ab'</p>
       <p>xchiqake'j xchiqajok' puch ityi'ojil</p>
       <p>xcha' ri kika' chi ke.</p>
     
-    <p xml:id="p20">
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+    <p xml:id="p19">
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM folio 5r, line 16 -->
       Are k'u ri kitz'i' xcha' chik ta xch'awik</p>
       <p>naqi pa rumal ma wi chiya' qawa</p>
-      <p>xa kojmuqunik xa pu kojikuxij<ref target="quc.n060"><hi rend="sup">60</hi></ref>
-        <note place="foot" xml:id="quc.n060"><seg type="note-symbol">60</seg>
-          El significado de esta palabra se relaciona con "ver", "echar fuera" o "dar bocado". En Basseta (2005: 380) <hi rendition="simple:italic">kuxij ub'ik</hi> indica "echar fuera las gallinas". <rs ana="XIMENEZ">Ximénez</rs> (1993: 247) indica que es "ojear aves, morder o dar bocado". 
-      </note>uloq</p> 
+      <p>xa kojmuqunik xa pu kojikuxij<ref target="quc.n067"><hi rend="sup">67</hi></ref>
+        <note place="foot" xml:id="quc.n067"><seg type="note-symbol">67</seg>
+        En Coto (1983: CVI) indica que <hi rendition="simple:italic">cuxih</hi> se refiere a "espantar a los pájaros". Y <hi rendition="simple:italic">cux cux</hi> significa echar fuera. En K'iche' <hi rendition="simple:italic">wuxik</hi>, en algunas variantes, significa "espantar a los perros", "alejar o sacar a los perros de la casa". Específicamente cuando entra a la cocina.
+        </note>
+      uloq</p> 
       <p>kojitzaq pu uloq</p>
       <p>yakal ub'i qache'el iwumal ta kixwa'ik</p>
-      <p>xere kojiwucha'j wi</p> 
+      <p>xere<ref target="quc.n068"><hi rend="sup">68</hi></ref>
+        <note place="foot" xml:id="quc.n068"><seg type="note-symbol">68</seg> 
+          Esta palabra proviene de las partículas <hi rendition="simple:italic">xa are</hi>.
+        </note>
+      kojiwucha'j<ref target="quc.n069"><hi rend="sup">69</hi></ref>
+      <note place="foot" xml:id="quc.n069"><seg type="note-symbol">69</seg> 
+      Al parecer esta expresión refiere a “remediar algo”.
+      </note>
+      wi</p> 
       <p>ma wi kojch'awik</p>
-      <p>mata k'u mixojkamik chiwe<ref target="quc.n061"><hi rend="sup">61</hi></ref>
-      <note place="foot" xml:id="quc.n061"><seg type="note-symbol">61</seg>
-        La forma completa es "chi iwech". En esta palabra se encuentran dos fenómenos, uno es que la "i" de la preposición "chi" y la "i" del sustantivo relacional se asimilan y se contrae la palabra quedando como "chiwech", se pierde la letra "ch" del sustativo relacional "chiwech".
+      <p>mata k'u mixojkamik chiwe<ref target="quc.n070"><hi rend="sup">70</hi></ref>
+      <note place="foot" xml:id="quc.n070"><seg type="note-symbol">70</seg>
+        La forma completa es <hi rendition="simple:italic">chi iwech</hi>. En esta palabra se encuentran dos fenómenos, uno es que la <hi rendition="simple:italic">i</hi> de la preposición <hi rendition="simple:italic">chi</hi> y la <hi rendition="simple:italic">i</hi> del sustantivo relacional se asimilan y se contrae la palabra quedando como <hi rendition="simple:italic">chiwech</hi>, se pierde la letra <hi rendition="simple:italic">ch</hi> del sustativo relacional <hi rendition="simple:italic">chiwech</hi>.
       </note></p>
-      <p>jupa cha ma wi mixixna'wik</p> 
+      <p>jupacha ma wi mixixna'wik</p> 
       <p>xixna'w ta k'ut</p>
-      <p>chiwij<ref target="quc.n062"><hi rend="sup">62</hi></ref>
-      <note place="foot" xml:id="quc.n062"><seg type="note-symbol">62</seg>
-        La forma completa es "chi iwij" por encontrarse dos vocales iguales se da asimilación y queda como "chiwij".
-      </note> ta k'ut xojsach wi</p>
+      <p>chiwij<ref target="quc.n071"><hi rend="sup">71</hi></ref>
+        <note place="foot" xml:id="quc.n071"><seg type="note-symbol">71</seg>
+        La forma completa es <hi rendition="simple:italic">chi iwij</hi> por encontrarse dos vocales iguales se da asimilación y queda como <hi rendition="simple:italic">chiwij</hi>.
+        </note>
+      ta k'ut xojsach wi</p>
       <p>wakamik k'ut xchitij qab'aq k'o pa qachi'</p>
       <p>xkixqati'o xecha' ri tz'i' chi ke ta xk'ut kiwach.</p>
 
-    <p xml:id="p21">
-      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
+    <p xml:id="p20">
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM folio 5r line 31 -->
       Are chi k'u ri kixot kib'o'j xch'aw chik chi ke</p>
       <p>k'ax wa xib'an chi qe</p>
       <p>xaq qachi' xaq qawach</p>
-      <p>amaq'el oj tzakal chuwi q'aq' kojik'ato</p>
+      <p>amaq'el oj tzakal chuwi' q'aq'</p>
+      <p>kojik'ato</p>
       <p>ma wi k'ax xqana'o</p>
-      <p>xchitij k'ut xkixqaporoj xcha ri kib'o'j.</p>
-      <p>ronojel xk'utu<ref target="quc.n063"><hi rend="sup">63</hi></ref>
-      <note place="foot" xml:id="quc.n063"><seg type="note-symbol">63</seg>
-        La forma actual es "xk'utuw".
-      </note> kiwach.</p>
+      <p>xchitij k'ut xkixqaporoj</p>
+      <p>xcha ri kib'o'j</p>
+      <p>ronojel xk'utu<ref target="quc.n072"><hi rend="sup">72</hi></ref>
+        <note place="foot" xml:id="quc.n072"><seg type="note-symbol">72</seg>
+        La forma actual es <hi rendition="simple:italic">xk'utuw</hi>.
+        </note>
+      kiwach.</p>
     
-    <p xml:id="p22">
+    <p xml:id="p21">
       <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM -->
       Are ri ab'aj ri kixk'ub' chitaninik chipe pa q'aq'</p> 
       <p>tak'al chi kijolom</p> 
-      <p>k'ax xb'an chi ke</p>
-      <p>anilab'ik kemalmalijab' chik kerajaq'anik chuwi' ja</p>
+      <p>k'ax xb'an chi ke.</p>
+      <p>Anilab'ik<ref target="quc.n073"><hi rend="sup">73</hi></ref>
+        <note place="foot" xml:id="quc.n073"><seg type="note-symbol">73</seg>
+          <hi rendition="simple:italic">Anilab'ik</hi> refiera a "correr diligentemente" (Basseta 2005: 338). En Tz'utujil se entiende como "la acción del dolor que causa la quemadura". 
+        </note>
+      kemalmalijab'<ref target="quc.n074"><hi rend="sup">74</hi></ref>
+      <note place="foot" xml:id="quc.n074"><seg type="note-symbol">74</seg>
+      En Basseta (2005: 444), <hi rendition="simple:italic">malmatik</hi> refiere a "correr tras la cosa después que se ha tirado".
+      </note>
+      chik kerajaq'anik chuwi' ja</p>
       <p>xa chiwulij ja ketzaq uloq</p>
-      <p>kerajaq'an chuwi che' kech'akix uloq ruma<ref target="quc.n064"><hi rend="sup">64</hi></ref>
-        <note place="foot" xml:id="quc.n064"><seg type="note-symbol">64</seg>
-          La forma completa y actual es "rumal". 
-        </note>che'</p>
-      
-      <p xml:id="p23">
-      <!-- editor's note: confirma con Ajpub': aqui hay un parrafo nuevo o no? -->
-      Kerajok pa jul xa chiyuch<ref target="quc.n065"><hi rend="sup">65</hi></ref>
-        <note place="foot" xml:id="quc.n065"><seg type="note-symbol">65</seg>
-          El morfema "-yuch" en Tz'utujil indica "reducción de espacio". En K'iche' actualmente significa "plegarse" o "arrugarse". 
-      </note>jul chi kiwach</p>
-      <p>keje k'ut ukayojik<ref target="quc.n066"><hi rend="sup">66</hi></ref>
-        <note place="foot" xml:id="quc.n066"><seg type="note-symbol">66</seg>
-          La forma completa de esta palabra es "ukab' yojik". 
-        </note>winaq tz'aq winaq b'it</p>
+      <p>kerajaq'an chuwi che'</p>
+      <p>kech'akix uloq ruma<ref target="quc.n075"><hi rend="sup">75</hi></ref>
+        <note place="foot" xml:id="quc.n075"><seg type="note-symbol">75</seg>
+          La forma completa y actual es <hi rendition="simple:italic">rumal</hi>. 
+        </note>
+      che'</p>
+      <p>kerajok pa jul</p>
+      <p>xa chiyuch<ref target="quc.n076"><hi rend="sup">76</hi></ref>
+        <note place="foot" xml:id="quc.n076"><seg type="note-symbol">76</seg>
+          <hi rendition="simple:italic">-Yuch</hi> en Tz'utujil indica "reducción de espacio". En K'iche' actualmente significa "plegarse" o "arrugarse". 
+        </note>
+      jul chi kiwach</p>
+      <p>keje k'ut ukayojik<ref target="quc.n077"><hi rend="sup">77</hi></ref>
+        <note place="foot" xml:id="quc.n077"><seg type="note-symbol">77</seg>
+        La forma completa de esta palabra es <hi rendition="simple:italic">ukab' yojik</hi>. 
+        </note>
+      winaq tz'aq winaq b'it</p>
       <p>e tzixel e tzalatzoxel chi winaq</p>
       <p>xmayxik xk'utuxik kichi' kiwach konojel</p>
-      <p>xcha' k'ut are retal ri <rs ana="K'OY">k'oy</rs> k'o pa k'echelaj wakamik.</p>
-      <p>Are xk'oje wi retal rumal xa che' kiti'ojil xkojik rumal <rs ana="TZ'AQOL">ajtz'aq</rs> <rs ana="B'ITOL">ajb'it</rs></p>
+      <p>xcha' k'ut are retal ri <rs ana="K'OY">k'oy</rs> k'o pa k'echelaj wakamik</p>
+      <p>are xk'oje' wi retal</p>
+      <p>rumal xa che' kiti'ojil xkojik rumal <rs ana="TZ'AQOL">ajtz'aq</rs> <rs ana="B'ITOL">ajb'it</rs></p>
       <p>are k'u ri <rs ana="K'OY">k'oy</rs> keje ri winaq chiwachinik</p>
-      <p>retal jule' winaq tz'aq winaq b'it xa poy xa pu ajam che'.</p>
-      <!-- editor's note: corresponds to XOM 5v, paragraph 10 -->
-      <p>Are k'ut xa jub'iq' saqnatanoj uwach ulew maja b'i q'ij</p>
-      <p>jun k'ut kunimarisaj rib' <rs ana="WUQUB'_KAQIX">wuqub' kaqix</rs><ref target="quc.n067"><hi rend="sup">67</hi></ref>
-      <note place="foot" xml:id="quc.n067"><seg type="note-symbol">67</seg>
-        En el manuscrito de <rs ana="XIMENEZ">Ximénez</rs> (folio 5v, línea 19) K'iche' dice <rs ana="WUQUB'_KAQIX">"vucub caquix"</rs> y se transcribe como <rs ana="WUQUB'_KAQIX">"wuqub' kaqix"</rs>. En el Diccionario de Varea (edición digital: página 25, lado derecho), "cakix", es "guacamaya". Actualmente, existe una especie de hongo, llamado "kaqix", por los colores que asemejan a la guacamaya. En Tz'utujil existe un pez llamada "kaqix" por los colores que se asemejan a la guacamaya. Erróneamente se ha querido confundir este nombre con "qak'ix", "nuestra vergüenza", pero no corresponde.
-        K'iche' dice, <rs ana="WUQUB'_KAQIX">vucub caquix</rs>, su transcripción podría ser: “<rs ana="WUQUB'_KAQIX">wuqub' kaqix</rs> o <rs ana="WUQUB'_KAQIX">Kakix</rs>”.
-        <!--editor's note: refers to XOM paragraph 10, line 17 --> 
-      </note> ub'i'</p>
-      <p>k'o nab'e kaj ulew, xa kamoymot uwach q'ij ik'</p>
-      <p>kacha' k'u ri' xa wi xere usaqetal winaq ri xb'utik</p>
-      <p>keje ri nawal winaq uk'oje'ik</p>
-      <p>in nim kik'oje'<ref target="quc.n068"><hi rend="sup">68</hi></ref>
-      <note place="foot" xml:id="quc.n068"><seg type="note-symbol">68</seg>
-        En el manuscrito de <rs ana="XIMENEZ">Ximénez</rs> (folio 5v, línea 25) aparece como "kik'oje'", la forma completa debe ser "kink'oje'".
-      </note>chik chuwi winaq tz'aq winaq b'it</p>
-      <p>in uq'ij in pu usaq in nay pu rik'il ta chuxoq</p>
-      <p>nim nusaqil, in b'inib'al in pu chakab'al</p> 
+      <p>retal jule' winaq tz'aq winaq b'it</p>
+      <p>xa poy xa pu ajam che'.</p>
+
+      <p xml:id="p21">
+      Are k'ut xa jub'iq' saqnatanoj uwach ulew</p>
+      <p>maja b'i q'ij</p>
+      <p>jun k'ut kunimarisaj rib' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs><ref target="quc.n078"><hi rend="sup">78</hi></ref>
+        <note place="foot" xml:id="quc.n078"><seg type="note-symbol">78</seg>
+        En el folio 5v, línea 19 <!--editor's note: refers to XOM paragraph 10, line 17. Can we link them? -->del manuscrito de <rs ana="XIMENEZ">Ximénez</rs> dice <hi rendition="simple:italic"><rs ana="WUQUB'_KAQIX">vucub caquix</rs></hi> y se transcribe como <hi rendition="simple:italic"><rs ana="WUQUB'_KAQIX">wuqub' kaqix</rs></hi>. En el Diccionario de Varea (edición digital: página 25, lado derecho), <hi rendition="simple:italic">Cakix</hi>, es "guacamaya". Actualmente, existe una especie de hongo, llamado <hi rendition="simple:italic">Kaqix</hi>, por los colores que asemejan a la guacamaya. En Tz'utujil existe un pez llamada <hi rendition="simple:italic">kaqix</hi> por los colores que se asemejan a la guacamaya. Erróneamente se ha querido confundir este nombre con <hi rendition="simple:italic">qak'ix</hi>, "nuestra vergüenza", pero no corresponde. 
+        </note>
+      ub'i'</p>
+      <p>k'o nab'e kaj ulew</p>
+      <p>xa kamoymot uwach q'ij ik'</p>
+      <p>kacha' k'u ri'</p>
+      <p>xa wi xere usaqetal winaq ri xb'utik</p>
+      <p>keje ri nawal<ref target="quc.n079"><hi rend="sup">79</hi></ref>
+        <note place="foot" xml:id="quc.n079"><seg type="note-symbol">79</seg>
+        Seres con capacidades superiores al igual que los que tienen visión cercana y distante llamados <hi rendition="simple:italic">nik'wachinel</hi>.
+        </note>
+      winaq uk'oje'ik.</p>
+      <p>In nim kik'oje'<ref target="quc.n080"><hi rend="sup">80</hi></ref>
+        <note place="foot" xml:id="quc.n080"><seg type="note-symbol">80</seg>
+        En el folio 5v, línea 25 del manuscrito de <rs ana="XIMENEZ">Ximénez</rs> aparece como <hi rendition="simple:italic">kik'oje'</hi>, la forma completa debe ser <hi rendition="simple:italic">kink'oje'</hi>.
+        </note>
+      chik chuwi' winaq tz'aq winaq b'it</p>
+      <p>in uq'ij in pu usaq</p>
+      <p>in nay pu rik'il ta chuxoq</p>
+      <p>nim nusaqil</p>
+      <p>in b'inib'al in pu chakab'al</p> 
       <p>rumal winaq rumal puwaq ub'aq' nuwach</p>
       <p>xa katiltotik chi yamanik raxak'uwal</p>
-      <p>nay pu we raxkawakoj chi ab'aj keje ri uwa kaj</p>
-      <p>are k'u ri nutza'm, saqjulujuj chi naj keje ri ik'</p>
+      <p>nay pu we raxkawakoj chi ab'aj</p>
+      <p>keje ri uwa kaj</p>
+      <p>are k'u ri nutza'm, saqjulujuj chi naj</p>
+      <p>keje ri ik'</p>
       <p>puwaq k'ut nuq'alib'al</p>
-      <p>kasaqpake' uwach ulew ta kinel uloq chuwach nuq'alib'al</p>
-      <p>keje k'ut in q'ij wi in pu ik' rumal saqil al saqil k'ajol ta chuxoq</p> 
-      <p>rumal chi naj kopon wi nuwach cha' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <p>Ma k'u qitzij are ta q'ij ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> xere kunimarisaj rib' ri uxik' upuwaq xere k'ut toq'ol wi uwach ri chi kub'e wi</p>
-      <p>mana ronojel ta uxe' kaj kopon wi uwach</p>
-      <p>maja k'ut ki<ref target="quc.n069"><hi rend="sup">69</hi></ref>
+      <p>kasaqpake' uwach ulew</p>
+      <p>ta kinel uloq chuwach nuq'alib'al</p>
+      <p>keje k'ut in q'ij wi in pu ik'</p>
+      <p>rumal saqil al saqil k'ajol ta chuxoq</p> 
+      <p>rumal chi naj kopon wi nuwach</p>
+      <p>cha'<ref target="quc.n081"><hi rend="sup">81</hi></ref>
+        <note place="foot" xml:id="quc.n081"><seg type="note-symbol">81</seg>
+        Su forma completa debe ser <hi rendition="simple:italic">xcha'</hi>.
+        </note>
+      ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>ma k'u qitzij are ta q'ij ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xere kunimarisaj rib' ri uxik' upuwaq</p>
+      <p>xere k'ut toq'ol wi uwach ri chikub'e' wi</p>
+      <p>mana ronojel ta uxe' kaj kopon wi uwach.</p>
+
+      <p xml:id="p22">
+      Maja k'ut ki<ref target="quc.n069"><hi rend="sup">69</hi></ref>
         <note place="foot" xml:id="quc.n069"><seg type="note-symbol">69</seg>
           Esta partícula refiere al adverbio ciertamente.
         </note>
