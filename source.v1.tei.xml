@@ -779,49 +779,62 @@
       <p>mana ronojel ta uxe' kaj kopon wi uwach.</p>
 
       <p xml:id="p22">
-      <!-- editor's note: Ajtz'ib'ab paragraph not in XOM. corresponds to XOM folio 6r, line 1. -->
-      Maja k'ut ki<ref target="quc.n069"><hi rend="sup">69</hi></ref>
-        <note place="foot" xml:id="quc.n069"><seg type="note-symbol">69</seg>
-          Esta partícula refiere al adverbio ciertamente.
+      <!-- editor's note: Ajtz'ib'ab paragraph not in XOM. Corresponds to XOM folio 6r, line 1 -->
+      Maja k'ut qi<ref target="quc.n082"><hi rend="sup">82</hi></ref>
+        <note place="foot" xml:id="quc.n082"><seg type="note-symbol">82</seg>
+          Al parecer es una duplicación de indicador de tiempo/aspecto presente incompletivo.
         </note>
-         kiloq uwach q'ij ik' ch'umil, maja'oq kasariroq</p>
-      <p>keje k'ut kukob'isaj wi rib' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> chi q'ijil chi ik'il</p>
-      <p>xa maja' chi k'utunoq chi q'alajob'oq usaqil q'ij Ik'</p>
-      <p>xa xurayij nimal ik'owen<ref target="quc.n070"><hi rend="sup">70</hi></ref>
-      <note place="foot" xml:id="quc.n070"><seg type="note-symbol">70</seg>
-        Actualmente se dice "ik'owem". 
-     </note> 
-     are ta xb'anik b'utik kumal poy ajam che'</p>
-      <p>keje k'ut xchiqab'ij chik ta xkamik <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>,</p> 
-      <p>ta xch'akatajik ta xb'anatajik winaq rumal <rs ana="TZ'AQOL">ajtz'aq</rs> <rs ana="B'ITOL">ajb'it</rs></p>
-      <p>wa'e uxe' uch'akatajik uyiqoxik chi puch uq'ij <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>kumal e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> <rs ana="JUNAJPU">Jun Ajpu</rs> ub'i' <rs ana="XBALANKE">Jun Xb'alanq'e</rs><ref target="quc.n071"><hi rend="sup">71</hi></ref>
-      <note place="foot" xml:id="quc.n071"><seg type="note-symbol">71</seg>
-        En el <rs ana="POPOL_WUJ">Popol wuj</rs> es normal que se registren nombres o palabras de otros idiomas mayas o del Náhuatl, tal el caso de la palabra "<rs ana="XBALANKE">Xb'alanke</rs>" que se registra en el manuscrito y que en Q'eqchi' es "<rs ana="XBALANKE">Xb'alamq'e</rs>" o "<rs ana="XBALANKE">Xb'alanq'e</rs>" refiriéndose al "sol". 
+      kiloq uwach q'ij ik' ch'umil</p>
+      <p>maja'oq kasariroq</p>
+      <p>keje k'ut kukob'isaj wi rib' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>chi q'ijil chi ik'il</p>
+      <p>xa maja' chik'utunoq chiq'alajob'oq usaqil q'ij Ik'</p>
+      <p>xa xurayij nimal ik'owen<ref target="quc.n083"><hi rend="sup">83</hi></ref>
+        <note place="foot" xml:id="quc.n083"><seg type="note-symbol">83</seg>
+        Actualmente se dice <hi rendition="simple:italic">ik'owem</hi>. 
+        </note> 
+     are ta xb'anik b'utik kumal poy ajam che'.</p>
+    
+    <p xml:id="p23">
+    <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM folio 6r, line 10-->
+    Keje k'ut xchiqab'ij chik ta xkamik <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p> 
+    <p>ta xch'akatajik ta xb'anatajik winaq rumal <rs ana="TZ'AQOL">ajtz'aq</rs> <rs ana="B'ITOL">ajb'it</rs></p>
+    <p>wa'e uxe' uch'akatajik uyiqoxik chi puch uq'ij <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+    <p>kumal e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> <rs ana="JUNAJPU">Jun Ajpu</rs> ub'i' jun, <rs ana="XBALANKE">Xb'alanq'e</rs><ref target="quc.n084"><hi rend="sup">84</hi></ref>
+      <note place="foot" xml:id="quc.n084"><seg type="note-symbol">84</seg>
+      En el <rs ana="POPOL_WUJ">Popol Wuj</rs> es normal que se registren nombres o palabras de otros idiomas mayas o del Náhuatl, tal el caso de la palabra <hi rendition="simple:italic"><rs ana="XBALANKE">Xb'alanq'e</rs></hi> que se registra en el manuscrito y que en Q'eqchi' es <hi rendition="simple:italic"><rs ana="XBALANKE">Xb'alamq'e</rs></hi> o <hi rendition="simple:italic"><rs ana="XBALANKE">Xb'alanq'e</rs></hi> refiriéndose al sol. 
       </note>
       ub'i' ukab'</p> 
-      <p>xa wi e kab'awil<ref target="quc.n072"><hi rend="sup">72</hi></ref>
-      <note place="foot" xml:id="quc.n072"><seg type="note-symbol">72</seg>
-        <hi rendition="simple:italic">Kab'awil</hi>: en Varea (p. 282), menciona algo parecido como <hi rendition="simple:italic">k'ab'uwil</hi> (o <hi rendition="simple:italic">k'ab'wil</hi>), que refiere a estatua o "ídolo de abuelo", que era venerado. Se podría entender como “símbolo o representación”. Y como verbo, <hi rendition="simple:italic">k'ab'owilaj</hi> “adorar”. Es un concepto preinvasión española y no podría entenderse como dios, desde un punto de vista colonial y se sugiere escribirla con minúscula.
-      </note>
+      <p>xa wi e kab'awil<ref target="quc.n085"><hi rend="sup">85</hi></ref>
+        <note place="foot" xml:id="quc.n085"><seg type="note-symbol">85</seg>
+        <hi rendition="simple:italic">Kab'awil</hi>: en Varea (s.f.: 282), menciona algo parecido como <hi rendition="simple:italic">k'ab'uwil</hi> (o <hi rendition="simple:italic">k'ab'wil</hi>), que refiere a estatua o "ídolo de abuelo", que era venerado. Se podría entender como símbolo o representación. Y como verbo, <hi rendition="simple:italic">k'ab'owilaj</hi> “adorar”. Es un concepto preinvasión española y no podría entenderse como dios, desde un punto de vista colonial y se sugiere escribirla con minúscula.
+        </note>
       rumal itzel xkilo ri nimarisay rib'</p> 
-      <p>xraj ub'an chuwach <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> xcha' k'u ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
-      <p>ma wi utz ta chuxoq.</p>
-      <p>Ma wi chik'ase winaq waral chuwach ulew</p> 
-      <p>keje k'ut chiqatij <rs ana="WUB">uwub'axik</rs> chuwi recha'</p>
-      <p><rs ana="WUB">chiqawub'aj</rs> wi chi ri' chiqakoj wi uyab'</p>
-      <p>ta k'isoq uq'inomal, uxit upuwaq uk'uwal uyamanik, ri kukakab'ej<ref target="quc.n073"><hi rend="sup">73</hi></ref>
-      <note place="foot" xml:id="quc.n073"><seg type="note-symbol">73</seg>
-        En Basseta (2005: 352) <hi rendition="simple:italic">kakab'ej</hi> se refiere a "embellacar" o "enruinar".
+      <p>xraj ub'an<ref target="quc.n086"><hi rend="sup">86</hi></ref>
+        <note place="foot" xml:id="quc.n086"><seg type="note-symbol">86</seg>
+        En este verbo hace falta el marcador de tiempo aspecto completivo <hi rendition="simple:italic">xub'an</hi>.
+        </note>
+      chuwach <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs></p>
+      <p>xcha' k'u ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
+      <p>ma wi utz ta chuxoq</p>
+      <p>ma wi chik'ase' winaq waral chuwach ulew</p> 
+      <p>keje k'ut chiqatij <rs ana="WUB">uwub'axik</rs> chuwi' recha'</p>
+      <p><rs ana="WUB">chiqawub'aj</rs> wi chi ri'</p>
+      <p>chiqakoj wi uyab'</p>
+      <p>ta k'isoq uq'inomal uxit upuwaq</p>
+      <p>uk'uwal uyamanik, ri kukakab'ej<ref target="quc.n087"><hi rend="sup">87</hi></ref>
+      <note place="foot" xml:id="quc.n087"><seg type="note-symbol">87</seg>
+        En Basseta (2005: 352) <hi rendition="simple:italic">kakab'ej</hi> se refiere a "embellacar" o "enruinar" ("arruinar").
       </note></p>
-      <p>keje k'ut chub'ano ronojel winaq</p>
-      <p>ma wi are chiwinaqir wi q'aq'al ri xa puwaq</p>
+      <p>keje k'ut chub'ano ronojel winaq.</p>
+      <p>Ma wi are chiwinaqir wi q'aq'al ri xa puwaq</p>
       <p>ta chuxoq xecha' ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
-      <p>jujun chi <rs ana="WUB">ub'</rs> kitelen kikab'ichal.</p>
-      <p>Are k'u ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> e ka'ib' uk'ajol</p>
-      <p>are nab'e al ri <rs ana="SIPAKNA">Sipakna</rs> ukab' al chi k'ut ri <rs ana="KAB'RAQAN">Kab'raqan</rs></p>
-      <p xml:id="p23">
-      <rs ana="CHIMALMAT">Chimalmat</rs> k'ut ub'i' kichuch, rixoqil ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>jujun chi <rs ana="WUB">ub'</rs> kitelen kikab'ichal</p>
+      <p>are k'u ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> e ka'ib' uk'ajol</p>
+      <p>are nab'e al ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>ukab' al chi k'ut ri <rs ana="KAB'RAQAN">Kab'raqan</rs></p>
+      <p><rs ana="CHIMALMAT">Chimalmat</rs> k'ut ub'i' <rs ana="CHIMALMAT">kichuch</rs></p>
+      <p><rs ana="CHIMALMAT">rixoqil</rs> ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
       <p>are k'u ri <rs ana="SIPAKNA">Sipakna</rs> are chi chire<rs ana="CHAAJ">cha'j</rs> ri nimaq juyub'</p>
       <p>ri <rs ana="CHI_Q'AQ'">Chi Q'aq'</rs>, <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="PEK_UL_YA'">Pekul Ya'</rs>, <rs ana="YA'XKANUL">Xkanul</rs>, <rs ana="MAKAMOB'">Makamob'</rs>, <rs ana="JULISNAB'">Julisnab'</rs> chucha'xik ub'i' juyub'</p>
       <p>xk'olik ta chisaqirik</p>
