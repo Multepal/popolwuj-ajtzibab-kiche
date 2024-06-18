@@ -835,132 +835,154 @@
       <p>ukab' al chi k'ut ri <rs ana="KAB'RAQAN">Kab'raqan</rs></p>
       <p><rs ana="CHIMALMAT">Chimalmat</rs> k'ut ub'i' <rs ana="CHIMALMAT">kichuch</rs></p>
       <p><rs ana="CHIMALMAT">rixoqil</rs> ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>are k'u ri <rs ana="SIPAKNA">Sipakna</rs> are chi chire<rs ana="CHAAJ">cha'j</rs> ri nimaq juyub'</p>
-      <p>ri <rs ana="CHI_Q'AQ'">Chi Q'aq'</rs>, <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="PEK_UL_YA'">Pekul Ya'</rs>, <rs ana="YA'XKANUL">Xkanul</rs>, <rs ana="MAKAMOB'">Makamob'</rs>, <rs ana="JULISNAB'">Julisnab'</rs> chucha'xik ub'i' juyub'</p>
+      <p>are k'u ri <rs ana="SIPAKNA">Sipakna</rs> are chire<rs ana="CHAAJ">cha'j</rs> ri nimaq juyub'.</p>
+      <p>Ri <rs ana="CHI_Q'AQ'">Chi Q'aq'</rs>, <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="PEK_UL_YA'">Pekul Ya'</rs>, <rs ana="YA'XKANUL">Xkanul</rs>, <rs ana="MAKAMOB'">Makamob'</rs>, <rs ana="JULISNAB'">Julisnab'</rs></p>
+      <p>chucha'xik ub'i' juyub'</p>
       <p>xk'olik ta chisaqirik</p>
-      <p>xa jun aq'ab' chiwinaqirik rumal ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
-      <p>Are ri chi k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs> chisilab' juyub'</p>
+      <p>xa jun aq'ab' chiwinaqirik rumal ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>are ri chi k'u ri <rs ana="KAB'RAQAN">Kab'raqan</rs> chisilab' juyub'</p>
       <p>rumal chineb'owik ch'utijuyub' nimajuyub'</p>
       <p>rumal xa wi keje nimarisab'al kib' xkib'ano uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>ix<ref target="quc.n074"><hi rend="sup">74</hi></ref>
-      <note place="foot" xml:id="quc.n074"><seg type="note-symbol">74</seg>
+      <p>ix<ref target="quc.n089"><hi rend="sup">89</hi></ref>
+        <note place="foot" xml:id="quc.n089"><seg type="note-symbol">89</seg>
         Por concordancia con la 1ª. persona gramatical de la cláusula que sigue, este debe ser <hi rendition="simple:italic">in</hi>.
-      </note> wa', in q'ij xcha' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>in wa', in b'anol ulew xcha' ri <rs ana="SIPAKNA">Sipakna</rs></p>
-      <p>in chi k'ut kiyow<ref target="quc.n075"><hi rend="sup">75</hi></ref>
-      <note place="foot" xml:id="quc.n075"><seg type="note-symbol">75</seg>
-        <hi rendition="simple:italic">Kiyow</hi> viene de <hi rendition="simple:italic">kiyowik</hi> mecer. En su forma imperativa y frencuentativa es <hi rendition="simple:italic">chakiyika'</hi> mécelo. 
-      </note> kaj chinwulij ronojel ulew xcha' ri <rs ana="KAB'RAQAN">Kab'raqan</rs><ref target="quc.n076"><hi rend="sup">76</hi></ref>
-      <note place="foot" xml:id="quc.n076"><seg type="note-symbol">76</seg>
-        En el manuscrito K'iche' (Folio 6 verso, línea 12), aparece <rs ana="KAB'RAQAN"><hi rendition="simple:italic">cabraca</hi></rs> y sobre la <hi rendition="simple:italic">a</hi>, lleva una vírgula de abreviatura de <hi rendition="simple:italic">n</hi>, entonces debe
-        escribirse <rs ana="KAB'RAQAN">kab'raqan</rs>.
-      </note></p>
-      <p>xa wi uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, xa wi chi ri' xkik'am wi kinimal chi rij kiqajaw</p>
+        </note>
+      wa' in q'ij xcha' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>in wa' in b'anol ulew xcha' ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>in chi k'ut kiyow<ref target="quc.n090"><hi rend="sup">90</hi></ref>
+        <note place="foot" xml:id="quc.n090"><seg type="note-symbol">90</seg>
+        <hi rendition="simple:italic">Kiyow</hi> viene de <hi rendition="simple:italic">kiyowik</hi> "mecer". En su forma imperativa y frencuentativa es <hi rendition="simple:italic">chakiyika'</hi> "mécelo". 
+        </note>
+      kaj chinwulij ronojel ulew</p>
+      <p>xcha' ri <rs ana="KAB'RAQAN">Kab'raqan</rs><ref target="quc.n091"><hi rend="sup">91</hi></ref>
+        <note place="foot" xml:id="quc.n091"><seg type="note-symbol">91</seg>
+        En el folio 6 verso, línea 12 del manuscrito de <rs ana="XIMENEZ">Ximénez</rs> aparece <rs ana="KAB'RAQAN"><hi rendition="simple:italic">cabraca</hi></rs> y sobre la <hi rendition="simple:italic">a</hi>, lleva una vírgula de abreviatura de <hi rendition="simple:italic">n</hi>, entonces debe
+        escribirse <hi rendition="simple:italic"><rs ana="KAB'RAQAN">kab'raqan</rs></hi>.
+        </note></p>
+      <p>xa wi uk'ajol <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xa wi chi ri' xkik'am wi kinimal chi rij <rs ana="WUQUB'_KAQIX">kiqajaw</rs></p>
       <p>are k'ut itzel xkil ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
-      <p>maja' chib'antajoq qanab'e chuch qanab'e qajaw</p>
-      <p>k'eje k'ut xno'jix wi kikamik kisachik kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
+      <p>maja' chib'antajoq <rs ana="IXMUKANE">qanab'e chuch</rs> <rs ana="XPIYAKOK">qanab'e qajaw</rs></p>
+      <p>keje k'ut xno'jix wi kikamik kisachik kumal <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs>.</p>
       <!-- editor's note: XOM has paragraph break here, 6v paragraph 12-->
-      <p>wa'e k'ute <rs ana="WUB">uwub</rs>'axik <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> kumal <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs>.</p>
-      <p xml:id="p24">
-      Xchiqab'ij kich'akatajik chi kijujunal ri nimarisay rib'</p>
-      <p>are ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>, jun nimache'</p>
+      <p>Wa'e k'ute <rs ana="WUB">uwub</rs>'axik <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> kumal <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></p>
+      <p>xchiqab'ij kich'akatajik chi kijujunal ri nimarisay rib'</p>
+      <p>are ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> jun nimache'</p>
       <p>ri tapa'l are k'u recha' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>are chulo<ref target="quc.n077"><hi rend="sup">77</hi></ref>
-      <note place="foot" xml:id="quc.n077"><seg type="note-symbol">77</seg>
-        Al parecer, es una forma del verbo Q'eqchi' <hi rendition="simple:italic">low</hi>, de comer cosas suaves (como banano, masa, etc.).
-      </note> ri uwach tapa'l</p>
-      <p>chaq'an chuwi che' jutaq'ij</p>
-      <p>xiloma<ref target="quc.n078"><hi rend="sup">78</hi></ref>
-        <note place="foot" xml:id="quc.n078"><seg type="note-symbol">78</seg>
-          Posiblemente provenga del verbo <hi rendition="simple:italic">xiloj</hi> de "escoger, seleccionar". También está la forma <hi rendition="simple:italic">xiloj</hi> de escogido o seleccionado.
+      <p>are chulo<ref target="quc.n092"><hi rend="sup">92</hi></ref>
+        <note place="foot" xml:id="quc.n092"><seg type="note-symbol">92</seg>
+        Al parecer, es una forma del verbo Q'eqchi' <hi rendition="simple:italic">low</hi>, de comer cosas suaves (como banano, masa, etc.). Según Basseta (2005: 439) lo significa comer fruta o cosa dulce.
         </note>
-        k'ut rechab'al kumal ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
-      <p>kik'ak'alen<ref target="quc.n079"><hi rend="sup">79</hi></ref>
-        <note place="foot" xml:id="quc.n079"><seg type="note-symbol">79</seg>
-          Actualmente es <hi rendition="simple:italic">kik'ak'ale'm</hi>.
+      ri uwach tapa'l</p>
+      <p>chaq'an chuwi' che' jutaq'ij</p>
+      <p>xiloma<ref target="quc.n093"><hi rend="sup">93</hi></ref>
+        <note place="foot" xml:id="quc.n093"><seg type="note-symbol">93</seg>
+          Posiblemente provenga del verbo <hi rendition="simple:italic">xiloj</hi> de "escoger, seleccionar". También está la forma <hi rendition="simple:italic">xiloj</hi> de "escogido" o "seleccionado".
         </note>
-         chi k'ut chuxe' che' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>e matzamoj ulo ri <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> pa xaq che' ta xopon k'ut<ref target="quc.n080"><hi rend="sup">80</hi></ref>
-        <note place="foot" xml:id="quc.n080"><seg type="note-symbol">80</seg>
-          Despues de <hi rendition="simple:italic">k'ut</hi> aparece <hi rendition="simple:italic"><rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></hi> pero está tachado.
+      k'ut rechab'al kumal ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
+      <p>kik'ak'alen<ref target="quc.n094"><hi rend="sup">94</hi></ref>
+        <note place="foot" xml:id="quc.n094"><seg type="note-symbol">94</seg>
+        Actualmente es <hi rendition="simple:italic">kik'ak'ale'm</hi>.
         </note>
-        <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>tak'al chuwi' recha', ri tapa'l</p>
-      <p>k'a te k'ut ta xub'axik kumal ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n081"><hi rend="sup">81</hi></ref>
-      <note place="foot" xml:id="quc.n081"><seg type="note-symbol">81</seg>
+        chi k'ut chuxe' che' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>e matzamoj ulo ri <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> pa xaq che'</p>
+      <p>ta xopon k'ut<ref target="quc.n095"><hi rend="sup">95</hi></ref>
+        <note place="foot" xml:id="quc.n095"><seg type="note-symbol">95</seg>
+        Despues de <hi rendition="simple:italic">k'ut</hi> aparece <hi rendition="simple:italic"><rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></hi> pero está tachado.
+        </note>
+      <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>tak'al chuwi' recha' ri tapa'l</p>
+      <p>k'a te k'ut ta xub'axik kumal ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n096"><hi rend="sup">96</hi></ref>
+        <note place="foot" xml:id="quc.n096"><seg type="note-symbol">96</seg>
         Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
         </note></p>
-      <p>taqal ub'aq' <rs ana="WUB">wub'</rs><ref target="quc.n082"><hi rend="sup">82</hi></ref>
-        <note place="foot" xml:id="quc.n082"><seg type="note-symbol">82</seg>
-          En el manuscrito esta palabra varía entre <hi rendition="simple:italic"><rs ana="WUB">ub'</rs></hi> y <hi rendition="simple:italic"><rs ana="WUB">wub'</rs></hi>En Basseta (2005: 472) se indica que varía entre <hi rendition="simple:italic"><rs ana="WUB">pub'</rs></hi> y <hi rendition="simple:italic"><rs ana="WUB">ub'</rs></hi>. Actualmente es más conocido como <hi rendition="simple:italic"><rs ana="WUB">pub'</rs></hi>.
+      <p>taqal ub'aq' <rs ana="WUB">wub'</rs><ref target="quc.n097"><hi rend="sup">97</hi></ref>
+        <note place="foot" xml:id="quc.n097"><seg type="note-symbol">97</seg>
+        En el manuscrito esta palabra varía entre <hi rendition="simple:italic"><rs ana="WUB">ub'</rs></hi> y <hi rendition="simple:italic"><rs ana="WUB">wub'</rs></hi>. En Basseta (2005: 472) se indica que varía entre <hi rendition="simple:italic"><rs ana="WUB">pub'</rs></hi> y <hi rendition="simple:italic"><rs ana="WUB">ub'</rs></hi>. Actualmente es más conocido como <hi rendition="simple:italic"><rs ana="WUB">pub'</rs></hi>.
         </note>
-           chukakate'</p>
+      chukakate'</p>
       <p>churaquj uchi' ta xpe chuwi che'</p>
       <p>taqal chuwach ulew</p>
-      <p><rs ana="CHIMALMAT">chimalmat</rs><ref target="quc.n083"><hi rend="sup">83</hi></ref>
-      <note place="foot" xml:id="quc.n083"><seg type="note-symbol">83</seg>
-        Es la acción de palpar.
-      </note> k'ut ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n084"><hi rend="sup">84</hi></ref>
-      <note place="foot" xml:id="quc.n084"><seg type="note-symbol">84</seg>
+      <p><rs ana="CHIMALMAT">chimalmat</rs><ref target="quc.n098"><hi rend="sup">98</hi></ref>
+        <note place="foot" xml:id="quc.n098"><seg type="note-symbol">98</seg>
+        Refiere a correr diligentemente. Cuando a un persona le da baído, camina mareado o descontrolado.
+        </note>
+      k'ut ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n099"><hi rend="sup">99</hi></ref>
+        <note place="foot" xml:id="quc.n099"><seg type="note-symbol">99</seg>
         Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note>, anim xb'ek</p>
+        </note>
+      anim xb'ek</p>
       <p>qitzij wi xb'e'uchapa'</p>
-      <p>k'a te k'ut ta xqupix ula uq'ab' ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n085"><hi rend="sup">85</hi></ref>
-      <note place="foot" xml:id="quc.n085"><seg type="note-symbol">85</seg>
+      <p>k'a te k'ut ta xqupix ula uq'ab' ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n100"><hi rend="sup">100</hi></ref>
+        <note place="foot" xml:id="quc.n100"><seg type="note-symbol">100</seg>
         Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note> rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
-      <p>Jusuk' xtzaq uloq</p>
+        </note>
+      rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>jusuk' xtzaq uloq</p>
       <p>xmejo uloq tza'm uteleb'</p>
-      <p>ta xutzoqopij chi k'ut <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n086"><hi rend="sup">86</hi></ref>
-      <note place="foot" xml:id="quc.n086"><seg type="note-symbol">86</seg>
+      <p>ta xutzoqopij chi k'ut <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n101"><hi rend="sup">101</hi></ref>
+        <note place="foot" xml:id="quc.n101"><seg type="note-symbol">101</seg>
         Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note> ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+        </note>
+      ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
       <p>xa wi utz xkib'ano</p>
-      <p>ma nab'e kich'akatajik taj rumal <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>uk'a'am chi k'ut uq'ab' ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n087"><hi rend="sup">87</hi></ref>
-      <note place="foot" xml:id="quc.n087"><seg type="note-symbol">87</seg>
+      <p>ma nab'e kich'akatajik taj rumal <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
+      <p>Uk'a'am chi k'ut uq'ab' ri <rs ana="JUNAJPU">Jun Jun Ajpu</rs><ref target="quc.n102"><hi rend="sup">102</hi></ref>
+        <note place="foot" xml:id="quc.n102"><seg type="note-symbol">102</seg>
         Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
-      </note> rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> ta xb'e chi rochoch</p>
+        </note>
+      rumal ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> ta xb'e chi rochoch</p>
       <p>xa chi k'u ulot'em ukakate' xoponik.</p>
-      <p>naqi pa mixk'amow chi la'</p>
-      <p>xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs> rixoqil <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>naqi pa ri' ri e ka'ib' k'axtok'<ref target="quc.n088"><hi rend="sup">88</hi></ref>
-      <note place="foot" xml:id="quc.n088"><seg type="note-symbol">88</seg>
+      <p>Naqi pa mixk'amow chi la'</p>
+      <p>xcha' k'u ri <rs ana="CHIMALMAT">Chimalmat</rs> <rs ana="CHIMALMAT">rixoqil</rs> <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs>.</p>
+      <p>Naqi pa ri' ri <rs ana="KA'IB'_K'AJOLAB'">e ka'ib' k'axtok'</rs><ref target="quc.n103"><hi rend="sup">103</hi></ref>
+      <note place="foot" xml:id="quc.n103"><seg type="note-symbol">103</seg>
         En <rs ana="XIMENEZ">Ximénez</rs> (1985: 169) aparece <hi rendition="simple:italic">k'axtok'-el</hi>, "engañador". En Coto (1983: 140), <hi rendition="simple:italic">qaxtok</hi>,
-        "demonio", "diablo", "enemigo". Quizá se puede dejar como “mentiroso, engañador, enemigo”. El concepto de "diablo/demonio" es una introducción colonial y no prehispánico. Lo otro, es que en el <hi rendition="simple:italic">Memorial de Sololá</hi> (Otzoy 199:125)
+        "demonio", "diablo", "enemigo". Quizá se puede dejar como “mentiroso, engañador, enemigo”. El concepto de "diablo/demonio" es una introducción colonial y no prehispánico. Lo otro, es que en el <hi rendition="simple:italic">Memorial de Sololá</hi> (Otzoy 199: 125)
         aparece <hi rendition="simple:italic">k'axtok'</hi>, como alguien que se disfraza para espantar a los españoles de Iximche', durante la invasión de <rs ana="DONADIU">Pedro de Alvarado</rs>.
       </note></p>
       <p><rs ana="WUB">mixikiwub'aj</rs> mixsilib'ataj nukakate'</p>
-      <p>rumal xa kachuywaj e we, kaq'oxow chik</p>
+      <p>rumal xa kachuywaj e we</p>
+      <p>kaq'oxow chik</p>
       <p>mi nab'e mixnuk'am uloq</p>
-      <p>chuwi q'aq' k'ut chixeke wi</p>
-      <p>chitzayab'a chuwi q'aq'</p>
-      <p>ta kulkik'ama' chik qitzij chi e k'axtok'</p>
-      <p>xcha' ri Wuqub' Kaqix</p>
-      <p>ta xuxekeb'a' uq'ab' ri <rs ana="JUNAJPU">Jun Ajpu</rs></p>
-      <p>Kina'ojinik chik ri <rs ana="JUNAJPU">Ju Jun Ajpu</rs><ref target="quc.n089"><hi rend="sup">89</hi></ref>
-      <note place="foot" xml:id="quc.n089"><seg type="note-symbol">89</seg>
+      <p>chuwi' q'aq' k'ut chixeke' wi</p>
+      <p>chitzayab'a' chuwi q'aq'</p>
+      <p>ta kulkik'ama' chik</p>
+      <p>qitzij chi e k'axtok'</p>
+      <p>xcha' ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>ta xuxekeb'a' uq'ab' ri <rs ana="JUNAJPU">Jun Ajpu</rs>.</p>
+      <p>Kina'ojinik chik ri <rs ana="JUNAJPU">Ju Jun Ajpu</rs><ref target="quc.n104"><hi rend="sup">104</hi></ref>
+      <note place="foot" xml:id="quc.n104"><seg type="note-symbol">104</seg>
         Debe ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>.
       </note>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
-      <p>ta xkib'ij k'ut chi rech jun <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>, qitzij saq chik rismal wi chi <rs ana="SAQI_NIM_AQ_SIS">mama'</rs></p>
-      <p>jun k'u <rs ana="SAQI_NIM_AQ_SIS">ati't</rs> qitzij kemel <rs ana="SAQI_NIM_AQ_SIS">ati't</rs> chik</p>
-      <p>xa keluq'ukila chik chi rijitaq winaq</p>
-      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs> ub'i' <rs ana="SAQI_NIM_AQ_SIS">mama'</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinimatzis</rs> k'ut ub'i' <rs ana="SAQI_NIM_AQ_SIS">ati't</rs></p>
+      <p>ta xkib'ij k'ut chi rech jun <rs ana="SAQI_NIM_AQ_SIS">mama'</rs></p>
+      <p>qitzij saq chik rismal wi chi <rs ana="SAQI_NIM_AQ_SIS">mama'</rs></p>
+      <p>jun k'u <rs ana="SAQI_NIM_AQ_SIS">ati't</rs></p>
+      <p>qitzij kemel <rs ana="SAQI_NIM_AQ_SIS">ati't</rs> chik</p>
+      <p>xa keluq'ukila chik chi rijitaq winaq.</p>
+      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs> ub'i' <rs ana="SAQI_NIM_AQ_SIS">mama'</rs></p>
+      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinimatzis</rs> k'ut ub'i' <rs ana="SAQI_NIM_AQ_SIS">ati't</rs></p>
       <p>xecha' k'u ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> chi ke ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs></p>
-      <p>kixqachb'ilaj taj, chib'etak'ama' qaq'ab' ruk' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>xa kojtere' chi wij</p>
-      <p>qi ri' qamam ri qachb'ilan kaminaq kichuch kiqajaw</p>
-      <p>keje' k'ut keterekotila' wi chi qij</p>
-      <p>ta la keqasipaj wi</p>
+      <p>kixqachb'ilaj taj</p>
+      <p>chib'etak'ama' qaq'ab' ruk' <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xa kojtere' chiwij</p>
+      <p>qi ri' <rs ana="KA'IB'_K'AJOLAB'">qamam</rs> ri qachb'ilan</p>
+      <p>kaminaq <rs ana="IXKIK'">kichuch</rs> <rs ana="JUN_JUNAJPU">kiqajaw</rs></p>
+      <p>keje k'ut keterekotila' wi</p>
+      <p>chi qij ta la keqasipaj wi</p>
       <p>rumal xa elesan uchikopil eyaj kaqab'ano kixcha'</p>
-      <p>keje' k'u ri oj ak'alab', chirilo ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
-      <p>xa wi oj kojya'wik<ref target="quc.n090"><hi rend="sup">90</hi></ref>
-      <note place="foot" xml:id="quc.n090"><seg type="note-symbol">90</seg>
+      <p>keje k'u ri oj ak'alab' chirilo ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
+      <p>xa wi oj kojya'wik<ref target="quc.n105"><hi rend="sup">105</hi></ref>
+      <note place="foot" xml:id="quc.n105"><seg type="note-symbol">105</seg>
         También puede ser <hi rendition="simple:italic">kojya'owik</hi>.
-      </note> ina'oj</p>
+      </note>
+      ina'oj</p>
       <p>xecha' ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs></p>
-      <p>utz b'a la xecha' k'ut</p>
-      <p>K'a te k'ut ta xeb'ek</p>
+      <p>utz b'a la' xecha' k'ut.</p>
+
+      <p xml:id="p24">
+      <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM folio 7v line 1-->
+      K'a te k'ut ta xeb'ek</p>
       <p>tzamal k'u b'i ri <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs> chuwach uq'alib'al</p>
       <p>ta xe'ik'owik ri <rs ana="SAQI_NIM_AQ_SIS">ati't mama'</rs></p>
       <p>ke'etzeyaj k'u ri e <rs ana="KA'IB'_K'AJOLAB'">ka'ib' k'ajolab'</rs> chi kij</p>
