@@ -1870,7 +1870,51 @@
       <p>k'a chuwi' chik kich'akatajik <rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs></p>
       <p>kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
 
+      <p xml:id="p37">
       <!-- editor's note: corresponds to XOM paragraph 18. Resume here.-->
+      K'a te k'ut kipetik <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs></p> 
+      <p>rumal <rs ana="JUN_KAME'">Jun Kame</rs>, <rs ana="WUQUB'_KAME'">Wuqub' Kame</rs></p>
+      <p>kixb'ek <rs ana="USAMAJEL_XIB'ALB'A">ix rajpop achij</rs></p>
+      <p>je'itaqa' ri <rs ana="JUN_JUNAJPU">Jun Jun Ajpu</rs>, <rs ana="WUQUB'_JUNAJPU">Wuqub' Jun Ajpu</rs></p>
+      <p>kixcha' ta kixopon kuk'</p>
+      <p>kepetoq kecha' <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs> chiwech</p>
+      <p>waral taj ke'ul<rs ana="CHAAJ">cha'ja</rs> wi quk'</p>
+      <p>chiqak'astaj ta qawach kuk'</p>
+      <p>qitzij kaqamayjaj kichi'</p>
+      <p>keje ta k'ut kepe wi kecha' <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs></p>
+      <p>chikik'am k'u uloq ri kichoko'nisa'n,<ref target="quc.n192"><hi rend="sup">192</hi></ref>
+        <note place="foot" xml:id="quc.n192"><seg type="note-symbol">192</seg>
+        <hi rendition="simple:italic">-choko'nisa'n</hi> "sus instrumentos de juego". Según contexto también puede significar de utilidad.
+        </note>
+      <rs ana="B'ATE">kib'ate</rs>, <rs ana="PACHQ'AB'">kipachq'ab'</rs></p>
+      <p>chipe nay puch ri <rs ana="KIK'">kikik'</rs> kecha' <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs></p>
+      <p>kixcha' ta kixoponoq</p>
+      <p>xe'uchaxik ri <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs></p>
+      <p>are k'ut <rs ana="USAMAJEL_XIB'ALB'A">kisamajel</rs> ri <rs ana="TUKUR">tukur</rs></p> 
+      <p><rs ana="CH'ABI'_TUKUR">Ch'ab'itukur</rs>, <rs ana="JURAQAN_TUKUR">Juraqan Tukur</rs>,</p> 	
+      <p><rs ana="KAQIX_TUKUR">Kaqix Tukur</rs><ref target="quc.n193"><hi rend="sup">193</hi></ref>
+        <note place="foot" xml:id="quc.n193"><seg type="note-symbol">193</seg>
+        <hi rendition="simple:italic">Ixej</hi> , en Q'eqchi' significa "piel" o "plumas". <hi rendition="simple:italic">Rix</hi> (forma poseída) significa "cáscara", "plumas", "piel", "cubierta".
+        </note>
+      , <rs ana="JOLOM_TUKUR">Jolom Tukur</rs></p>
+      <p>ke'uchaxik <rs ana="USAMAJEL_XIB'ALB'A">usamajel xib'alb'a</rs></p>
+      <p>are ri <rs ana="CH'ABI'_TUKUR">Ch'ab'itukur</rs> keje ri ch'ab'</p> 
+      <p>xa kopkik</p>
+      <p>are k'u ri <rs ana="JURAQAN_TUKUR">Juraqan Tukur</rs></p> 
+      <p>xa <rs ana="JUN_RAQAN">jun raqan</rs> k'o uxik'</p>
+      <p>are k'u ri <rs ana="KAQIX_TUKUR">Kaqix<ref target="quc.n194"><hi rend="sup">194</hi></ref>
+        <note place="foot" xml:id="quc.n194"><seg type="note-symbol">194</seg>
+        Sam Colop (1999: 61) lo ha tomado como <hi rendition="simple:italic">kak'ix tukur</hi> y en vez de <hi rendition="simple:italic">kaq</hi> dice <hi rendition="simple:italic">q'aq' rij</hi>. Se considera que es más coherene <hi rendition="simple:italic">kaqix tukur kaq rij</hi> como lo ha dejado también Mondloch y Carmichael (2018: 76, línea 10). En Q'eqchi' <hi rendition="simple:italic">-ix</hi> refiere a "cáscara", su cubierta (su cáscara) y su correspondencia en K'iche' es <hi rendition="simple:italic">-ij</hi>.
+        </note> Tukur</rs></p> 
+      <p>q'a' rij k'o uxik'</p>
+      <p>are chi nay puch ri <rs ana="JOLOM_TUKUR">Jolom Tukur</rs></p> 	
+      <p>xa utukel ujolom</p> 
+      <p>maja b'i raqan</p> 
+      <p>xa uxik' k'olik.</p>
+
+      <!-- editor's note: Ajtz'ib'ab' adds a paragraph not in XOM. Corresponds to XOM folio 13v, line 9-->
+ 
+      
     </body>
   </text>
 </TEI>
