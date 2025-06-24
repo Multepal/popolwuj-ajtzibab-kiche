@@ -62,13 +62,13 @@
         </note>
       kib'i'</p>
       <p><rs ana="JUNAJPU_WUCH'">Jun Ajpu Wuch'</rs>, <rs ana="JUNAJPU_UTIW">Jun Ajpu Utiw</rs></p>, 
-      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs><ref target="quc.n004"><hi rend="sup">4</hi></ref> <rs ana="SAQI_NIM_AQ_SIS">Tzis</rs>,<ref target="quc.n005"><hi rend="sup">5</hi></ref></p>
+      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs><ref target="quc.n004"><hi rend="sup">4</hi></ref> <rs ana="SAQI_NIM_AQ_SIS">Tzis</rs>,<ref target="quc.n005"><hi rend="sup">5</hi></ref>
         <note place="foot" xml:id="quc.n004"><seg type="note-symbol">4</seg>
         En el folio 1r, en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega <rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>, siguiendo el patrón de <rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>. <rs ana="XIMENEZ">Ximénez</rs> registra "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>" como "<rs ana="SAQI_NIM_AQ_SIS">tzis</rs>". Aquí se deja como "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>".
         </note>
         <note place="foot" xml:id="quc.n005"><seg type="note-symbol">5</seg>
         Refiere al <rs ana="SAQI_NIM_AQ_SIS">pizote</rs> y hoy día se dice "<rs ana="SAQI_NIM_AQ_SIS">Sis</rs>."
-        </note>
+        </note></p>
       <p><rs ana="TEPEW_Q'UKUMATZ">Tepew <ref target="quc.n006"><hi rend="sup">6</hi></ref>Q'ukumatz<ref target="quc.n007"><hi rend="sup">7</hi></ref></rs>
         <note place="foot" xml:id="quc.n007"><seg type="note-symbol">7</seg>
         Palabra de origen Náhuatl que significa "señorío".
@@ -893,7 +893,7 @@
         <note place="foot" xml:id="quc.n085"><seg type="note-symbol">85</seg>
         <hi rendition="simple:italic">Kab'awil</hi>: en Varea (s.f.: 282), menciona algo parecido como <hi rendition="simple:italic">k'ab'uwil</hi> (o <hi rendition="simple:italic">k'ab'wil</hi>), que refiere a estatua o "ídolo de abuelo", que era venerado. Se podría entender como símbolo o representación. Y como verbo, <hi rendition="simple:italic">k'ab'owilaj</hi> “adorar”. Es un concepto preinvasión española y no podría entenderse como dios, desde un punto de vista colonial y se sugiere escribirla con minúscula.
         </note>
-      rumal itzel xkilo ri nimarisay r
+      rumal itzel xkilo ri nimarisay r</p>
       <p>xraj ub'an<ref target="quc.n086"><hi rend="sup">86</hi></ref>
         <note place="foot" xml:id="quc.n086"><seg type="note-symbol">86</seg>
         En este verbo hace falta el marcador de tiempo aspecto completivo <hi rendition="simple:italic">xub'an</hi>.
@@ -1291,10 +1291,10 @@
       <p xml:id="p26">
       <!-- editor's note: Ajtz'ib'ab' adds a paragraph not in XOM. Corresponds to XOM folio 9r, line 1-->
       Xcha' uloq <rs ana="SIPAKNA">Sipakna</rs> chi ri' pa jul</p>
-      <p>ma k'u are kuk'ot uxe' jul ri umoqikil<ref target="quc.n127"><hi rend="sup">127</hi></ref></p>
+      <p>ma k'u are kuk'ot uxe' jul ri umoqikil<ref target="quc.n127"><hi rend="sup">127</hi></ref>
         <note place="foot" xml:id="quc.n127"><seg type="note-symbol">127</seg>
         Se refiere a "sepultura" conforme a COTO (2005: 518) y <rs ana="XIMENEZ">Ximénez</rs> (1985: 389). Actualmente la raíz es <hi rendition="simple:italic">muq-</hi>.
-        </note>
+        </note></p>
       <p>xa ujul kuk'oto kolb'al rib'.</p>
       <p>K'a te' k'ut ta xsik'in uloq ri <rs ana="SIPAKNA">Sipakna</rs></p>
       <p>kolon chuqa<ref target="quc.n128"><hi rend="sup">128</hi></ref>
@@ -1422,10 +1422,10 @@
       <p>k'a te k'ut ujalwachixik jun nima<rs ana="TAP">tap</rs> kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
       <p>Are k'ut xkikoj ri uwach <rs ana="MAK_EK'">ek'</rs></p>
       <p>ri <rs ana="MAK_EK'">maq<ref target="quc.n137"><hi rend="sup">137</hi></ref>
-        <note place="foot" xml:id="quc.n137"><seg type="note-symbol">137</seg>
+        
+      ek'</rs> k'o pa taq k'echelaj <note place="foot" xml:id="quc.n137"><seg type="note-symbol">137</seg>
         Es más probable que se refiera a <hi rendition="simple:italic">nima'q</hi>.
-        </note>
-      ek'</rs> k'o pa taq k'echelaj</p>
+        </note></p>
       <p>are uxul <rs ana="TAP">tap</rs> xuxik</p>
       <p>pajaq<ref target="quc.n138"><hi rend="sup">138</hi></ref> 
         <note place="foot" xml:id="quc.n138"><seg type="note-symbol">138</seg>
@@ -1986,11 +1986,13 @@
       <p>xa kopkik</p>
       <p>are k'u ri <rs ana="JURAQAN_TUKUR">Juraqan Tukur</rs></p> 
       <p>xa <rs ana="JUN_RAQAN">jun raqan</rs> k'o uxik'</p>
-      <p>are k'u ri <rs ana="KAQIX_TUKUR">Kaqix<ref target="quc.n194"><hi rend="sup">194</hi></ref>
+      <p>are k'u ri <rs ana="KAQIX_TUKUR">Kaqix<ref target="quc.n194"><hi rend="sup">194</hi></ref>Tukur</rs> 
+      
         <note place="foot" xml:id="quc.n194"><seg type="note-symbol">194</seg>
         Sam Colop (1999: 61) lo ha tomado como <hi rendition="simple:italic">kak'ix tukur</hi> y en vez de <hi rendition="simple:italic">kaq</hi> dice <hi rendition="simple:italic">q'aq' rij</hi>. Se considera que es más coherene <hi rendition="simple:italic">kaqix tukur kaq rij</hi> como lo ha dejado también Mondloch y Carmichael (2018: 76, línea 10). En Q'eqchi' <hi rendition="simple:italic">-ix</hi> refiere a "cáscara", su cubierta (su cáscara) y su correspondencia en K'iche' es <hi rendition="simple:italic">-ij</hi>.
         </note>
-      Tukur</rs></p> 
+        
+      </p> 
       <p>q'a' rij k'o uxik'</p>
       <p>are chi nay puch ri <rs ana="JOLOM_TUKUR">Jolom Tukur</rs></p> 	
       <p>xa utukel ujolom</p> 
@@ -2094,10 +2096,9 @@
         <hi rendition="simple:italic">Nusiwan</hi>, en el texto aparece esta posesión de cerro, que se había definido que los elementos de la naturaleza como cerros, montañas, estrellas no se poseen, pero si es posible. No como apropiación sino una forma de indicar ser parte de la colectividad humana con elementos de la naturaleza o universo.
         </note>
         <rs ana="K'ULKU_SIWAN">K'ulk'u<ref target="quc.n206"><hi rend="sup">206</hi></ref>
-        <note place="foot" xml:id="quc.n206"><seg type="note-symbol">206</seg>
+      Siwan</rs> ub'i' xe'ek'o wi <note place="foot" xml:id="quc.n206"><seg type="note-symbol">206</seg>
         Puede referirse a “encuetro de corrientes de agua”.
-        </note>
-      Siwan</rs> ub'i' xe'ek'o wi</p>
+        </note></p>
       <p>xe'ek'o chi k'ut chi upam Jaljal <rs ana="JA'_SIMAJ">Ja' Simaj</rs></p>
       <p>ma wi ajilan simaj xe'ik'o<ref target="quc.n207"><hi rend="sup">207</hi></ref>
         <note place="foot" xml:id="quc.n207"><seg type="note-symbol">207</seg>
@@ -2235,10 +2236,10 @@
       <p>are unab'e ri <rs ana="Q'EQUMA_JA">Q'equmaja</rs></p>
       <p>utukel q'equ'm upam</p>
       <p>ukab' chi k'ut <rs ana="XUXULIM_JA">Xuxulim<ref target="quc.n218"><hi rend="sup">218</hi></ref>
-        <note place="foot" xml:id="quc.n218"><seg type="note-symbol">218</seg>
+      Ja</rs> ub'i' <note place="foot" xml:id="quc.n218"><seg type="note-symbol">218</seg>
         Según <rs ana="XIMENEZ">Ximénez</rs> (1985: 631) <hi rendition="simple:italic">xux-xuxulimhay</hi>, "casa de frío".
         </note>
-      Ja</rs> ub'i'</p>
+      </p>
       <p>tzatz chi tew upam</p>
       <p>saqxuruxuj<ref target="quc.n219"><hi rend="sup">219</hi></ref>
         <note place="foot" xml:id="quc.n219"><seg type="note-symbol">219</seg>
@@ -2313,10 +2314,9 @@
       <p>ta xepus k'ut</p> 
       <p>xemuq k'ut</p>
       <p>chi <rs ana="PUSB'AL_CHAAJ">Pukb'al<ref target="quc.n227"><hi rend="sup">227</hi></ref>
-        <note place="foot" xml:id="quc.n227"><seg type="note-symbol">227</seg>
+      Chaj</rs> ub'i' xemuq wi <note place="foot" xml:id="quc.n227"><seg type="note-symbol">227</seg>
         Sam Colop (1999: 66) considera que la palabra es <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">pusb'al</rs></hi> y no <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">pucbal</rs></hi> como está en el manuscrito de <rs ana="XIMENEZ">Ximénez</rs>. Mondloch y Carmichael (2018: 82) opta por la forma <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">puk'b'al</rs></hi>. Analizando el contexto se cree que es más lógico a forma <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">pusb'al</rs></hi>. Ajtz'ib'ab' considera que <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">puukb'aal</rs></hi> puede ser <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">pukb'al</rs></hi> su cognado en Q'eqchi' sería algo como a grupo o camada, quizá refiera al "<rs ana="PUSB'AL_CHAAJ">lugar donde hay muchos árboles de pino</rs>", <hi rendition="simple:italic"><rs ana="PUSB'AL_CHAAJ">pukb'al chaj</rs></hi>.
-        </note>
-      Chaj</rs> ub'i' xemuq wi</p>
+        </note></p>
       <p>xq'at ujolom ri <rs ana="JUN_JUNAJPU">Jun Jun Ajpu</rs></p>
       <p>xa unimal<ref target="quc.n228"><hi rend="sup">228</hi></ref>
         <note place="foot" xml:id="quc.n228"><seg type="note-symbol">228</seg>
@@ -3527,10 +3527,11 @@
     <p>keti'ow <rs ana="SAQIKAS">kumatz</rs> pa taq juyub'</p>
     <p>ta xopon puch ri <rs ana="WAK">Wak</rs></p> 
     <p>xchakachob' chuwi' <rs ana="UTZUTZIL_JOM">usutz'il<ref target="quc.n305"><hi rend="sup">305</hi></ref>
-      <note place="foot" xml:id="quc.n305"><seg type="note-symbol">305</seg>
+    jom</rs>
+    <note place="foot" xml:id="quc.n305"><seg type="note-symbol">305</seg>
       Mondloch y Carmichael (2018: 112) lo registra como <hi rendition="simple:italic"><rs ana="UTZUTZIL_JOM">sutzil</rs></hi> con el sentido de "<rs ana="UTZUTZIL_JOM">borde del juego de pelota</rs>". Mientras que Sam Colop (1999: 89) lo toma como <hi rendition="simple:italic"><rs ana="UTZUTZIL_JOM">utz'utz'il</rs></hi>, quien cita a Tedlock quien considera que puede referir a "<rs ana="UTZUTZIL_JOM">una pared circundante a un campo</rs> de <rs ana="CHAAJ">juego de pelota</rs>". <rs ana="XIMENEZ">Ximénez</rs> lo traduce como "<rs ana="UTZUTZIL_JOM">sobre las almenas de el cementerio</rs>". En Tz'utujil <hi rendition="simple:italic">tz'ut</hi> y <hi rendition="simple:italic">tz'ik</hi> se refieren a "esquina". 
       </note>
-    jom</rs></p>
+    </p>
     <p>keki'kot k'u ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs> <rs ana="CHAAJ">kecha'jik</rs></p>
     <p>ta xopon k'ut ri <rs ana="WAK">Wak</rs></p> 
     <p>ta xoq' k'u ri <rs ana="WAK">Wak</rs></p>
@@ -4480,10 +4481,11 @@
     <p>a pa k'o wi ri k'amol re</p> 
     <p>xcha' xib'alb'a</p>
     <p>keje k'ut kich'akatajik <rs ana="RAJAWAL_XIB'ALB'A">rajal<ref target="quc.n367"><hi rend="sup">367</hi></ref>
-      <note place="foot" xml:id="quc.n367"><seg type="note-symbol">367</seg>
+    xib'alb'a</rs> rumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>
+    <note place="foot" xml:id="quc.n367"><seg type="note-symbol">367</seg>
       Sam Colop (1999: 105) y Mondloch y Carmack (2018: 140) transcriben y reconstruyen <hi rendition="simple:italic">rajal</hi> como <hi rendition="simple:italic">rajawal</hi>. Es posible por el contexto en que se encuentra la palabra, pudo haber sido un error de escritura.
       </note>
-    xib'alb'a</rs> rumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
+    </p>
     <p>nimak'axk'ol xek'oje' wi</p>
     <p>ma wi are xekam wi</p> 
     <p>ri ronojel xb'an chi ke.</p>
@@ -4527,7 +4529,6 @@
     <p>kixcha'</p>
     <p>we b'a are utz</p>
     <p>xa chiqaxekeb'a' chuwi' che'</p>.
-
     </body>
   </text>
 </TEI>
