@@ -1544,93 +1544,112 @@
 
       <p xml:id="p29">
       <!-- editor's note: corresponds to XOM paragraph 14 -->
-      Are chi k'ut chiqab'ij uch'akatajik chik <rs ana="SIPAKNA">Sipakna</rs></p>
+      Are chi k'ut chiqab'ij</p>
+      <p>uch'akatajik chik <rs ana="SIPAKNA">Sipakna</rs></p>
       <p>rumal ri <rs ana="KA'IB'_K'AJOLAB'">e ka'ib' k'ajolab'</rs> <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
       <p>Are chik uch'akatajik ukamik <rs ana="SIPAKNA">Sipakna</rs></p>
-      <p>ta xch'ak chik kumal ri <rs ana="KA'IB'_K'AJOLAB'">e ka'ib' k'ajolab'</rs> <rs ana="JUNAJPU">Junajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
+      <p>ta xch'ak chik kumal</p>
+      <p>ri <rs ana="KA'IB'_K'AJOLAB'">e ka'ib' k'ajolab'</rs> <rs ana="JUNAJPU">Junajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
       <p>are chik uyoq' kik'u'x <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
-      <p>ri <rs ana="MOTZ">omuch' chi k'ajolab'</rs> xekamik rumal <rs ana="SIPAKNA">Sipakna</rs></p>
-      <p>xa <rs ana="KAR">kar</rs> xa <rs ana="TAP">tap</rs> chutzukuj chi taq a'</p>
-      <p>xere chirecha'j<ref target="quc.n136"><hi rend="sup">136</hi></ref>
-        <note place="foot" xml:id="quc.n136"><seg type="note-symbol">136</seg> 
+      <p>ri <rs ana="MOTZ">omuch' chi k'ajolab'</rs> xekamik</p>
+      <p>rumal <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>xa <rs ana="KAR">kar</rs> xa <rs ana="TAP">tap</rs> chutzukuj chi taq a'<ref target="quc.n139"><hi rend="sup">139</hi></ref>
+        <note place="foot" xml:id="quc.n139"><seg type="note-symbol">139</seg> 
+        <hi rendition="simple:italic">-a'</hi> varía con <hi rendition="simple:italic">ja'</hi> en otras partes del texto con el mismo significado de "agua".
+        </note></p>
+      <p>xere chirecha'j<ref target="quc.n140"><hi rend="sup">140</hi></ref>
+        <note place="foot" xml:id="quc.n140"><seg type="note-symbol">140</seg> 
         <hi rendition="simple:italic">-echa'</hi> en este caso refiere a "alimentación".
         </note>
       jutaq'ij</p>
-      <p>pa q'ij chiwa'katik ta chutzukuj recha'</p>
+      <p>pa q'ij chiwa'katik</p>
+      <p>ta chutzukuj recha'</p>
       <p>chaq'ab' k'ut chireqaj juyub'</p>
-      <p>k'a te k'ut ujalwachixik jun nima<rs ana="TAP">tap</rs> kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
+      <p>k'a te k'ut ujalwachixik jun nima<rs ana="TAP">tap</rs></p>
+      <p>kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
       <p>Are k'ut xkikoj ri uwach <rs ana="MAK_EK'">ek'</rs></p>
-      <p>ri <rs ana="MAK_EK'">maq<ref target="quc.n137"><hi rend="sup">137</hi></ref>
-        
-      ek'</rs> k'o pa taq k'echelaj <note place="foot" xml:id="quc.n137"><seg type="note-symbol">137</seg>
-        Es más probable que se refiera a <hi rendition="simple:italic">nima'q</hi>.
-        </note></p>
+      <p>ri <rs ana="MAK_EK'">maq</rs><ref target="quc.n141"><hi rend="sup">141</hi></ref>
+        <note place="foot" xml:id="quc.n141"><seg type="note-symbol">141</seg>
+          Es más probable que se refiera a <hi rendition="simple:italic">nima'q</hi>.
+          </note>
+      <rs ana="MAK_EK'">ek'</rs> k'o pa taq k'echelaj</p>
       <p>are uxul <rs ana="TAP">tap</rs> xuxik</p>
-      <p>pajaq<ref target="quc.n138"><hi rend="sup">138</hi></ref> 
-        <note place="foot" xml:id="quc.n138"><seg type="note-symbol">138</seg>
+      <p>pajaq<ref target="quc.n142"><hi rend="sup">142</hi></ref> 
+        <note place="foot" xml:id="quc.n142"><seg type="note-symbol">142</seg>
         <hi rendition="simple:italic">Pajaq</hi> según <rs ana="XIMENEZ">Ximénez</rs> (1993: 441) es una hierba; que en kaqchikel llaman <hi rendition="simple:italic">xkoyak'ix</hi>, actualmente en Tz'utujil es <hi rendition="simple:italic">xkoyak'iix</hi>.
         </note>
-      chi k'ut ukok q'ab' xkikojo</p>
-      <p>sel ab'aj k'u ri uwarachaq <rs ana="TAP">tap</rs> ri jowojik</p>
-      <p>k'a te k'ut ta xkikoj ukoq chuxe' pek<ref target="quc.n139"><hi rend="sup">139</hi></ref> 
-        <note place="foot" xml:id="quc.n139"><seg type="note-symbol">139</seg>
+      chi k'ut ukok q'ab'</p>
+      <p>xkikojo</p>
+      <p>sel ab'aj k'u ri uwarachaq <rs ana="TAP">tap</rs></p>
+      <p>ri jowojik</p>
+      <p>k'a te k'ut ta xkikoj ukoq</p>
+      <p>chuxe' pek<ref target="quc.n143"><hi rend="sup">143</hi></ref> 
+        <note place="foot" xml:id="quc.n143"><seg type="note-symbol">143</seg>
         <hi rendition="simple:italic">Pek</hi> en Q'eqchi' significa "piedra". En Tz'utujil "roca", "piedra grande". Lugar sagrado donde se hacen ceremonias para curaciones o falta que ha cometido una familia o persona y ahí se pide la solución a la falta cometida. <hi rendition="simple:italic">Ochoch pek</hi> significa "cueva". En idioma K'iche' se mantiene en algunas variantes.
         </note>
       chuxe' nimajuyub'</p>
-      <p><rs ana="ME'AWAN">Me'awan</rs> ub'i'<ref target="quc.n140"><hi rend="sup">140</hi></ref>
-      <note place="foot" xml:id="quc.n140"><seg type="note-symbol">140</seg>
+      <p><rs ana="ME'AWAN">Me'awan</rs> ub'i'<ref target="quc.n144"><hi rend="sup">144</hi></ref>
+      <note place="foot" xml:id="quc.n144"><seg type="note-symbol">144</seg>
         Mondloch y Carmack (2018: 66) en la transcripción, cambian de orden de la frase <hi rendition="simple:italic">-Me'avan ub'i', a ub'i'</hi>, a <hi rendition="simple:italic">ub'i' Meyawan</hi> (hasta la forma del nombre
         del cerro), que considero un error, ya que lo normal en las expresiones mayas, es lo normal (correcto) y no la forma con influencia del castellano.
       </note>
       juyub' xch'akataj wi</p>
       <p>k'a te k'ut ta xepe ri <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>xkik'u' ri <rs ana="SIPAKNA">Sipakna</rs> chi ya'</p>
-      <p>a pa katb'e wi <rs ana="SIPAKNA">at k'ajol</rs></p>
-      <p>xchax<ref target="quc.n141"><hi rend="sup">141</hi></ref>
-        <note place="foot" xml:id="quc.n141"><seg type="note-symbol">141</seg>
+      <p>a pa katb'e wi</p>
+      <p><rs ana="SIPAKNA">at k'ajol</rs></p>
+      <p>xchax<ref target="quc.n145"><hi rend="sup">145</hi></ref>
+        <note place="foot" xml:id="quc.n145"><seg type="note-symbol">145</seg>
         Posiblemente sea <hi rendition="simple:italic">xuchax</hi>.
         </note>
       k'u ri <rs ana="SIPAKNA">Sipakna</rs></p>
       <p>maja b'i kinb'e wi</p>
-      <p>xa wecha' kanutzukuj ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
+      <p>xa wecha' kanutzukuj</p>
+      <p>ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>xcha' k'u ri <rs ana="SIPAKNA">Sipakna</rs>.</p>
       <p>Naqi pa awecha'</p>
-      <p>xa <rs ana="KAR">kar</rs> xa <rs ana="TAP">tap</rs> xma k'o chi wi kanuriqo</p>
+      <p>xa <rs ana="KAR">kar</rs> xa <rs ana="TAP">tap</rs></p>
+      <p>xma k'o chi wi kanuriqo</p>
       <p>kab'ijir chinkanaj rechaxik</p>
       <p>ma wi kanuch'ij chik wa'ij</p>
       <p>xcha' <rs ana="SIPAKNA">Sipakna</rs> chi kech <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>.</p>
-      <p>Jun are la <rs ana="TAP">tap</rs> k'o ula xe' siwan</p>
+      <p>Jun are la <rs ana="TAP">tap</rs></p>
+      <p>k'o ula xe' siwan</p>
       <p>qitzij chi nima<rs ana="TAP">tap</rs></p>
       <p>kaq'ij ta la' chawecha'j lo.</p>
-      <p>Xa kojuti'o, mixrajqachapo</p>
+      <p>Xa kojuti'o</p>
+      <p>mixrajqachapo</p>
       <p>kaqaxib'ij qib' rumal</p>
       <p>ma chib'e on qachapa'</p>
       <p>xecha' ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
       <p>kitoq'ob'a' nuwach</p>
       <p>kib'eta'iwab'a' ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>xcha' ri <rs ana="SIPAKNA">Sipakna</rs></p>
-      <p>ma b'a chiqaj xa ta katb'ek</p>
-      <p>ma sachib'al taj xa raqan ja' katb'ek</p>
+      <p>ma b'a chiqaj</p>
+      <p>xa ta katb'ek</p>
+      <p>ma sachib'al taj</p>
+      <p>xa raqan ja' katb'ek</p>
       <p>at k'u taqal aponoq xe' nimajuyub'</p>
       <p>jowol ula chuxe' siwan xa katel apanoq</p>
       <p>xecha' <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
-      <p>laqi<ref target="quc.n142"><hi rend="sup">142</hi></ref>
-        <note place="foot" xml:id="quc.n142"><seg type="note-symbol">142</seg>
+      <p>laqi<ref target="quc.n146"><hi rend="sup">146</hi></ref>
+        <note place="foot" xml:id="quc.n146"><seg type="note-symbol">146</seg>
         Posiblemente con función exclamativa, por el contexto de <hi rendition="simple:italic">toq'ob'</hi>.
         </note>
       b'a' toq'ob' nuwach</p>
-      <p>ma b'a' xuk'ulu ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
+      <p>ma b'a' xuk'ulu</p>
+      <p>ix <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
       <p>kixb'enak'unuwab'a'</p>
-      <p>k'o k'i xo<ref target="quc.n143"><hi rend="sup">143</hi></ref>
-        <note place="foot" xml:id="quc.n143"><seg type="note-symbol">143</seg>
-        El significado es de "mucho" (<rs ana="XIMENEZ">Ximénez</rs> 1985: 619)
+      <p>k'o k'i xo<ref target="quc.n147"><hi rend="sup">147</hi></ref>
+        <note place="foot" xml:id="quc.n147"><seg type="note-symbol">147</seg>
+        El significado es de "mucho" conforme a <rs ana="XIMENEZ">Ximénez</rs> 1985: 619.
         </note>
       wi ri <rs ana="TZ'IKIN">tz'ikin</rs></p>
       <p>chib'etaji<rs ana="WUB">wub'aj</rs></p>
       <p>weta'm k'o wi</p>
       <p>xcha' chi k'ut <rs ana="SIPAKNA">Sipakna</rs>.</p>
-      <p>Xelajik<ref target="quc.n144"><hi rend="sup">144</hi></ref>
-        <note place="foot" xml:id="quc.n144"><seg type="note-symbol">144</seg>
+      <p>Xelajik<ref target="quc.n148"><hi rend="sup">148</hi></ref>
+        <note place="foot" xml:id="quc.n148"><seg type="note-symbol">148</seg>
           La raíz es <hi rendition="simple:italic">-elaj-</hi> de "suplicar" tal como se indica en Q'eqchi' y <rs ana="XIMENEZ">Ximénez</rs> (1985: 253).
         </note>
       xoq' na chi kiwach <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs></p>
@@ -1638,50 +1657,64 @@
       <p>ta xa keje xkojtzalij awumal</p>
       <p>ma xa ma wi xqatijo</p>
       <p>xa jusuk' chiti'onik</p>
-      <p>ri oj jupulik kojok ub'ik</p>
+      <p>ri oj jupulik</p>
+      <p>kojok ub'ik</p>
       <p>k'a te k'ut kuxib'ij rib'</p>
-      <p>ri oj pak'alik kojok ub'ik</p>
-      <p>xa k'u sqaqi'n chik ma wi chiqariqo</p>
-      <p>k'a te k'u utz at pak'alik katok ub'ik</p> 
+      <p>ri oj pak'alik</p>
+      <p>kojok ub'ik</p>
+      <p>xa k'u sqaqi'n chik</p>
+      <p>ma wi chiqariqo</p>
+      <p>k'a te k'u utz at pak'alik</p>
+      <p>katok ub'ik</p> 
       <p>xuchax k'ut</p>
-      <p>utz b'a la' xcha' k'u ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>utz b'a la'</p>
+      <p>xcha' k'u ri <rs ana="SIPAKNA">Sipakna</rs></p>
       <p>ta xb'e k'ut</p>
-      <p>achb'ilan chi k'ut ri <rs ana="SIPAKNA">Sipakna</rs> xb'ek</p>
+      <p>achb'ilan chi k'ut ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>xb'ek</p>
       <p>xe'opon chuxe' siwan</p>
-      <p>tzalam<ref target="quc.n145"><hi rend="sup">145</hi></ref>
-        <note place="foot" xml:id="quc.n145"><seg type="note-symbol">145</seg>
+      <p>tzalam<ref target="quc.n149"><hi rend="sup">149</hi></ref>
+        <note place="foot" xml:id="quc.n149"><seg type="note-symbol">149</seg>
         Puede ser <hi rendition="simple:italic">tzalan</hi>, de <hi rendition="simple:italic">tzalanik</hi>, "de lado".
         </note>
-      k'u la ri <rs ana="TAP">tap</rs><ref target="quc.n146"><hi rend="sup">146</hi></ref>
-        <note place="foot" xml:id="quc.n146"><seg type="note-symbol">146</seg>
+      k'u la ri <rs ana="TAP">tap</rs><ref target="quc.n150"><hi rend="sup">150</hi></ref>
+        <note place="foot" xml:id="quc.n150"><seg type="note-symbol">150</seg>
         Tap (Q'eqchi') varía con <hi rendition="simple:italic">top</hi> (en Tz'utujil, K'iche' y Kaqchikel).
         </note>
       </p>
       <p>kaqwak'awoj ula rij xe' siwan</p>
       <p>ri k'u te kikumatzij</p>
-      <p>utz b'a la' chikikot k'u ri <rs ana="SIPAKNA">Sipakna</rs></p>
-      <p>karaj taj xkok ta puchi'</p>
+      <p>utz b'a la'</p>
+      <p>chikikot k'u ri <rs ana="SIPAKNA">Sipakna</rs></p>
+      <p>karaj taj</p>
+      <p>xkok ta puchi'</p>
       <p>rumal qitzij kutzin chi wa'ij</p>
       <p>xraj kutij ri'</p>
-      <p>xa xrajjupunik xrajokik</p>
-      <p>pak'al k'u ri <rs ana="TAP">tap</rs> xaq'anik</p>
-      <p>k'a te k'ut xel chu uloq<ref target="quc.n147"><hi rend="sup">147</hi></ref>
-        <note place="foot" xml:id="quc.n147"><seg type="note-symbol">147</seg>
+      <p>xa xrajjupunik</p>
+      <p>xrajokik</p>
+      <p>pak'al k'u ri <rs ana="TAP">tap</rs></p>
+      <p>xaq'anik</p>
+      <p>k'a te k'ut xel chu uloq<ref target="quc.n151"><hi rend="sup">151</hi></ref>
+        <note place="foot" xml:id="quc.n151"><seg type="note-symbol">151</seg>
         Varía a <hi rendition="simple:italic">chi uloq</hi>.
         </note>.
       </p>
-      <p>ma wi xariqo xuchax k'ut</p>
-      <p>maja b'i xa pak'alik kaq'anik</p>
+      <p>ma wi xariqo</p>
+      <p>xuchax k'ut</p>
+      <p>maja b'i</p>
+      <p>xa pak'alik</p>
+      <p>kaq'anik</p>
       <p>xa nab'e sqaqi'n chik</p> 
       <p>ma wi mixnuriqo.</p>
-      <p>K'a te utz lo kipak'e'ik<ref target="quc.n148"><hi rend="sup">148</hi></ref>
-        <note place="foot" xml:id="quc.n148"><seg type="note-symbol">148</seg>
+      <p>K'a te utz lo kipak'e'ik<ref target="quc.n152"><hi rend="sup">152</hi></ref>
+        <note place="foot" xml:id="quc.n152"><seg type="note-symbol">152</seg>
         Se reconstruye con la forma completa que es <hi rendition="simple:italic">ki(<hi rend="color:red">n</hi>)pak'e'ik</hi>.
         </note>
       </p>
-      <p>kinok ub'ik xcha' chi k'ut.</p>
+      <p>kinok ub'ik</p>
+      <p>xcha' chi k'ut.</p>
       
-      <p xml:id="p28">
+      <p xml:id="p30">
       K'a te k'ut pak'al chik ta xok ub'ik</p>
       <p>xk'isk'u'ok ub'ik</p>
       <p>xa uwi' uch'ek chik xk'utun uloq</p>
