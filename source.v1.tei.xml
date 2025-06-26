@@ -22,7 +22,7 @@
   </fileDesc>
 </teiHeader>
   <text>
-    <body>
+    <body rend="single-col">
       <p><hi rendition="simple:bold"><rs ana="POPOL_WUJ">POPOL WUJ</rs></hi></p>
       <p><hi rendition="simple:bold">OJER TAQ TZIJ</hi></p>
       <p><hi rendition="simple:bold">XB'AN PA <rs ana="TINAMIT_K'ICHE'">TINAMIT K'ICHE'</rs>,</hi></p>
