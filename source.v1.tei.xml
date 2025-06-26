@@ -64,7 +64,7 @@
       <p><rs ana="JUNAJPU_WUCH'">Jun Ajpu Wuch'</rs>, <rs ana="JUNAJPU_UTIW">Jun Ajpu Utiw</rs></p>, 
       <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs><ref target="quc.n004"><hi rend="sup">4</hi></ref> <rs ana="SAQI_NIM_AQ_SIS">Tzis</rs>,
         <note place="foot" xml:id="quc.n004"><seg type="note-symbol">4</seg>
-        En el folio 1r, en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega <rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>, siguiendo el patrón de <rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>. <rs ana="XIMENEZ">Ximénez</rs> registra "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>" como "<rs ana="SAQI_NIM_AQ_SIS">tzis</rs>". Aquí se deja como "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>".
+        En el folio 1r del manuscrito de <rs ana="XIMENEZ">Ximénez</rs> en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega <rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>, siguiendo el patrón de <rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>. <rs ana="XIMENEZ">Ximénez</rs> registra "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>" como "<rs ana="SAQI_NIM_AQ_SIS">tzis</rs>". Aquí se deja como "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>".
         </note>
         <ref target="quc.n005"><hi rend="sup">5</hi></ref>
         <note place="foot" xml:id="quc.n005"><seg type="note-symbol">5</seg>
@@ -5084,17 +5084,30 @@
       <note place="foot" xml:id="quc.n374"><seg type="note-symbol">374</seg>
       En la línea 6 (Folio 29r) del manuscrito de <rs ana="XIMENEZ">Ximénez</rs> el escriba anotó <hi rendition="simple:italic">raqan ja'</hi>, ahora lo registra como <hi rendition="simple:italic">raqana'</hi> (línea 12), una forma contraída, actualmente se conservan las dos formas. En el topónimo de <hi rendition="simple:italic">Chwimiq'ina'</hi> se conserva la forma <hi rendition="simple:italic">a'</hi>.
       </note>
-
     </p>
+    <p>chi ri' qaj k'wa'</p>
+    <p>chib'e ch'utijuyub' nimajuyub'</p>
+    <p>kixcha' k'ut</p>
+    <p>ta chik'utunisaj ri qapixab'</p>
+    <p>mixqab'ij chi we</p>
+    <p>xecha' <rs ana="JUNAJPU">Xjun Ajpu</rs><ref target="quc.n375">,<hi rend="sup">375</hi></ref>
+      <note place="foot" xml:id="quc.n375"><seg type="note-symbol">375</seg>
+        En el manuscrito K'iche' (Folio 29r, línea 16) del padre <rs ana="XIMENEZ">Ximénez</rs> dice <hi rendition="simple:italic"><rs ana="JUNAJPU">xhunahpu</rs></hi>, es posible que haya sido un error del escriba, debería ser <hi rendition="simple:italic"><rs ana="JUNAJPU">Jun Ajpu</rs></hi>. Es posible que la variación que muestra la escritura de <rs ana="JUNAJPU">Xjun Ajpu</rs> con <rs ana="JUNAJPU">Jun Ajpu</rs> se deba a que otro amanuense estuvo redactando estos folios y también quiso redactar de manera simétrica los nombres <rs ana="JUNAJPU">Xjun Ajpu</rs> con <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>, en el uso del prefijo <hi rendition="simple:italic">x-</hi>. 
+      </note>
+      <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
+    <p>ta xepixab'ik</p>
+    <p>xqetamaj kikamik.</p>
+    <p>Are kab'an ri nimachojim ab'aj</p>
+    <p>keje ri chojib'al qi xkib'an <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>nimaq xaq xkikojo</p>
+    <p>k'a te' k'ut xul <rs ana="USAMAJEL_XIB'ALB'A">samajel</rs> achb'ilay ke</p>
+    <p><rs ana="USAMAJEL_XIB'ALB'A">usamajel</rs> <rs ana="JUN_KAME'">Jun Kame</rs>, <rs ana="WUQUB'_KAME'">Wuqub' Kame</rs></p>
+    <p>kepetoq</p>
+    <p>kojb'e ta kuk' k'ajolab'</p>
     <p></p>
     <p></p>
     <p></p>
     <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-
     </body>
   </text>
 </TEI>
