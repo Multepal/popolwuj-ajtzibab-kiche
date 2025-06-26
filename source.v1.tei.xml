@@ -4987,21 +4987,24 @@
     <p>chik'oxk'otik ta xb'ek</p>
     <p>oqotal k'ut</p> 
     <p>ta xb'e kumal ri <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
-    <p>kejuminik kech'aninik xeb'e chi rij ri <rs ana="UMUL">umul</rs></p>
+    <p>kejuminik kech'aninik</p>
+    <p>xeb'e chi rij ri <rs ana="UMUL">umul</rs></p>
     <p>xek'isb'e <rs ana="RAJAWAL_XIB'ALB'A">konojel xib'alb'a</rs></p>
     <p>k'a te' k'ut xkik'amixtaj ri ujolom <rs ana="JUNAJPU">Jun Ajpu</rs></p>
     <p>xtikixtaj chik <rs ana="Q'OQ">uq'oq'</rs> <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
     <p>are chi k'ut xb'ekikub'a' ri <rs ana="Q'OQ">q'oq'</rs> chuwi <rs ana="JOM">jom</rs></p>
     <p>qitzij jolom chi k'u ujolom ri <rs ana="JUNAJPU">Jun Ajpu</rs></p>
     <p>keki'kot chi k'u kikab'ichal</p>
-    <p>are k'ut keb'etzukun na <rs ana="KIK'">kik'</rs> ri <rs ana="XIB'ALB'A">xib'alb'a</rs></p>
+    <p>are k'ut keb'etzukun na <rs ana="KIK'">kik'</rs></p>
+    <p>ri <rs ana="XIB'ALB'A">xib'alb'a</rs></p>
     <p>k'a te' k'ut xkik'amixtaj chi ri <rs ana="KIK'">kik'</rs> pa pix</p> 
     <p>ta xesik'in chi k'ut</p>
     <p>kixpetoq</p> 
     <p>wa'e <rs ana="KIK'">kik'</rs> kemixqariqo</p> 
     <p>xecha'</p>
     <p>kik'olem chi k'ut</p> 
-    <p>ta xe'ul <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs> naqi pa ri mixqilo</p> 
+    <p>ta xe'ul <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>naqi pa ri mixqilo</p> 
     <p>xecha' k'ut</p>
     <p>ta xkitikib'a' chi k'ut <rs ana="CHAAJ">cha'jik</rs></p>
     <p>junam <rs ana="CHAAJ">cha'jik</rs> chi k'ut xkib'an chik kikab'ichal</p>
@@ -5011,31 +5014,32 @@
     <p>saqiram k'u ri <rs ana="SAKIL">usaqilal</rs> chi kiwach</p>
     <p>naqi pa chib'e'ik'ama'</p>
     <p>a pa k'o wi ri k'amol re</p> 
-    <p>xcha' xib'alb'a</p>
-    <p>keje k'ut kich'akatajik <rs ana="RAJAWAL_XIB'ALB'A">rajal<ref target="quc.n367"><hi rend="sup">367</hi></ref>
-    xib'alb'a</rs> rumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs>
-    <note place="foot" xml:id="quc.n367"><seg type="note-symbol">367</seg>
+    <p>xcha' <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>keje k'ut kich'akatajik <rs ana="RAJAWAL_XIB'ALB'A">rajal</rs><ref target="quc.n372"><hi rend="sup">372</hi></ref>
+    <note place="foot" xml:id="quc.n372"><seg type="note-symbol">372</seg>
       Sam Colop (1999: 105) y Mondloch y Carmack (2018: 140) transcriben y reconstruyen <hi rendition="simple:italic">rajal</hi> como <hi rendition="simple:italic">rajawal</hi>. Es posible por el contexto en que se encuentra la palabra, pudo haber sido un error de escritura.
       </note>
-    </p>
+      <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>rumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
     <p>nimak'axk'ol xek'oje' wi</p>
     <p>ma wi are xekam wi</p> 
     <p>ri ronojel xb'an chi ke.</p>
 
-    <p xml:id="p088">
+    <p xml:id="p090">
     <!-- editor's note: corresponds to XOM paragraph 37-->
     Are k'ut wa'e kinab'al kikamik <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p> 
     <p>are wa' kinab'al kikamik xchiqab'ij chik.</p>
     <p>Ta xepixab'aj k'ut</p> 
-    <p>xkib'ano ronojel k'axk'ol ra'il xb'an chi ke</p>
+    <p>xkib'ano</p>
+    <p>ronojel k'axk'ol ra'il xb'an chi ke</p>
     <p>ma wi xekamik rumal <rs ana="TIJOB'AL_JA">utijob'al</rs> <rs ana="XIB'ALB'A">xib'alb'a</rs></p>
     <p>ma wi xech'akatajik</p> 
     <p>rumal ronojel ti'onel chikop k'o chi <rs ana="XIB'ALB'A">xib'alb'a</rs></p>
     <p>k'a te k'ut ta xkitaq chi ka'ib' nik'wachinel</p> 
     <p>keje ri e ilol</p>
     <p>are kib'i' wa' <rs ana="XULU">Xulu</rs>, <rs ana="PAK'AM">Pakam</rs> e eta'manel</p>
-    <p>uwe<ref target="quc.n368"><hi rend="sup">368</hi></ref>
-      <note place="foot" xml:id="quc.n368"><seg type="note-symbol">368</seg>
+    <p>uwe<ref target="quc.n373"><hi rend="sup">373</hi></ref>
+      <note place="foot" xml:id="quc.n373"><seg type="note-symbol">373</seg>
       Originalmente fue <hi rendition="simple:italic">uwe</hi>, en a actualidad es <hi rendition="simple:italic">we</hi>.
       </note>
     kojtz'onoxik chiwe</p> 
@@ -5044,7 +5048,7 @@
     <p>kina'oj kakinuk'</p> 
     <p>rumal ri ma wi mixojkamik</p>
     <p>ma pu mixojch'akatajik</p> 
-    <p>mixqasach kitijob'al</p>
+    <p>mixqasach <rs ana="TIJOB'AL_JA">kitijob'al</rs></p>
     <p>ma xa chikop chok chi qe</p>
     <p>are k'u retal wa chi qak'u'x</p>
     <p>chojim ab'aj kamisab'al qe kumal</p>
@@ -5060,7 +5064,7 @@
     <p>xa wi xere chik chik'astaj kiwach</p> 
     <p>kixcha'</p>
     <p>we b'a are utz</p>
-    <p>xa chiqaxekeb'a' chuwi' che'</p>.
+    <p>xa chiqaxekeb'a' chuwi' che'</p>
     </body>
   </text>
 </TEI>
