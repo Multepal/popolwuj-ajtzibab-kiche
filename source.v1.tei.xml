@@ -62,17 +62,20 @@
         </note>
       kib'i'</p>
       <p><rs ana="JUNAJPU_WUCH'">Jun Ajpu Wuch'</rs>, <rs ana="JUNAJPU_UTIW">Jun Ajpu Utiw</rs></p>, 
-      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs><ref target="quc.n004"><hi rend="sup">4</hi></ref> <rs ana="SAQI_NIM_AQ_SIS">Tzis</rs>,<ref target="quc.n005"><hi rend="sup">5</hi></ref>
+      <p><rs ana="SAQI_NIM_AQ_SIS">Saqinim Aq</rs>, <rs ana="SAQI_NIM_AQ_SIS">Saqinim</rs><ref target="quc.n004"><hi rend="sup">4</hi></ref> <rs ana="SAQI_NIM_AQ_SIS">Tzis</rs>,
         <note place="foot" xml:id="quc.n004"><seg type="note-symbol">4</seg>
         En el folio 1r, en la línea 13 solo aparece una vez la frase <rs ana="SAQI_NIM_AQ_SIS">zaquinimac tzÿz</rs>; mientras que en la presente versión se agrega <rs ana="SAQI_NIM_AQ_SIS">Saqinim Tzis</rs>, siguiendo el patrón de <rs ana="SAQI_NIM_AQ_SIS">saqinim aq</rs>. <rs ana="XIMENEZ">Ximénez</rs> registra "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>" como "<rs ana="SAQI_NIM_AQ_SIS">tzis</rs>". Aquí se deja como "<rs ana="SAQI_NIM_AQ_SIS">sis</rs>".
         </note>
+        <ref target="quc.n005"><hi rend="sup">5</hi></ref>
         <note place="foot" xml:id="quc.n005"><seg type="note-symbol">5</seg>
         Refiere al <rs ana="SAQI_NIM_AQ_SIS">pizote</rs> y hoy día se dice "<rs ana="SAQI_NIM_AQ_SIS">Sis</rs>."
         </note></p>
-      <p><rs ana="TEPEW_Q'UKUMATZ">Tepew <ref target="quc.n006"><hi rend="sup">6</hi></ref>Q'ukumatz<ref target="quc.n007"><hi rend="sup">7</hi></ref></rs>
-        <note place="foot" xml:id="quc.n007"><seg type="note-symbol">7</seg>
+      <p><rs ana="TEPEW_Q'UKUMATZ">Tepew</rs><ref target="quc.n006"><hi rend="sup">6</hi></ref>
+        <note place="foot" xml:id="quc.n006"><seg type="note-symbol">6</seg>
         Palabra de origen Náhuatl que significa "señorío".
         </note>
+        <rs ana="TEPEW_Q'UKUMATZ">Q'ukumatz</rs>
+        <ref target="quc.n007"><hi rend="sup">7</hi></ref>
         <note place="foot" xml:id="quc.n007"><seg type="note-symbol">7</seg>
         La forma completa es <rs ana="Q'UKUMATZ">Q'uq' Kumatz</rs>.
         </note></p>
@@ -80,7 +83,7 @@
       <p><rs ana="AJRAXA_LAQ">ajraxalaq</rs> <rs ana="AJRAXA_TZEL">ajraxatzel</rs></p>
       <p>chuchaxik rachb'ixik rachtzijoxik ri <rs ana="IXMUKANE">iyom</rs> <rs ana="XPIYAKOK">mamon</rs></p>
       <p><rs ana="XPIYAKOK">Xpiyakok</rs><ref target="quc.n008"><hi rend="sup">8</hi></ref>
-        <note place="foot" xml:id="quc.n007"><seg type="note-symbol">7</seg>
+        <note place="foot" xml:id="quc.n008"><seg type="note-symbol">8</seg>
         <rs ana="XPIYAKOK">Xpiyakok</rs> es nombre masculino y el sonido inicial de <hi rendition="simple:italic">x-</hi> sin embargo, esto no significa clasificador de nombre femenino <hi rendition="simple:italic">ix-</hi> o <hi rendition="simple:italic">x-</hi>. Caso contrario con <rs ana="XMUKANE">Xmukane</rs>. La otra posibilidad es que no sean nombres K'iche'. Por ejemplo, en el idioma Náhuatl aparecen dos personajes como seres creadores llamados Oxomoco y Sipactónal. También podrían ser nombres de animales como: <hi rendition="simple:italic">xpa'ch</hi> (lagartija), <hi rendition="simple:italic">xku'ch</hi>, <hi rendition="simple:italic"><rs ana="XMUKUR">xmukur</rs></hi> (tórtola), <hi rendition="simple:italic">xtutz'</hi> (rana), <hi rendition="simple:italic">xpeq</hi> (sapo), <hi rendition="simple:italic">ixmatuq'</hi> (renacuajo o tepocate).
         </note>
       <rs ana="IXMUKANE">Xmukane</rs> ub'i'</p>
@@ -5065,6 +5068,33 @@
     <p>kixcha'</p>
     <p>we b'a are utz</p>
     <p>xa chiqaxekeb'a' chuwi' che'</p>
+    <p>ta kecha' chik chi we</p>
+    <p>xax ma utz wi</p>
+    <p>xa wi xere chiwil chi kiwach</p>
+    <p>kixcha'</p>
+    <p>ta kecha' chi k'ut chi roxmul</p>
+    <p>xa b'a re rutzil</p>
+    <p>xa chiqatix kib'aqil pa raqan ja'</p>
+    <p>we k'ut kixuchax chik kumal</p>
+    <p>are utz b'a la' kekamik</p>
+    <p>k'a te' k'u utz chijok' kib'aqil chuwach ab'aj</p>
+    <p>keje' ri chike'x k'ajim <rs ana="JAL">jal</rs></p>
+    <p>jujunal k'u chike'ik</p>
+    <p>k'a te' k'u chitix ub'ik chi raqana'<ref target="quc.n374"><hi rend="sup">374</hi></ref>
+      <note place="foot" xml:id="quc.n374"><seg type="note-symbol">374</seg>
+      En la línea 6 (Folio 29r) del manuscrito de <rs ana="XIMENEZ">Ximénez</rs> el escriba anotó <hi rendition="simple:italic">raqan ja'</hi>, ahora lo registra como <hi rendition="simple:italic">raqana'</hi> (línea 12), una forma contraída, actualmente se conservan las dos formas. En el topónimo de <hi rendition="simple:italic">Chwimiq'ina'</hi> se conserva la forma <hi rendition="simple:italic">a'</hi>.
+      </note>
+
+    </p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+
     </body>
   </text>
 </TEI>
