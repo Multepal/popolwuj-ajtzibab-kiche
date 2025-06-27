@@ -5155,6 +5155,92 @@
     <p>k'a te k'ut kitaqik ri <rs ana="XULU">Xulu'</rs>, <rs ana="PAK'AM">Pakam</rs></p>
     <p>xkanaj wi kitzij</p>
     <p>xa wi xa are xtz'onox ri xb'e wi kib'aqil</p>
+    <p>ta xeq'ijin <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>xjok' kib'aqil</p>
+    <p>xb'etixoq chi raqana'</p>
+    <p>ma k'u xeb'e ta chi naj</p>
+    <p>xa jusu' xeqaj chuxe' a'</p>
+    <p>e cha'om <rs ana="KA'IB'_K'AJOLAB'">k'ajolab'</rs> xe'uxik</p>
+    <p>xa wi xere kiwach xuxik</p>
+    <p>xek'utun chi k'ut</p>
+    <!--> editor's note: corresponds to XOM paragraph 38, folio 29v, line 7 -->
+    <p>chi rob'ix k'ut xek'utun chik</p>
+    <p>xe'il chi ya' rumal winaq</p>
+    <p><rs ana="KA'IB'_K'AJOLAB'">e ka'ib'</rs></p>
+    <p>keje ri xa winaq kar xewachinik</p>
+    <p>ta xil kiwach kumal <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>xetzukux k'ut chi taq ya'</p>
+    <p>xchweqa'<ref target="quc.n382"><hi rend="sup">382</hi></ref>
+      <note place="foot" xml:id="quc.n382"><seg type="note-symbol">382</seg>
+      La voz <hi rendition="simple:italic">Xchweqa'</hi> siignifica "mañana" como acción verbal. Forma caída en desuso en el habla actual.
+      </note>
+    k'ut kek'utunoq</p>
+    <p><rs ana="KA'IB'_K'AJOLAB'">e ka'ib' chi meb'a'</rs></p>
+    <p>atz'iyaq<ref target="quc.n383"><hi rend="sup">383</hi></ref>
+      <note place="foot" xml:id="quc.n383"><seg type="note-symbol">383</seg>
+      Por la forma escrita en el manuscrito del padre <rs ana="XIMENEZ">Ximénez</rs>se transcribe como <hi rendition="simple:italic">atz'iyaq</hi> y siguiendo el patrón silábico CVC, aunque actualmente se omite la i se dice <hi rendition="simple:italic">atz'yaq</hi>. 
+      </note>
+    kiwach atz'iyaq pu kij atz'iyaq k'ul kiq'u'</p>
+    <p>mana chib'anan<ref target="quc.n384"><hi rend="sup">384</hi></ref>
+      <note place="foot" xml:id="quc.n384"><seg type="note-symbol">384</seg>
+      Se refiere a "no tener presentación, formalidad, apariencia".
+      </note>
+    ta kiwach</p>
+    <p>ta qi xe'ilik rumal <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs>.</p>
+
+    <p xml:id="p091">
+    Jala<ref target="quc.n385"><hi rend="sup">385</hi></ref>
+    <note place="foot" xml:id="quc.n385"><seg type="note-symbol">385</seg>
+    Probablemente la forma completa sea <hi rendition="simple:italic">jala(n)</hi> de "diferente".
+    </note>
+    chi k'ut xkib'ano</p>
+    <p>xa <rs ana="XAJOJ_PUJUY">xajoj Pujuy</rs> <rs ana="XAJOJ_KUX">xajoj Kux</rs></p>
+    <p>xa <rs ana="IB'OY">Ib'oy</rs> xkixajo</p>
+    <p>xa <rs ana="XTZUL">Xtzul</rs> xa <rs ana="CH'ITIK">Chitik</rs><ref target="quc.n386"><hi rend="sup">386</hi></ref>
+      <note place="foot" xml:id="quc.n386"><seg type="note-symbol">386</seg>
+      Esta palabra refiere a "baile de zancos".
+      </note></p>
+    <p>xkixaj<ref target="quc.n387"><hi rend="sup">387</hi></ref>
+      <note place="foot" xml:id="quc.n387"><seg type="note-symbol">387</seg>
+      Esta forma verbal puede encontrarse en el manuscrito del padre <rs ana="XIMENEZ">Ximénez</rs>como <hi rendition="simple:italic">xkixaj</hi>, <hi rendition="simple:italic">xkixajo</hi> para referirse a "bailaron". 
+      </note>
+    chik</p>
+    <p>k'ya mayjab'al xkib'an chik</p>
+    <p>xkiporoj ja</p>
+    <p>keje ri qitzij chik'atik</p>
+    <p>lib'ajchi' k'ut chiwinaqir chik</p>
+    <p>tzatz chi <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs> chika'yik</p>
+    <p>k'a te chikipus kib'</p>
+    <p>chikam jun chi ke</p>
+    <p>chipune' na chi kaminaqil</p>
+    <p>nab'e chikikamisaj kib'</p>
+    <p>xa wi xere lib'ajchi' k'astaj wi chi uwach</p>
+    <p>xa kika'y <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
+    <p>ta chikib'ano</p>
+    <p>ronojel xkib'an chik</p>
+    <p>uxena'jik chik ch'akb'al kech xib'alb'a kumal</p>
+    <!-- editor's note: corresponds to XOM paragraph 39-->
+    <p>k'a te chi puch roponik chik utzijel kixajoj chi xikin<ref target="quc.n388"><hi rend="sup">388</hi></ref>
+      <note place="foot" xml:id="quc.n388"><seg type="note-symbol">388</seg>
+      Debería ser <hi rendition="simple:italic">chi (ki)xikin</hi>.
+      </note>
+      <rs ana="RAJAWAL_XIB'ALB'A">ajawab'</rs></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
     <p></p>
     <p></p>
     </body>
