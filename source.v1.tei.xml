@@ -6273,14 +6273,69 @@
     <p>xecha chi re</p>
     <p>ta xkik'amowaj</p>
     <p>ri xub'ij <rs ana="TOJIL">Tojil</rs>.</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+
+    <p xml:id="p102">
+      <!-- editor's note: Corresponds to XOM paragraph 54, folio 36r, line 30-->
+      Utz b'a la'</p>
+      <p>qitzij in ikab'awil</p>
+      <p>ta chuxoq</p>
+      <p>in iwajawal</p>
+      <p>ta chuxoq</p>
+      <p>xe'uchaxik ri ajk'ixb' ajkaj<ref target="quc.n461"><hi rend="sup">461</hi></ref>
+        <note place="foot" xml:id="quc.n461"><seg type="note-symbol">461</seg>
+        En el folio 36r, línea 33 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra de esa manera, pero en otros contextos se registran como <hi rendition="simple:italic">ajk'aj(b')</hi>.
+      </note>
+      rumal <rs ana="TOJIL">Tojil</rs></p>
+    <p>are k'ut keq'aq'al<ref target="quc.n462"><hi rend="sup">462</hi></ref>
+      <note place="foot" xml:id="quc.n462"><seg type="note-symbol">462</seg>
+      En el folio 36r, línea 33 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra <hi rendition="simple:italic">keq'aq'al</hi>. Actualmente en K'iche' es <hi rendition="simple:italic">kiq'aq'al</hi> pero en Tz'utujil se conservan ambas: <hi rendition="simple:italic">keq'aq'al</hi> o <hi rendition="simple:italic">kiq'aq'al</hi>.
+    </note>
+    ri amaq'</p>
+    <p>keki'kotik rumal kiq'aq'</p>
+    <!-- editor's note: corresponds to XOM paragraph 55, folio 36r-->
+    <p>k'a te puch ta xtikarik nimajab'</p>
+    <p>are katilo<ref target="quc.n463"><hi rend="sup">463</hi></ref>
+      <note place="foot" xml:id="quc.n463"><seg type="note-symbol">463</seg>
+      Esta palabra puede ser <hi rendition="simple:italic">katilo(w)</hi> con el significado de "chispas", que es como se marca el antipasivo. <hi rendition="simple:italic">Katilowik</hi> para "cambio de hojas". En Tz'utujil es <hi rendition="simple:italic">katilto'i</hi> para "caída de hojas". La masa seca cuando se cae, de la ropa o servilleta. La pintura cuando se seca y cae también.
+    </note>
+    uq'aq' amaq'</p>
+    <p>tzatz k'ut chi saqb'och</p>
+    <p>xqajik pa kiwi' ronojel amaq'</p>
+    <p>ta xchup k'ut kiq'aq' rumal saqb'och</p>
+    <p>maja b'i chik kiq'aq' xuxik</p>
+    <p>ta xkitz'onoj chi k'ut kiq'aq'</p>
+    <p>ri <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs></p>
+    <p>at <rs ana="TOJIL">Tojil</rs> qitzij kojutzinik rumal tew</p>
+    <p>xecha' k'ut chi re <rs ana="TOJIL">Tojil</rs></p>
+    <p>utz mixb'isonik</p>
+    <p>xcha' <rs ana="TOJIL">Tojil</rs></p>
+    <p>k'a te ta xre lesaj q'aq'</p>
+    <p>xub'aq uloq chupam uxajab'</p>
+    <p>k'a te k'ut xeki'kot ri <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>, <rs ana="MAJUK'UTAJ">Majukutaj</rs>, <rs ana="IQ'I_B'ALAM">Iq'ib'alam</rs></p>
+    <p>k'a te k'ut xemiq'ik</p>
+    <p>are k'ut chupinaq chik uq'aq' amaq'</p>
+    <p>ke'utzin chik rumal tew</p>
+    <p>k'a te pu kipetik chik</p>
+    <p>e tz'onoy kiq'aq' kuk' ri <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>, <rs ana="MAJUK'UTAJ">Majukutaj</rs>, <rs ana="IQ'I_B'ALAM">Iq'ib'alam</rs></p>
+    <p>ma k'u kakich'ij chik rumal tew saqb'och</p>
+    <p>xa kelexlot chik</p>
+    <p>kesiksot chi puch</p>
+    <p>maja b'i e k'as chi wi</p>
+    <p>kaqoykot chik kaqan kiq'ab'</p>
+    <p>ma wi kechapon chik</p>
+    <p>ta xe'ulik</p>
+    <p>ma qi kojk'ix na iwuk'.</p>
+
+    <p xml:id="p103">
+    <!-- editor's note: Corresponds to XOM paragraph 55, folio 36v, line 14-->
+    Chiqatz'onoj ta ukoq<ref target="quc.n464"><hi rend="sup">464</hi></ref>
+    <note place="foot" xml:id="quc.n464"><seg type="note-symbol">464</seg>
+    En esta parte hay un tachón, pero no se logra leer ni comprender.
+    </note>
+    sqaqi'n iq'aq'</p>
+    <p>xecha'</p>
+    <p>ta xe'ulik</p>
+    <p>ma k'u ja b'i xek'ulaxik</p>
     <p></p>
     <p></p>
     <p></p>
