@@ -6126,7 +6126,7 @@
     </note>
     na usaqirik</p>
     <p>xecha' e nimaq etamanel e na'onel</p>
-    <p>e ajk'ixb' e ajnim ke'uchaxik</p>
+    <p>e <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> e <rs ana="XA_Q'ANA_JAL">ajnim</rs> ke'uchaxik</p>
     <p>maja' b'i k'u jab'i'oq<ref target="quc.n450"><hi rend="sup">450</hi></ref>
       <note place="foot" xml:id="quc.n450"><seg type="note-symbol">450</seg>
       La voz <hi rendition="simple:italic">jab'i'oq</hi>, esta es una forma contraída de dos partículas, de <hi rendition="simple:italic">maja'</hi> y <hi rendition="simple:italic">b'i'</hi> y <hi rendition="simple:italic">-oq</hi>..
@@ -6281,7 +6281,7 @@
       <p>ta chuxoq</p>
       <p>in iwajawal</p>
       <p>ta chuxoq</p>
-      <p>xe'uchaxik ri ajk'ixb' ajkaj<ref target="quc.n461"><hi rend="sup">461</hi></ref>
+      <p>xe'uchaxik ri <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> <rs ana="XA_Q'ANA_JAL">ajkaj</rs><ref target="quc.n461"><hi rend="sup">461</hi></ref>
         <note place="foot" xml:id="quc.n461"><seg type="note-symbol">461</seg>
         En el folio 36r, línea 33 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra de esa manera, pero en otros contextos se registran como <hi rendition="simple:italic">ajk'aj(b')</hi>.
       </note>
@@ -6776,7 +6776,24 @@
     <p>ta xpe chi k'ut <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs></p>
     <p>xul chi ri' pa nimak'echelaj</p>
     <p>xulewaxawi <rs ana="TOJIL">Tojil</rs> rumal <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs></p>
-    <p></p>
+    <p><rs ana="PA_TOJIL">pa Tojil</rs> chuchax wakamik ub'i' juyub'</p>
+    <p>ta xkikob'isaj ri ewab'al siwan</p>
+    <p><rs ana="KUNAB'AL_TOJIL">kunab'al Tojil</rs></p>
+    <p>tzatz chi <rs ana="KUMATZ">kumatz</rs></p>
+    <p>tzatz puch chi <rs ana="B'ALAM">b'alam</rs>, <rs ana="SOCHOJ">sochoj</rs>, <rs ana="K'ANTI'">k'anti'</rs></p>
+    <p>chi ri' pa k'echelaj xek'oje wi</p>
+    <p>xewax wi kumal ajk'ixb' ajkajb'</p>
+    <p>xa k'u jun xek'oje' wi <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>, <rs ana="MAJUK'UTAJ">Majukutaj</rs>, <rs ana="IQ'I_B'ALAM">Iq'ib'alam</rs></p>
+    <p>xa jun xkoyob'ej wi usaqirik</p>
+    <p>chi ri' chuwi' juyub' <rs ana="JAQAWITZ_JUYUB'">Jaqawitz</rs> ub'i'</p>
+    <p>xa wi k'u kok uxo'l ri xk'oje' wi kab'awil <rs ana="TAMUB'">Tamub'</rs> ruk' <rs ana="ILOKAB'">Ilokab'</rs></p>
+    <p><rs ana="AMAQ'_TAM">Amaq' T'an</rs> ub'i'</p>
+    <p>ri xk'oje' wi ri ukab'awil <rs ana="TAMUB'">Tamub'</rs></p>
+    <p>chi ri' xsaqir wi Amaq' Ukin K'ut<ref target="quc.n500"><hi rend="sup">500</hi></ref>
+      <note place="foot" xml:id="quc.n500"><seg type="note-symbol">500</seg> 
+      En el folio 39r, línea 42 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra como <hi rendition="simple:italic">k’ut</hi>. Sam Colop (1999: 143)lo registra como <hi rendition="simple:italic">Ukink’at</hi>.
+    </note>
+    </p>
     <p></p>
     <p></p>
     <p></p>
