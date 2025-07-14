@@ -8578,7 +8578,7 @@
     <p><rs ana="YAKOLATAM_UTZA'M_POP_SAQLATOL">utza'm Pop Saqlatol</rs></p>
     <p><rs ana="NIMA_LOLMET_YE'OLTUX">Nimalolmet</rs><ref target="quc.n616"><hi rend="sup">616</hi></ref>
       <note place="foot" xml:id="quc.n616"><seg type="note-symbol">616</seg>
-      La voz <hi rendition="simple:italic">met</hi> en Basseta (2005: 447) refiere a "tabaco" o "el algodón desmontado". Refiere a "jícara para beber atol o para presentar ofrendas (liquídos) en las ceremonias" (2005. p. 447).
+      La voz <hi rendition="simple:italic">met</hi> en Basseta (2005: 447) refiere a "tabaco" o "el algodón desmontado". Refiere a "jícara para beber atol o para presentar ofrendas (liquídos) en las ceremonias".
       </note>
     <rs ana="NIMA_LOLMET_YE'OLTUX">Ye'oltux</rs>.</p>
     <p>B'elejeb' k'ut chi ajawab' chuwach <rs ana="NIJA'IB">Nija'ib'ab'</rs>.</p>
@@ -8747,35 +8747,268 @@
       Refiere a <hi rendition="simple:italic">k'am-</hi> de <hi rendition="simple:italic">k'amik</hi> "recibir".
       </note>
     upatan chi rech ronojel</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <p>xqaj utinamit</p>
+    <p>xuk'am upatan chuwach <rs ana="K'IKAB'_KQSIETE">Kikab'</rs>, <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
+    <p>xe'ok chi munil</p>
+    <p>xelotzik<ref target="quc.n627"><hi rend="sup">627</hi></ref>
+      <note place="foot" xml:id="quc.n627"><seg type="note-symbol">627</seg>
+      Refiere a "punzar", "sangrar", "atenaciar", "tatajear". (Basseta 1985: 363)
+      </note>
+    xek'aqik chi che'</p>
+    <p>maja b'i kiq'ij</p>
+    <p>maja b'i kalaxik xuxik</p>
+    <p>xa cha mixk'oje'</p>
+    <p>paxib'al tinamit</p>
+    <p>jusu chijixtajik<ref target="quc.n628"><hi rend="sup">628</hi></ref>
+      <note place="foot" xml:id="quc.n628"><seg type="note-symbol">628</seg>
+      Hoy día es más usual <hi rendition="simple:italic">xjistajik</hi>. 
+      </note>
+    uchi' ulew</p>
+    <p>keje ri chiq'osin kaqulja</p>
+    <p>chupaxij ab'aj</p>
+    <p>chixib'inik</p>
+    <p>lib'ajchi' chel aj amaq' chuwach <rs ana="Q'OL_CHE'">Q'ol Che'</rs></p>
+    <p>retal tinamit</p>
+    <p>rumal wakamik jun juyub' ab'aj</p>
+    <p>xsqaqi'n<ref target="quc.n629"><hi rend="sup">629</hi></ref>
+      <note place="foot" xml:id="quc.n629"><seg type="note-symbol">629</seg>
+      Es probable que sea <hi rendition="simple:italic">xa sqaqi'n</hi>.
+      </note>
+    chik</p>
+    <p>ma wi xq'atatajik</p>
+    <p>keje ri xchoy chi <rs ana="IKAJ">ikaj</rs></p>
+    <p>rumal chi la' k'o wi pa taq'aj</p>
+    <p><rs ana="PETATAYUB'">Petatayub'</rs> ub'i'</p>
+    <p>q'alaj wakamik</p>
+    <p>karil ronojel winaq</p>
+    <p>ke'ik'ow wi retal rachijilal <rs ana="K'IKAB'_KQSIETE">Kikab'</rs></p>
+    <p>maja b'i xkam wi</p>
+    <p>ma pu ja b'i xch'akataj wi</p>
+    <p>qitzij wi chi achij</p>
+    <p>xuk'am k'ut upatan ronojel amaq'</p>
+    <p>ta xena'ojin k'ut ajawab' konojel</p>
+    <p>ta xb'ek q'atey rij siwan rij tinamit</p>
+    <p>xqajinaqoq utinamit ronojel amaq'.</p>
+
+    <p xml:id="p138">
+    <!-- editor's note: Corresponds to XOM paragraph 83, folio 52v, line 25 -->
+    K'a te k'ut ta relik waranel</p>
+    <p>ilol ajlab'al</p>
+    <p>ta xkib'an<ref target="quc.n630"><hi rend="sup">630</hi></ref>
+      <note place="foot" xml:id="quc.n630"><seg type="note-symbol">630</seg>
+      En el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> aparece una virgulilla sobre la <hi rendition="simple:italic">a</hi>, que es un indicador de la letra <hi rendition="simple:italic">n</hi>.
+      </note>
+    k'ut uwachinel chinamit</p>
+    <p>laq'ab'ey juyub'</p>
+    <p>we chipe chik</p>
+    <p>ta chululaq'ab'ej utinamit amaq'</p>
+    <p>xecha'</p>
+    <p>ta xkikuch kina'oj konojel ajawab'</p>
+    <p>ta xel kiwab'an<ref target="quc.n631"><hi rend="sup">631</hi></ref>
+      <note place="foot" xml:id="quc.n631"><seg type="note-symbol">631</seg>
+      La raíz <hi rendition="simple:italic">wab'a</hi> indica "señalar", "presentar", "ayudar". Ejemplo: <hi rendition="simple:italic">in wab'am chik chi mayordomo</hi>, o "ya estoy señalado por mayordomo" (Basseta 2005: 518).
+      </note>
+    </p>
+    <p>keje ri qakejoj</p>
+    <p>keje pu qaqachinamit<ref target="quc.n632"><hi rend="sup">632</hi></ref>
+      <note place="foot" xml:id="quc.n632"><seg type="note-symbol">632</seg>
+      Aparece en el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> escrito como <hi rendition="simple:italic">caca chinamit</hi> se transcribe como <hi rendition="simple:italic">qaqachinamit</hi>, hay duplicación de marcador de primera persona plural.
+      </note>
+    </p>
+    <p>keje nay puch qatz'alam qak'oxtun chuxik</p>
+    <p>are chik koyowal kachijilal</p>
+    <p>ta chuxoq</p>
+    <p>xecha' konojel ajawab'</p>
+    <p>ta xe'elik uwab'an jujun chi chinamit</p>
+    <p>k'ulela'y rech ajlab'al</p>
+    <p>ta xepixab'ax k'ut</p>
+    <p>ta xeb'e puch</p>
+    <p>wab'an laq'ab'ey<ref target="quc.n633"><hi rend="sup">633</hi></ref>
+      <note place="foot" xml:id="quc.n633"><seg type="note-symbol">633</seg>
+      La voz <hi rendition="simple:italic">kinlaq'ab'ej</hi> en Coto (1983: CLIV) indica que es "arrimado a pared", "estrenar", "morada". Basseta (2005: 435) indica que es "habitar en alguna parte", "poseyendo o ocupándolo"; "avecindarse".
+      </note>
+    ujuyub'al amaq'</p>
+    <p>chib'ek rumal qajuyub'al chik</p>
+    <p>mixib'ij iwib'</p>
+    <p>uwe k'o chik ajlab'al</p>
+    <p>chul chik iwuk'</p>
+    <p>ta kamisay iwe</p>
+    <p>anim chulib'ij</p>
+    <p>chib'enukamisaj</p>
+    <p>xcha' k'ut <rs ana="K'IKAB'_KQSIETE">Kikab'</rs> chi kech</p>
+    <p>ta xepixab'axik</p>
+    <p>konojel wach ruk' <rs ana="Q'ALEL">q'alel</rs> <rs ana="AJTZIK_WINAQ">atzij</rs><ref target="quc.n634"><hi rend="sup">634</hi></ref>
+      <note place="foot" xml:id="quc.n634"><seg type="note-symbol">634</seg>
+      Por contexto es probable que refiera a <hi rendition="simple:italic"><rs ana="AJTZIK_WINAQ">ajtzij winaq</rs></hi>.
+      </note>
+    <rs ana="AJTZIK_WINAQ">winaq</rs></p>
+    <p>ta xb'e'ije'ik ri uchi' cha</p>
+    <p>uchi' k'a'm chucha'xik.</p>
+    <p>Ta xpaxin rib' umam uqajaw</p>
+    <p>ri ronojel <rs ana="TINAMIT_K'ICHE'">K'eche' winaq</rs></p>
+    <p>k'o pa jujun chi juyub'</p>
+    <p>xa chajal juyub'</p>
+    <p>xa pu chajal cha k'a'm</p>
+    <p>chajal lab'al puch ta xb'ek</p>
+    <p>mana jun ta saqir wi</p>
+    <p>ma nay puch jun ta ukab'awil</p>
+    <p>xa q'atey rij tinamit</p>
+    <p>ta xelik ronojel <rs ana="WILA'">aj uwi' La</rs></p>
+    <p><rs ana="CHULIMAL">aj Chulimal</rs> <rs ana="SAQI_YA">Saqiya'</rs></p>
+    <p><rs ana="XAJBA'KYEJ">Xajb'akyej</rs> <rs ana="CHITEMAJ">chi Temaj</rs></p>
+    <p><rs ana="WAJXALAJUJ">Wajxalajuj</rs><ref target="quc.n635"><hi rend="sup">635</hi></ref>
+      <note place="foot" xml:id="quc.n635"><seg type="note-symbol">635</seg>
+      La forma completa es <hi rendition="simple:italic">waqxaqlajuj</hi> o <hi rendition="simple:italic">wajxaqlajuj</hi>.
+      </note>
+    ruk' chik <rs ana="AJ_KAB'RAQAN">aj Kab'raqan</rs></p>
+    <p><rs ana="CH'ABI_Q'AQ'">Ch'ab'iq'aq'</rs> <rs ana="CHI_JUNAJPU">chi Jun Ajpu</rs> ruk' <rs ana="MAQ'A'">aj Maq'a'</rs>,</p>
+    <p><rs ana="XAYAB'AJ">aj Xayab'aj</rs></p>
+    <p><rs ana="SAQKABAJA">aj Saqkab'aja</rs><ref target="quc.n636"><hi rend="sup">636</hi></ref>
+      <note place="foot" xml:id="quc.n636"><seg type="note-symbol">636</seg>
+      En líneas anteriores aparece como <rs ana="SAQKABAJA">Saqab'aja</rs>.
+      </note>
+    </p>
+    <p><rs ana="SIYAJA">aj Siyaja'</rs></p>
+    <p><rs ana="CHUWI'_MEQ'ENA'">aj Miq'ina'</rs></p>
+    <p><rs ana="XELAJUJ">aj Xelajuj</rs></p>
+    <p>taq'ajal juyub'</p>
+    <p>ri xelik waray lab'al chajal ulew</p>
+    <p>ta xb'ek rumal <rs ana="K'IKAB'_KQSIETE">Kikab'</rs></p>
+    <p><rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
+    <p><rs ana="AJPOP">ajpop</rs></p>
+    <p><rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p><rs ana="Q'ALEL">q'alel</rs> <rs ana="AJTZIK_WINAQ">ajtzik'</rs><ref target="quc.n637"><hi rend="sup">637</hi></ref>
+      <note place="foot" xml:id="quc.n637"><seg type="note-symbol">637</seg>
+      Probablemente sea <hi rendition="simple:italic"><rs ana="Q'ALEL">q'alel</rs> <rs ana="AJTZIK_WINAQ">ajtzij winaq</rs></hi>.
+      </note>
+    <rs ana="AJTZIK_WINAQ">winaq</rs></p>
+    <p>e kajib' chi ajawab' xetaqonik</p>
+    <p>xewaran puch ajlab'al</p>
+    <p><rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs> ub'i' ajaw</p>
+    <p>chuwach <rs ana="KAWEQ">Kawiqib'</rs></p>
+    <p>e ka'ib' <rs ana="KE'EMA">Ke'ma</rs> ub'i' ajaw</p>
+    <p>chuwach <rs ana="NIJA'IB">Nija'ib'</rs></p>
+    <p><rs ana="ACHAQ'_IB'OY">Achaq Ib'oy</rs> k'ut ub'i' ajaw</p>
+    <p>chuwach <rs ana="AJAW_K'ICHE'">Ajaw K'iche'</rs></p>
+    <p>are k'ut kib'i' ajaw ri xetaqowik</p>
+    <p>xesamajelan puch</p>
+    <p>ta xeb'ek kal kik'ajol pa juyub'</p>
+    <p>pa jujun chi juyub'</p>
+    <p>xb'e na k'u nab'e</p>
+    <p>xul na kanab'</p>
+    <p>xul na pu teleche' chuwach <rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
+    <p><rs ana="Q'ALEL">q'alel</rs> <rs ana="AJTZIK_WINAQ">ajtzik' winaq</rs> xkib'an chi wi lab'al</p>
+    <p>ri uchi' cha uchi' k'a'm</p>
+    <p>xekanab' chik</p>
+    <p>xeteleche'n chik</p>
+    <p>e achij xe'ux chik ri e wab'an</p>
+    <p>xeya'ik</p>
+    <p>xek'iyar k'ut</p>
+    <p>qi chi k'ut kik'u'xlal kumal ajawab'</p>
+    <p>ta chulkiya' kikanab' kiteleche' ronojel</p>
+    <p>k'a te k'ut ta xkuch na'oj</p>
+    <p>kumal ajawab'</p>
+    <p><rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p><rs ana="Q'ALEL">q'alel</rs> <rs ana="AJTZIK_WINAQ">ajtzik' winaq</rs></p>
+    <p>ta xel k'u na'oj</p>
+    <p>xa qachapa' kinab'e</p>
+    <p>chik'oje' ta keqalem</p>
+    <p>wachinel chinamit chok wi</p>
+    <p>in <rs ana="AJPOP">ajpop</rs>, in <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p><rs ana="AJPOP">ajpop</rs> chireqalej</p>
+    <p>we chok chi k'u awe</p>
+    <p>at <rs ana="AJAW_Q'ALEL">ajaw q'alel</rs></p>
+    <p><rs ana="AJAW_Q'ALEL">q'alel</rs> riqalem xchuxik</p>
+    <p>xecha' k'ut ronojel ajawab'</p>
+    <p>ta xk'am kina'oj</p>
+    <p>xa wi k'u keje xub'ano <rs ana="TAMUB'">Tamub'</rs>, <rs ana="ILOKAB'">Ilokab'</rs></p>
+    <p>junam wach <rs ana="OXIB_RI_NIM_JA">oxch'ob' chi K'iche'</rs>.</p>
+    <p>Ta xb'an chaponik</p>
+    <p>kikob'isaj unab'e kal kik'ajol</p>
+    <p>keje k'ut uk'amik na'oj</p>
+    <p>ma k'u chi ri' xchap wi <rs ana="TINAMIT_K'ICHE'">K'iche'</rs></p>
+    <p>k'o ub'i' juyub'</p>
+    <p>xchap wi unab'e al k'ajol</p>
+    <p>ta xetaq k'ut</p>
+    <p>ronojel k'o pa jujun chi juyub'</p>
+    <p>xa jun xekuch wi.</p>
+
+    <p xml:id="p138">
+    <!-- editor's note: Corresponds to XOM paragraph 84, folio 53v, line 8 -->
+    <rs ana="XE'_B'ALAX">Xe' B'alax</rs> <rs ana="XE'_K'A'MAQ">Xe' Kamak</rs> ub'i' juyub'</p>
+    <p>xechap wi</p>
+    <p>ta xok kiqalem</p>
+    <p>chi ri' <rs ana="CHULIMAL">Chulimal</rs> xb'an wi.</p>
+    <!-- editor's note: corresponds to XOM paragraph 85, folio 53v, line 11-->
+    <p>Wa' k'ute kikob'ik<ref target="quc.n638"><hi rend="sup">638</hi></ref>
+      <note place="foot" xml:id="quc.n638"><seg type="note-symbol">638</seg>
+      Brasseur (197) indica que la raíz <hi rendition="simple:italic">kob'</hi> se refiere a "esclarecer" y la forma <hi rendition="simple:italic">kob'ij</hi> es "escoger".
+      </note>
+    </p>
+    <p>kichapik</p>
+    <p>ketaxik puch</p>
+    <p>juwinaq <rs ana="Q'ALEL">q'alel</rs></p>
+    <p>juwinaq <rs ana="AJPOP">ajpop</rs> xchapik</p>
+    <p>rumal <rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p>rumal puch q'alel <rs ana="AJTZIK_WINAQ">ajtzik' winaq</rs></p>
+    <p>xok keqalem ronojel <rs ana="Q'ALEL">q'alel</rs> <rs ana="AJPOP">ajpop</rs></p>
+    <p>Julajuj <rs ana="NIMA_CH'OKOJ">Nim Ch'okoj</rs></p>
+    <p><rs ana="Q'ALEL_AJAW">q'alel Ajaw</rs></p>
+    <p><rs ana="Q'ALEL_SAQIK">q'alel Sakik</rs></p>
+    <p><rs ana="Q'ALEL_ACHIJ">uq'alel achij</rs></p>
+    <p><rs ana="RAJPOP_ACHIJ">rajpop achij</rs></p>
+    <p><rs ana="RAJTZ'ALAM_ACHIJ">rajtz'alam achij</rs></p>
+    <p><rs ana="UTZA'M_ACHIJ">utza'm achij</rs> kib'i' achijab' xokik</p>
+    <p>ta xekob'ik</p>
+    <p>xeb'ina'j puch chuwi' kitem</p>
+    <p>chuwi' kich'akat</p>
+    <p>e unab'e ral uk'ajol <rs ana="TINAMIT_K'ICHE'">K'eche' Winaq</rs></p>
+    <p>ilol rech ta'ol rech</p>
+    <p>uchi' cha uchi' k'a'm</p>
+    <p>kejoj tz'apib' tz'alam</p>
+    <p>k'oxtum chi rij <rs ana="TINAMIT_K'ICHE'">k'iche'</rs>.</p>
+    <p>Xa wi k'u keje xub'ano <rs ana="TAMUB'">Tamub'</rs> <rs ana="ILOKAB'">Ilokab'</rs></p>
+    <p>xuchapo xukob'isaj puch unab'e ral uk'ajol</p>
+    <p>k'o pa jujun chi juyub'.</p>
+    <p>Are k'ut uxe'najik <rs ana="Q'ALEL">q'alel</rs> <rs ana="AJPOP">ajpop</rs></p>
+    <p>reqalem pa jujun chi juyub' wakamik</p>
+    <p>keje relik</p>
+    <p>ri ta xe'elik chi rij <rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p>chi rij puch <rs ana="AJTZIK_WINAQ">q'alel ajtzik' winaq</rs> xel wi.</p>
+
+    <p xml:id="p139">
+    <!-- editor's note: Corresponds to XOM paragraph 86, folio 53v, line 34 -->
+    Are k'ut xchiqab'ij chik ub'i' rochoch kab'awil</p>
+    <p>xa wi xere xub'ina'j rochoch</p>
+    <p>ri ub'i' kab'awil</p>
+    <p><rs ana="NIMA'Q_TZ'AQ_TOJIL">Nima'q Tz'aq Tojil</rs> ub'i' tz'aq</p>
+    <p>rochoch <rs ana="TOJIL">Tojil</rs> rech <rs ana="KAWEQ">Kawiqib'</rs></p>
+    <p><rs ana="AWILIX">Awlix</rs> k'ut ub'i' tz'aq</p>
+    <p>rochoch <rs ana="AWILIX">Awilix</rs> rech <rs ana="NIJA'IB">Nija'ib'ab'</rs>.</p>
+    <p><rs ana="JAQAWITZ">Jaqawitz</rs> chi k'ut ub'i' tz'aq</p>
+    <p>rochoch ukab'awil <rs ana="AJAW_K'ICHE'">Ajaw K'iche'</rs></p>
+    <p><rs ana="TZ'UTU_JA">Tz'utuja</rs> kil na</p>
+    <p><rs ana="K'AJB'A_JA">Kajb'aja</rs> ub'i' chik</p>
+    <p>nima'q tz'aq xk'oje' wi ab'aj</p>
+    <p>xq'ijiloxik rumal <rs ana="TINAMIT_K'ICHE'">ajawab' K'iche'</rs></p>
+    <p>q'ijilox puch rumal ronojel amaq'.</p>
+    <p>Chok na uk'atoj amaq'</p>
+    <p>nab'e chuwach ri <rs ana="TOJIL">Tojil</rs></p>
+    <p>k'a te k'ut ta chuq'ijila' chik <rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p>k'a te chulkiya' kiq'uq' kipatan chuwach ajaw</p>
+    <p>are ajaw chik</p>
+    <p>are chi puch kitzuqu'n kiq'o'n <rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
+    <p>xqasan kitinamit</p>
+    <p>e nima'ajawab'</p>
+    <p>e nawal taq winaq</p>
+    <p>nawal ajaw ri <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuja</rs></p>
+    <p>nawal ajaw k'u ri <rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
+    <p>keta'm uwe lab'al chib'anik</p>
+    <p>q'alaj chi kiwach</p>
+    <p>ronojel chikilo</p>
+    <p>uwe kamik uwe wa'ij</p>
+    <p>uwe ch'a'oj chib'anik</p>
+    <p>xax keta'm wi</p>
     <p></p>
     <p></p>
     <p></p>
