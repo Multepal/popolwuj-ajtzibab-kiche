@@ -4937,7 +4937,7 @@
       </note>
     katk'oje' wi chupam pixk<ref target="quc.n367"><hi rend="sup">367</hi></ref>
       <note place="foot" xml:id="quc.n367"><seg type="note-symbol">367</seg>
-      En el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> <!-- editor's note: corresponds to XOM paragraph 35, folio 28r, line 9 -->(Folio 28r, línea 9) está escrito <hi rendition="simple:italic">pixc</hi>, en su forma actualizada <hi rendition="simple:italic">pixk</hi>, <hi rendition="simple:italic">pixk</hi> en este contexto refiere al "árbol de las espigas". Actualmente se dice <hi rendition="simple:italic">pixik'</hi>. 
+      En el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> <!-- editor's note: corresponds to XOM paragraph 35, folio 28r, line 9 -->(Folio 28r, línea 9) está escrito <hi rendition="simple:italic"><rs ana="PIX">pixc</rs></hi>, en su forma actualizada <hi rendition="simple:italic">pixk</hi>, <hi rendition="simple:italic">pixk</hi> en este contexto refiere al "árbol de las espigas". Actualmente se dice <hi rendition="simple:italic">pixik'</hi>. 
       </note>
     </p>  
     <p>xuchax <rs ana="UMUL">umul</rs> rumal <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
@@ -4981,9 +4981,9 @@
     <p>chitanenik</p>
     <p>ta xelik</p>
     <p>jusu k'u xik'ow kik' chuwi' <rs ana="JOM">jom</rs></p>
-    <p>xa jun xa kanab' wi taqal pa pix<ref target="quc.n371"><hi rend="sup">371</hi></ref>
+    <p>xa jun xa kanab' wi taqal <rs ana="PIX">pa pix</rs><ref target="quc.n371"><hi rend="sup">371</hi></ref>
       <note place="foot" xml:id="quc.n371"><seg type="note-symbol">371</seg>
-      En este contexto puede estar relacionado a "tomate". En Poqomchi' es <hi rendition="simple:italic">pixp</hi> para "tomate". <rs ana="XIMENEZ">Ximénez</rs> lo traduce como "tomate".<!-- editor's note: corresponds to XOM paragraph 35, folio 28r, line 29 -->
+      En este contexto puede estar relacionado a "<rs ana="PIX">tomate</rs>". En Poqomchi' es <hi rendition="simple:italic"><rs ana="PIX">pixp</rs></hi> para "<rs ana="PIX">tomate</rs>". <rs ana="XIMENEZ">Ximénez</rs> lo traduce como "<rs ana="PIX">tomate</rs>".<!-- editor's note: corresponds to XOM paragraph 35, folio 28r, line 29 -->
       </note>
     </p> 
     <p>ta xel k'u ri <rs ana="UMUL">umul</rs></p> 
@@ -5000,7 +5000,7 @@
     <p>keki'kot chi k'u kikab'ichal</p>
     <p>are k'ut keb'etzukun na <rs ana="KIK'">kik'</rs></p>
     <p>ri <rs ana="XIB'ALB'A">xib'alb'a</rs></p>
-    <p>k'a te' k'ut xkik'amixtaj chi ri <rs ana="KIK'">kik'</rs> pa pix</p> 
+    <p>k'a te' k'ut xkik'amixtaj chi ri <rs ana="KIK'">kik'</rs> <rs ana="PIX">pa pix</rs></p> 
     <p>ta xesik'in chi k'ut</p>
     <p>kixpetoq</p> 
     <p>wa'e <rs ana="KIK'">kik'</rs> kemixqariqo</p> 
