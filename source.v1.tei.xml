@@ -288,7 +288,7 @@
         </note>
       pa ja' ri juyub'</p>
       <p>jusuk' nima'q juyub' xuxik</p>
-      <p>xa kinawal<ref target="quc.n032"><hi rend="sup">32</hi></ref> 
+      <p>xa <rs ana="NAWAL">kinawal</rs><ref target="quc.n032"><hi rend="sup">32</hi></ref> 
         <note place="foot" xml:id="quc.n032"><seg type="note-symbol">32</seg>
         Indica el arte de utilizar sus capacidades y su pensamiento para crear y formar. 
         </note>
@@ -873,7 +873,7 @@
       <p>kacha' k'u ri'</p>
       <p>xa wi xere usaqetal winaq</p>
       <p>ri xb'utik</p>
-      <p>keje ri nawal<ref target="quc.n081"><hi rend="sup">81</hi></ref>
+      <p>keje ri <rs ana="NAWAL">nawal</rs><ref target="quc.n081"><hi rend="sup">81</hi></ref>
         <note place="foot" xml:id="quc.n081"><seg type="note-symbol">81</seg>
         Seres con capacidades superiores al igual que los que tienen visión cercana y distante llamados <hi rendition="simple:italic">nik'wachinel</hi>.
         </note>
@@ -1280,11 +1280,11 @@
         <note place="foot" xml:id="quc.n118"><seg type="note-symbol">118</seg>
         A partir de aquí hay 10 líneas y media tachadas, a partir de la línea 20 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs>.
         </note></p>
-      <p>Nawal<ref target="quc.n119"><hi rend="sup">119</hi></ref>
+      <p><rs ana="NAWAL">Nawal</rs><ref target="quc.n119"><hi rend="sup">119</hi></ref>
       <note place="foot" xml:id="quc.n119"><seg type="note-symbol">119</seg>
         Abuelos y abuelas dotados de capacidades superiores.
       </note>
-      <rs ana="XMUKANE">ati't</rs> nawal <rs ana="XPIYAKOK">mama'</rs> xb'anowik</p>
+      <rs ana="XMUKANE">ati't</rs> <rs ana="NAWAL">nawal</rs> <rs ana="XPIYAKOK">mama'</rs> xb'anowik</p>
       <p>ta xkik'am k'ut kiq'ab'</p>
       <p>xtikitax ukoq</p>
       <p>utz chik xuxik</p> 
@@ -1733,7 +1733,7 @@
       <p><rs ana="SIPAKNA">unab'e k'ajol</rs> <rs ana="WUQUB'_KAQIX">Wuqub' Kaqix</rs></p>
       <p>chuxe' juyub' <rs ana="ME'AWAN">Me'awan</rs> ub'i'</p>
       <p>xch'akataj wi</p>
-      <p>xa nawal<ref target="quc.n153"><hi rend="sup">153</hi></ref>
+      <p>xa <rs ana="NAWAL">nawal</rs><ref target="quc.n153"><hi rend="sup">153</hi></ref>
         <note place="foot" xml:id="quc.n153"><seg type="note-symbol">153</seg> 
         En este contexto indica "engaño".
         </note>
@@ -3341,7 +3341,7 @@
     <p>kisilaj chik chuq'ab' taq che'</p>
     <p>keje k'ut kich'akatajik <rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs></p>
     <p>kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p> 
-    <p>xa rumal kinawal</p> 
+    <p>xa rumal <rs ana="NAWAL">kinawal</rs></p> 
     <p>ta xkib'ano</p>
     <p>ta xe'opon k'ut chi kochoch</p>
     <p>xecha' k'ut</p> 
@@ -5765,7 +5765,7 @@
     <p>ma nay pu xek'ajolaxik</p>
     <p>rumal ri <rs ana="TZ'AQOL">ajtz'aq</rs> <rs ana="B'ITOL">ajb'it</rs></p>
     <p>ri <rs ana="ALOM">alom</rs> <rs ana="K'AJOLOM">k'ajolom</rs></p>
-    <p>xa pus xa nawal kitz'aqik kib'itik</p>
+    <p>xa pus xa <rs ana="NAWAL">nawal</rs> kitz'aqik kib'itik</p>
     <p>rumal <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs>, <rs ana="ALOM">alom k'ajolom</rs>, <rs ana="TEPEW_Q'UKUMATZ">Tepew Q'ukumatz</rs></p>
     <p>ta xewinaqwachin k'ut</p>
     <p>e winaq xe'uxik</p>
@@ -6227,7 +6227,7 @@
       <p>xa utz'u'mal chikop kikawub'al</p>
       <p>e meb'a'</p>
       <p>maja b'i kech</p>
-      <p>xa e nawal winaq chi kik'oje'ik</p>
+      <p>xa e <rs ana="NAWAL">nawal</rs> winaq chi kik'oje'ik</p>
       <p>ta xepe chi la' <rs ana="TULÁN">Tulan</rs> <rs ana="SUYWA">Suwa'</rs><ref target="quc.n456"><hi rend="sup">456</hi></ref>
         <note place="foot" xml:id="quc.n456"><seg type="note-symbol">456</seg>
         En el folio 36r, línea 14 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra <hi rendition="simple:italic"><rs ana="SUYWA">Suwa</rs></hi>, en otros contextos se registra como <hi rendition="simple:italic"><rs ana="SUYWA">Suywa'</rs></hi> por lo que también debe ser <hi rendition="simple:italic"><rs ana="SUYWA">Su(y)wa'</rs></hi>.
@@ -6854,7 +6854,7 @@
     <p>kech'aw nab'ek ri <rs ana="TOJIL">Tojil</rs>, <rs ana="AWILIX">Awilix</rs>, <rs ana="JAQAWITZ">Jaqawitz</rs></p>
     <p>nim kiq'ij nim puch kab' kuxlab'</p>
     <p>chuwi' ronojel ukab'awil amaq'</p>
-    <p>tzatz kinawal tzatz puch kib'inib'al kichakab'al</p>
+    <p>tzatz <rs ana="NAWAL">kinawal</rs> tzatz puch kib'inib'al kichakab'al</p>
     <p>chitewnik<ref target="quc.n507"><hi rend="sup">507</hi></ref>
       <note place="foot" xml:id="quc.n507"><seg type="note-symbol">507</seg> 
       En Basseta (2005: 497) <hi rendition="simple:italic">tewrik</hi> es "pararse hierto", "helado", "asombrado de miedo". 
@@ -7096,7 +7096,7 @@
     <p>xek'amowan chik chuwach chi re usaqirik</p>
     <p>e k'u wonowoj chik chi ab'ajil</p>
     <p>chi ri' pa k'eche'laj</p>
-    <p>xaqi nawalwach chik xch'awik</p>
+    <p>xaqi <rs ana="NAWAL">nawalwach</rs> chik xch'awik</p>
     <p>ta xe'opon ri <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> <rs ana="XA_Q'ANA_JAL">ajkajb'</rs> chuwach ri <rs ana="TOJIL">Tojil</rs></p>
     <p>ma k'u nim ri kuk'a'm kik'atoj puch</p>
     <p>xa <rs ana="Q'OL">q'ol</rs> xa rachaq <rs ana="NOJ">noj</rs><ref target="quc.n523"><hi rend="sup">523</hi></ref>
@@ -7110,7 +7110,7 @@
       En el folio 41v, línea 17 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra <hi rendition="simple:italic">xch'ao</hi>. En su transcripción se deja como <hi rendition="simple:italic">xch'aw</hi> que es la forma actual como se registra.
       </note>
     k'ut ri <rs ana="TOJIL">Tojil</rs></p>
-    <p>xa unawal chik</p>
+    <p>xa <rs ana="NAWAL">unawal</rs> chik</p>
     <p>ta xya' uloq kina'oj ri e <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> e <rs ana="XA_Q'ANA_JAL">ajkajb'</rs>.</p>
     <p>Xecha'</p>
     <p>ta xech'awik</p>
@@ -7381,7 +7381,7 @@
     <p>xkolo k'ut kik'ajol chi ri' chuwi' juyub'.</p>
     <p>Are <rs ana="TOJIL">Tojil</rs>, <rs ana="AWILIX">Awlix</rs>, <rs ana="JAQAWITZ">Jaqawitz</rs></p>
     <p>oxib' chi k'ajolab' kiwachib'al keb'inik</p>
-    <p>xa unawal ri ab'aj</p>
+    <p>xa <rs ana="NAWAL">unawal</rs> ri ab'aj</p>
     <p>xk'oje' jun ja'.</p>
     <p>Are ke'atin wi</p>
     <p>chi ri' chuchi' ja'</p>
@@ -7577,7 +7577,7 @@
     <p>xecha' k'u ri <rs ana="IXTAJ_IXPUCH'">e ka'ib' q'apojib'</rs></p>
     <p>ta xkisuk'ub'a' kitaqikil</p>
     <p>are ta k'u xkaj ri amaq'</p>
-    <p>xejox ta ri q'apojib' rumal kinawal <rs ana="TOJIL">Tojil</rs></p>
+    <p>xejox ta ri q'apojib' rumal <rs ana="NAWAL">kinawal</rs> <rs ana="TOJIL">Tojil</rs></p>
     <p>xecha' k'u ri <rs ana="TOJIL">Tojil</rs>, <rs ana="AWILIX">Awlix</rs>, <rs ana="JAQAWITZ">Jaqawitz</rs></p>
     <p>ta xech'awik chik chi kech ri <rs ana="IXTAJ">Xtaj</rs></p>
     <p><rs ana="IXPUCH'">Xpuch</rs> kib'i' re <rs ana="IXTAJ_IXPUCH'">e ka'ib' q'apojib'</rs>.</p>
@@ -7704,7 +7704,7 @@
     <p>e ta joxol ch'ek xe'uxik chuk'u'x amaq'</p>
     <p>taqchib'al ta ke xuxik.</p>
     <p>Ma k'u xb'anatajik kich'akatajik</p>
-    <p>rumal e nawal winaq ri <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>, <rs ana="MAJUK'UTAJ">Majukutaj</rs></p>
+    <p>rumal e <rs ana="NAWAL">nawal</rs> winaq ri <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs>, <rs ana="MAJUK'UTAJ">Majukutaj</rs></p>
     <p>ta xena'ojin chi k'ut ronojel amaq'</p>
     <p>naqi pa kequch'aj</p>
     <p>qitzij nim kik'oje'ik</p>
@@ -8410,7 +8410,7 @@
     <p>ta xtikarik upokob'axik tinamit <rs ana="CHI_ISMACHI">chi Ismachi'</rs></p>
     <p>chi la' xtikar wi uxe'najik q'aq'al</p>
     <p>rumal ri xax nim wi rajawarem <rs ana="KAWEQ">K'iche' ajaw</rs></p>
-    <p>jumaj e nawal ajawab'</p>
+    <p>jumaj e <rs ana="NAWAL">nawal</rs> ajawab'</p>
     <p>xma k'o wi kiyoq'otaj wi</p>
     <p>xma k'o wi alachinaq chok chi ke</p>
     <p>xa wi b'anol rech nimal ajawarem</p>
@@ -8649,9 +8649,9 @@
     Mana xa ta qi</p> 
     <p>keje xulkiya' kib' ronojel amaq'</p>
     <p>k'a lab'al k'ut xqaj wi usiwan utinamit</p>
-    <p>k'a rumal kinawal ajawab' xeq'aq'arik</p>
+    <p>k'a rumal <rs ana="NAWAL">kinawal</rs> ajawab' xeq'aq'arik</p>
     <p>ri <rs ana="Q'UKUMATZ_KQCINCO">Ajaw Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">Ajaw K'otuja</rs></p>
-    <p>qitzij chi nawal ajaw ri <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> xuxik</p>
+    <p>qitzij chi <rs ana="NAWAL">nawal</rs> ajaw ri <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> xuxik</p>
     <p>juwuq chaq'an chi kaj</p>
     <p>juwuq k'ut chib'e'ub'ana' qajoq chi <rs ana="XIB'ALB'A">Xib'alb'a</rs></p>
     <p>juwuq chi k'ut chik'oje' chi <rs ana="KUMATZ">kumatzil</rs></p>
@@ -8661,11 +8661,11 @@
     <p>qitzij wi chi <rs ana="K'OTAL">kot</rs> chi <rs ana="B'ALAM">b'alam</rs> uwachib'al chuxik</p>
     <p>juwuq chik chi remelik chik <rs ana="KIK'">kik'el</rs></p>
     <p>utukel remanik <rs ana="KIK'">kik'</rs> chuxik.</p>
-    <p>Qitzij chi nawal ajaw uk'oje'ik</p>
+    <p>Qitzij chi <rs ana="NAWAL">nawal</rs> ajaw uk'oje'ik</p>
     <p>xib'ixib' chuwach rumal ronojel ajawab'</p>
     <p>xpaxin rib' uta'ik</p>
     <p>xuta' ronojel ajawab' amaq'</p>
-    <p>uk'oje'ik nawal ajaw</p>
+    <p>uk'oje'ik <rs ana="NAWAL">nawal</rs> ajaw</p>
     <p>are k'ut utikarik unimarik puch <rs ana="TINAMIT_K'ICHE'">K'iche'</rs></p>
     <p>ta xub'an ajaw <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> retal nimal</p>
     <p>xma sachel uwach umam uk'ajol chuk'u'x</p>
@@ -8675,12 +8675,12 @@
       </note>
     xb'an wi</p>
     <p>ri xk'oje' ta jun ajaw</p>
-    <p>nawal ta uk'oje'ik</p>
+    <p><rs ana="NAWAL">nawal</rs> ta uk'oje'ik</p>
     <p>xa yoq'b'al rech ronojel amaq'</p>
     <p>ta xub'ano xa uk'utb'al rib'</p>
     <p>rumal xere juk'isik ujolom amaq'</p>
     <p>xuxik ukajle ajaw</p>
-    <p>ri nawal ajaw <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> ub'i'</p>
+    <p>ri <rs ana="NAWAL">nawal</rs> ajaw <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> ub'i'</p>
     <p>xa wi xare <rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
     <p>xkanaj chi k'ut ketal kitzijel</p>
     <p>xeq'aq'arik xetepewar puch</p>
@@ -8701,7 +8701,7 @@
     <p><rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs> ub'i' jun chik.</p>
     <p>Are k'ut tzatz chik xub'an ri <rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
     <p>are chi xnimarisan <rs ana="TINAMIT_K'ICHE'">K'iche'</rs></p>
-    <p>rumal qitzij nawal uk'oje'ik</p>
+    <p>rumal qitzij <rs ana="NAWAL">nawal</rs> uk'oje'ik</p>
     <p>are q'ajowik</p>
     <p>are puch xpaxinik usiwan utinamit </p>
     <p>ch'uti'amaq' nima'amaq'</p>
@@ -9000,9 +9000,9 @@
     <p>are chi puch kitzuqu'n kiq'o'n <rs ana="AJPOP">ajpop</rs>, <rs ana="AJPOP_K'AMJA">ajpop q'amja</rs></p>
     <p>xqasan kitinamit</p>
     <p>e nima'ajawab'</p>
-    <p>e nawal taq winaq</p>
-    <p>nawal ajaw ri <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuja</rs></p>
-    <p>nawal ajaw k'u ri <rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
+    <p>e <rs ana="NAWAL">nawal</rs> taq winaq</p>
+    <p><rs ana="NAWAL">nawal</rs> ajaw ri <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuja</rs></p>
+    <p><rs ana="NAWAL">nawal</rs> ajaw k'u ri <rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
     <p>keta'm uwe lab'al chib'anik</p>
     <p>q'alaj chi kiwach</p>
     <p>ronojel chikilo</p>
@@ -9194,7 +9194,7 @@
     <p>raqan tu'ik raqan chi k'wa'l chi yamanik</p>
     <p>xul puch raxon</p>
     <p>k'ub'ul ch'aktik upatan ronojel amaq'</p>
-    <p>xul chi kiwach nawal ajawab' <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuj</rs><ref target="quc.n657"><hi rend="sup">657</hi></ref>
+    <p>xul chi kiwach <rs ana="NAWAL">nawal</rs> ajawab' <rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuj</rs><ref target="quc.n657"><hi rend="sup">657</hi></ref>
       <note place="foot" xml:id="quc.n657"><seg type="note-symbol">657</seg>
       En el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra como <hi rendition="simple:italic"><rs ana="K'OTUJA_KQCINCO">K'otuj</rs></hi>. Por otros contextos se considera que es <hi rendition="simple:italic"><rs ana="K'OTUJA_KQCINCO">K'otuja</rs></hi>. 
       </note>
@@ -9247,7 +9247,7 @@
     <p><rs ana="B'ALAM_K'ONACHE'_KQTRES">B'alam K'onache'</rs> xtikib'an <rs ana="AJPOP">ajpopol</rs></p>
     <p>roxle k'u ri'</p>
     <p><rs ana="K'OTUJA_KQCUATRO">K'otuja</rs> <rs ana="ISTAYUL_KQCUATRO">Stayub'</rs> ukajle</p>
-    <p><rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuja</rs> uxe' nawal ajaw</p>
+    <p><rs ana="Q'UKUMATZ_KQCINCO">Q'ukumatz</rs> <rs ana="K'OTUJA_KQCINCO">K'otuja</rs> uxe' <rs ana="NAWAL">nawal</rs> ajaw</p>
     <p>ro'le xk'oje' wi</p>
     <p><rs ana="TEPEPUL_KQSEIS">Tepepel</rs> <rs ana="ISTAYUL_KQSEIS">Stayul</rs> chik uwaq tas</p>
     <p><rs ana="K'IKAB'_KQSIETE">Kikab'</rs> <rs ana="KAWISIMAJ_KQSIETE">Kawisimaj</rs></p>
@@ -9255,7 +9255,7 @@
       <note place="foot" xml:id="quc.n659"><seg type="note-symbol">659</seg>
       Mondloch y Carmack (2018: 244) lo transcriben como <hi rendition="simple:italic">uwuq jal</hi>, sin embargo, en el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> (folio 55v, línea 3) aparece como <hi rendition="simple:italic">uuc hal</hi>, que Ajtz'ib'ab' transcriben como <hi rendition="simple:italic">wuq jal</hi>.
       </note>
-    ajawarem nawal chi wi</p>
+    ajawarem <rs ana="NAWAL">nawal</rs> chi wi</p>
     <p><rs ana="TEPEPUL_KQOCHO">Tepepul</rs> <rs ana="ISTAYUL_KQOCHO">Xtayub'</rs> chik</p>
     <p>uwajxaqle <rs ana="TEKUM_KQNUEVE">Tekum</rs></p>
     <p><rs ana="TEPEPUL_KQNUEVE">Tepepul</rs> ub'elejle</p>
