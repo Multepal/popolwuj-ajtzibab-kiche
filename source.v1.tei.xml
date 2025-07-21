@@ -153,7 +153,7 @@
       jun winaq,</p>
       <p>jun chikop <rs ana="TZ'IKIN">tz'ikin</rs>,</p>
       <p><rs ana="KAR">kar</rs> <rs ana="TAP">tap</rs>,</p>
-      <p>che' ab'aj,</p>
+      <p><rs ana="CHE'">che'</rs> ab'aj,</p>
       <p>jul siwan,</p>
       <p>k'im k'iche'laj</p>
       <p>xa utukel kaj k'olik.</p>
@@ -214,7 +214,7 @@
         </note>
       saq</p>
       <p>ta xq'alaj puch winaq</p>
-      <p>ta xkina'ojij utz'ukik uwinaqirik che' k'a'm</p>
+      <p>ta xkina'ojij utz'ukik uwinaqirik <rs ana="CHE'">che'</rs> k'a'm</p>
       <p>utz'ukukik puch k'aslem winaqirem</p>
       <p>chi q'equ'mal chi aq'ab'al</p>
       <p>rumal ri <rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> <rs ana="JUN_RAQAN">Jun Raqan</rs><ref target="quc.n022"><hi rend="sup">22</hi></ref>
@@ -2894,22 +2894,22 @@
       <p>are chik'at chuwach</p>
       <p>ma wi are ri k'u'x chik'at chuwach</p>
       <p>ta chuxoq.</p>
-      <p>Chikojo ri uwach che'</p>
+      <p>Chikojo ri uwach <rs ana="CH'U'J_KAQ_CHE'">che'</rs></p>
       <p>cha'<ref target="quc.n245"><hi rend="sup">245</hi></ref>
         <note place="foot" xml:id="quc.n245"><seg type="note-symbol">245</seg>
         Debería leerse <hi rendition="simple:italic">xcha'</hi>.
         </note>
       k'ut ri <rs ana="IXKIK'">q'apoj</rs></p>
-      <p>kaq k'ut uwa'l ri che' xelik</p> 
+      <p>kaq k'ut uwa'l ri <rs ana="CH'U'J_KAQ_CHE'">che'</rs> xelik</p> 
       <p>xk'ul pa sel</p>
       <p>k'a te puch xuwon rib'</p> 
       <p>k'olok'ik xuxik</p>
       <p>uk'exel uk'u'x</p>
-      <p>ta yitz' chi k'ut uwa'l kaq che'</p>
-      <p>keje ri <rs ana="KIK'">kik'</rs> uwa'l che'</p>
+      <p>ta yitz' chi k'ut uwa'l <rs ana="CH'U'J_KAQ_CHE'">kaq che'</rs></p>
+      <p>keje ri <rs ana="KIK'">kik'</rs> uwa'l <rs ana="CH'U'J_KAQ_CHE'">che'</rs></p>
       <p>xelik uk'exel <rs ana="KIK'">ukik'el</rs></p>
       <p>ta xuk'olo chi la' ri <rs ana="KIK'">kik'</rs></p>
-      <p>chupam ri uwa'l kaq che'</p>
+      <p>chupam ri uwa'l <rs ana="CH'U'J_KAQ_CHE'">kaq che'</rs></p>
       <p>keje k'u ri <rs ana="KIK'">kik'</rs> rij xuxik</p>  
       <p>kaqlujluj chik</p>
       <p>k'olom chi pa sel</p>
@@ -2917,8 +2917,8 @@
         <note place="foot" xml:id="quc.n246"><seg type="note-symbol">246</seg>
         La voz <hi rendition="simple:italic">Xkop</hi> quiere decir "endurecer" en Tz'utujil San Juan.
         </note>
-      k'ut che' rumal <rs ana="IXKIK'">q'apoj</rs>.</p>
-      <p>Ch'u'j kaq che' chuchaxik.</p>
+      k'ut <rs ana="CH'U'J_KAQ_CHE'">che'</rs> rumal <rs ana="IXKIK'">q'apoj</rs>.</p>
+      <p><rs ana="CH'U'J_KAQ_CHE'">Ch'u'j kaq che'</rs> chuchaxik.</p>
 
     <p xml:id="p057">
     <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM paragraph 22, folio 17r, line 1-->
@@ -3263,9 +3263,9 @@
     <p>rumal maja b'i chi <rs ana="TZ'IKIN">tz'ikin</rs> iwuk'a'm</p>
     <p>xe'uchax k'ut ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
     <p>are wi <rs ana="IXMUKANE">ix qati't</rs></p>
-    <p>xa mixetanatob' <rs ana="TZ'IKIN">qatz'ikin</rs> chuwi' che'</p> 
+    <p>xa mixetanatob' <rs ana="TZ'IKIN">qatz'ikin</rs> chuwi' <rs ana="CHE'">che'</rs></p> 
     <p>xcha' k'ut</p>
-    <p>ma k'u ja b'i chaq'an chwi' che' chi</p>
+    <p>ma k'u ja b'i chaq'an chwi' <rs ana="CHE'">che'</rs> chi</p>
     <p>qech <rs ana="IXMUKANE">ix qati't</rs></p>
     <p>chiqaj ta pu ri <rs ana="JUN_B'ATZ'_JUN_CHOWEN">qatz</rs></p> 
     <p>keb'e ta quk'</p>
@@ -3288,17 +3288,17 @@
     <p>keje k'ut keqach'ak wi</p>
     <p>xa retal chiqab'ano</p> 
     <p>xecha' chi kib'il kib'</p>
-    <p>ta xeb'e k'ut chi la' chuxe' che'</p>
+    <p>ta xeb'e k'ut chi la' chuxe' <rs ana="CHE'">che'</rs>-b</p>
     <p>q'ante' ub'i'</p>
     <p>kachb'ilan k'u ri <rs ana="JUN_B'ATZ'_JUN_CHOWEN">katz</rs></p>
     <p>ta xeb'ek</p>
     <p>xkitik'ib'a' chi k'ut <rs ana="WUB">wub'anik</rs></p>
-    <p>ma wi ajilan chi <rs ana="TZ'IKIN">tz'ikin</rs> chuwi' che'</p> 
+    <p>ma wi ajilan chi <rs ana="TZ'IKIN">tz'ikin</rs> chuwi' <rs ana="CHE'">che'</rs></p> 
     <p>kech'ititik</p>
     <p>xemayjan k'ut ri <rs ana="JUN_B'ATZ'_JUN_CHOWEN">katz</rs></p>
     <p>ta xkil ri <rs ana="TZ'IKIN">tz'ikin</rs></p>
     <p>are k'u ri <rs ana="TZ'IKIN">tz'ikin</rs> maja b'i junoq</p>
-    <p>xqaj uloq chuxe' che'</p>
+    <p>xqaj uloq chuxe' <rs ana="CHE'">che'</rs></p>
     <p>ri <rs ana="TZ'IKIN">qatz'ikin</rs> e ma wi keqaj uloq</p>
     <p>xa jixqasaj uloq</p>
     <p>xecha k'ut chi re <rs ana="JUN_B'ATZ'_JUN_CHOWEN">katz</rs>.</p>
@@ -3307,13 +3307,13 @@
     <!-- editor's note: corresponds to XOM paragraph 25, folio 19r, line 1-->
     Utz b'a la'</p> 
     <p>xecha' k'ut.</p>
-    <p>K'a te puch xe'aq'anik chuwi' che'</p>
-    <p>xnimar k'ut ri che'</p> 
+    <p>K'a te puch xe'aq'anik chuwi' <rs ana="CHE'">che'</rs></p>
+    <p>xnimar k'ut ri <rs ana="CHE'">che'</rs></p> 
     <p>xsipoj upam</p>
     <p>k'a te k'ut xerajqaj uloq</p>
-    <p>ma k'u utz chik kiqajik uloq chuwi che'</p>
+    <p>ma k'u utz chik kiqajik uloq chuwi <rs ana="CHE'">che'</rs></p>
     <p><rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs></p>
-    <p>xecha' k'u uloq chuwi' che'</p>
+    <p>xecha' k'u uloq chuwi' <rs ana="CHE'">che'</rs></p>
     <p>jupacha kojuchanik<ref target="quc.n270"><hi rend="sup">270</hi></ref>
       <note place="foot" xml:id="quc.n270"><seg type="note-symbol">270</seg>
       En Tz'utujil en el contexto ceremonial <hi rendition="simple:italic">kojuchanik</hi> significa "cambio". Al parecer <rs ana="JUN_B'ATZ'_JUN_CHOWEN">Jun B'atz' Jun Chowen</rs> preguntan porqué nos convirtieron de esta forma, ¿Porque nos cambiaron de parecer?
@@ -3321,9 +3321,9 @@
     </p>
     <p><rs ana="KA'IB'_K'AJOLAB'">ix qachaq'</rs></p>
     <p>toq'ob' <rs ana="KA'IB'_K'AJOLAB'">qawach</rs></p>
-    <p>are ri che' kaxib'in chik</p> 
+    <p>are ri <rs ana="CHE'">che'</rs> kaxib'in chik</p> 
     <p>kaqilo <rs ana="KA'IB'_K'AJOLAB'">ix qachaq'</rs></p> 
-    <p>xecha' uloq chuwi' che'</p>
+    <p>xecha' uloq chuwi' <rs ana="CHE'">che'</rs></p>
     <p>xecha' k'u ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
     <p>chikira' iwex</p> 
     <p>chixima' xe' ipam</p>
@@ -3334,11 +3334,11 @@
     <p>ta xkijurub'a' k'ut utza'm kito'q</p>
     <p>xa pu jusu kije' chi xuxik</p>
     <p>xa <rs ana="K'OY">k'oy</rs> xkiwachib'ej chik</p>
-    <p>k'a te k'ut xeb'e chuwi' taq che'</p>
+    <p>k'a te k'ut xeb'e chuwi' taq <rs ana="CHE'">che'</rs></p>
     <p>ch'utijuyub' nimajuyub'</p>
     <p>xeb'ek pa taq k'ichelaj</p>
     <p>kewojon chik</p>
-    <p>kisilaj chik chuq'ab' taq che'</p>
+    <p>kisilaj chik chuq'ab' taq <rs ana="CHE'">che'</rs></p>
     <p>keje k'ut kich'akatajik <rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs></p>
     <p>kumal <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p> 
     <p>xa rumal <rs ana="NAWAL">kinawal</rs></p> 
@@ -3543,10 +3543,10 @@
     ulew</p> 
     <p>xa k'u qi chitajin ri <rs ana="MIXKINA">mixkina'</rs> pu ulew</p>
     <p>ma k'u qi chitajin ri <rs ana="MIXKINA">mixkina'</rs> chutukel</p> 
-    <p>are k'u ri <rs ana="IKAJ">ikaj</rs> xa wi chi kich'ikib'a' chutolok' che'</p>
-    <p>xa wi chuq'ab' rib' che' chib'ek</p>
-    <p>chilajajik chib'ek ronojel che' k'a'm</p> 
-    <p>q'aq' chakachoj chik chi q'atoj che'</p>
+    <p>are k'u ri <rs ana="IKAJ">ikaj</rs> xa wi chi kich'ikib'a' chutolok' <rs ana="CHE'">che'</rs></p>
+    <p>xa wi chuq'ab' rib' <rs ana="CHE'">che'</rs> chib'ek</p>
+    <p>chilajajik chib'ek ronojel <rs ana="CHE'">che'</rs> k'a'm</p> 
+    <p>q'aq' chakachoj chik chi q'atoj <rs ana="CHE'">che'</rs></p>
     <p>chub'an ri xa <rs ana="IKAJ">juna'ikaj</rs></p>
     <p>are k'u ri <rs ana="MIXKINA">mixkina'</rs> tzatz chi q'upuj</p>
     <p>ma wi ajilam tum<ref target="quc.n284"><hi rend="sup">284</hi></ref>
@@ -3598,8 +3598,8 @@
       <note place="foot" xml:id="quc.n288"><seg type="note-symbol">288</seg>
       Refiere a "la abertura que tiene el cabo del azadón, hacha u otro donde se pone una cuña para asegurar la fijación del instrumento".
       </note>
-    che' pujolom</p>
-    <p>keje wi ri qitzij q'atoj che'nel</p>
+    <rs ana="CHE'">che'</rs> pujolom</p>
+    <p>keje wi ri qitzij q'atoj <rs ana="CHE'">che'nel</rs></p>
     <p>ta xil rumal <rs ana="IXMUKANE">kati't</rs></p> 
     <p>k'a te k'ut <rs ana="WA">kewa'ik</rs></p>
     <p>ma qitzij <rs ana="AB'IX">ab'ixik</rs> chikib'ano</p>
@@ -3611,7 +3611,7 @@
     <p>xa loq' chikikikij kij chikiyuq puch kaqan kiq'ab' chuwach <rs ana="IXMUKANE">kati't</rs></p>
     <p>ta xeb'e chi k'ut chukaq'ij</p>
     <p>xe'opon k'ut pa <rs ana="AB'IX">kab'ix</rs></p>
-    <p>k'isyakatajinaq chik ronojel che' k'a'm</p>
+    <p>k'isyakatajinaq chik ronojel <rs ana="CHE'">che'</rs> k'a'm</p>
     <p>uchapom chi rib' ronojel tun<ref target="quc.n289"><hi rend="sup">289</hi></ref>
       <note place="foot" xml:id="quc.n289"><seg type="note-symbol">289</seg>
       La palabra <hi rendition="simple:italic">Tun</hi> varía con <hi rendition="simple:italic">tum</hi>, el significado no cambia.
@@ -3628,9 +3628,9 @@
     <p>are xeb'anowik</p>
     <p>xa jun aq'ab' xkib'ano</p>
     <p>k'a te chi k'ut xkitikib'a' chik <rs ana="AB'IX">ab'ixik</rs>.</p>
-    <p>Xa wi xub'an chi rib' ulew ruk' q'atoj che'</p>
+    <p>Xa wi xub'an chi rib' ulew ruk' q'atoj <rs ana="CHE'">che'</rs></p>
     <p>ta xk'am chi k'u kina'oj chi ri'</p>
-    <p>pa q'atoj che' pa q'upuj puch</p>
+    <p>pa q'atoj <rs ana="CHE'">che'</rs> pa q'upuj puch</p>
     <p>xa qawaraj ri <rs ana="AB'IX">qab'ix</rs></p>
     <p>a na wi china kab'ano ulo</p>
     <p>la kita' chiqariqo</p>
@@ -3652,7 +3652,7 @@
     <p>rumal ma wi utz kab'an chi qe</p> 
     <p>xecha'</p>
     <p>k'a te k'ut xeb'atz'onik</p>
-    <p>k'a te k'ut kib'ik chik pa kiq'atoj che'</p>
+    <p>k'a te k'ut kib'ik chik pa kiq'atoj <rs ana="CHE'">che'</rs></p>
     <p>chi ri' k'ut xematzeje' wi</p>
     <p>e muqumuxinaq chik chi ri'</p>
     <p>ta xekuchu k'u kib' ronojel chikop</p>
@@ -3662,10 +3662,10 @@
     <p>ta xepetik</p>
     <p>xech'awije'ik konojel</p>
     <p>ta xepetik</p>
-    <p>are kich'ab'al ri yaklin che' yaklin k'a'm</p> 
+    <p>are kich'ab'al ri yaklin <rs ana="CHE'">che'</rs> yaklin k'a'm</p> 
     <p>xecha'</p>
     <p>ta xepetik</p>
-    <p>keneb'eb'ik xe' che' xe' k'a'm</p>
+    <p>keneb'eb'ik xe' <rs ana="CHE'">che'</rs> xe' k'a'm</p>
     <p>ta xeyopijik</p> 
     <p>ta xek'utun k'u chi kiwach</p>
     <p>are k'ut unab'e ri <rs ana="KOJ">koj</rs> <rs ana="B'ALAM">b'alam</rs></p>
@@ -4204,7 +4204,7 @@
     <p>xuchaxik ri <rs ana="XA'N">xa'n</rs></p>
     <p>utz b'a la' xcha' ri <rs ana="XA'N">xa'n</rs></p>
     <p>ta xok pa <rs ana="Q'EQA_B'E">q'eqab'e</rs></p> 
-    <p>tak'al k'u chi rij ri poy ajam che'</p>
+    <p>tak'al k'u chi rij ri poy ajam <rs ana="CHE'">che'</rs></p>
     <p>nab'e ku'lel e kawtalik<ref target="quc.n321"><hi rend="sup">321</hi></ref>
       <note place="foot" xml:id="quc.n321"><seg type="note-symbol">321</seg>
       "Completar la picadura a todos". Hoy en día se dice <hi rendition="simple:italic">chatz'aqatisaj</hi>.
@@ -4317,7 +4317,7 @@
     <p>xcha ri kub'ulik</p>
     <p>xcha jun taqchi'nel</p>
     <p>ma wi are <rs ana="RAJAWAL_XIB'ALB'A">ajaw</rs> ri'</p>
-    <p>xa poy ajam che' ri'</p>
+    <p>xa poy ajam <rs ana="CHE'">che'</rs> ri'</p>
     <p>xecha'</p>
     <p>ta xe'oponik</p>
     <p>k'a te k'ut ta xeq'alaynik<ref target="quc.n327"><hi rend="sup">327</hi></ref>
@@ -4395,7 +4395,7 @@
     <p>ma k'u xkitzij ri chaj</p>
     <p>xa q'aq'aj<ref target="quc.n331"><hi rend="sup">331</hi></ref>
       <note place="foot" xml:id="quc.n331"><seg type="note-symbol">331</seg>
-      Sam Colop (1999: 96) lo deja como <hi rendition="simple:italic">kaqaj</hi> conforme al folio 24v, línea 47 en el manuscrito K'iche' manuscrito K'iche' de <rs ana="XIMENEZ">Ximénez</rs><!-- editor's note: corresponds to XOM paragraph 31, folio 24v, line 47-->. Pero se considera que refiere a "luz", "claridad", "alumbramiento". Por su contexto es sustituto del fuego. En Tz'utujil es un tipo de calor que provoca mal de ojo a la persona.
+      Sam Colop (1999: 96) lo deja como <hi rendition="simple:italic">kaqaj</hi> conforme al folio 24v, línea 47 en el manuscrito K'iche' de <rs ana="XIMENEZ">Ximénez</rs><!-- editor's note: corresponds to XOM paragraph 31, folio 24v, line 47-->. Pero se considera que refiere a "luz", "claridad", "alumbramiento". Por su contexto es sustituto del fuego. En Tz'utujil es un tipo de calor que provoca mal de ojo a la persona.
       </note>
     uk'exwach xokik</p>
     <p>are uje' kaqix</p>
@@ -4589,7 +4589,7 @@
     <p>maja b'i chiwaraj jun aq'ab'</p>
     <p>utz b'a la' xecha k'ut</p>
     <p>ma k'u xkina' ri chajal tiko'n</p>
-    <p>xa loq' chikiraquj kichi' chuq'ab' taq che' tiko'n puch.</p>
+    <p>xa loq' chikiraquj kichi' chuq'ab' taq <rs ana="CHE'">che'</rs> tiko'n puch.</p>
     
     <p xml:id="p082">
     <!-- editor's note: corresponds to XOM paragraph 31, folio 26r, line 16-->
@@ -4608,8 +4608,8 @@
       Quiere decir "retoño".
       </note>
     <rs ana="KOTZ'I'J">kotz'i'j</rs></p>
-    <p>ri kab'eq'atowa uloq <rs ana="KOTZ'I'J">kotz'i'j</rs> chuwi' che'</p>
-    <p>re kasik'ow kuk' chuxe' che'</p> 
+    <p>ri kab'eq'atowa uloq <rs ana="KOTZ'I'J">kotz'i'j</rs> chuwi' <rs ana="CHE'">che'</rs></p>
+    <p>re kasik'ow kuk' chuxe' <rs ana="CHE'">che'</rs></p> 
     <p>ri <rs ana="KOTZ'I'J">kotz'i'j</rs></p>
     <p>xa keje chikiraquj kichi' ri chajal ib'</p>
     <p>mana re kakina'o qak'ux kije' qak'ux kixik'</p>
@@ -5067,7 +5067,7 @@
     <p>xa wi xere chik chik'astaj kiwach</p> 
     <p>kixcha'</p>
     <p>we b'a are utz</p>
-    <p>xa chiqaxekeb'a' chuwi' che'</p>
+    <p>xa chiqaxekeb'a' chuwi' <rs ana="CHE'">che'</rs></p>
     <p>ta kecha' chik chi we</p>
     <p>xax ma utz wi</p>
     <p>xa wi xere chiwil chi kiwach</p>
@@ -5078,7 +5078,7 @@
     <p>we k'ut kixuchax chik kumal</p>
     <p>are utz b'a la' kekamik</p>
     <p>k'a te' k'u utz chijok' <rs ana="B'AQ_HUESO">kib'aqil</rs> chuwach ab'aj</p>
-    <p>keje' ri chike'x k'ajim <rs ana="JAL">jal</rs></p>
+    <p>keje' ri chike'x <rs ana="K'AJIM_JAL"> k'ajim jal</rs></p>
     <p>jujunal k'u chike'ik</p>
     <p>k'a te' k'u chitix ub'ik chi raqana'<ref target="quc.n374"><hi rend="sup">374</hi></ref>
       <note place="foot" xml:id="quc.n374"><seg type="note-symbol">374</seg>
@@ -5291,7 +5291,7 @@
     <p>xe'uchaxik</p>
     <p>ma b'a qeta'on<ref target="quc.n392"><hi rend="sup">392</hi></ref>
       <note place="foot" xml:id="quc.n392"><seg type="note-symbol">392</seg>
-      En el manuscrito K'iche' K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> dice <hi rendition="simple:italic">quetaon</hi>, que se transcribe como <hi rendition="simple:italic">qeta'on</hi>. Sin embargo, Mondloch y Carmack (2018: 146) cuando la transcriben la modifican a <hi rendition="simple:italic">qeta'am</hi>.
+      En el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> dice <hi rendition="simple:italic">quetaon</hi>, que se transcribe como <hi rendition="simple:italic">qeta'on</hi>. Sin embargo, Mondloch y Carmack (2018: 146) cuando la transcriben la modifican a <hi rendition="simple:italic">qeta'am</hi>.
       </note>
     at <rs ana="JUN_KAME_WUQUB'_KAME">ajaw</rs></p>
     <p>ma wi xqeta'maj uwach <rs ana="IXKIK'">qachuch</rs> <rs ana="JUNAJPU">qaqajaw</rs></p>
@@ -5802,7 +5802,7 @@
     <p>xa wi chi re e k'o wi</p>
     <p>ta kemuqunik</p>
     <p>tzatz ketamab'al xuxik</p>
-    <p>xik'ow kiwachib'al pa che' pa ab'aj</p>
+    <p>xik'ow kiwachib'al pa <rs ana="CHE'">che'</rs> pa ab'aj</p>
     <p>pa cho pa <rs ana="PALO">palo</rs></p>
     <p>pa juyub' pa taq'aj</p>
     <p>qitzij wi chi e loq'olaj winaq ri <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs></p>
@@ -6061,7 +6061,7 @@
     <p>xecha'</p>
     <p>chi la' xkil wi releb'al q'ij</p>
     <p>xa k'u jun kich'ab'al konojel</p>
-    <p>maja' chikisik'ijoq che' ab'aj</p>
+    <p>maja' chikisik'ijoq <rs ana="CHE'">che'</rs> ab'aj</p>
     <p>are na'tal chi kech ri utzij <rs ana="TZ'AQOL">tz'aqol</rs> <rs ana="B'ITOL">b'itol</rs></p>
     <p><rs ana="UK'U'X_KAJ">uk'u'x kaj</rs> <rs ana="UK'U'X_ULEW">uk'u'x ulew</rs></p>
     <p>xere kik'u'xla'n ri rewaxik usaqirik</p>
@@ -6131,7 +6131,7 @@
       <note place="foot" xml:id="quc.n450"><seg type="note-symbol">450</seg>
       La voz <hi rendition="simple:italic">jab'i'oq</hi>, esta es una forma contraída de dos partículas, de <hi rendition="simple:italic">maja'</hi> y <hi rendition="simple:italic">b'i'</hi> y <hi rendition="simple:italic">-oq</hi>..
     </note>
-    che' ab'aj</p>
+    <rs ana="CHE'">che'</rs> ab'aj</p>
     <p>chichajin <rs ana="IXOQ_AJAWAB'">e qanab'e chuch</rs> <rs ana="XA_Q'ANA_JAL">qajaw</rs></p>
     <p>e xa k'u xkos kik'u'x chi ri'</p>
     <p>chi royob'exik q'ij</p>
@@ -6352,7 +6352,7 @@
     qawinaqirib'al</p>
     <p>ma wi utz xqab'ano</p>
     <p>xecha k'ut konojel amaq'</p>
-    <p>xe' che' xe k'a'm<ref target="quc.n466"><hi rend="sup">466</hi></ref>
+    <p>xe' <rs ana="CHE'">che'</rs> xe k'a'm<ref target="quc.n466"><hi rend="sup">466</hi></ref>
       <note place="foot" xml:id="quc.n466"><seg type="note-symbol">466</seg>
       En el folio 36v, línea 27 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> se registra como <hi rendition="simple:italic">caam</hi>, nuevamente se evidencia que la segunda vocal funciona como glotal.
       </note>
@@ -6959,7 +6959,7 @@
       <note place="foot" xml:id="quc.n513"><seg type="note-symbol">513</seg> 
       Sam Colop (1999: 147) lo transcribe como <hi rendition="simple:italic">uk'a</hi>. Es una forma de indicar un direccional aspectual que es <hi rendition="simple:italic">ukoq</hi>. Indica que se agarró del árbol.
       </note>
-    rib' pa che'</p>
+    rib' pa <rs ana="CHE'">che'</rs></p>
     <p>ta xwachin q'ij ik' ch'umil</p>
     <p>jumaj ab'aj xuxik ronojel</p>
     <p>ma ta oj yakamarinaq lo wakamik</p>
@@ -7874,7 +7874,7 @@
     <p>xa wi xere k'o kipokob' k'o pu kich'ab'</p>
     <p>xekawxik</p>
     <p>kok ri <rs ana="YACHWACH">yachwach</rs> puwaq pa kiwi'</p>
-    <p>xok pu k'u xa poy xa pu ajam che'</p>
+    <p>xok pu k'u xa poy xa pu ajam <rs ana="CHE'">che'</rs></p>
     <p>xkojow ri puwaq rech amaq'</p>
     <p>ri xb'ekik'ama' pa b'e</p>
     <p>are xukawub'ej poy kumal</p>
@@ -7908,7 +7908,7 @@
     <p>xemuqche'x puch</p>
     <p>xnik'ox kitinamit rumal usamajel amaq'</p>
     <p>ma wi e jarub' xecha' k'ut</p>
-    <p>xere k'ut xulkila' ri poy ajam che'</p>
+    <p>xere k'ut xulkila' ri poy ajam <rs ana="CHE'">che'</rs></p>
     <p>kesilaje'ik</p>
     <p>kuk'ala'on kich'ab' kipokob'</p>
     <p>qitzij winaq kewachinik</p>
@@ -7988,7 +7988,7 @@
     <p>are k'ut ma wi kakina' chik</p>
     <p>ta xek'aq chi ch'ab'</p>
     <p>xechoy chi <rs ana="IKAJ">ikaj</rs></p>
-    <p>xa b'olaj che' xkikoj chik <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs></p>
+    <p>xa b'olaj <rs ana="CHE'">che'</rs> xkikoj chik <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs>, <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs></p>
     <p>xa <rs ana="IXOQ_AJAWAB'">e kixoqil</rs> <rs ana="IXOQ_AJAWAB'">e kamisanel</rs></p>
     <p>xa wi k'u xetzalij ri ch'ajkar chik</p>
     <p>xa xel chik chi kaqan ronojel amaq'</p>
@@ -8361,7 +8361,7 @@
     <p>xaqi ka'ib' chi kumatzil nim ja</p>
     <p>ri kach'ob' chi chinamit</p>
     <p>are e k'o <rs ana="CHI_ISMACHI">chi Ismachi'</rs></p>
-    <p>xa jun kik'u‘x</p>
+    <p>xa jun kik'u'x</p>
     <p>maja b'i kitzelal</p>
     <p>ma pu ja b'i kik'ayewal</p>
     <p>xa li'anik ajawarem</p>
@@ -8754,7 +8754,7 @@
       <note place="foot" xml:id="quc.n627"><seg type="note-symbol">627</seg>
       Refiere a "punzar", "sangrar", "atenaciar", "tatajear". (Basseta 1985: 363)
       </note>
-    xek'aqik chi che'</p>
+    xek'aqik chi <rs ana="CHE'">che'</rs></p>
     <p>maja b'i kiq'ij</p>
     <p>maja b'i kalaxik xuxik</p>
     <p>xa cha mixk'oje'</p>
@@ -9088,7 +9088,7 @@
       </note>
     awe pa b'e pa jok</p>
     <p>pa b'e ya' pa siwan</p>
-    <p>xe' che' xe' k'a'm</p>
+    <p>xe' <rs ana="CHE'">che'</rs> xe' k'a'm</p>
     <p>chaya' kimi'al kik'ajol</p>
     <p>ma ta ja b'i il<ref target="quc.n646"><hi rend="sup">646</hi></ref>
       <note place="foot" xml:id="quc.n646"><seg type="note-symbol">646</seg>
@@ -9169,7 +9169,7 @@
     <p>xa wi keje kub'ano <rs ana="TAMUB'">Tamub'</rs> <rs ana="ILOKAB'">Ilokab'</rs></p>
     <p>ruk' <rs ana="RAB'INALEB'">Rab'ineleb'</rs>, <rs ana="KAQCHIKELEB'">Q'aq'chikeleb'</rs>, <rs ana="AJTZ'IKINA_JA">Aj Tz'ikinaja</rs>, <rs ana="TUJAL_JA">Tujalaja</rs></p>
     <p><rs ana="UCH'AB'AJA">Uch'ab'aja</rs></p>
-    <p>xa jun che'el wi</p>
+    <p>xa jun <rs ana="CHE'">che'el</rs> wi</p>
     <p>ta xikin<ref target="quc.n655"><hi rend="sup">655</hi></ref>
       <note place="foot" xml:id="quc.n655"><seg type="note-symbol">655</seg>
       La voz <hi rendition="simple:italic">xikin</hi> (<rs ana="XIMENEZ">Ximénez</rs> 1985: 617) refiere a "esquina de la casa".
