@@ -727,7 +727,7 @@
       <p>xtikarik q'eqal jab' q'ijil jab' aq'ab'al jab'</p>
       <p>xok ula ch'utichikop nimachikop</p>
       <p>xk'ut kiwach rumal che' ab'aj.</p>
-      <p>Xch'awik ronojel kiq'eb'al kixot, kilaq, kib'o'j, kitz'i', ki<rs ana="KA'">ka'</rs>,</p>
+      <p>Xch'awik ronojel kiq'eb'al kixot, kilaq, <rs ana="B'OJ">kib'o'j</rs>, kitz'i', ki<rs ana="KA'">ka'</rs>,</p>
       <p>jarujpa la ronojel xk'utu<ref target="quc.n067"><hi rend="sup">67</hi></ref>
         <note place="foot" xml:id="quc.n067"><seg type="note-symbol">67</seg>
         La forma actual de este verbo es <hi rendition="simple:italic">xk'utuw</hi>.
@@ -795,7 +795,7 @@
 
     <p xml:id="p18">
       <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM folio 5r line 31 -->
-      Are chi k'u ri kixot kib'o'j</p>
+      Are chi k'u ri kixot <rs ana="B'OJ">kib'o'j</rs></p>
       <p>xch'aw chik chi ke</p>
       <p>k'ax wa xib'an chi qe</p>
       <p>xaq qachi' xaq qawach</p>
@@ -804,7 +804,7 @@
       <p>ma wi k'ax xqana'o</p>
       <p>xchitij k'ut</p>
       <p>xkixqaporoj</p>
-      <p>xcha ri kib'o'j</p>
+      <p>xcha ri <rs ana="B'OJ">kib'o'j</rs></p>
       <p>ronojel xk'utu<ref target="quc.n074"><hi rend="sup">74</hi></ref>
         <note place="foot" xml:id="quc.n074"><seg type="note-symbol">74</seg>
         La forma actual es <hi rendition="simple:italic">xk'utuw</hi>.
