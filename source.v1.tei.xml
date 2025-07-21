@@ -717,8 +717,8 @@
         </note>
       kiti'ojil</p>
       <p>xpe <rs ana="TUKUMB'ALAM">Tukum B'alam</rs></p>
-      <p>xtukuwik xkichowik kib'aqil kib'ochil</p>
-      <p>xqajixik xmuchulixik kib'aqil</p> 
+      <p>xtukuwik xkichowik <rs ana="B'AQ_HUESO">kib'aqil</rs> kib'ochil</p>
+      <p>xqajixik xmuchulixik <rs ana="B'AQ_HUESO">kib'aqil</rs></p> 
       <p>k'ajisab'al kiwach</p> 
       <p>rumal ma wi kina'wik</p>
       <p>chuwach ki<rs ana="ALOM">chuch</rs> chuwach puch ki<rs ana="K'AJOLOM">kajaw</rs></p>
@@ -1208,7 +1208,7 @@
       <p>xcha' k'ut <rs ana="WUQUB'_KAQIX">ajaw</rs></p>
       <p>xa uchikopil eyaj chiqelesaj</p>
       <p>xa k'u ub'aq' uwach chiqakunaj</p>
-      <p>xa b'aq chiqawiqo <rs ana="WUQUB'_KAQIX">lal ajaw</rs></p>
+      <p>xa <rs ana="B'AQ_HUESO">b'aq</rs> chiqawiqo <rs ana="WUQUB'_KAQIX">lal ajaw</rs></p>
       <p>xecha' k'ut</p>
       <p>utz b'a la'</p>
       <p>chikunaj ta b'a we</p>
@@ -1239,8 +1239,8 @@
       <p>nukawb'al ri we</p>
       <p>ruk' ub'aq' nuwach</p>
       <p>xchiqakoj chik na k'ut uk'exel</p>
-      <p>jok'om b'aq xchok chik</p>
-      <p>are k'ut jok'om b'aq</p>
+      <p><rs ana="B'AQ_HUESO">jok'om b'aq</rs> xchok chik</p>
+      <p>are k'ut <rs ana="B'AQ_HUESO">jok'om b'aq</rs></p>
       <p>ri<ref target="quc.n116"><hi rend="sup">116</hi></ref>
         <note place="foot" xml:id="quc.n116"><seg type="note-symbol">116</seg>
         A la par del artículo <hi rendition="simple:italic">ri</hi>, aparece un tachón que parece una <hi rendition="simple:italic">X</hi>.
@@ -2127,15 +2127,15 @@
         Aquí se registra como <hi rendition="simple:italic">rajch'ami</hi>, en líneas adelante aparece como <hi rendition="simple:italic">ch'ami'y</hi> (palabra sin flexión).
         </note>
         <rs ana="XIB'ALB'A">xib'alb'a</rs></p> 
-      <p>xa b'aq kich'ami'y</p>
+      <p>xa <rs ana="B'AQ_HUESO">b'aq</rs> kich'ami'y</p>
       <p>are k'ut kajch'ami'yal ri chib'aqir winaq.</p>
-      <p>Qitzij chi b'aq chi jolom chik</p>
+      <p>Qitzij chi <rs ana="B'AQ_HUESO">b'aq</rs> chi jolom chik</p>
       <p>ta chikamik</p>
       <p>tziyaj<ref target="quc.n190"><hi rend="sup">190</hi></ref>
         <note place="foot" xml:id="quc.n190"><seg type="note-symbol">190</seg>
         En el <hi rendition="simple:italic">Arte de las tres lenguas</hi> (<rs ana="XIMENEZ">Ximénez</rs> 1993: 134) <hi rendition="simple:italic">tziy</hi>, <hi rendition="simple:italic">tziytzik nuk'u'x</hi> “estar flaco de estómago”. 
         </note>
-      b'aq xupan<ref target="quc.n191"><hi rend="sup">191</hi></ref>
+      <rs ana="B'AQ_HUESO">b'aq</rs> xupan<ref target="quc.n191"><hi rend="sup">191</hi></ref>
         <note place="foot" xml:id="quc.n191"><seg type="note-symbol">191</seg>
           <rs ana="XIMENEZ">Ximenez</rs> (1985: 629) anota <hi rendition="simple:italic">xupam</hi> que traduce como "hidrópico". En este caso, refiere a "hinchazón", con la forma <hi rendition="simple:italic">xupan</hi>.
         </note>
@@ -2506,7 +2506,7 @@
         Aquí debe leerse <hi rendition="simple:italic"><rs ana="CHAAJ">chaj</rs></hi> y no <hi rendition="simple:italic">cha'j</hi>, aunque en el manuscrito K'iche' aparezca como <hi rendition="simple:italic">chaah</hi> pero por contexto es <hi rendition="simple:italic">chaj</hi>.
         </note>
       </p> 
-      <p>xa jusuk' chiyojyox b'aq</p>
+      <p>xa jusuk' chiyojyox <rs ana="B'AQ_HUESO">b'aq</rs></p>
       <p>chik'ow wi ri <rs ana="CHAAJ">kicha'j</rs> <rs ana="XIB'ALB'A">xib'alb'a</rs></p>
       <p>xe'ok k'ut ri <rs ana="JUN_JUNAJPU">Jun Jun Ajpu</rs>, <rs ana="WUQUB'_JUNAJPU">Wuqub' Jun Ajpu</rs></p>
       <p>chupam<ref target="quc.n221"><hi rend="sup">221</hi></ref>
@@ -2750,7 +2750,7 @@
       <rs ana="JUN_JUNAJPU">ajaw</rs></p>
       <p>xa uti'ojil utz wi uwach</p>
       <p>are k'ut ta chikamik</p>
-      <p>chuxib'ij chi rib' winaq rumal ub'aqil.</p>
+      <p>chuxib'ij chi rib' winaq rumal <rs ana="B'AQ_HUESO">ub'aqil</rs>.</p>
       
       <p xml:id="p053">
       <!-- editor's note: corresponds to XOM paragraph 21, folio 16r, line 8-->
@@ -4081,7 +4081,7 @@
       En <rs ana="XIMENEZ">Ximénez</rs> (s.a.: 311) aparece <hi rendition="simple:italic">xyik</hi> como "sacudir un árbol para que caigan los frutos". Puede ser este el significado de sacudir el trasero <rs ana="TAMASUL">del sapo</rs> a patadas para que vomitara <rs ana="UK'">al piojo</rs>.
       </note>
     uwa rachaq chi aqan</p>
-    <p>xqaj k'u ub'aqil uwa rachaq chi aqan</p>
+    <p>xqaj k'u <rs ana="B'AQ_HUESO">ub'aqil</rs> uwa rachaq chi aqan</p>
     <p>xutij chi k'ut</p> 
     <p>xa keje chuchub' uchi'</p>
     <p>k'a te puch xkirech' uchi' ri <rs ana="TAMASUL">xpeq</rs></p>
@@ -4727,8 +4727,8 @@
       </note>
     chuxik</p> 
     <p>xe'uchaxik <rs ana="B'ALAM">b'alam</rs></p>
-    <p>k'a te k'ut xkipuk'ij b'aq chi kiwach chikop</p>
-    <p>k'a te k'ut kepaq'aq'ik chi ri' chuwi' b'aq</p>
+    <p>k'a te k'ut xkipuk'ij <rs ana="B'AQ_HUESO">b'aq</rs> chi kiwach chikop</p>
+    <p>k'a te k'ut kepaq'aq'ik chi ri' chuwi' <rs ana="B'AQ_HUESO">b'aq</rs></p>
     <p>mi k'u xe'utzinik</p> 
     <p>mixutij kik'u'x</p>
     <p>k'a te wi ri' mixxkiya'<ref target="quc.n351"><hi rend="sup">351</hi></ref>
@@ -4736,7 +4736,7 @@
       En el manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs>, folio 26v, línea 47<!-- editor's note: corresponds to XOM paragraph 32, folio 26v, line 47--> aparece <hi rendition="simple:italic">mix xquia</hi>. Se transcribe como <hi rendition="simple:italic">mixxkiya'</hi> pero debe ser <hi rendition="simple:italic">mixkiya'</hi>.
       </note>
     kib'</p>
-    <p>are kib'aqil ri kak'uxuxik</p> 
+    <p>are <rs ana="B'AQ_HUESO">kib'aqil</rs> ri kak'uxuxik</p> 
     <p>xecha' ri waranel</p>
     <p>konojel ki' kik'u'x chi re</p> 
     <p>ma k'u xekamik</p>
@@ -5062,7 +5062,7 @@
     <p>ta kojk'atoq</p>
     <p>naqi xchikuchaj ix <rs ana="XULU">Xulu</rs> ix <rs ana="PAK'AM">Pakam</rs></p> 
     <p>uwe kecha' chi re</p>
-    <p>ma utz lo chiqatix ta kib'aqil pa siwan</p>
+    <p>ma utz lo chiqatix ta <rs ana="B'AQ_HUESO">kib'aqil</rs> pa siwan</p>
     <p>uwe ma b'a' utz</p> 
     <p>xa wi xere chik chik'astaj kiwach</p> 
     <p>kixcha'</p>
@@ -5074,10 +5074,10 @@
     <p>kixcha'</p>
     <p>ta kecha' chi k'ut chi roxmul</p>
     <p>xa b'a re rutzil</p>
-    <p>xa chiqatix kib'aqil pa raqan ja'</p>
+    <p>xa chiqatix <rs ana="B'AQ_HUESO">kib'aqil</rs> pa raqan ja'</p>
     <p>we k'ut kixuchax chik kumal</p>
     <p>are utz b'a la' kekamik</p>
-    <p>k'a te' k'u utz chijok' kib'aqil chuwach ab'aj</p>
+    <p>k'a te' k'u utz chijok' <rs ana="B'AQ_HUESO">kib'aqil</rs> chuwach ab'aj</p>
     <p>keje' ri chike'x k'ajim <rs ana="JAL">jal</rs></p>
     <p>jujunal k'u chike'ik</p>
     <p>k'a te' k'u chitix ub'ik chi raqana'<ref target="quc.n374"><hi rend="sup">374</hi></ref>
@@ -5154,9 +5154,9 @@
     <p>xecha'</p>
     <p>k'a te k'ut kitaqik ri <rs ana="XULU">Xulu'</rs>, <rs ana="PAK'AM">Pakam</rs></p>
     <p>xkanaj wi kitzij</p>
-    <p>xa wi xa are xtz'onox ri xb'e wi kib'aqil</p>
+    <p>xa wi xa are xtz'onox ri xb'e wi <rs ana="B'AQ_HUESO">kib'aqil</rs></p>
     <p>ta xeq'ijin <rs ana="RAJAWAL_XIB'ALB'A">xib'alb'a</rs></p>
-    <p>xjok' kib'aqil</p>
+    <p>xjok' <rs ana="B'AQ_HUESO">kib'aqil</rs></p>
     <p>xb'etixoq chi raqana'</p>
     <p>ma k'u xeb'e ta chi naj</p>
     <p>xa jusu' xeqaj chuxe' a'</p>
@@ -5587,22 +5587,22 @@
     <p>Are xki'kot wi uk'u'x <rs ana="IXMUKANE">kati't</rs></p>
     <p>ri chukamul xpe utux ri <rs ana="AJ">aj</rs></p>
     <p>ta xkab'awilax rumal <rs ana="IXMUKANE">kati't</rs></p>
-    <p>ta xub'inatisaj k'ut nik'aj ja</p>
-    <p>nik'aj b'i' chok</p>
-    <p>K'asam Aj, Ch'atam Ulew<ref target="quc.n413"><hi rend="sup">413</hi></ref>
+    <p>ta xub'inatisaj k'ut <rs ana="NIK'_AJ_JA">nik'aj ja</rs></p>
+    <p><rs ana="NIK'AJ_B'ICHOQ">nik'aj b'i' chok</rs></p>
+    <p><rs ana="K'ASAM_AJ">K'asam Aj</rs>, <rs ana="CH'ATAM_ULEW">Ch'atam Ulew</rs><ref target="quc.n413"><hi rend="sup">413</hi></ref>
       <note place="foot" xml:id="quc.n413"><seg type="note-symbol">413</seg>
-      En el folio 32r, línea 21 y 22 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> aparece <hi rendition="simple:italic">cazam ah chatam uleu</hi>, que se transcribe como <hi rendition="simple:italic">K'asam Aj</hi> y <hi rendition="simple:italic">Ch'atam Ulew</hi>. <hi rendition="simple:italic">K'asam</hi> de <hi rendition="simple:italic">k'aslik</hi> con vida y <hi rendition="simple:italic">ch'atam</hi> de <hi rendition="simple:italic">ch'at</hi> que refiere a "una plataforma agrícola" o "una plataforma" en el contexto ceremonial para las ofrendas. 
+      En el folio 32r, línea 21 y 22 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> aparece <hi rendition="simple:italic"><rs ana="K'ASAM_AJ">cazam ah</rs> <rs ana="CH'ATAM_ULEW">chatam uleu</rs></hi>, que se transcribe como <hi rendition="simple:italic"><rs ana="K'ASAM_AJ">K'asam Aj</rs></hi> y <hi rendition="simple:italic"><rs ana="CH'ATAM_ULEW">Ch'atam Ulew</rs></hi>. <hi rendition="simple:italic"><rs ana="K'ASAM_AJ">K'asam</rs></hi> de <hi rendition="simple:italic"><rs ana="K'ASAM_AJ">k'aslik</rs></hi> o "<rs ana="K'ASAM_AJ">con vida</rs>" y <hi rendition="simple:italic"><rs ana="CH'ATAM_ULEW">ch'atam</rs></hi> de <hi rendition="simple:italic"><rs ana="CH'ATAM_ULEW">ch'at</rs></hi> que refiere a "<rs ana="CH'ATAM_ULEW">una plataforma agrícola</rs>" o "<rs ana="CH'ATAM_ULEW">una plataforma</rs>" en el contexto ceremonial para las ofrendas. 
       </note>
     ub'i' xuxik</p>
-    <p>are k'ut xub'ina'j wi nik'aj ja</p>
-    <p>nik'aj b'i' chok</p>
+    <p>are k'ut xub'ina'j wi <rs ana="NIK'_AJ_JA">nik'aj ja</rs></p>
+    <p><rs ana="NIK'AJ_B'ICHOQ">nik'aj b'i' chok</rs></p>
     <p>rumal xa chunik'ajal upa kochoch xkitik <rs ana="AJ">aj</rs></p>
-    <p>are chi k'u xub'ina'j wi Ch'atam Ulew K'asam Aj chuwi'</p>
+    <p>are chi k'u xub'ina'j wi <rs ana="CH'ATAM_ULEW">Ch'atam Ulew</rs> <rs ana="K'ASAM_AJ">K'asam Aj chuwi'</rs></p>
     <p>ch'ata ulew kitik wi <rs ana="AJ">aj</rs>.</p>
 
     <p xml:id="p093">
     <!-- editor's note: Ajtz'ib'ab' adds a paragraph here. Corresponds to XOM folio 32r, line 25-->
-    Are nay pu xub'ina'j wi K'asam Aj</p>
+    Are nay pu xub'ina'j wi <rs ana="K'ASAM_AJ">K'asam Aj</rs></p>
     <p>rumal xpe utux <rs ana="AJ">aj</rs></p>
     <p>ta xkoj ub'i' rumal <rs ana="IXMUKANE">Xmukane</rs></p>
     <p>xkitik kanoq <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
@@ -8489,7 +8489,7 @@
     <p>are chi k'ut uxe' chik</p>
     <p>kijachowik kib'</p>
     <p>ta xkitzolb'ej kib'</p>
-    <p>tzolkaqb'ej b'aq ujolom kaminaq</p>
+    <p>tzolkaqb'ej <rs ana="B'AQ_HUESO">b'aq</rs> ujolom kaminaq</p>
     <p>xkiq'aq'b'ej kib'</p>
     <p>ta xkipax ri b'eletaq<ref target="quc.n608"><hi rend="sup">608</hi></ref>
       <note place="foot" xml:id="quc.n608"><seg type="note-symbol">608</seg>
