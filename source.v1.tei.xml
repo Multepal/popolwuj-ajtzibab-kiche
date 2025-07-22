@@ -2043,18 +2043,18 @@
         </note>
       chi kiwach ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs></p>
       <p>uk'ajol <rs ana="JUN_JUNAJPU">Jun Jun Ajpu</rs></p>
-      <p>e <rs ana="SU'">ajsu'</rs> e ajb'ix</p>
-      <p>e ajpu ajtz'ib'</p>
-      <p>e nay pu ajk'ot<ref target="quc.n183"><hi rend="sup">183</hi></ref>
+      <p>e <rs ana="SU'">ajsu'</rs> e <rs ana="AJB'IX">ajb'ix</rs></p>
+      <p>e <rs ana="AJPU">ajpu</rs> <rs ana="AJTZ'IB'">ajtz'ib'</rs></p>
+      <p>e nay pu <rs ana="AJK'OT">ajk'ot</rs><ref target="quc.n183"><hi rend="sup">183</hi></ref>
         <note place="foot" xml:id="quc.n183"><seg type="note-symbol">183</seg> 
         En K'iche' actualmente refiere a "escarbador", la raíz es de <hi rendition="simple:italic">k'ot</hi> "escarbar". En Q'eqchi' <hi rendition="simple:italic">k'ot</hi> refiere "excremento" y <hi rendition="simple:italic">aj k'ot</hi> “cagador”.
         </note>
       </p>
-      <p>e ajxit<ref target="quc.n184"><hi rend="sup">184</hi></ref>
+      <p>e <rs ana="AJXIT">ajxit</rs><ref target="quc.n184"><hi rend="sup">184</hi></ref>
         <note place="foot" xml:id="quc.n184"><seg type="note-symbol">184</seg>
-        Viene del Náhuatl <hi rendition="simple:italic">xiwitl</hi> "piedra preciosa".
+        Viene del Náhuatl <hi rendition="simple:italic">xiwitl</hi> "<rs ana="AJXIT">piedra preciosa</rs>".
         </note>
-      e ajpuwaq</p>
+      e <rs ana="AJPUWAQ">ajpuwaq</rs></p>
       <p>xe'uxik ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs> <rs ana="JUN_CHOWEN">Jun Chowen</rs>.</p>
     
       <p xml:id="p34">
@@ -3212,7 +3212,7 @@
     <p>kumal <rs ana="KA'IB'_K'AJOLAB'">kichaq'</rs> nab'ek</p>
     <p>xa ma wi keta'm</p>
     <p>xa wi k'u pa juyub' xek'iy wi</p>
-    <p>e k'u nimaq <rs ana="SU'">ajsu'</rs>, ajb'ix</p>
+    <p>e k'u nimaq <rs ana="SU'">ajsu'</rs>, <rs ana="AJB'IX">ajb'ix</rs></p>
     <p>ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs></p> 
     <p>xenima'qir k'ut</p>
     <p>nimak'axk'ol rayil xe'ik'ow wi</p>
@@ -3221,8 +3221,8 @@
     
     <p xml:id="p062">
     <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM paragraph 25, folio 18r, line 34-->
-    Xa wi xere e <rs ana="SU'">ajsu'</rs>, e ajb'ix</p>
-    <p>e pu ajtz'ib'ab', ajk'ot xe'uxik</p>
+    Xa wi xere e <rs ana="SU'">ajsu'</rs>, e <rs ana="AJB'IX">ajb'ix</rs></p>
+    <p>e pu <rs ana="AJTZ'IB'">ajtz'ib'ab'</rs>, <rs ana="AJK'OT">ajk'ot</rs> xe'uxik</p>
     <p>ronojel chutzin kumal</p> 
     <p>xax keta'm wi xe'alaxik</p> 
     <p>xax e na'winaq</p>
@@ -3484,9 +3484,9 @@
     <p>mi pu xeb'inajik</p> 
     <p><rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs> ke'uchaxik</p>
     <p>xecha ri <rs ana="JUNAJPU">Jun Ajpu</rs>, <rs ana="XB'ALAMQ'E">Xb'alanq'e</rs></p>
-    <p>xesik'ix k'ut rumal ri <rs ana="SU'">ajsu'</rs> ajb'ix</p>
+    <p>xesik'ix k'ut rumal ri <rs ana="SU'">ajsu'</rs> <rs ana="AJB'IX">ajb'ix</rs></p>
     <p>ri ojer winaq</p>
-    <p>are puch chusik'ij ri ajtz'ib' ajk'ot</p>
+    <p>are puch chusik'ij ri <rs ana="AJTZ'IB'">ajtz'ib'</rs> <rs ana="AJK'OT">ajk'ot</rs></p>
     <p>ojer xechikopirik</p>
     <p>e <rs ana="K'OY">k'oy</rs> xe'uxik</p> 
     <p>rumal xa xkinimarisaj kib'</p>
@@ -3496,7 +3496,7 @@
     <p>ta xesachik ri <rs ana="JUN_B'ATZ">Jun B'atz'</rs>, <rs ana="JUN_CHOWEN">Jun Chowen</rs>.</p>
     <p>E chikop xe'uxik</p> 
     <p>are k'ut e ramaq'elal kochoch chik</p>
-    <p>xa wi xere e <rs ana="SU'">ajsu'</rs> e ajb'ix</p>
+    <p>xa wi xere e <rs ana="SU'">ajsu'</rs> e <rs ana="AJB'IX">ajb'ix</rs></p>
     <p>nim chik xkib'ano</p>
     <p>ta xek'oje'ik ruk' <rs ana="IXMUKANE">rati't</rs> ruk' pu <rs ana="IXB'AQIYALO">kichuch</rs></p>
     <!-- editor's note: corresponds to XOM paragraph 27, folio 20r, line 14-->
