@@ -461,7 +461,7 @@
       <p>iwarab'al iyakalib'al xiwech<ref target="quc.n049"><hi rend="sup">49</hi></ref>
       <note place="foot" xml:id="quc.n049"><seg type="note-symbol">49</seg>
       <!-- editor's note: ask Raf if there's a way to link to XOM 3r line 19 mentioned below -->
-        En el folio 3 recto, línea 19 de <rs ana="XIMENEZ">Ximénez</rs>.<hi rendition="simple:italic">Xiwech</hi> puede que tenga relación con <hi rendition="simple:italic">xiwechab'ej</hi> o <hi rendition="simple:italic">xax iwech wi</hi> para indicar que ese es "lo suyo" o "de su propiedad". <rs ana="XIMENEZ">Ximénez</rs> (1993: 17) indica que <hi rendition="simple:italic">x-</hi> indica posesión como por ejemplo <hi rendition="simple:italic">xulewal b'ojo'y</hi> que es "la tierra de que se hacen ollas".
+        En el folio 3 recto, línea 19 de <rs ana="XIMENEZ">Ximénez</rs>.<hi rendition="simple:italic">Xiwech</hi> puede que tenga relación con <hi rendition="simple:italic">xiwechab'ej</hi> o <hi rendition="simple:italic">xax iwech wi</hi> para indicar que ese es "lo suyo" o "de su propiedad". <rs ana="XIMENEZ">Ximénez</rs> (1993: 17) indica que <hi rendition="simple:italic">x-</hi> indica posesión como por ejemplo <hi rendition="simple:italic">xulewal <rs ana="B'O'J">b'ojo'y</rs></hi> que es "la tierra de que se hacen <rs ana="B'O'J">ollas</rs>".
       </note>
       wi</p>
       <p>mixe'uxik siwan k'echelaj</p>
@@ -726,8 +726,8 @@
       <p>kumal xq'equ'marik uwach ulew</p>
       <p>xtikarik q'eqal jab' q'ijil jab' aq'ab'al jab'</p>
       <p>xok ula ch'utichikop nimachikop</p>
-      <p>xk'ut kiwach rumal che' ab'aj.</p>
-      <p>Xch'awik ronojel kiq'eb'al kixot, kilaq, <rs ana="B'OJ'">kib'o'j</rs>, kitz'i', ki<rs ana="KA'">ka'</rs>,</p>
+      <p>xk'ut kiwach rumal <rs ana="CHE'">che'</rs> ab'aj.</p>
+      <p>Xch'awik ronojel <rs ana="Q'EB'AL">kiq'eb'al</rs> <rs ana="XOT">kixot</rs>, <rs ana="LAQ">kilaq</rs>, <rs ana="B'O'J">kib'o'j</rs>, <rs ana="TZ'I'">kitz'i'</rs>, ki<rs ana="KA'">ka'</rs>,</p>
       <p>jarujpa la ronojel xk'utu<ref target="quc.n067"><hi rend="sup">67</hi></ref>
         <note place="foot" xml:id="quc.n067"><seg type="note-symbol">67</seg>
         La forma actual de este verbo es <hi rendition="simple:italic">xk'utuw</hi>.
@@ -795,7 +795,7 @@
 
     <p xml:id="p18">
       <!-- editor's note: Ajtz'ib'ab' paragraph not in XOM. Corresponds to XOM folio 5r line 31 -->
-      Are chi k'u ri kixot <rs ana="B'OJ'">kib'o'j</rs></p>
+      Are chi k'u ri kixot <rs ana="B'O'J">kib'o'j</rs></p>
       <p>xch'aw chik chi ke</p>
       <p>k'ax wa xib'an chi qe</p>
       <p>xaq qachi' xaq qawach</p>
@@ -804,7 +804,7 @@
       <p>ma wi k'ax xqana'o</p>
       <p>xchitij k'ut</p>
       <p>xkixqaporoj</p>
-      <p>xcha ri <rs ana="B'OJ'">kib'o'j</rs></p>
+      <p>xcha ri <rs ana="B'O'J">kib'o'j</rs></p>
       <p>ronojel xk'utu<ref target="quc.n074"><hi rend="sup">74</hi></ref>
         <note place="foot" xml:id="quc.n074"><seg type="note-symbol">74</seg>
         La forma actual es <hi rendition="simple:italic">xk'utuw</hi>.
@@ -3289,7 +3289,7 @@
     <p>xa retal chiqab'ano</p> 
     <p>xecha' chi kib'il kib'</p>
     <p>ta xeb'e k'ut chi la' chuxe' <rs ana="CHE'">che'</rs>-b</p>
-    <p>q'ante' ub'i'</p>
+    <p><rs ana="Q'ANTE'">q'ante'</rs> ub'i'</p>
     <p>kachb'ilan k'u ri <rs ana="JUN_B'ATZ'_JUN_CHOWEN">katz</rs></p>
     <p>ta xeb'ek</p>
     <p>xkitik'ib'a' chi k'ut <rs ana="WUB">wub'anik</rs></p>
@@ -3793,9 +3793,9 @@
     <p><rs ana="IXMUKANE">ix qati't</rs></p> 
     <p>xecha' k'ut</p>
     <p>k'a te k'ut xk'ut kiti'</p>
-    <p>jun laq uwa'l xtik'ib'ax chi kiwach</p>
+    <p>jun <rs ana="LAQ">laq</rs> uwa'l xtik'ib'ax chi kiwach</p>
     <p>xa wi kimich'b'al re <rs ana="IXMUKANE">kati't</rs> <rs ana="IXKIK'">kichuch</rs> puch</p>
-    <p>xkitzajisaj k'u ja' pa q'eb'al</p>
+    <p>xkitzajisaj k'u ja' pa <rs ana="Q'EB'AL">q'eb'al</rs></p>
     <p>qitzij chaqij qachi'</p>
     <p>chik'ama quk'ya'</p>
     <p>xecha chi re <rs ana="IXMUKANE">kati't</rs></p>
@@ -3818,9 +3818,9 @@
     
     <p xml:id="p073">
     <!-- editor's note: corresponds to XOM paragraph 28-->
-    Are k'u xworo uwach q'eb'al <rs ana="IXMUKANE">ati't</rs></p>
-    <p>xa yakal ja' chel chuwach uq'eb'al chutijo</p>
-    <p>xma chitz'apitaj wi uwach q'eb'al</p>
+    Are k'u xworo uwach <rs ana="Q'EB'AL">q'eb'al</rs> <rs ana="IXMUKANE">ati't</rs></p>
+    <p>xa yakal ja' chel chuwach <rs ana="Q'EB'AL">uq'eb'al</rs> chutijo</p>
+    <p>xma chitz'apitaj wi uwach <rs ana="Q'EB'AL">q'eb'al</rs></p>
     <p>naqi pa mixub'an ri <rs ana="IXMUKANE">qati't</rs></p>
     <p>oj jisab'aj<ref target="quc.n297"><hi rend="sup">297</hi></ref>
       <note place="foot" xml:id="quc.n297"><seg type="note-symbol">297</seg>
@@ -3837,14 +3837,14 @@
     <p>ub'e'l <rs ana="JOM">jom</rs></p>
     <p>k'a te k'ut xeb'e chik ruk' <rs ana="IXMUKANE">kati't</rs> chi ya'</p>
     <p>katajin k'u ri <rs ana="IXMUKANE">kati't</rs> <rs ana="IXKIK'">kichuch</rs></p>
-    <p>tz'api'uwach q'eb'al jujun</p>
+    <p>tz'api'uwach <rs ana="Q'EB'AL">q'eb'al</rs> jujun</p>
     <p>k'a te k'ut ta xe'oponik jujun chi k'u chi <rs ana="WUB">wub'</rs></p>
     <p>ta xe'oponik chi ya'</p>
     <p>naqi pa mixib'ano</p>
     <p>xa mixkos qak'u'x</p>
     <p>xojpetik</p>
     <p>xecha'</p>
-    <p>chiwila na uwach nuq'eb'al</p>
+    <p>chiwila na uwach <rs ana="Q'EB'AL">nuq'eb'al</rs></p>
     <p>ma wi katz'apitajik</p> 
     <p>xcha' <rs ana="IXMUKANE">kati't</rs></p>
     <p>lib'ajchi' k'ut xkitz'apij chik</p>
@@ -4646,7 +4646,7 @@
     <p>k'a te k'ut xkitaq ri chajal <rs ana="KOTZ'I'J">kotz'i'j</rs>.</p>
     <p>Naqi pa rumal mixiya' <rs ana="KOTZ'I'J">qakotz'i'j</rs><ref target="quc.n344"><hi rend="sup">344</hi></ref>
       <note place="foot" xml:id="quc.n344"><seg type="note-symbol">344</seg>
-      En el manuscrito K'iche' de <rs ana="XIMENEZ">Ximénez</rs> (folio 26v, línea 3) <!-- editor's note: corresponds to XOM paragraph 31, folio 26v, line 3--> la palabra <hi rendition="simple:italic">kotz'i'j</hi> aparece escrita de las dos siguientes formas <hi rendition="simple:italic">Cotzih</hi> y <hi rendition="simple:italic">Coq<hi rend="subscript">,</hi>ih</hi>.
+      En el manuscrito K'iche' de <rs ana="XIMENEZ">Ximénez</rs> (folio 26v, línea 3) <!-- editor's note: corresponds to XOM paragraph 31, folio 26v, line 3--> la palabra <hi rendition="simple:italic"><rs ana="KOTZ'I'J">kotz'i'j</rs></hi> aparece escrita de las dos siguientes formas <hi rendition="simple:italic"><rs ana="KOTZ'I'J">Cotzih</rs></hi> y <hi rendition="simple:italic"><rs ana="KOTZ'I'J">Coq<hi rend="subscript">,</hi>ih</rs></hi>.
       </note>
     chi eleq'axik</p>
     <p>are <rs ana="KOTZ'I'J">qakotz'i'j</rs> wa'e kawilo</p>
@@ -5578,7 +5578,7 @@
     </p>
     <p>ta xpe chi k'ut utux ri <rs ana="AJ">aj</rs></p>
     <p>k'a te k'ut xk'aton ri <rs ana="IXMUKANE">kati't</rs></p>
-    <p>xuk'at ri pom chuwach ri <rs ana="AJ">aj</rs></p>
+    <p>xuk'at ri <rs ana="POM">pom</rs> chuwach ri <rs ana="AJ">aj</rs></p>
     <p>una'tab'al kech riy.<ref target="quc.n412"><hi rend="sup">412</hi></ref>
       <note place="foot" xml:id="quc.n412"><seg type="note-symbol">412</seg>
       En el folio 32r, línea 17 del manuscrito K'iche' del padre <rs ana="XIMENEZ">Ximénez</rs> dice <hi rendition="simple:italic">ry</hi>, con un signo de comillas (ÿ) sobre la <hi rendition="simple:italic">y</hi>, por esta grafía se transcribe aquí como <hi rendition="simple:italic">riy</hi> "nieto". En Sam Colop (1999: 116) se transcribe como <hi rendition="simple:italic">ri'</hi>. En la actualidad se dice <hi rendition="simple:italic">-i'mam</hi> para "nieto" o "nieta".
@@ -6885,9 +6885,9 @@
     <p>k'a te uchak chi kik'u'x</p>
     <p>ta xkikiro koxichal</p>
     <p>kik'amowab'al chi kik'u'x</p>
-    <p><rs ana="POM">Mixtam Pom</rs> ub'i' <rs ana="POM">pom</rs> ruk'a'm <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs></p>
-    <p><rs ana="POM">Kawistan Pom</rs> chik ub'i' <rs ana="POM">pom</rs> ruk'a'm <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs></p>
-    <p><rs ana="POM">Kab'awil Pom</rs> chucha'xik chik ruk'a'm <rs ana="MAJUK'UTAJ">Majukutaj</rs></p>
+    <p><rs ana="MIXTAM_POM">Mixtam Pom</rs> ub'i' <rs ana="POM">pom</rs> ruk'a'm <rs ana="B'ALAM_KI'TZE'">B'alam K'itze'</rs></p>
+    <p><rs ana="KAWISTAN_POM">Kawistan Pom</rs> chik ub'i' <rs ana="POM">pom</rs> ruk'a'm <rs ana="B'ALAM_AQ'AB'">B'alam Aq'ab'</rs></p>
+    <p><rs ana="KAB'AWIL_POM">Kab'awil Pom</rs> chucha'xik chik ruk'a'm <rs ana="MAJUK'UTAJ">Majukutaj</rs></p>
     <p>e oxib' k'o <rs ana="POM">kipom</rs></p>
     <p>are k'ut xkik'ato</p>
     <p>ta xesaqb'isani<ref target="quc.n508"><hi rend="sup">508</hi></ref>
@@ -7146,7 +7146,7 @@
     </note>
     </p>
     <p><rs ana="KEJ">kej</rs> xnam <rs ana="TZ'IKIN">tz'ikin</rs></p>
-    <p>chulta'iya' sqaqi'n <rs ana="KIK'">ukik'el</rs> chi qech</p>
+    <p>chulta'iya' sqaqi'n <rs ana="KIK'EL">ukik'el</rs> chi qech</p>
     <p>toq'ob' qawach</p>
     <p>chikanaj k'ut rismal ri <rs ana="KEJ">kej</rs></p>
     <p>chichajij</p>
@@ -7160,9 +7160,9 @@
     <p>k'o chi k'ut chib'an chik</p>
     <p>nim ik'oje'ik chuxik</p>
     <p>chich'ak ri ronojel amaq'</p>
-    <p>chikuk'a'j <rs ana="KIK'">ukik'el</rs> ukomajil<ref target="quc.n529"><hi rend="sup">529</hi></ref>
+    <p>chikuk'a'j <rs ana="KIK'EL">ukik'el</rs> ukomajil<ref target="quc.n529"><hi rend="sup">529</hi></ref>
       <note place="foot" xml:id="quc.n529"><seg type="note-symbol">529</seg>
-      Sam Colop (1999) lo transcribe como <hi rendition="simple:italic">k'omajil</hi>. En Tz'utujil se encuentra la forma de <hi rendition="simple:italic">q'o'majil</hi> para indicar "grasa" o "manteca del cuerpo humano". Basseta (2005: 373) indica que <hi rendition="simple:italic">komaj</hi> refiere a "<rs ana="KIK'">sangre</rs>". En Coto (1983: 509) <hi rendition="simple:italic">ukomajil</hi> es sinónimo de <rs ana="KIK'"><hi rendition="simple:italic">kik'el</hi></rs>.
+      Sam Colop (1999: 34) lo transcribe como <hi rendition="simple:italic"><rs ana="KIK'EL">k'omajil</rs></hi>. En Tz'utujil se encuentra la forma de <hi rendition="simple:italic"><rs ana="KIK'EL">q'o'majil</rs></hi> para indicar "grasa" o "manteca del cuerpo humano". Basseta (2005: 373) indica que <hi rendition="simple:italic"><rs ana="KIK'EL">komaj</rs></hi> refiere a "<rs ana="KIK'EL">sangre</rs>". En Coto (1983: 509) <hi rendition="simple:italic"><rs ana="KIK'EL">ukomajil</rs></hi> es sinónimo de <rs ana="KIK'EL"><hi rendition="simple:italic">kik'el</hi></rs>.
       </note>
     chi qawach</p>
     <p>chul wi kojkiq'aluj</p>
@@ -7178,7 +7178,7 @@
       </note>
     tzukuxik kumal ri <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> <rs ana="XA_Q'ANA_JAL">ajkajb'</rs></p>
     <p>are k'ut ta chikiriq ri <rs ana="TZ'IKIN">tz'ikinal</rs> <rs ana="KEJ">kej</rs></p>
-    <p>k'a te k'ut chib'ekik'ulu' ri <rs ana="KIK'">ukik'el</rs> <rs ana="KEJ">kej</rs> <rs ana="TZ'IKIN">tz'ikin</rs></p>
+    <p>k'a te k'ut chib'ekik'ulu' ri <rs ana="KIK'EL">ukik'el</rs> <rs ana="KEJ">kej</rs> <rs ana="TZ'IKIN">tz'ikin</rs></p>
     <p>puchi' ri ab'aj</p>
     <p>ri <rs ana="TOJIL">Tojil</rs>, <rs ana="AWILIX">Awlix</rs></p>
     <p>xuqa ri<ref target="quc.n531"><hi rend="sup">531</hi></ref>
@@ -7286,7 +7286,7 @@
     <p xml:id="p112">
       <!-- editor's note: Corresponds to XOM paragraph 62, folio 42v, line 16 -->
     Ta xkisis kixikin kich'u'k chuwach kab'awil</p>
-    <p>xkiwaquj ri <rs ana="KIK'">kikik'el</rs></p>
+    <p>xkiwaquj ri <rs ana="KIK'EL">kikik'el</rs></p>
     <p>xkijik<ref target="quc.n543"><hi rend="sup">543</hi></ref>
       <note place="foot" xml:id="quc.n543"><seg type="note-symbol">543</seg>
       En el folio 42v, línea 19 del manuscrito K'iche' de <rs ana="XIMENEZ">Ximénez</rs> se registra como <hi rendition="simple:italic">xquihic</hi>. Sam Colop (1999: 153) transcribe esta palabra como <hi rendition="simple:italic">xkijiq'</hi>. Refiera a <hi rendition="simple:italic">xkijik</hi> de "untar".
@@ -7294,7 +7294,7 @@
     ukoq puchi' ri ab'aj.</p>
     <p>Ma k'u qitzij ta chi ab'aj chuxik</p>
     <p>keje ri e jujun chi k'ajolab' ta ke'ulik.</p>
-    <p>Xeki'kot chik chi rech ri <rs ana="KIK'">kikik'el</rs> <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> <rs ana="XA_Q'ANA_JAL">ajkajb'</rs>.</p>
+    <p>Xeki'kot chik chi rech ri <rs ana="KIK'EL">kikik'el</rs> <rs ana="XA_Q'ANA_JAL">ajk'ixb'</rs> <rs ana="XA_Q'ANA_JAL">ajkajb'</rs>.</p>
     <p>Ta xpe chi k'ut retal kib'anoj ri'</p>
     <p>chich'akonisaj<ref target="quc.n544"><hi rend="sup">544</hi></ref>
       <note place="foot" xml:id="quc.n544"><seg type="note-symbol">544</seg>
@@ -8659,7 +8659,7 @@
     <p>juwuq chi nay puch chub'ano chi <rs ana="K'OTAL">kotal</rs></p>
     <p>juwuq chik chi <rs ana="B'ALAM">b'alamil</rs></p>
     <p>qitzij wi chi <rs ana="K'OTAL">kot</rs> chi <rs ana="B'ALAM">b'alam</rs> uwachib'al chuxik</p>
-    <p>juwuq chik chi remelik chik <rs ana="KIK'">kik'el</rs></p>
+    <p>juwuq chik chi remelik chik <rs ana="KIK'EL">kik'el</rs></p>
     <p>utukel remanik <rs ana="KIK'">kik'</rs> chuxik.</p>
     <p>Qitzij chi <rs ana="NAWAL">nawal</rs> ajaw uk'oje'ik</p>
     <p>xib'ixib' chuwach rumal ronojel ajawab'</p>
